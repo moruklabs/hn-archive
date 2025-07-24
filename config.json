@@ -2,15 +2,14 @@
   "defs": {
     "base": "${today}",
     "langs": [
-      "undefined",
-      "ai",
-      "prouctivity"
+      "frontpage",
+      "bestcomments"
     ]
   },
   "target": [
     {
       "filepath": "${base}/{lang}/daily.xml",
-      "url": "https://www.producthunt.com/feed?category={lang}.xml"
+      "url": "https://hnrss.org/${lang}"
     }
   ]
 }
