@@ -1,0 +1,102 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Mon, 04 Aug 2025 00:23:04 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Names are not type safety (2020)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/"&gt;https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44780544"&gt;https://news.ycombinator.com/item?id=44780544&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 5&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 22:55:28 +0000</pubDate><link>https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/</link><dc:creator>azhenley</dc:creator><comments>https://news.ycombinator.com/item?id=44780544</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44780544</guid></item><item><title>How to grow almost anything</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://howtogrowalmostanything.notion.site/htgaa25"&gt;https://howtogrowalmostanything.notion.site/htgaa25&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44780540"&gt;https://news.ycombinator.com/item?id=44780540&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 21&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 22:55:05 +0000</pubDate><link>https://howtogrowalmostanything.notion.site/htgaa25</link><dc:creator>car</dc:creator><comments>https://news.ycombinator.com/item?id=44780540</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44780540</guid></item><item><title>A study of lights at night suggests dictators lie about economic growth (2022)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth"&gt;https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44780515"&gt;https://news.ycombinator.com/item?id=44780515&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 50&lt;/p&gt;
+&lt;p&gt;# Comments: 17&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 22:50:53 +0000</pubDate><link>https://www.economist.com/graphic-detail/2022/09/29/a-study-of-lights-at-night-suggests-dictators-lie-about-economic-growth</link><dc:creator>mooreds</dc:creator><comments>https://news.ycombinator.com/item?id=44780515</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44780515</guid></item><item><title>So you want to parse a PDF?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://eliot-jones.com/2025/8/pdf-parsing-xref"&gt;https://eliot-jones.com/2025/8/pdf-parsing-xref&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44780353"&gt;https://news.ycombinator.com/item?id=44780353&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 35&lt;/p&gt;
+&lt;p&gt;# Comments: 16&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 22:24:29 +0000</pubDate><link>https://eliot-jones.com/2025/8/pdf-parsing-xref</link><dc:creator>UglyToad</dc:creator><comments>https://news.ycombinator.com/item?id=44780353</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44780353</guid></item><item><title>'A black hole': New graduates discover a dismal job market</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.nbcnews.com/business/economy/job-market-report-college-student-graduates-ai-trump-tariffs-rcna221693"&gt;https://www.nbcnews.com/business/economy/job-market-report-college-student-graduates-ai-trump-tariffs-rcna221693&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44780106"&gt;https://news.ycombinator.com/item?id=44780106&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 34&lt;/p&gt;
+&lt;p&gt;# Comments: 32&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 21:45:48 +0000</pubDate><link>https://www.nbcnews.com/business/economy/job-market-report-college-student-graduates-ai-trump-tariffs-rcna221693</link><dc:creator>koolba</dc:creator><comments>https://news.ycombinator.com/item?id=44780106</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44780106</guid></item><item><title>"If you can rack it, you can run UniFi OS" Ubiquiti self-hosted UniFi OS release</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/"&gt;https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44779839"&gt;https://news.ycombinator.com/item?id=44779839&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 18&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 21:09:02 +0000</pubDate><link>https://deluisio.com/networking/unifi/2025/08/03/everything-you-need-to-know-about-unifi-os-server-before-you-waste-time-testing-it/</link><dc:creator>codydeluisio</dc:creator><comments>https://news.ycombinator.com/item?id=44779839</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44779839</guid></item><item><title>Writing a good design document</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://grantslatton.com/how-to-design-document"&gt;https://grantslatton.com/how-to-design-document&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44779428"&gt;https://news.ycombinator.com/item?id=44779428&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 116&lt;/p&gt;
+&lt;p&gt;# Comments: 26&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 20:21:54 +0000</pubDate><link>https://grantslatton.com/how-to-design-document</link><dc:creator>kiyanwang</dc:creator><comments>https://news.ycombinator.com/item?id=44779428</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44779428</guid></item><item><title>Shrinking freshwater availability increasing land contribution to sea level rise</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming"&gt;https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44779178"&gt;https://news.ycombinator.com/item?id=44779178&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 111&lt;/p&gt;
+&lt;p&gt;# Comments: 42&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 19:49:34 +0000</pubDate><link>https://news.asu.edu/20250725-environment-and-sustainability-new-global-study-shows-freshwater-disappearing-alarming</link><dc:creator>ornel</dc:creator><comments>https://news.ycombinator.com/item?id=44779178</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44779178</guid></item><item><title>Modern Node.js Patterns</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://kashw1n.com/blog/nodejs-2025/"&gt;https://kashw1n.com/blog/nodejs-2025/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44778936"&gt;https://news.ycombinator.com/item?id=44778936&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 294&lt;/p&gt;
+&lt;p&gt;# Comments: 126&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 19:16:18 +0000</pubDate><link>https://kashw1n.com/blog/nodejs-2025/</link><dc:creator>eustoria</dc:creator><comments>https://news.ycombinator.com/item?id=44778936</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44778936</guid></item><item><title>Yosemite embodies the long war over US national park privatization</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133"&gt;https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44778087"&gt;https://news.ycombinator.com/item?id=44778087&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 94&lt;/p&gt;
+&lt;p&gt;# Comments: 51&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 17:17:05 +0000</pubDate><link>https://theconversation.com/yosemite-embodies-the-long-war-over-us-national-park-privatization-261133</link><dc:creator>rntn</dc:creator><comments>https://news.ycombinator.com/item?id=44778087</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44778087</guid></item><item><title>Converge (YC S23) well-capitalized New York startup seeks product developers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.runconverge.com/careers"&gt;https://www.runconverge.com/careers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44777965"&gt;https://news.ycombinator.com/item?id=44777965&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 17:00:32 +0000</pubDate><link>https://www.runconverge.com/careers</link><dc:creator>thomashlvt</dc:creator><comments>https://news.ycombinator.com/item?id=44777965</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44777965</guid></item><item><title>UN report finds UN reports are not widely read</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/"&gt;https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44777869"&gt;https://news.ycombinator.com/item?id=44777869&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 224&lt;/p&gt;
+&lt;p&gt;# Comments: 97&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 16:49:08 +0000</pubDate><link>https://www.reuters.com/world/un-report-finds-united-nations-reports-are-not-widely-read-2025-08-01/</link><dc:creator>anjneymidha</dc:creator><comments>https://news.ycombinator.com/item?id=44777869</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44777869</guid></item><item><title>Persona vectors: Monitoring and controlling character traits in language models</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.anthropic.com/research/persona-vectors"&gt;https://www.anthropic.com/research/persona-vectors&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44777760"&gt;https://news.ycombinator.com/item?id=44777760&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 276&lt;/p&gt;
+&lt;p&gt;# Comments: 92&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 16:38:06 +0000</pubDate><link>https://www.anthropic.com/research/persona-vectors</link><dc:creator>itchyjunk</dc:creator><comments>https://news.ycombinator.com/item?id=44777760</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44777760</guid></item><item><title>This Old SGI: notes and memoirs on the Silicon Graphics 4D series (1996)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://archive.irixnet.org/thisoldsgi/"&gt;https://archive.irixnet.org/thisoldsgi/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44777055"&gt;https://news.ycombinator.com/item?id=44777055&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 63&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 15:04:05 +0000</pubDate><link>https://archive.irixnet.org/thisoldsgi/</link><dc:creator>exvi</dc:creator><comments>https://news.ycombinator.com/item?id=44777055</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44777055</guid></item><item><title>The Fulbright Program: Chock Full of Bright Ideas</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://bastian.rieck.me/blog/2025/fulbright/"&gt;https://bastian.rieck.me/blog/2025/fulbright/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44776434"&gt;https://news.ycombinator.com/item?id=44776434&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 58&lt;/p&gt;
+&lt;p&gt;# Comments: 13&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 13:24:58 +0000</pubDate><link>https://bastian.rieck.me/blog/2025/fulbright/</link><dc:creator>Pseudomanifold</dc:creator><comments>https://news.ycombinator.com/item?id=44776434</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44776434</guid></item><item><title>How to make almost anything (2019)</title><description>
+&lt;p&gt;See also: 2020 Version with videos: &lt;a href="https://fab.cba.mit.edu/classes/863.20/" rel="nofollow"&gt;https://fab.cba.mit.edu/classes/863.20/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44775830"&gt;https://news.ycombinator.com/item?id=44775830&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 133&lt;/p&gt;
+&lt;p&gt;# Comments: 21&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 11:28:29 +0000</pubDate><link>https://fab.cba.mit.edu/classes/863.19/CBA/people/dsculley/index.html</link><dc:creator>teleforce</dc:creator><comments>https://news.ycombinator.com/item?id=44775830</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44775830</guid></item><item><title>Tokens are getting more expensive</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed"&gt;https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44775700"&gt;https://news.ycombinator.com/item?id=44775700&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 201&lt;/p&gt;
+&lt;p&gt;# Comments: 144&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 11:01:37 +0000</pubDate><link>https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed</link><dc:creator>admp</dc:creator><comments>https://news.ycombinator.com/item?id=44775700</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44775700</guid></item><item><title>If you're remote, ramble</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://stephango.com/ramblings"&gt;https://stephango.com/ramblings&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44775563"&gt;https://news.ycombinator.com/item?id=44775563&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 654&lt;/p&gt;
+&lt;p&gt;# Comments: 360&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 10:32:51 +0000</pubDate><link>https://stephango.com/ramblings</link><dc:creator>lawgimenez</dc:creator><comments>https://news.ycombinator.com/item?id=44775563</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44775563</guid></item><item><title>EHRs: The hidden distraction in your doctor's office</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://spectrum.ieee.org/electronic-health-records"&gt;https://spectrum.ieee.org/electronic-health-records&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44775485"&gt;https://news.ycombinator.com/item?id=44775485&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 54&lt;/p&gt;
+&lt;p&gt;# Comments: 52&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 10:07:44 +0000</pubDate><link>https://spectrum.ieee.org/electronic-health-records</link><dc:creator>pseudolus</dc:creator><comments>https://news.ycombinator.com/item?id=44775485</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44775485</guid></item><item><title>A Real PowerBook: The Macintosh Application Environment on a Pa-RISC Laptop</title><description>
+&lt;p&gt;Article URL: &lt;a href="http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html"&gt;http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44774567"&gt;https://news.ycombinator.com/item?id=44774567&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 125&lt;/p&gt;
+&lt;p&gt;# Comments: 20&lt;/p&gt;
+</description><pubDate>Sun, 03 Aug 2025 06:38:43 +0000</pubDate><link>http://oldvcr.blogspot.com/2025/08/a-real-powerbook-macintosh-application.html</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=44774567</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44774567</guid></item></channel></rss>
