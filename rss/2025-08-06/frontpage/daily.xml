@@ -1,0 +1,105 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Wed, 06 Aug 2025 00:20:32 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Plain Text. With Lines</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://akkartik.name/lines.html"&gt;https://akkartik.name/lines.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44805483"&gt;https://news.ycombinator.com/item?id=44805483&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 4&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 22:52:11 +0000</pubDate><link>https://akkartik.name/lines.html</link><dc:creator>bpierre</dc:creator><comments>https://news.ycombinator.com/item?id=44805483</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44805483</guid></item><item><title>Quantum machine learning via vector embeddings</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arxiv.org/abs/2508.00024"&gt;https://arxiv.org/abs/2508.00024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44805436"&gt;https://news.ycombinator.com/item?id=44805436&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 4&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 22:46:47 +0000</pubDate><link>https://arxiv.org/abs/2508.00024</link><dc:creator>adbabdadb</dc:creator><comments>https://news.ycombinator.com/item?id=44805436</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44805436</guid></item><item><title>Create personal illustrated storybooks in the Gemini app</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.google/products/gemini/storybooks/"&gt;https://blog.google/products/gemini/storybooks/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44804411"&gt;https://news.ycombinator.com/item?id=44804411&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 51&lt;/p&gt;
+&lt;p&gt;# Comments: 23&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 21:14:49 +0000</pubDate><link>https://blog.google/products/gemini/storybooks/</link><dc:creator>xnx</dc:creator><comments>https://news.ycombinator.com/item?id=44804411</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44804411</guid></item><item><title>Kyber (YC W23) is hiring enterprise account executives</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae"&gt;https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44804230"&gt;https://news.ycombinator.com/item?id=44804230&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 21:02:21 +0000</pubDate><link>https://www.ycombinator.com/companies/kyber/jobs/6RvaAVR-enterprise-account-executive-ae</link><dc:creator>asontha</dc:creator><comments>https://news.ycombinator.com/item?id=44804230</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44804230</guid></item><item><title>What's wrong with the JSON gem API?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html"&gt;https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44804043"&gt;https://news.ycombinator.com/item?id=44804043&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 32&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 20:46:38 +0000</pubDate><link>https://byroot.github.io/ruby/json/2025/08/02/whats-wrong-with-the-json-gem-api.html</link><dc:creator>ezekg</dc:creator><comments>https://news.ycombinator.com/item?id=44804043</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44804043</guid></item><item><title>AI is propping up the US economy</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping"&gt;https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44802916"&gt;https://news.ycombinator.com/item?id=44802916&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 98&lt;/p&gt;
+&lt;p&gt;# Comments: 91&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 19:19:25 +0000</pubDate><link>https://www.bloodinthemachine.com/p/the-ai-bubble-is-so-big-its-propping</link><dc:creator>mempko</dc:creator><comments>https://news.ycombinator.com/item?id=44802916</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44802916</guid></item><item><title>Spotting base64 encoded JSON, certificates, and private keys</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ergaster.org/til/base64-encoded-json/"&gt;https://ergaster.org/til/base64-encoded-json/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44802886"&gt;https://news.ycombinator.com/item?id=44802886&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 209&lt;/p&gt;
+&lt;p&gt;# Comments: 90&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 19:17:38 +0000</pubDate><link>https://ergaster.org/til/base64-encoded-json/</link><dc:creator>jandeboevrie</dc:creator><comments>https://news.ycombinator.com/item?id=44802886</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44802886</guid></item><item><title>Ollama Turbo</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ollama.com/turbo"&gt;https://ollama.com/turbo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44802414"&gt;https://news.ycombinator.com/item?id=44802414&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 221&lt;/p&gt;
+&lt;p&gt;# Comments: 134&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 18:46:18 +0000</pubDate><link>https://ollama.com/turbo</link><dc:creator>amram_art</dc:creator><comments>https://news.ycombinator.com/item?id=44802414</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44802414</guid></item><item><title>US reportedly forcing TSMC to buy 49% stake in Intel to secure tariff relief</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html"&gt;https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44801486"&gt;https://news.ycombinator.com/item?id=44801486&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 265&lt;/p&gt;
+&lt;p&gt;# Comments: 309&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 17:44:01 +0000</pubDate><link>https://www.notebookcheck.net/Desperate-measures-to-save-Intel-US-reportedly-forcing-TSMC-to-buy-49-stake-in-Intel-to-secure-tariff-relief-for-Taiwan.1079424.0.html</link><dc:creator>voxadam</dc:creator><comments>https://news.ycombinator.com/item?id=44801486</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44801486</guid></item><item><title>Show HN: Whittle – A shrinking word game</title><description>
+&lt;p&gt;Whittle is a small word game I've been working on. Each phrase must be whittled down by one letter (or space) each turn. The remaining phrase must still consist of valid words. That's it! There's a daily puzzle, as well as an archive of old puzzles.&lt;p&gt;The idea for the game came to me in a dream (really) and I built the puzzle generator with my partner, who's also a software engineer. It's a labor of love! Any feedback or suggestions are welcome. Thanks for playing!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44801399"&gt;https://news.ycombinator.com/item?id=44801399&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 80&lt;/p&gt;
+&lt;p&gt;# Comments: 36&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 17:39:26 +0000</pubDate><link>https://playwhittle.com/</link><dc:creator>babel16</dc:creator><comments>https://news.ycombinator.com/item?id=44801399</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44801399</guid></item><item><title>Consider using Zstandard and/or LZ4 instead of Deflate</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/w3c/png/issues/39"&gt;https://github.com/w3c/png/issues/39&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44801027"&gt;https://news.ycombinator.com/item?id=44801027&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 118&lt;/p&gt;
+&lt;p&gt;# Comments: 66&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 17:18:37 +0000</pubDate><link>https://github.com/w3c/png/issues/39</link><dc:creator>marklit</dc:creator><comments>https://news.ycombinator.com/item?id=44801027</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44801027</guid></item><item><title>Open models by OpenAI</title><description>
+&lt;p&gt;&lt;a href="https://openai.com/index/introducing-gpt-oss/" rel="nofollow"&gt;https://openai.com/index/introducing-gpt-oss/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44800746"&gt;https://news.ycombinator.com/item?id=44800746&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 1296&lt;/p&gt;
+&lt;p&gt;# Comments: 497&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 17:02:02 +0000</pubDate><link>https://openai.com/open-models/</link><dc:creator>lackoftactics</dc:creator><comments>https://news.ycombinator.com/item?id=44800746</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44800746</guid></item><item><title>Claude Opus 4.1</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.anthropic.com/news/claude-opus-4-1"&gt;https://www.anthropic.com/news/claude-opus-4-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44800185"&gt;https://news.ycombinator.com/item?id=44800185&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 613&lt;/p&gt;
+&lt;p&gt;# Comments: 227&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 16:28:05 +0000</pubDate><link>https://www.anthropic.com/news/claude-opus-4-1</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=44800185</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44800185</guid></item><item><title>Eleven Music</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://elevenlabs.io/blog/eleven-music-is-here"&gt;https://elevenlabs.io/blog/eleven-music-is-here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44799479"&gt;https://news.ycombinator.com/item?id=44799479&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 158&lt;/p&gt;
+&lt;p&gt;# Comments: 189&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 15:42:40 +0000</pubDate><link>https://elevenlabs.io/blog/eleven-music-is-here</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=44799479</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44799479</guid></item><item><title>Los Alamos is capturing images of explosions at 7 millionths of a second</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging"&gt;https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44798695"&gt;https://news.ycombinator.com/item?id=44798695&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 102&lt;/p&gt;
+&lt;p&gt;# Comments: 85&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 14:47:07 +0000</pubDate><link>https://www.lanl.gov/media/publications/1663/dynamics-of-dynamic-imaging</link><dc:creator>LAsteNERD</dc:creator><comments>https://news.ycombinator.com/item?id=44798695</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44798695</guid></item><item><title>Show HN: Stagewise (YC S25) – Front end coding agent for existing codebases</title><description>
+&lt;p&gt;Hey HN, we're Julian and Glenn, and we're building stagewise (&lt;a href="https://stagewise.io"&gt;https://stagewise.io&lt;/a&gt;), a frontend coding agent that lives inside your browser on localhost and operates on local codebases.&lt;p&gt;You can spawn the agent into locally running web apps in dev mode with `npx stagewise` from the project root. The agent lets you then click on HTML Elements in your app, enter prompts like 'increase the height here' and will implement the changes in your source code.&lt;p&gt;Before stagewise, we were building a vertical SaaS for logistics from scratch and loved using prototyping tools like v0 or lovable to get to the first version. But when switching from v0/ lovable to Cursor for local development, we felt like the frontend magic was gone. So, we decided to build stagewise to bring that same magic to local development.&lt;p&gt;The first version of stagewise just forwarded a prompt with browser context to existing IDEs and agents (Cursor, Cline, ..) and went viral on X after we open sourced it. However, the APIs of existing coding agents were very limiting, so we figured that building our own agent would unlock the full potential of stagewise.&lt;p&gt;Here's how it works:
+When you run `npx stagewise`, our cli proxies your running web application in dev mode and injects a toolbar containing the coding agent on top of it. Each prompt you send will be enriched with browser context and sent to our cli, which will call our backend and modify the source code of your local codebase accordingly.&lt;p&gt;Here's a demo of our agent changing the login UI of Cal.com, a popular open-source meeting scheduling app: &lt;a href="https://www.youtube.com/watch?v=BkDcAozK9L4" rel="nofollow"&gt;https://www.youtube.com/watch?v=BkDcAozK9L4&lt;/a&gt;.&lt;p&gt;So far, we've seen great adoption from non-technical users who wanted to continue building their lovable prototype locally. We personally use the agent almost daily to make changes to our landing page and to build the UI of new features on our console (&lt;a href="https://console.stagewise.io"&gt;https://console.stagewise.io&lt;/a&gt;).&lt;p&gt;If you have an app running in dev mode, simply `cd` into the app directory and run `npx stagewise` - the agent should appear, ready to play with.&lt;p&gt;We're very excited to hear your feedback!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44798553"&gt;https://news.ycombinator.com/item?id=44798553&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 31&lt;/p&gt;
+&lt;p&gt;# Comments: 31&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 14:38:36 +0000</pubDate><link>https://github.com/stagewise-io/stagewise</link><dc:creator>juliangoetze</dc:creator><comments>https://news.ycombinator.com/item?id=44798553</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44798553</guid></item><item><title>No Comment (2010)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://prog21.dadgum.com/57.html"&gt;https://prog21.dadgum.com/57.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44798434"&gt;https://news.ycombinator.com/item?id=44798434&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 59&lt;/p&gt;
+&lt;p&gt;# Comments: 46&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 14:30:19 +0000</pubDate><link>https://prog21.dadgum.com/57.html</link><dc:creator>ColinWright</dc:creator><comments>https://news.ycombinator.com/item?id=44798434</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44798434</guid></item><item><title>Things that helped me get out of the AI 10x engineer imposter syndrome</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/"&gt;https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44798189"&gt;https://news.ycombinator.com/item?id=44798189&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 676&lt;/p&gt;
+&lt;p&gt;# Comments: 519&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 14:10:42 +0000</pubDate><link>https://colton.dev/blog/curing-your-ai-10x-engineer-imposter-syndrome/</link><dc:creator>coltonv</dc:creator><comments>https://news.ycombinator.com/item?id=44798189</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44798189</guid></item><item><title>Genie 3: A new frontier for world models</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/"&gt;https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44798166"&gt;https://news.ycombinator.com/item?id=44798166&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 1070&lt;/p&gt;
+&lt;p&gt;# Comments: 389&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 14:08:52 +0000</pubDate><link>https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/</link><dc:creator>bradleyg223</dc:creator><comments>https://news.ycombinator.com/item?id=44798166</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44798166</guid></item><item><title>Build Your Own Lisp</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.buildyourownlisp.com/"&gt;https://www.buildyourownlisp.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44796953"&gt;https://news.ycombinator.com/item?id=44796953&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 215&lt;/p&gt;
+&lt;p&gt;# Comments: 56&lt;/p&gt;
+</description><pubDate>Tue, 05 Aug 2025 11:55:20 +0000</pubDate><link>https://www.buildyourownlisp.com/</link><dc:creator>lemonberry</dc:creator><comments>https://news.ycombinator.com/item?id=44796953</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44796953</guid></item></channel></rss>
