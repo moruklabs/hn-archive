@@ -1,0 +1,102 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Thu, 07 Aug 2025 00:26:17 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Out-Fibbing CPython with the Plush Interpreter</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/"&gt;https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44818957"&gt;https://news.ycombinator.com/item?id=44818957&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 6&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 23:18:07 +0000</pubDate><link>https://pointersgonewild.com/2025-08-06-out-fibbing-cpython-with-the-plush-interpreter/</link><dc:creator>Bogdanp</dc:creator><comments>https://news.ycombinator.com/item?id=44818957</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44818957</guid></item><item><title>Git-fetch-file – Sync files from other repos with commit tracking and safety</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/andrewmcwattersandco/git-fetch-file"&gt;https://github.com/andrewmcwattersandco/git-fetch-file&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44818734"&gt;https://news.ycombinator.com/item?id=44818734&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 12&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 22:45:27 +0000</pubDate><link>https://github.com/andrewmcwattersandco/git-fetch-file</link><dc:creator>andrewmcwatters</dc:creator><comments>https://news.ycombinator.com/item?id=44818734</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44818734</guid></item><item><title>The new shape of Mixxx 3.0 – Open Source DJing</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://mixxx.org/news/2025-08-06-qml-project/"&gt;https://mixxx.org/news/2025-08-06-qml-project/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44818077"&gt;https://news.ycombinator.com/item?id=44818077&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 61&lt;/p&gt;
+&lt;p&gt;# Comments: 12&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 21:29:30 +0000</pubDate><link>https://mixxx.org/news/2025-08-06-qml-project/</link><dc:creator>SamWhited</dc:creator><comments>https://news.ycombinator.com/item?id=44818077</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44818077</guid></item><item><title>Analyzing Control Flow More Like a Human [video]</title><description>
+&lt;p&gt;Article URL: &lt;a href="http://wonks.github.io/germane/summer2025/2025/08/06/germane.html"&gt;http://wonks.github.io/germane/summer2025/2025/08/06/germane.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44818044"&gt;https://news.ycombinator.com/item?id=44818044&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 11&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 21:26:04 +0000</pubDate><link>http://wonks.github.io/germane/summer2025/2025/08/06/germane.html</link><dc:creator>matt_d</dc:creator><comments>https://news.ycombinator.com/item?id=44818044</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44818044</guid></item><item><title>301party.com: Intentionally open redirect</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://301party.com/"&gt;https://301party.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44817725"&gt;https://news.ycombinator.com/item?id=44817725&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 48&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 20:54:39 +0000</pubDate><link>https://301party.com/</link><dc:creator>nahikoa</dc:creator><comments>https://news.ycombinator.com/item?id=44817725</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44817725</guid></item><item><title>The Bluesky Dictionary</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.avibagla.com/blueskydictionary/"&gt;https://www.avibagla.com/blueskydictionary/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44817583"&gt;https://news.ycombinator.com/item?id=44817583&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 69&lt;/p&gt;
+&lt;p&gt;# Comments: 27&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 20:43:08 +0000</pubDate><link>https://www.avibagla.com/blueskydictionary/</link><dc:creator>gaws</dc:creator><comments>https://news.ycombinator.com/item?id=44817583</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44817583</guid></item><item><title>Project Hyperion: Interstellar ship design competition</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.projecthyperion.org"&gt;https://www.projecthyperion.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44817539"&gt;https://news.ycombinator.com/item?id=44817539&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 111&lt;/p&gt;
+&lt;p&gt;# Comments: 93&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 20:40:17 +0000</pubDate><link>https://www.projecthyperion.org</link><dc:creator>codeulike</dc:creator><comments>https://news.ycombinator.com/item?id=44817539</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44817539</guid></item><item><title>Litestar is worth a look</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.b-list.org/weblog/2025/aug/06/litestar/"&gt;https://www.b-list.org/weblog/2025/aug/06/litestar/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44816755"&gt;https://news.ycombinator.com/item?id=44816755&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 148&lt;/p&gt;
+&lt;p&gt;# Comments: 41&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 19:43:01 +0000</pubDate><link>https://www.b-list.org/weblog/2025/aug/06/litestar/</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=44816755</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44816755</guid></item><item><title>We'd be better off with 9-bit bytes</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://pavpanchekha.com/blog/9bit.html"&gt;https://pavpanchekha.com/blog/9bit.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44816692"&gt;https://news.ycombinator.com/item?id=44816692&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 65&lt;/p&gt;
+&lt;p&gt;# Comments: 127&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 19:39:20 +0000</pubDate><link>https://pavpanchekha.com/blog/9bit.html</link><dc:creator>luu</dc:creator><comments>https://news.ycombinator.com/item?id=44816692</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44816692</guid></item><item><title>The arcane alphabets of Black Sabbath</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://fontsinuse.com/uses/35835/the-arcane-alphabets-of-black-sabbath"&gt;https://fontsinuse.com/uses/35835/the-arcane-alphabets-of-black-sabbath&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44816060"&gt;https://news.ycombinator.com/item?id=44816060&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 47&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 18:51:54 +0000</pubDate><link>https://fontsinuse.com/uses/35835/the-arcane-alphabets-of-black-sabbath</link><dc:creator>speckx</dc:creator><comments>https://news.ycombinator.com/item?id=44816060</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44816060</guid></item><item><title>Vibe coding the MIT course catalog</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://stackdiver.com/posts/vibe-coding-the-mit-course-catalog/"&gt;https://stackdiver.com/posts/vibe-coding-the-mit-course-catalog/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44815718"&gt;https://news.ycombinator.com/item?id=44815718&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 61&lt;/p&gt;
+&lt;p&gt;# Comments: 18&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 18:23:19 +0000</pubDate><link>https://stackdiver.com/posts/vibe-coding-the-mit-course-catalog/</link><dc:creator>low_tech_punk</dc:creator><comments>https://news.ycombinator.com/item?id=44815718</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44815718</guid></item><item><title>A fast, growable array with stable pointers in C</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://danielchasehooper.com/posts/segment_array/"&gt;https://danielchasehooper.com/posts/segment_array/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44815702"&gt;https://news.ycombinator.com/item?id=44815702&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 117&lt;/p&gt;
+&lt;p&gt;# Comments: 50&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 18:21:28 +0000</pubDate><link>https://danielchasehooper.com/posts/segment_array/</link><dc:creator>ibobev</dc:creator><comments>https://news.ycombinator.com/item?id=44815702</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44815702</guid></item><item><title>Gleam v1.12</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md"&gt;https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44815405"&gt;https://news.ycombinator.com/item?id=44815405&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 135&lt;/p&gt;
+&lt;p&gt;# Comments: 73&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 17:57:57 +0000</pubDate><link>https://github.com/gleam-lang/gleam/blob/main/changelog/v1.12.md</link><dc:creator>Alupis</dc:creator><comments>https://news.ycombinator.com/item?id=44815405</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44815405</guid></item><item><title>Multics</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.multicians.org/multics.html"&gt;https://www.multicians.org/multics.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44814596"&gt;https://news.ycombinator.com/item?id=44814596&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 85&lt;/p&gt;
+&lt;p&gt;# Comments: 20&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 16:57:55 +0000</pubDate><link>https://www.multicians.org/multics.html</link><dc:creator>unleaded</dc:creator><comments>https://news.ycombinator.com/item?id=44814596</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44814596</guid></item><item><title>Jules, our asynchronous coding agent</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.google/technology/google-labs/jules-now-available/"&gt;https://blog.google/technology/google-labs/jules-now-available/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44813854"&gt;https://news.ycombinator.com/item?id=44813854&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 206&lt;/p&gt;
+&lt;p&gt;# Comments: 144&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 16:05:39 +0000</pubDate><link>https://blog.google/technology/google-labs/jules-now-available/</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=44813854</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44813854</guid></item><item><title>Writing a Rust GPU kernel driver: a brief introduction on how GPU drivers work</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/"&gt;https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44813789"&gt;https://news.ycombinator.com/item?id=44813789&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 196&lt;/p&gt;
+&lt;p&gt;# Comments: 27&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 16:00:54 +0000</pubDate><link>https://www.collabora.com/news-and-blog/blog/2025/08/06/writing-a-rust-gpu-kernel-driver-a-brief-introduction-on-how-gpu-drivers-work/</link><dc:creator>losgehts</dc:creator><comments>https://news.ycombinator.com/item?id=44813789</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44813789</guid></item><item><title>Zig Error Patterns</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://glfmn.io/posts/zig-error-patterns/"&gt;https://glfmn.io/posts/zig-error-patterns/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44812985"&gt;https://news.ycombinator.com/item?id=44812985&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 116&lt;/p&gt;
+&lt;p&gt;# Comments: 28&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 15:03:19 +0000</pubDate><link>https://glfmn.io/posts/zig-error-patterns/</link><dc:creator>Bogdanp</dc:creator><comments>https://news.ycombinator.com/item?id=44812985</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44812985</guid></item><item><title>Breaking the sorting barrier for directed single-source shortest paths</title><description>
+&lt;p&gt;&lt;a href="https://arxiv.org/abs/2504.17033" rel="nofollow"&gt;https://arxiv.org/abs/2504.17033&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44812695"&gt;https://news.ycombinator.com/item?id=44812695&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 130&lt;/p&gt;
+&lt;p&gt;# Comments: 40&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 14:43:02 +0000</pubDate><link>https://www.quantamagazine.org/new-method-is-the-fastest-way-to-find-the-best-routes-20250806/</link><dc:creator>baruchel</dc:creator><comments>https://news.ycombinator.com/item?id=44812695</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44812695</guid></item><item><title>Claude Code IDE integration for Emacs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/manzaltu/claude-code-ide.el"&gt;https://github.com/manzaltu/claude-code-ide.el&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44811567"&gt;https://news.ycombinator.com/item?id=44811567&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 528&lt;/p&gt;
+&lt;p&gt;# Comments: 172&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 13:17:38 +0000</pubDate><link>https://github.com/manzaltu/claude-code-ide.el</link><dc:creator>kgwgk</dc:creator><comments>https://news.ycombinator.com/item?id=44811567</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44811567</guid></item><item><title>303Gen – 303 acid loops generator</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://303-gen-06a668.netlify.app/"&gt;https://303-gen-06a668.netlify.app/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44811280"&gt;https://news.ycombinator.com/item?id=44811280&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 162&lt;/p&gt;
+&lt;p&gt;# Comments: 57&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 12:50:06 +0000</pubDate><link>https://303-gen-06a668.netlify.app/</link><dc:creator>ankitg12</dc:creator><comments>https://news.ycombinator.com/item?id=44811280</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44811280</guid></item></channel></rss>
