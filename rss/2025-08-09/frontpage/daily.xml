@@ -1,0 +1,104 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sat, 09 Aug 2025 00:23:01 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Little-known leguminous plant can increase beef production by 60% (2022)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.embrapa.br/en/busca-de-noticias/-/noticia/75361634/little-known-leguminous-plant-can-increase-beef-production-by-60"&gt;https://www.embrapa.br/en/busca-de-noticias/-/noticia/75361634/little-known-leguminous-plant-can-increase-beef-production-by-60&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44842700"&gt;https://news.ycombinator.com/item?id=44842700&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 17&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 23:20:56 +0000</pubDate><link>https://www.embrapa.br/en/busca-de-noticias/-/noticia/75361634/little-known-leguminous-plant-can-increase-beef-production-by-60</link><dc:creator>littlexsparkee</dc:creator><comments>https://news.ycombinator.com/item?id=44842700</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44842700</guid></item><item><title>GPU-rich labs have won: What's left for the rest of us is distillation</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://inference.net/blog/what-s-left-is-distillation"&gt;https://inference.net/blog/what-s-left-is-distillation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44840746"&gt;https://news.ycombinator.com/item?id=44840746&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 60&lt;/p&gt;
+&lt;p&gt;# Comments: 31&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 19:29:10 +0000</pubDate><link>https://inference.net/blog/what-s-left-is-distillation</link><dc:creator>npmipg</dc:creator><comments>https://news.ycombinator.com/item?id=44840746</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44840746</guid></item><item><title>Ask HN: How can ChatGPT serve 700M users when I can't run one GPT-4 locally?</title><description>
+&lt;p&gt;Sam said yesterday that chatgpt handles ~700M weekly users. Meanwhile, I can't even run a single GPT-4-class model locally without insane VRAM or painfully slow speeds.&lt;p&gt;Sure, they have huge GPU clusters, but there must be more going on - model optimizations, sharding, custom hardware, clever load balancing, etc.&lt;p&gt;What engineering tricks make this possible at such massive scale while keeping latency low?&lt;p&gt;Curious to hear insights from people who've built large-scale ML systems.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44840728"&gt;https://news.ycombinator.com/item?id=44840728&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 238&lt;/p&gt;
+&lt;p&gt;# Comments: 163&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 19:27:28 +0000</pubDate><link>https://news.ycombinator.com/item?id=44840728</link><dc:creator>superasn</dc:creator><comments>https://news.ycombinator.com/item?id=44840728</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44840728</guid></item><item><title>Build durable workflows with Postgres</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.dbos.dev/blog/why-postgres-durable-execution"&gt;https://www.dbos.dev/blog/why-postgres-durable-execution&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44840693"&gt;https://news.ycombinator.com/item?id=44840693&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 82&lt;/p&gt;
+&lt;p&gt;# Comments: 33&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 19:24:07 +0000</pubDate><link>https://www.dbos.dev/blog/why-postgres-durable-execution</link><dc:creator>KraftyOne</dc:creator><comments>https://news.ycombinator.com/item?id=44840693</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44840693</guid></item><item><title>Efrit: A native elisp coding agent running in Emacs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/steveyegge/efrit"&gt;https://github.com/steveyegge/efrit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44840654"&gt;https://news.ycombinator.com/item?id=44840654&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 73&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 19:20:51 +0000</pubDate><link>https://github.com/steveyegge/efrit</link><dc:creator>simonpure</dc:creator><comments>https://news.ycombinator.com/item?id=44840654</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44840654</guid></item><item><title>Jim Lovell, Apollo 13 commander, has died</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/"&gt;https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44840582"&gt;https://news.ycombinator.com/item?id=44840582&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 333&lt;/p&gt;
+&lt;p&gt;# Comments: 60&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 19:12:18 +0000</pubDate><link>https://www.nasa.gov/news-release/acting-nasa-administrator-reflects-on-legacy-of-astronaut-jim-lovell/</link><dc:creator>LorenDB</dc:creator><comments>https://news.ycombinator.com/item?id=44840582</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44840582</guid></item><item><title>Json2dir: a JSON-to-directory converter, a fast alternative to home-manager</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/alurm/json2dir"&gt;https://github.com/alurm/json2dir&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44840307"&gt;https://news.ycombinator.com/item?id=44840307&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 36&lt;/p&gt;
+&lt;p&gt;# Comments: 13&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 18:46:11 +0000</pubDate><link>https://github.com/alurm/json2dir</link><dc:creator>alurm</dc:creator><comments>https://news.ycombinator.com/item?id=44840307</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44840307</guid></item><item><title>I want everything local – Building my offline AI workspace</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://instavm.io/blog/building-my-offline-ai-workspace"&gt;https://instavm.io/blog/building-my-offline-ai-workspace&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44840013"&gt;https://news.ycombinator.com/item?id=44840013&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 401&lt;/p&gt;
+&lt;p&gt;# Comments: 124&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 18:19:05 +0000</pubDate><link>https://instavm.io/blog/building-my-offline-ai-workspace</link><dc:creator>mkagenius</dc:creator><comments>https://news.ycombinator.com/item?id=44840013</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44840013</guid></item><item><title>The surprise deprecation of GPT-4o for ChatGPT consumers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/"&gt;https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44839842"&gt;https://news.ycombinator.com/item?id=44839842&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 266&lt;/p&gt;
+&lt;p&gt;# Comments: 231&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 18:04:26 +0000</pubDate><link>https://simonwillison.net/2025/Aug/8/surprise-deprecation-of-gpt-4o/</link><dc:creator>tosh</dc:creator><comments>https://news.ycombinator.com/item?id=44839842</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44839842</guid></item><item><title>A message from Intel CEO Lip-Bu Tan to all company employees</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://newsroom.intel.com/corporate/my-commitment-to-you-and-our-company"&gt;https://newsroom.intel.com/corporate/my-commitment-to-you-and-our-company&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44839705"&gt;https://news.ycombinator.com/item?id=44839705&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 108&lt;/p&gt;
+&lt;p&gt;# Comments: 136&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 17:48:29 +0000</pubDate><link>https://newsroom.intel.com/corporate/my-commitment-to-you-and-our-company</link><dc:creator>rntn</dc:creator><comments>https://news.ycombinator.com/item?id=44839705</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44839705</guid></item><item><title>Someone keeps stealing, flying, fixing and returning this man's 1958 Cessna</title><description>
+&lt;p&gt;&lt;a href="https://archive.ph/ujPYV" rel="nofollow"&gt;https://archive.ph/ujPYV&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44839681"&gt;https://news.ycombinator.com/item?id=44839681&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 85&lt;/p&gt;
+&lt;p&gt;# Comments: 96&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 17:45:26 +0000</pubDate><link>https://www.latimes.com/california/story/2025-08-08/mystery-plane-thief</link><dc:creator>MBCook</dc:creator><comments>https://news.ycombinator.com/item?id=44839681</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44839681</guid></item><item><title>Open SWE: An open-source asynchronous coding agent</title><description>
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=TaYVvXbOs8c" rel="nofollow"&gt;https://www.youtube.com/watch?v=TaYVvXbOs8c&lt;/a&gt;&lt;p&gt;&lt;a href="https://github.com/langchain-ai/open-swe" rel="nofollow"&gt;https://github.com/langchain-ai/open-swe&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44838733"&gt;https://news.ycombinator.com/item?id=44838733&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 61&lt;/p&gt;
+&lt;p&gt;# Comments: 19&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 16:16:20 +0000</pubDate><link>https://blog.langchain.com/introducing-open-swe-an-open-source-asynchronous-coding-agent/</link><dc:creator>palashshah</dc:creator><comments>https://news.ycombinator.com/item?id=44838733</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44838733</guid></item><item><title>HRT's Python fork: Leveraging PEP 690 for faster imports</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.hudsonrivertrading.com/hrtbeat/inside-hrts-python-fork/"&gt;https://www.hudsonrivertrading.com/hrtbeat/inside-hrts-python-fork/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44838687"&gt;https://news.ycombinator.com/item?id=44838687&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 64&lt;/p&gt;
+&lt;p&gt;# Comments: 79&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 16:12:03 +0000</pubDate><link>https://www.hudsonrivertrading.com/hrtbeat/inside-hrts-python-fork/</link><dc:creator>davidteather</dc:creator><comments>https://news.ycombinator.com/item?id=44838687</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44838687</guid></item><item><title>Tor: How a military project became a lifeline for privacy</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/"&gt;https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44838378"&gt;https://news.ycombinator.com/item?id=44838378&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 223&lt;/p&gt;
+&lt;p&gt;# Comments: 121&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 15:45:27 +0000</pubDate><link>https://thereader.mitpress.mit.edu/the-secret-history-of-tor-how-a-military-project-became-a-lifeline-for-privacy/</link><dc:creator>anarbadalov</dc:creator><comments>https://news.ycombinator.com/item?id=44838378</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44838378</guid></item><item><title>Astronomy Photographer of the Year 2025 shortlist</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist"&gt;https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44837434"&gt;https://news.ycombinator.com/item?id=44837434&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 154&lt;/p&gt;
+&lt;p&gt;# Comments: 24&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 14:29:54 +0000</pubDate><link>https://www.rmg.co.uk/whats-on/astronomy-photographer-year/galleries/2025-shortlist</link><dc:creator>speckx</dc:creator><comments>https://news.ycombinator.com/item?id=44837434</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44837434</guid></item><item><title>Getting good results from Claude Code</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/"&gt;https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44836879"&gt;https://news.ycombinator.com/item?id=44836879&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 219&lt;/p&gt;
+&lt;p&gt;# Comments: 99&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 13:45:57 +0000</pubDate><link>https://www.dzombak.com/blog/2025/08/getting-good-results-from-claude-code/</link><dc:creator>ingve</dc:creator><comments>https://news.ycombinator.com/item?id=44836879</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44836879</guid></item><item><title>How we replaced Elasticsearch and MongoDB with Rust and RocksDB</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://radar.com/blog/high-performance-geocoding-in-rust"&gt;https://radar.com/blog/high-performance-geocoding-in-rust&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44836463"&gt;https://news.ycombinator.com/item?id=44836463&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 178&lt;/p&gt;
+&lt;p&gt;# Comments: 46&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 12:57:50 +0000</pubDate><link>https://radar.com/blog/high-performance-geocoding-in-rust</link><dc:creator>j_kao</dc:creator><comments>https://news.ycombinator.com/item?id=44836463</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44836463</guid></item><item><title>Ultrathin business card runs a fluid simulation</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/Nicholas-L-Johnson/flip-card"&gt;https://github.com/Nicholas-L-Johnson/flip-card&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44835879"&gt;https://news.ycombinator.com/item?id=44835879&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 835&lt;/p&gt;
+&lt;p&gt;# Comments: 169&lt;/p&gt;
+</description><pubDate>Fri, 08 Aug 2025 11:41:04 +0000</pubDate><link>https://github.com/Nicholas-L-Johnson/flip-card</link><dc:creator>wompapumpum</dc:creator><comments>https://news.ycombinator.com/item?id=44835879</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44835879</guid></item><item><title>My DIY modular charging station</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arun.is/blog/diy-modular-charging-station/"&gt;https://arun.is/blog/diy-modular-charging-station/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44811993"&gt;https://news.ycombinator.com/item?id=44811993&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 7&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 13:47:26 +0000</pubDate><link>https://arun.is/blog/diy-modular-charging-station/</link><dc:creator>surprisetalk</dc:creator><comments>https://news.ycombinator.com/item?id=44811993</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44811993</guid></item><item><title>Fire hazard of WHY2025 badge due to 18650 Li-Ion cells</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://wiki.why2025.org/Badge/Fire_hazard"&gt;https://wiki.why2025.org/Badge/Fire_hazard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44808423"&gt;https://news.ycombinator.com/item?id=44808423&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 66&lt;/p&gt;
+&lt;p&gt;# Comments: 69&lt;/p&gt;
+</description><pubDate>Wed, 06 Aug 2025 06:29:21 +0000</pubDate><link>https://wiki.why2025.org/Badge/Fire_hazard</link><dc:creator>fjfaase</dc:creator><comments>https://news.ycombinator.com/item?id=44808423</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44808423</guid></item></channel></rss>
