@@ -1,0 +1,114 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Mon, 11 Aug 2025 00:34:58 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Compiling a Lisp: Lambda Lifting</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://bernsteinbear.com/blog/compiling-a-lisp-12/"&gt;https://bernsteinbear.com/blog/compiling-a-lisp-12/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44858892"&gt;https://news.ycombinator.com/item?id=44858892&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 45&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 22:35:03 +0000</pubDate><link>https://bernsteinbear.com/blog/compiling-a-lisp-12/</link><dc:creator>azhenley</dc:creator><comments>https://news.ycombinator.com/item?id=44858892</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44858892</guid></item><item><title>1910: The year the modern world lost its mind</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost"&gt;https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44858154"&gt;https://news.ycombinator.com/item?id=44858154&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 167&lt;/p&gt;
+&lt;p&gt;# Comments: 124&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 20:48:46 +0000</pubDate><link>https://www.derekthompson.org/p/1910-the-year-the-modern-world-lost</link><dc:creator>purgator</dc:creator><comments>https://news.ycombinator.com/item?id=44858154</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44858154</guid></item><item><title>One Million Screenshots</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://onemillionscreenshots.com/?q=random"&gt;https://onemillionscreenshots.com/?q=random&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44858067"&gt;https://news.ycombinator.com/item?id=44858067&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 106&lt;/p&gt;
+&lt;p&gt;# Comments: 39&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 20:30:34 +0000</pubDate><link>https://onemillionscreenshots.com/?q=random</link><dc:creator>gaws</dc:creator><comments>https://news.ycombinator.com/item?id=44858067</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44858067</guid></item><item><title>Events</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events"&gt;https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44858009"&gt;https://news.ycombinator.com/item?id=44858009&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 28&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 20:22:24 +0000</pubDate><link>https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/Events</link><dc:creator>aanthonymax</dc:creator><comments>https://news.ycombinator.com/item?id=44858009</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44858009</guid></item><item><title>Conversations remotely detected from cell phone vibrations, researchers report</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report"&gt;https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44857100"&gt;https://news.ycombinator.com/item?id=44857100&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 25&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 18:14:38 +0000</pubDate><link>https://www.psu.edu/news/engineering/story/conversations-remotely-detected-cell-phone-vibrations-researchers-report</link><dc:creator>giuliomagnifico</dc:creator><comments>https://news.ycombinator.com/item?id=44857100</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44857100</guid></item><item><title>Show HN: Bolt – A super-fast, statically-typed scripting language written in C</title><description>
+&lt;p&gt;I've built many interpreters over the years, and Bolt represents my attempt at building the scripting language I always wanted. This is the first public release, 0.1.0!&lt;p&gt;I've felt like most embedded languages have been moving towards safety and typing over years, with things like Python type hints, the explosive popularity of typescript, and even typing in Luau, which powers one of the largest scripted evironments in the world.&lt;p&gt;Bolt attempts to harness this directly in the lagnauge rather than as a preprocessing step, and reap benefits in terms of both safety and performance.&lt;p&gt;I intend to be publishing toys and examples of applications embedding Bolt over the coming few weeks, but be sure to check out the examples and the programming guide in the repo if you're interested!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44856935"&gt;https://news.ycombinator.com/item?id=44856935&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 131&lt;/p&gt;
+&lt;p&gt;# Comments: 46&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 17:53:09 +0000</pubDate><link>https://github.com/Beariish/bolt</link><dc:creator>beariish</dc:creator><comments>https://news.ycombinator.com/item?id=44856935</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44856935</guid></item><item><title>Type (YC W23) is hiring a founding engineer to build an AI-native doc editor</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer"&gt;https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44856667"&gt;https://news.ycombinator.com/item?id=44856667&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 17:19:25 +0000</pubDate><link>https://www.ycombinator.com/companies/type/jobs/1idOunL-founding-product-engineer</link><dc:creator>stewfortier</dc:creator><comments>https://news.ycombinator.com/item?id=44856667</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44856667</guid></item><item><title>Fight Chat Control</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://fightchatcontrol.eu/"&gt;https://fightchatcontrol.eu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44856426"&gt;https://news.ycombinator.com/item?id=44856426&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 759&lt;/p&gt;
+&lt;p&gt;# Comments: 217&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 16:50:34 +0000</pubDate><link>https://fightchatcontrol.eu/</link><dc:creator>tokai</dc:creator><comments>https://news.ycombinator.com/item?id=44856426</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44856426</guid></item><item><title>Diffusion language models are super data learners</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac"&gt;https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44856101"&gt;https://news.ycombinator.com/item?id=44856101&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 133&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 16:04:05 +0000</pubDate><link>https://jinjieni.notion.site/Diffusion-Language-Models-are-Super-Data-Learners-239d8f03a866800ab196e49928c019ac</link><dc:creator>babelfish</dc:creator><comments>https://news.ycombinator.com/item?id=44856101</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44856101</guid></item><item><title>Flintlock – Create and manage the lifecycle of MicroVMs, backed by containerd</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/liquidmetal-dev/flintlock"&gt;https://github.com/liquidmetal-dev/flintlock&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44855868"&gt;https://news.ycombinator.com/item?id=44855868&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 65&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 15:30:48 +0000</pubDate><link>https://github.com/liquidmetal-dev/flintlock</link><dc:creator>Palmik</dc:creator><comments>https://news.ycombinator.com/item?id=44855868</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44855868</guid></item><item><title>GPT-OSS vs. Qwen3 and a detailed look how things evolved since GPT-2</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the"&gt;https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44855690"&gt;https://news.ycombinator.com/item?id=44855690&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 282&lt;/p&gt;
+&lt;p&gt;# Comments: 51&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 15:06:07 +0000</pubDate><link>https://magazine.sebastianraschka.com/p/from-gpt-2-to-gpt-oss-analyzing-the</link><dc:creator>ModelForge</dc:creator><comments>https://news.ycombinator.com/item?id=44855690</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44855690</guid></item><item><title>Show HN: Engineering.fyi – Search across tech engineering blogs in one place</title><description>
+&lt;p&gt;I built a search engine for engineering blogs because I was tired of manually checking individual company blogs to find real-world production examples.&lt;p&gt;The problem: When learning a new technology, the best insights often come from how companies like Google, Meta, or Stripe actually implement it in production. But these gems are scattered across dozens of separate engineering blogs with no way to search across them.&lt;p&gt;What I built: Engineering.fyi indexes engineering blogs from ~15 companies (Google, Meta, OpenAI, Anthropic, Stripe, Uber, etc.) and makes them searchable in one place. You can filter by topic, difficulty level, and whether articles include code samples.&lt;p&gt;Technical details:
+- Built with Next.js, SQLite, DrizzleORM
+- Custom scrapers for each blog (they're all frustratingly different)
+- Basic tagging system using content matching (still improving this)&lt;p&gt;Current status: Core search is working. Adding new blogs weekly as I index them.&lt;p&gt;Next features (based on early feedback):
+- AI summaries for quick article previews
+- Weekly digest of trending engineering insights
+- Save/bookmark articles (considering whether to add accounts)&lt;p&gt;Interesting challenges:
+- Each blog requires custom parsing logic (no standard format)
+- Building an accurate tagging system is harder than expected – started with exact matching but exploring better approaches&lt;p&gt;I'd love feedback on:
+- Which company engineering blogs you'd find most valuable to include
+- Whether AI summaries would actually be useful or just noise
+- How you currently discover engineering articles from these companies&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44855157"&gt;https://news.ycombinator.com/item?id=44855157&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 271&lt;/p&gt;
+&lt;p&gt;# Comments: 70&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 13:44:05 +0000</pubDate><link>https://engineering.fyi/</link><dc:creator>indiehackerman</dc:creator><comments>https://news.ycombinator.com/item?id=44855157</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44855157</guid></item><item><title>Try and</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ygdp.yale.edu/phenomena/try-and"&gt;https://ygdp.yale.edu/phenomena/try-and&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44855079"&gt;https://news.ycombinator.com/item?id=44855079&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 398&lt;/p&gt;
+&lt;p&gt;# Comments: 210&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 13:32:13 +0000</pubDate><link>https://ygdp.yale.edu/phenomena/try-and</link><dc:creator>treetalker</dc:creator><comments>https://news.ycombinator.com/item?id=44855079</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44855079</guid></item><item><title>Inside OS/2 (1987)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://gitpi.us/article-archive/inside-os2/"&gt;https://gitpi.us/article-archive/inside-os2/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44854989"&gt;https://news.ycombinator.com/item?id=44854989&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 98&lt;/p&gt;
+&lt;p&gt;# Comments: 45&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 13:15:33 +0000</pubDate><link>https://gitpi.us/article-archive/inside-os2/</link><dc:creator>rbanffy</dc:creator><comments>https://news.ycombinator.com/item?id=44854989</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44854989</guid></item><item><title>Booting 5000 Erlangs on Ampere One 192-core</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://underjord.io/booting-5000-erlangs-on-ampere-one.html"&gt;https://underjord.io/booting-5000-erlangs-on-ampere-one.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44854525"&gt;https://news.ycombinator.com/item?id=44854525&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 174&lt;/p&gt;
+&lt;p&gt;# Comments: 29&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 11:41:34 +0000</pubDate><link>https://underjord.io/booting-5000-erlangs-on-ampere-one.html</link><dc:creator>ingve</dc:creator><comments>https://news.ycombinator.com/item?id=44854525</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44854525</guid></item><item><title>Open Lovable</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/mendableai/open-lovable"&gt;https://github.com/mendableai/open-lovable&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44854120"&gt;https://news.ycombinator.com/item?id=44854120&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 138&lt;/p&gt;
+&lt;p&gt;# Comments: 42&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 10:10:54 +0000</pubDate><link>https://github.com/mendableai/open-lovable</link><dc:creator>iamflimflam1</dc:creator><comments>https://news.ycombinator.com/item?id=44854120</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44854120</guid></item><item><title>Writing simple tab-completions for Bash and Zsh</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://mill-build.org/blog/14-bash-zsh-completion.html"&gt;https://mill-build.org/blog/14-bash-zsh-completion.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44854035"&gt;https://news.ycombinator.com/item?id=44854035&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 213&lt;/p&gt;
+&lt;p&gt;# Comments: 69&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 09:50:25 +0000</pubDate><link>https://mill-build.org/blog/14-bash-zsh-completion.html</link><dc:creator>lihaoyi</dc:creator><comments>https://news.ycombinator.com/item?id=44854035</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44854035</guid></item><item><title>Abogen – Generate audiobooks from EPUBs, PDFs and text</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/denizsafak/abogen"&gt;https://github.com/denizsafak/abogen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44853064"&gt;https://news.ycombinator.com/item?id=44853064&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 272&lt;/p&gt;
+&lt;p&gt;# Comments: 65&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 05:56:14 +0000</pubDate><link>https://github.com/denizsafak/abogen</link><dc:creator>mzehrer</dc:creator><comments>https://news.ycombinator.com/item?id=44853064</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44853064</guid></item><item><title>Melonking Website</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://melonking.net/"&gt;https://melonking.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44852582"&gt;https://news.ycombinator.com/item?id=44852582&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 126&lt;/p&gt;
+&lt;p&gt;# Comments: 27&lt;/p&gt;
+</description><pubDate>Sun, 10 Aug 2025 03:38:14 +0000</pubDate><link>https://melonking.net/</link><dc:creator>thecsw</dc:creator><comments>https://news.ycombinator.com/item?id=44852582</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44852582</guid></item><item><title>How I code with AI on a budget/free</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://wuu73.org/blog/aiguide1.html"&gt;https://wuu73.org/blog/aiguide1.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44850913"&gt;https://news.ycombinator.com/item?id=44850913&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 556&lt;/p&gt;
+&lt;p&gt;# Comments: 185&lt;/p&gt;
+</description><pubDate>Sat, 09 Aug 2025 22:27:37 +0000</pubDate><link>https://wuu73.org/blog/aiguide1.html</link><dc:creator>indigodaddy</dc:creator><comments>https://news.ycombinator.com/item?id=44850913</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44850913</guid></item></channel></rss>
