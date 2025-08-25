@@ -1,0 +1,105 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Mon, 25 Aug 2025 00:27:25 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Show HN: Sping – A HTTP/TCP Latency Tool That's Easy on the Eye</title><description>
+&lt;p&gt;I've frequently found myself using [nvitop](&lt;a href="https://github.com/XuehaiPan/nvitop" rel="nofollow"&gt;https://github.com/XuehaiPan/nvitop&lt;/a&gt;) to diagnose GPU/CPU contention issues.&lt;p&gt;The two best things about it are:&lt;p&gt;- It's easy to install if I can access pip in the container&lt;p&gt;- It makes a compelling screenshot (which helps me communicate with coworkers.)&lt;p&gt;With those two lessons in mind: Here is [sping](&lt;a href="https://dseltzer.gitlab.io/sping/docs/" rel="nofollow"&gt;https://dseltzer.gitlab.io/sping/docs/&lt;/a&gt;)&lt;p&gt;Purpose: Help observe and diagnose latency issues at layer 4+ (TCP/HTTP/HTTPS)&lt;p&gt;Two good things about it:&lt;p&gt;- It's easy to install if you have pip. (Available at [service-ping-sping](&lt;a href="https://pypi.org/project/service-ping-sping/" rel="nofollow"&gt;https://pypi.org/project/service-ping-sping/&lt;/a&gt;) on PyPi)&lt;p&gt;- It makes a compelling screenshot.&lt;p&gt;Not sure if this is the kind of thing that anyone else would be interested in. But I've enjoyed making it and intend to keep using it.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45008819"&gt;https://news.ycombinator.com/item?id=45008819&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 9&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 23:42:01 +0000</pubDate><link>https://dseltzer.gitlab.io/sping/docs/</link><dc:creator>zorlack</dc:creator><comments>https://news.ycombinator.com/item?id=45008819</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45008819</guid></item><item><title>Vanguard hits new 'Bans-Per-Second' record</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://playvalorant.com/en-us/news/dev/vanguard-hits-new-bans-per-second-record/"&gt;https://playvalorant.com/en-us/news/dev/vanguard-hits-new-bans-per-second-record/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45008816"&gt;https://news.ycombinator.com/item?id=45008816&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 9&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 23:41:35 +0000</pubDate><link>https://playvalorant.com/en-us/news/dev/vanguard-hits-new-bans-per-second-record/</link><dc:creator>Wingy</dc:creator><comments>https://news.ycombinator.com/item?id=45008816</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45008816</guid></item><item><title>Ghrc.io Appears to Be Malicious</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/"&gt;https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45008740"&gt;https://news.ycombinator.com/item?id=45008740&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 111&lt;/p&gt;
+&lt;p&gt;# Comments: 17&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 23:27:52 +0000</pubDate><link>https://bmitch.net/blog/2025-08-22-ghrc-appears-malicious/</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=45008740</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45008740</guid></item><item><title>Introducing: VuIO – open-source UPNP/DLNA server written in Rust</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/vuiodev/vuio"&gt;https://github.com/vuiodev/vuio&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45008406"&gt;https://news.ycombinator.com/item?id=45008406&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 8&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 22:31:22 +0000</pubDate><link>https://github.com/vuiodev/vuio</link><dc:creator>vyrti</dc:creator><comments>https://news.ycombinator.com/item?id=45008406</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45008406</guid></item><item><title>GNU cross-tools: musl-cross 313.3M</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/cross-tools/musl-cross"&gt;https://github.com/cross-tools/musl-cross&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45008308"&gt;https://news.ycombinator.com/item?id=45008308&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 5&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 22:20:07 +0000</pubDate><link>https://github.com/cross-tools/musl-cross</link><dc:creator>1vuio0pswjnm7</dc:creator><comments>https://news.ycombinator.com/item?id=45008308</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45008308</guid></item><item><title>Starship's Tenth Flight Test</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.spacex.com/launches/starship-flight-10"&gt;https://www.spacex.com/launches/starship-flight-10&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45007907"&gt;https://news.ycombinator.com/item?id=45007907&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 108&lt;/p&gt;
+&lt;p&gt;# Comments: 154&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 21:22:07 +0000</pubDate><link>https://www.spacex.com/launches/starship-flight-10</link><dc:creator>d_silin</dc:creator><comments>https://news.ycombinator.com/item?id=45007907</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45007907</guid></item><item><title>Halt and Catch Fire Syllabus (2021)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/"&gt;https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45007414"&gt;https://news.ycombinator.com/item?id=45007414&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 86&lt;/p&gt;
+&lt;p&gt;# Comments: 17&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 20:19:55 +0000</pubDate><link>https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/</link><dc:creator>Kye</dc:creator><comments>https://news.ycombinator.com/item?id=45007414</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45007414</guid></item><item><title>A brilliant and nearby one-off fast radio burst localized to 13pc precision</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://iopscience.iop.org/article/10.3847/2041-8213/adf62f"&gt;https://iopscience.iop.org/article/10.3847/2041-8213/adf62f&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45006902"&gt;https://news.ycombinator.com/item?id=45006902&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 42&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 19:23:19 +0000</pubDate><link>https://iopscience.iop.org/article/10.3847/2041-8213/adf62f</link><dc:creator>gnabgib</dc:creator><comments>https://news.ycombinator.com/item?id=45006902</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45006902</guid></item><item><title>Everything I know about good API design</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.seangoedecke.com/good-api-design/"&gt;https://www.seangoedecke.com/good-api-design/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45006801"&gt;https://news.ycombinator.com/item?id=45006801&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 129&lt;/p&gt;
+&lt;p&gt;# Comments: 39&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 19:10:09 +0000</pubDate><link>https://www.seangoedecke.com/good-api-design/</link><dc:creator>ahamez</dc:creator><comments>https://news.ycombinator.com/item?id=45006801</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45006801</guid></item><item><title>Paracetamol disrupts early embryogenesis by cell cycle inhibition</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396"&gt;https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45006296"&gt;https://news.ycombinator.com/item?id=45006296&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 152&lt;/p&gt;
+&lt;p&gt;# Comments: 160&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 18:02:55 +0000</pubDate><link>https://academic.oup.com/humrep/advance-article/doi/10.1093/humrep/deaf116/8234396</link><dc:creator>XzetaU8</dc:creator><comments>https://news.ycombinator.com/item?id=45006296</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45006296</guid></item><item><title>Bring Back the Blue-Book Exam</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.chronicle.com/article/bring-back-the-blue-book-exam"&gt;https://www.chronicle.com/article/bring-back-the-blue-book-exam&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45006147"&gt;https://news.ycombinator.com/item?id=45006147&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 66&lt;/p&gt;
+&lt;p&gt;# Comments: 87&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 17:44:55 +0000</pubDate><link>https://www.chronicle.com/article/bring-back-the-blue-book-exam</link><dc:creator>diodorus</dc:creator><comments>https://news.ycombinator.com/item?id=45006147</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45006147</guid></item><item><title>Show HN: I Built a XSLT Blog Framework</title><description>
+&lt;p&gt;A few weeks ago a friend sent me grug-brain XSLT (1) which inspired me to redo my personal blog in XSLT.&lt;p&gt;Rather than just build my own blog on it, I wrote it up for others to use and I've published it on GitHub &lt;a href="https://github.com/vgr-land/vgr-xslt-blog-framework" rel="nofollow"&gt;https://github.com/vgr-land/vgr-xslt-blog-framework&lt;/a&gt; (2)&lt;p&gt;Since others have XSLT on the mind, now seems just as good of a time as any to share it with the world. Evidlo@ did a fine job explaining the "how" xslt works (3)&lt;p&gt;The short version on how to publish using this framework is:&lt;p&gt;1. Create a new post in HTML wrapped in the XML headers and footers the framework expects.&lt;p&gt;2. Tag the post so that its unique and the framework can find it on build&lt;p&gt;3. Add the post to the posts.xml file&lt;p&gt;And that's it. No build system to update menus, no RSS file to update (posts.xml is the rss file). As a reusable framework, there are likely bugs lurking in CSS, but otherwise I'm finding it perfectly usable for my needs.&lt;p&gt;Finally, it'd be a shame if XSLT is removed from the HTML spec (4), I've found it quite eloquent in its simplicity.&lt;p&gt;(1) &lt;a href="https://news.ycombinator.com/item?id=44393817"&gt;https://news.ycombinator.com/item?id=44393817&lt;/a&gt;&lt;p&gt;(2) &lt;a href="https://github.com/vgr-land/vgr-xslt-blog-framework" rel="nofollow"&gt;https://github.com/vgr-land/vgr-xslt-blog-framework&lt;/a&gt;&lt;p&gt;(3) &lt;a href="https://news.ycombinator.com/item?id=44988271"&gt;https://news.ycombinator.com/item?id=44988271&lt;/a&gt;&lt;p&gt;(4) &lt;a href="https://news.ycombinator.com/item?id=44952185"&gt;https://news.ycombinator.com/item?id=44952185&lt;/a&gt;&lt;p&gt;(Aside - First time caller long time listener to hn, thanks!)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45006098"&gt;https://news.ycombinator.com/item?id=45006098&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 15&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 17:38:30 +0000</pubDate><link>https://vgr.land/content/posts/20250821.xml</link><dc:creator>vgr-land</dc:creator><comments>https://news.ycombinator.com/item?id=45006098</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45006098</guid></item><item><title>SQLite (with WAL) doesn't do `fsync` on each commit under default settings</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://avi.im/blag/2025/sqlite-fsync/"&gt;https://avi.im/blag/2025/sqlite-fsync/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45005071"&gt;https://news.ycombinator.com/item?id=45005071&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 93&lt;/p&gt;
+&lt;p&gt;# Comments: 67&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 15:40:38 +0000</pubDate><link>https://avi.im/blag/2025/sqlite-fsync/</link><dc:creator>Bogdanp</dc:creator><comments>https://news.ycombinator.com/item?id=45005071</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45005071</guid></item><item><title>Comet AI browser can get prompt injected from any site, drain your bank account</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://twitter.com/zack_overflow/status/1959308058200551721"&gt;https://twitter.com/zack_overflow/status/1959308058200551721&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45004846"&gt;https://news.ycombinator.com/item?id=45004846&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 452&lt;/p&gt;
+&lt;p&gt;# Comments: 162&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 15:14:34 +0000</pubDate><link>https://twitter.com/zack_overflow/status/1959308058200551721</link><dc:creator>helloplanets</dc:creator><comments>https://news.ycombinator.com/item?id=45004846</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45004846</guid></item><item><title>Making games in Go: 3 months without LLMs vs. 3 days with LLMs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/"&gt;https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45004728"&gt;https://news.ycombinator.com/item?id=45004728&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 230&lt;/p&gt;
+&lt;p&gt;# Comments: 168&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 15:01:24 +0000</pubDate><link>https://marianogappa.github.io/software/2025/08/24/i-made-two-card-games-in-go/</link><dc:creator>maloga</dc:creator><comments>https://news.ycombinator.com/item?id=45004728</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45004728</guid></item><item><title>Dynamically patch a Python function's source code at runtime</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/"&gt;https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45003750"&gt;https://news.ycombinator.com/item?id=45003750&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 124&lt;/p&gt;
+&lt;p&gt;# Comments: 68&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 12:28:52 +0000</pubDate><link>https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime/</link><dc:creator>apwheele</dc:creator><comments>https://news.ycombinator.com/item?id=45003750</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45003750</guid></item><item><title>Show HN: Clearcam – Add AI object detection to your IP CCTV cameras</title><description>
+&lt;p&gt;This runs YOLOv8 + bytetrack with Tinygrad detections (depending on user config) are saved and can be sent to the companion iOS app along with a notification, all video processing is done locally, all footage is encrypted before leaving your computer, and the sending notifications + videos part is optional.
+This uses tinygrad, so it runs well on my apple silicon macs and should be able to run on a lot of hardware (or will be able to when I remove other deps).&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45003420"&gt;https://news.ycombinator.com/item?id=45003420&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 159&lt;/p&gt;
+&lt;p&gt;# Comments: 43&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 11:34:15 +0000</pubDate><link>https://github.com/roryclear/clearcam</link><dc:creator>roryclear</dc:creator><comments>https://news.ycombinator.com/item?id=45003420</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45003420</guid></item><item><title>It is worth it to buy the fast CPU</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.howardjohn.info/posts/buy-a-cpu/"&gt;https://blog.howardjohn.info/posts/buy-a-cpu/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45001778"&gt;https://news.ycombinator.com/item?id=45001778&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 197&lt;/p&gt;
+&lt;p&gt;# Comments: 389&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 06:03:15 +0000</pubDate><link>https://blog.howardjohn.info/posts/buy-a-cpu/</link><dc:creator>ingve</dc:creator><comments>https://news.ycombinator.com/item?id=45001778</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45001778</guid></item><item><title>How to build a coding agent</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ghuntley.com/agent/"&gt;https://ghuntley.com/agent/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45001051"&gt;https://news.ycombinator.com/item?id=45001051&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 409&lt;/p&gt;
+&lt;p&gt;# Comments: 112&lt;/p&gt;
+</description><pubDate>Sun, 24 Aug 2025 03:21:14 +0000</pubDate><link>https://ghuntley.com/agent/</link><dc:creator>ghuntley</dc:creator><comments>https://news.ycombinator.com/item?id=45001051</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45001051</guid></item><item><title>Materialized views are obviously useful</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful"&gt;https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=44999194"&gt;https://news.ycombinator.com/item?id=44999194&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 105&lt;/p&gt;
+&lt;p&gt;# Comments: 56&lt;/p&gt;
+</description><pubDate>Sat, 23 Aug 2025 21:13:39 +0000</pubDate><link>https://sophiebits.com/2025/08/22/materialized-views-are-obviously-useful</link><dc:creator>gz09</dc:creator><comments>https://news.ycombinator.com/item?id=44999194</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=44999194</guid></item></channel></rss>
