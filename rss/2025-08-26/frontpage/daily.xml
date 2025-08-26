@@ -1,0 +1,104 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Tue, 26 Aug 2025 00:17:27 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Exploring the tragedy of the Counter-Strike 2 server browser</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/"&gt;https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45019950"&gt;https://news.ycombinator.com/item?id=45019950&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 23&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 22:31:50 +0000</pubDate><link>https://bphilip.uk/blog/2025-08-25-the-cs2-server-browser-where-community-goes-to-die/</link><dc:creator>shaokind</dc:creator><comments>https://news.ycombinator.com/item?id=45019950</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45019950</guid></item><item><title>A short proof of the Hairy Ball theorem (2016) [pdf]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf"&gt;https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45018933"&gt;https://news.ycombinator.com/item?id=45018933&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 18&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 20:59:22 +0000</pubDate><link>https://www2.math.upenn.edu/~pjmcgrat/research/hairy-ball.pdf</link><dc:creator>fzliu</dc:creator><comments>https://news.ycombinator.com/item?id=45018933</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45018933</guid></item><item><title>Social media's next evolution: decentralized, open-source, and scalable</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of"&gt;https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45018773"&gt;https://news.ycombinator.com/item?id=45018773&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 73&lt;/p&gt;
+&lt;p&gt;# Comments: 44&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 20:47:10 +0000</pubDate><link>https://newpublic.substack.com/p/how-blacksky-grew-to-millions-of</link><dc:creator>benwerd</dc:creator><comments>https://news.ycombinator.com/item?id=45018773</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45018773</guid></item><item><title>Llama Fund: Crowdfund AI Models</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://llama.fund"&gt;https://llama.fund&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45018708"&gt;https://news.ycombinator.com/item?id=45018708&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 73&lt;/p&gt;
+&lt;p&gt;# Comments: 39&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 20:40:39 +0000</pubDate><link>https://llama.fund</link><dc:creator>mountainriver</dc:creator><comments>https://news.ycombinator.com/item?id=45018708</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45018708</guid></item><item><title>Make the Easy Change Hard</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.appliedcomputing.io/p/make-the-easy-change-hard"&gt;https://blog.appliedcomputing.io/p/make-the-easy-change-hard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45018701"&gt;https://news.ycombinator.com/item?id=45018701&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 14&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 20:40:04 +0000</pubDate><link>https://blog.appliedcomputing.io/p/make-the-easy-change-hard</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=45018701</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45018701</guid></item><item><title>Reverse Engineering All the Raspberry Pis</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis"&gt;https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45018509"&gt;https://news.ycombinator.com/item?id=45018509&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 19&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 20:20:35 +0000</pubDate><link>https://www.jeffgeerling.com/blog/2025/reverse-engineering-all-raspberry-pis</link><dc:creator>speckx</dc:creator><comments>https://news.ycombinator.com/item?id=45018509</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45018509</guid></item><item><title>Study finds gaps in evidence for air-cleaning technologies to prevent infections</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://news.cuanschutz.edu/news-stories/study-finds-gaps-in-evidence-for-air-cleaning-technologies-designed-to-prevent-respiratory-infections"&gt;https://news.cuanschutz.edu/news-stories/study-finds-gaps-in-evidence-for-air-cleaning-technologies-designed-to-prevent-respiratory-infections&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45018494"&gt;https://news.ycombinator.com/item?id=45018494&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 41&lt;/p&gt;
+&lt;p&gt;# Comments: 25&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 20:19:21 +0000</pubDate><link>https://news.cuanschutz.edu/news-stories/study-finds-gaps-in-evidence-for-air-cleaning-technologies-designed-to-prevent-respiratory-infections</link><dc:creator>PaulHoule</dc:creator><comments>https://news.ycombinator.com/item?id=45018494</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45018494</guid></item><item><title>Fenster: Most minimal cross-platform GUI library</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/zserge/fenster"&gt;https://github.com/zserge/fenster&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45018081"&gt;https://news.ycombinator.com/item?id=45018081&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 38&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 19:41:51 +0000</pubDate><link>https://github.com/zserge/fenster</link><dc:creator>klaussilveira</dc:creator><comments>https://news.ycombinator.com/item?id=45018081</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45018081</guid></item><item><title>Google to require developer verification to install and sideload Android apps</title><description>
+&lt;p&gt;Also &lt;a href="https://techcrunch.com/2025/08/25/google-will-require-developer-verification-for-android-apps-outside-the-play-store/" rel="nofollow"&gt;https://techcrunch.com/2025/08/25/google-will-require-develo...&lt;/a&gt; (from merged thread)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45017028"&gt;https://news.ycombinator.com/item?id=45017028&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 730&lt;/p&gt;
+&lt;p&gt;# Comments: 589&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 18:18:18 +0000</pubDate><link>https://9to5google.com/2025/08/25/android-apps-developer-verification/</link><dc:creator>kotaKat</dc:creator><comments>https://news.ycombinator.com/item?id=45017028</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45017028</guid></item><item><title>How RubyGems.org protects OSS infrastructure</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.rubygems.org/2025/08/25/rubygems-security-response.html"&gt;https://blog.rubygems.org/2025/08/25/rubygems-security-response.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45016794"&gt;https://news.ycombinator.com/item?id=45016794&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 64&lt;/p&gt;
+&lt;p&gt;# Comments: 12&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 18:02:51 +0000</pubDate><link>https://blog.rubygems.org/2025/08/25/rubygems-security-response.html</link><dc:creator>hahahacorn</dc:creator><comments>https://news.ycombinator.com/item?id=45016794</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45016794</guid></item><item><title>Google's Liquid Cooling</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips"&gt;https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45016720"&gt;https://news.ycombinator.com/item?id=45016720&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 220&lt;/p&gt;
+&lt;p&gt;# Comments: 103&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 17:57:18 +0000</pubDate><link>https://chipsandcheese.com/p/googles-liquid-cooling-at-hot-chips</link><dc:creator>giuliomagnifico</dc:creator><comments>https://news.ycombinator.com/item?id=45016720</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45016720</guid></item><item><title>The MiniPC Revolution</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jadarma.github.io/blog/posts/2025/08/the-minipc-revolution/"&gt;https://jadarma.github.io/blog/posts/2025/08/the-minipc-revolution/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45015814"&gt;https://news.ycombinator.com/item?id=45015814&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 134&lt;/p&gt;
+&lt;p&gt;# Comments: 182&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 16:45:19 +0000</pubDate><link>https://jadarma.github.io/blog/posts/2025/08/the-minipc-revolution/</link><dc:creator>ingve</dc:creator><comments>https://news.ycombinator.com/item?id=45015814</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45015814</guid></item><item><title>FCC bars providers for non-compliance with robocall protections</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://docs.fcc.gov/public/attachments/DOC-414073A1.txt"&gt;https://docs.fcc.gov/public/attachments/DOC-414073A1.txt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45015354"&gt;https://news.ycombinator.com/item?id=45015354&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 312&lt;/p&gt;
+&lt;p&gt;# Comments: 209&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 16:06:24 +0000</pubDate><link>https://docs.fcc.gov/public/attachments/DOC-414073A1.txt</link><dc:creator>impish9208</dc:creator><comments>https://news.ycombinator.com/item?id=45015354</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45015354</guid></item><item><title>Launch HN: April (YC S25) – Voice AI to manage your email and calendar</title><description>
+&lt;p&gt;Hi HN, we’re Neha and Akash from April (&lt;a href="https://tryapril.com"&gt;https://tryapril.com&lt;/a&gt;). We are building an AI executive assistant to help you get through emails and manage your schedule, hands-free while you drive to work, or whenever else you prefer voice interaction.&lt;p&gt;Here's a demo: &lt;a href="https://www.youtube.com/watch?v=ISKwEyuQQEo#t=50" rel="nofollow"&gt;https://www.youtube.com/watch?v=ISKwEyuQQEo#t=50&lt;/a&gt;&lt;p&gt;...and here's a second one showing more complex use cases: &lt;a href="https://www.youtube.com/watch?v=P8APprJ3-eY" rel="nofollow"&gt;https://www.youtube.com/watch?v=P8APprJ3-eY&lt;/a&gt;.&lt;p&gt;While driving 40 mins daily from SF to Berkeley, my inbox would flood to 30+ emails and I'd have back-to-back meetings lined up. I'd reach work already behind, then spend another hour just catching up. We figured with recent advances in voice AI, we could solve this dead time problem and start doing things on the go.&lt;p&gt;You can just speak to April and it can:&lt;p&gt;- Summarize important emails and flag what needs attention&lt;p&gt;- Send replies that I dictate (it handles the formatting and tone)&lt;p&gt;- Review my calendar and reschedule meetings on the fly&lt;p&gt;- Pull context from email threads for each meeting&lt;p&gt;- Archive/organize emails into folders&lt;p&gt;April is built using Deepgram for STT. Eleven Labs for TTS  - built on top of LiveKit. We built our own MCP (Model Context Protocol) servers for Google integration, which handle auth, rate limiting, and maintain conversation context across email threads.&lt;p&gt;The most interesting part has been optimizing for lowest latency given we are a tool call heavy application. We are also trying to optimize the interruption handling and turn taking to make it feel more natural.&lt;p&gt;April is available on the AppStore (iPhone/iPad). You can try us out here &lt;a href="https://apps.apple.com/us/app/april-ai-executive-assistant/id6747432952"&gt;https://apps.apple.com/us/app/april-ai-executive-assistant/i...&lt;/a&gt;&lt;p&gt;Free 3-day trial, then $14.99/mo. We'd love feedback on: Which email /calendar workflows are most painful for you? What tools beyond Gmail &amp; Google calendar would be most valuable with a voice interface?&lt;p&gt;We’ll be in the thread all day to answer any questions, share more technical details and learn what would make April most useful to you. Comment away!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45015230"&gt;https://news.ycombinator.com/item?id=45015230&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 70&lt;/p&gt;
+&lt;p&gt;# Comments: 65&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 15:56:26 +0000</pubDate><link>https://news.ycombinator.com/item?id=45015230</link><dc:creator>nehasuresh1904</dc:creator><comments>https://news.ycombinator.com/item?id=45015230</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45015230</guid></item><item><title>Building the mouse Logitech won't make</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods"&gt;https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45014993"&gt;https://news.ycombinator.com/item?id=45014993&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 339&lt;/p&gt;
+&lt;p&gt;# Comments: 248&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 15:34:50 +0000</pubDate><link>https://samwilkinson.io/posts/2025-08-24-mx-ergo-mods</link><dc:creator>sammycdubs</dc:creator><comments>https://news.ycombinator.com/item?id=45014993</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45014993</guid></item><item><title>Show HN: Base, an SQLite database editor for macOS</title><description>
+&lt;p&gt;I recently released v3 of Base, my SQLite editor for macOS.&lt;p&gt;The goal of this app is to provide a comfortable native GUI for SQLite, without it turning into a massive IDE-style app.&lt;p&gt;The coolest features are&lt;p&gt;- That it can handle full altering of tables, which is quite finicky to do manually with SQLite.&lt;p&gt;- It has a more detailed display of column constraints than most editors. Each constraint is shown as an icon if active, with full details available on clicking the icon.&lt;p&gt;This update also adds support for attaching databases, which is a bit fiddly with macOS sandboxing.&lt;p&gt;I'd love to hear any feedback or answer any questions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45014131"&gt;https://news.ycombinator.com/item?id=45014131&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 481&lt;/p&gt;
+&lt;p&gt;# Comments: 134&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 14:17:38 +0000</pubDate><link>https://menial.co.uk/base/</link><dc:creator>__bb</dc:creator><comments>https://news.ycombinator.com/item?id=45014131</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45014131</guid></item><item><title>A small change to improve browsers for keyboard navigation</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://b.43z.one/2025-07-22/"&gt;https://b.43z.one/2025-07-22/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45013737"&gt;https://news.ycombinator.com/item?id=45013737&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 154&lt;/p&gt;
+&lt;p&gt;# Comments: 43&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 13:40:11 +0000</pubDate><link>https://b.43z.one/2025-07-22/</link><dc:creator>h43z</dc:creator><comments>https://news.ycombinator.com/item?id=45013737</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45013737</guid></item><item><title>What is a color space?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts"&gt;https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45013154"&gt;https://news.ycombinator.com/item?id=45013154&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 157&lt;/p&gt;
+&lt;p&gt;# Comments: 25&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 12:33:13 +0000</pubDate><link>https://www.makingsoftware.com/chapters/color-spaces-models-and-gamuts</link><dc:creator>vinhnx</dc:creator><comments>https://news.ycombinator.com/item?id=45013154</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45013154</guid></item><item><title>An illustrated guide to OAuth</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ducktyped.org/p/an-illustrated-guide-to-oauth"&gt;https://www.ducktyped.org/p/an-illustrated-guide-to-oauth&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45013131"&gt;https://news.ycombinator.com/item?id=45013131&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 292&lt;/p&gt;
+&lt;p&gt;# Comments: 56&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 12:29:48 +0000</pubDate><link>https://www.ducktyped.org/p/an-illustrated-guide-to-oauth</link><dc:creator>egonschiele</dc:creator><comments>https://news.ycombinator.com/item?id=45013131</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45013131</guid></item><item><title>Scamlexity: When agentic AI browsers get scammed</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed"&gt;https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45011096"&gt;https://news.ycombinator.com/item?id=45011096&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 185&lt;/p&gt;
+&lt;p&gt;# Comments: 160&lt;/p&gt;
+</description><pubDate>Mon, 25 Aug 2025 07:03:56 +0000</pubDate><link>https://guard.io/labs/scamlexity-we-put-agentic-ai-browsers-to-the-test-they-clicked-they-paid-they-failed</link><dc:creator>mindracer</dc:creator><comments>https://news.ycombinator.com/item?id=45011096</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45011096</guid></item></channel></rss>
