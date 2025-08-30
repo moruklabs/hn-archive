@@ -1,0 +1,103 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sat, 30 Aug 2025 00:21:18 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>The Theoretical Limitations of Embedding-Based Retrieval</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arxiv.org/abs/2508.21038"&gt;https://arxiv.org/abs/2508.21038&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45068986"&gt;https://news.ycombinator.com/item?id=45068986&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 59&lt;/p&gt;
+&lt;p&gt;# Comments: 6&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 20:25:34 +0000</pubDate><link>https://arxiv.org/abs/2508.21038</link><dc:creator>fzliu</dc:creator><comments>https://news.ycombinator.com/item?id=45068986</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45068986</guid></item><item><title>The First Inkjet Printer Was a Medical Device</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://spectrum.ieee.org/rune-elmqvist"&gt;https://spectrum.ieee.org/rune-elmqvist&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45068548"&gt;https://news.ycombinator.com/item?id=45068548&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 4&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 19:45:32 +0000</pubDate><link>https://spectrum.ieee.org/rune-elmqvist</link><dc:creator>benbreen</dc:creator><comments>https://news.ycombinator.com/item?id=45068548</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45068548</guid></item><item><title>The No-CPU Amiga Demo Challenge</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/askeksa/NoCpuChallenge"&gt;https://github.com/askeksa/NoCpuChallenge&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45068268"&gt;https://news.ycombinator.com/item?id=45068268&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 77&lt;/p&gt;
+&lt;p&gt;# Comments: 23&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 19:20:28 +0000</pubDate><link>https://github.com/askeksa/NoCpuChallenge</link><dc:creator>doener</dc:creator><comments>https://news.ycombinator.com/item?id=45068268</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45068268</guid></item><item><title>How did .agakhan, .ismaili and .imamat get their own TLDs?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://data.iana.org/TLD/tlds-alpha-by-domain.txt"&gt;https://data.iana.org/TLD/tlds-alpha-by-domain.txt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45068215"&gt;https://news.ycombinator.com/item?id=45068215&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 61&lt;/p&gt;
+&lt;p&gt;# Comments: 87&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 19:15:55 +0000</pubDate><link>https://data.iana.org/TLD/tlds-alpha-by-domain.txt</link><dc:creator>aerodog</dc:creator><comments>https://news.ycombinator.com/item?id=45068215</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45068215</guid></item><item><title>Do the simplest thing that could possibly work</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/"&gt;https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45068091"&gt;https://news.ycombinator.com/item?id=45068091&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 310&lt;/p&gt;
+&lt;p&gt;# Comments: 148&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 19:05:09 +0000</pubDate><link>https://www.seangoedecke.com/the-simplest-thing-that-could-possibly-work/</link><dc:creator>dondraper36</dc:creator><comments>https://news.ycombinator.com/item?id=45068091</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45068091</guid></item><item><title>Data engineering and software engineering are converging</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure"&gt;https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45067867"&gt;https://news.ycombinator.com/item?id=45067867&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 58&lt;/p&gt;
+&lt;p&gt;# Comments: 33&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 18:43:42 +0000</pubDate><link>https://clickhouse.com/blog/eight-principles-of-great-developer-experience-for-data-infrastructure</link><dc:creator>craneca0</dc:creator><comments>https://news.ycombinator.com/item?id=45067867</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45067867</guid></item><item><title>SQLite's documentation about its durability properties is unclear</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.agwa.name/blog/post/sqlite_durability"&gt;https://www.agwa.name/blog/post/sqlite_durability&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45066999"&gt;https://news.ycombinator.com/item?id=45066999&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 114&lt;/p&gt;
+&lt;p&gt;# Comments: 45&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 17:30:29 +0000</pubDate><link>https://www.agwa.name/blog/post/sqlite_durability</link><dc:creator>ciconia</dc:creator><comments>https://news.ycombinator.com/item?id=45066999</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45066999</guid></item><item><title>Thunder Compute (YC S24) Is Hiring</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire"&gt;https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45066592"&gt;https://news.ycombinator.com/item?id=45066592&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 17:00:04 +0000</pubDate><link>https://www.ycombinator.com/companies/thunder-compute/jobs/sS6QzTi-founding-developer-advocate-contract-to-hire</link><dc:creator>cpeterson42</dc:creator><comments>https://news.ycombinator.com/item?id=45066592</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45066592</guid></item><item><title>John Carmack's arguments against building a custom XR OS at Meta</title><description>
+&lt;p&gt;&lt;a href="https://xcancel.com/ID_AA_Carmack/status/1961172409920491849" rel="nofollow"&gt;https://xcancel.com/ID_AA_Carmack/status/1961172409920491849&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45066395"&gt;https://news.ycombinator.com/item?id=45066395&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 208&lt;/p&gt;
+&lt;p&gt;# Comments: 227&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 16:45:21 +0000</pubDate><link>https://twitter.com/ID_AA_Carmack/status/1961172409920491849</link><dc:creator>OlympicMarmoto</dc:creator><comments>https://news.ycombinator.com/item?id=45066395</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45066395</guid></item><item><title>The web does not need gatekeepers: Cloudflare’s new “signed agents” pitch</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers"&gt;https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45066258"&gt;https://news.ycombinator.com/item?id=45066258&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 292&lt;/p&gt;
+&lt;p&gt;# Comments: 304&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 16:35:24 +0000</pubDate><link>https://positiveblue.substack.com/p/the-web-does-not-need-gatekeepers</link><dc:creator>positiveblue</dc:creator><comments>https://news.ycombinator.com/item?id=45066258</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45066258</guid></item><item><title>Offline-First Landscape – 2025</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://marcoapp.io/blog/offline-first-landscape"&gt;https://marcoapp.io/blog/offline-first-landscape&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45066070"&gt;https://news.ycombinator.com/item?id=45066070&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 89&lt;/p&gt;
+&lt;p&gt;# Comments: 44&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 16:20:31 +0000</pubDate><link>https://marcoapp.io/blog/offline-first-landscape</link><dc:creator>Onavo</dc:creator><comments>https://news.ycombinator.com/item?id=45066070</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45066070</guid></item><item><title>Wikipedia as a Graph</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://wikigrapher.com/paths"&gt;https://wikigrapher.com/paths&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45066060"&gt;https://news.ycombinator.com/item?id=45066060&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 153&lt;/p&gt;
+&lt;p&gt;# Comments: 41&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 16:19:56 +0000</pubDate><link>https://wikigrapher.com/paths</link><dc:creator>gidellav</dc:creator><comments>https://news.ycombinator.com/item?id=45066060</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45066060</guid></item><item><title>Essential Coding Theory [pdf]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf"&gt;https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45065705"&gt;https://news.ycombinator.com/item?id=45065705&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 245&lt;/p&gt;
+&lt;p&gt;# Comments: 38&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 15:53:41 +0000</pubDate><link>https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book/web-coding-book.pdf</link><dc:creator>ibobev</dc:creator><comments>https://news.ycombinator.com/item?id=45065705</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45065705</guid></item><item><title>God created the real numbers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ethanheilman.com/x/34/index.html"&gt;https://www.ethanheilman.com/x/34/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45065425"&gt;https://news.ycombinator.com/item?id=45065425&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 60&lt;/p&gt;
+&lt;p&gt;# Comments: 102&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 15:31:15 +0000</pubDate><link>https://www.ethanheilman.com/x/34/index.html</link><dc:creator>Bogdanp</dc:creator><comments>https://news.ycombinator.com/item?id=45065425</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45065425</guid></item><item><title>AI’s coding evolution hinges on collaboration and trust</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://spectrum.ieee.org/ai-for-coding"&gt;https://spectrum.ieee.org/ai-for-coding&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45065343"&gt;https://news.ycombinator.com/item?id=45065343&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 143&lt;/p&gt;
+&lt;p&gt;# Comments: 125&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 15:24:13 +0000</pubDate><link>https://spectrum.ieee.org/ai-for-coding</link><dc:creator>WolfOliver</dc:creator><comments>https://news.ycombinator.com/item?id=45065343</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45065343</guid></item><item><title>Seedbox Lite: A lightweight torrent streaming app with instant playback</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/hotheadhacker/seedbox-lite"&gt;https://github.com/hotheadhacker/seedbox-lite&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45065278"&gt;https://news.ycombinator.com/item?id=45065278&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 86&lt;/p&gt;
+&lt;p&gt;# Comments: 46&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 15:18:40 +0000</pubDate><link>https://github.com/hotheadhacker/seedbox-lite</link><dc:creator>redbell</dc:creator><comments>https://news.ycombinator.com/item?id=45065278</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45065278</guid></item><item><title>Deploying DeepSeek on 96 H100 GPUs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lmsys.org/blog/2025-05-05-large-scale-ep/"&gt;https://lmsys.org/blog/2025-05-05-large-scale-ep/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45064329"&gt;https://news.ycombinator.com/item?id=45064329&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 183&lt;/p&gt;
+&lt;p&gt;# Comments: 52&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 14:07:28 +0000</pubDate><link>https://lmsys.org/blog/2025-05-05-large-scale-ep/</link><dc:creator>GabrielBianconi</dc:creator><comments>https://news.ycombinator.com/item?id=45064329</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45064329</guid></item><item><title>Flunking my Anthropic interview again</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://taylor.town/flunking-anthropic"&gt;https://taylor.town/flunking-anthropic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45064284"&gt;https://news.ycombinator.com/item?id=45064284&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 238&lt;/p&gt;
+&lt;p&gt;# Comments: 225&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 14:02:59 +0000</pubDate><link>https://taylor.town/flunking-anthropic</link><dc:creator>surprisetalk</dc:creator><comments>https://news.ycombinator.com/item?id=45064284</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45064284</guid></item><item><title>Show HN: Sosumi.ai – Convert Apple Developer docs to AI-readable Markdown</title><description>
+&lt;p&gt;I got tired of Claude hallucinating Swift APIs. It does a good job at Python and TypeScript, but ask it about SwiftUI and it's basically guessing.&lt;p&gt;The problem? Apple's docs are JavaScript-rendered, so when you paste URLs into AI tools, they just see a blank page. Copy-pasting works but... c'mon.&lt;p&gt;So I built something that converts Apple Developer docs to clean markdown. Just swap developer.apple.com with sosumi.ai in any Apple docs URL and you get AI-readable content.&lt;p&gt;For example:&lt;p&gt;- Before: &lt;a href="https://developer.apple.com/documentation/swift/double" rel="nofollow"&gt;https://developer.apple.com/documentation/swift/double&lt;/a&gt;&lt;p&gt;- After: &lt;a href="https://sosumi.ai/documentation/swift/double" rel="nofollow"&gt;https://sosumi.ai/documentation/swift/double&lt;/a&gt;&lt;p&gt;The site itself is a small Hono app running on Cloudflare Workers. Apple's docs are actually available as structured data, but Apple doesn't make it obvious how to get it. So what this does is map the URLs, fetch the original JSON, and render as Markdown.&lt;p&gt;It also provides an MCP interface that includes a tool to search the Apple developer website, which is helpful.&lt;p&gt;Anyway, please give this a try and let me know what you think!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45063874"&gt;https://news.ycombinator.com/item?id=45063874&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 92&lt;/p&gt;
+&lt;p&gt;# Comments: 58&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 13:30:16 +0000</pubDate><link>https://sosumi.ai/</link><dc:creator>_mattt</dc:creator><comments>https://news.ycombinator.com/item?id=45063874</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45063874</guid></item><item><title>Grok Code Fast 1</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://x.ai/news/grok-code-fast-1"&gt;https://x.ai/news/grok-code-fast-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45063559"&gt;https://news.ycombinator.com/item?id=45063559&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 296&lt;/p&gt;
+&lt;p&gt;# Comments: 345&lt;/p&gt;
+</description><pubDate>Fri, 29 Aug 2025 13:01:45 +0000</pubDate><link>https://x.ai/news/grok-code-fast-1</link><dc:creator>Terretta</dc:creator><comments>https://news.ycombinator.com/item?id=45063559</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45063559</guid></item></channel></rss>
