@@ -1,0 +1,122 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Tue, 02 Sep 2025 00:18:54 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Anthropic to counteract usage of Claude Code for "vibe hacking"</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.anthropic.com/news/detecting-countering-misuse-aug-2025"&gt;https://www.anthropic.com/news/detecting-countering-misuse-aug-2025&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45097263"&gt;https://news.ycombinator.com/item?id=45097263&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 66&lt;/p&gt;
+&lt;p&gt;# Comments: 39&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 22:44:21 +0000</pubDate><link>https://www.anthropic.com/news/detecting-countering-misuse-aug-2025</link><dc:creator>indigodaddy</dc:creator><comments>https://news.ycombinator.com/item?id=45097263</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45097263</guid></item><item><title>Don't Build Multi-Agents</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://cognition.ai/blog/dont-build-multi-agents"&gt;https://cognition.ai/blog/dont-build-multi-agents&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45096962"&gt;https://news.ycombinator.com/item?id=45096962&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 75&lt;/p&gt;
+&lt;p&gt;# Comments: 51&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 21:54:56 +0000</pubDate><link>https://cognition.ai/blog/dont-build-multi-agents</link><dc:creator>JnBrymn</dc:creator><comments>https://news.ycombinator.com/item?id=45096962</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45096962</guid></item><item><title>Raspberry Pi 5 support (OpenBSD)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://marc.info/?l=openbsd-cvs&amp;m=175675287220070&amp;w=2"&gt;https://marc.info/?l=openbsd-cvs&amp;m=175675287220070&amp;w=2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45096585"&gt;https://news.ycombinator.com/item?id=45096585&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 70&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 21:03:51 +0000</pubDate><link>https://marc.info/?l=openbsd-cvs&amp;m=175675287220070&amp;w=2</link><dc:creator>brynet</dc:creator><comments>https://news.ycombinator.com/item?id=45096585</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45096585</guid></item><item><title>The buyer-pull and seller-push theories of sales</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://howtogrow.substack.com/p/the-physics-of-sales"&gt;https://howtogrow.substack.com/p/the-physics-of-sales&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45096254"&gt;https://news.ycombinator.com/item?id=45096254&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 34&lt;/p&gt;
+&lt;p&gt;# Comments: 6&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 20:17:45 +0000</pubDate><link>https://howtogrow.substack.com/p/the-physics-of-sales</link><dc:creator>jmvldz</dc:creator><comments>https://news.ycombinator.com/item?id=45096254</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45096254</guid></item><item><title>Desert Graves (2021)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.desertmountaineer.com/2021/08/06/graves/"&gt;https://www.desertmountaineer.com/2021/08/06/graves/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45096173"&gt;https://news.ycombinator.com/item?id=45096173&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 18&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 20:08:34 +0000</pubDate><link>https://www.desertmountaineer.com/2021/08/06/graves/</link><dc:creator>cut3</dc:creator><comments>https://news.ycombinator.com/item?id=45096173</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45096173</guid></item><item><title>Towards Memory Specialization: A Case for Long-Term and Short-Term RAM</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arxiv.org/abs/2508.02992"&gt;https://arxiv.org/abs/2508.02992&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45096140"&gt;https://news.ycombinator.com/item?id=45096140&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 28&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 20:05:38 +0000</pubDate><link>https://arxiv.org/abs/2508.02992</link><dc:creator>PaulHoule</dc:creator><comments>https://news.ycombinator.com/item?id=45096140</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45096140</guid></item><item><title>Patrick Winston: How to Speak (2018) [video]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.youtube.com/watch?v=Unzc731iCUY"&gt;https://www.youtube.com/watch?v=Unzc731iCUY&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45095849"&gt;https://news.ycombinator.com/item?id=45095849&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 179&lt;/p&gt;
+&lt;p&gt;# Comments: 30&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 19:32:17 +0000</pubDate><link>https://www.youtube.com/watch?v=Unzc731iCUY</link><dc:creator>tosh</dc:creator><comments>https://news.ycombinator.com/item?id=45095849</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45095849</guid></item><item><title>Amazon has mostly sat out the AI talent war</title><description>
+&lt;p&gt;&lt;a href="https://archive.ph/ed8WJ" rel="nofollow"&gt;https://archive.ph/ed8WJ&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45095603"&gt;https://news.ycombinator.com/item?id=45095603&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 126&lt;/p&gt;
+&lt;p&gt;# Comments: 178&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 19:04:31 +0000</pubDate><link>https://www.businessinsider.com/amazon-ai-talent-wars-internal-document-2025-8</link><dc:creator>ripe</dc:creator><comments>https://news.ycombinator.com/item?id=45095603</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45095603</guid></item><item><title>Thoughts on (Amazonian) leadership</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html"&gt;https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45095545"&gt;https://news.ycombinator.com/item?id=45095545&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 83&lt;/p&gt;
+&lt;p&gt;# Comments: 65&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 18:56:39 +0000</pubDate><link>https://www.daemonology.net/blog/2025-09-01-Thoughts-on-Amazonian-Leadership.html</link><dc:creator>stock_toaster</dc:creator><comments>https://news.ycombinator.com/item?id=45095545</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45095545</guid></item><item><title>The future of 32-bit support in the kernel</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/"&gt;https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45095475"&gt;https://news.ycombinator.com/item?id=45095475&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 121&lt;/p&gt;
+&lt;p&gt;# Comments: 99&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 18:48:22 +0000</pubDate><link>https://lwn.net/SubscriberLink/1035727/4837b0d3dccf1cbb/</link><dc:creator>binarycrusader</dc:creator><comments>https://news.ycombinator.com/item?id=45095475</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45095475</guid></item><item><title>Implementing a Foil Sticker Effect</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.4rknova.com/blog/2025/08/30/foil-sticker"&gt;https://www.4rknova.com/blog/2025/08/30/foil-sticker&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45095460"&gt;https://news.ycombinator.com/item?id=45095460&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 157&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 18:47:21 +0000</pubDate><link>https://www.4rknova.com/blog/2025/08/30/foil-sticker</link><dc:creator>ibobev</dc:creator><comments>https://news.ycombinator.com/item?id=45095460</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45095460</guid></item><item><title>Steve Ballmer Interview</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.acquired.fm/episodes/the-steve-ballmer-interview"&gt;https://www.acquired.fm/episodes/the-steve-ballmer-interview&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45094953"&gt;https://news.ycombinator.com/item?id=45094953&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 67&lt;/p&gt;
+&lt;p&gt;# Comments: 80&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 17:51:27 +0000</pubDate><link>https://www.acquired.fm/episodes/the-steve-ballmer-interview</link><dc:creator>naves</dc:creator><comments>https://news.ycombinator.com/item?id=45094953</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45094953</guid></item><item><title>One of Britain's largest stocks of second-hand books ever amassed</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire"&gt;https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45094692"&gt;https://news.ycombinator.com/item?id=45094692&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 70&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 17:25:08 +0000</pubDate><link>https://www.worldofinteriors.com/story/richard-axe-second-hand-books-yorkshire</link><dc:creator>diaphanous</dc:creator><comments>https://news.ycombinator.com/item?id=45094692</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45094692</guid></item><item><title>Optery (YC W22) Is Hiring in Engineering, Legal, Sales, Marketing (U.S., Latam)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.optery.com/careers/"&gt;https://www.optery.com/careers/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45094471"&gt;https://news.ycombinator.com/item?id=45094471&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 17:02:14 +0000</pubDate><link>https://www.optery.com/careers/</link><dc:creator>beyondd</dc:creator><comments>https://news.ycombinator.com/item?id=45094471</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45094471</guid></item><item><title>Adaptive LLM routing under budget constraints</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arxiv.org/abs/2508.21141"&gt;https://arxiv.org/abs/2508.21141&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45094421"&gt;https://news.ycombinator.com/item?id=45094421&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 154&lt;/p&gt;
+&lt;p&gt;# Comments: 61&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 16:57:38 +0000</pubDate><link>https://arxiv.org/abs/2508.21141</link><dc:creator>tdchaitanya</dc:creator><comments>https://news.ycombinator.com/item?id=45094421</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45094421</guid></item><item><title>Ask HN: Who is hiring? (September 2025)</title><description>
+&lt;p&gt;Please state the location and include REMOTE for remote work, REMOTE (US)
+or similar if the country is restricted, and ONSITE when remote work is &lt;i&gt;not&lt;/i&gt; an option.&lt;p&gt;Please only post if you personally are part of the hiring company—no
+recruiting firms or job boards. One post per company. If it isn't a household name,
+explain what your company does.&lt;p&gt;Please only post if you are actively filling a position and are committed
+to responding to applicants.&lt;p&gt;Commenters: please don't reply to job posts to complain about
+something. It's off topic here.&lt;p&gt;Readers: please only email if you are personally interested in the job.&lt;p&gt;Searchers: try &lt;a href="https://dheerajck.github.io/hnwhoishiring/" rel="nofollow"&gt;https://dheerajck.github.io/hnwhoishiring/&lt;/a&gt;,
+&lt;a href="https://amber-williams.github.io/hackernews-whos-hiring/" rel="nofollow"&gt;https://amber-williams.github.io/hackernews-whos-hiring/&lt;/a&gt;,
+&lt;a href="http://nchelluri.github.io/hnjobs/" rel="nofollow"&gt;http://nchelluri.github.io/hnjobs/&lt;/a&gt;, &lt;a href="https://hnresumetojobs.com" rel="nofollow"&gt;https://hnresumetojobs.com&lt;/a&gt;,
+&lt;a href="https://hnhired.fly.dev" rel="nofollow"&gt;https://hnhired.fly.dev&lt;/a&gt;, &lt;a href="https://kennytilton.github.io/whoishiring/" rel="nofollow"&gt;https://kennytilton.github.io/whoishiring/&lt;/a&gt;,
+&lt;a href="https://hnjobs.emilburzo.com" rel="nofollow"&gt;https://hnjobs.emilburzo.com&lt;/a&gt;, or this (unofficial) Chrome extension:
+&lt;a href="https://chromewebstore.google.com/detail/hn-hiring-pro/mpfaljjblphnlloddaplgicpkinikjlp" rel="nofollow"&gt;https://chromewebstore.google.com/detail/hn-hiring-pro/mpfal...&lt;/a&gt;.&lt;p&gt;Don't miss these other fine threads:&lt;p&gt;&lt;i&gt;Who wants to be hired?&lt;/i&gt; &lt;a href="https://news.ycombinator.com/item?id=45093190"&gt;https://news.ycombinator.com/item?id=45093190&lt;/a&gt;&lt;p&gt;&lt;i&gt;Freelancer? Seeking freelancer?&lt;/i&gt; &lt;a href="https://news.ycombinator.com/item?id=45093191"&gt;https://news.ycombinator.com/item?id=45093191&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45093192"&gt;https://news.ycombinator.com/item?id=45093192&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 149&lt;/p&gt;
+&lt;p&gt;# Comments: 127&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 15:01:02 +0000</pubDate><link>https://news.ycombinator.com/item?id=45093192</link><dc:creator>whoishiring</dc:creator><comments>https://news.ycombinator.com/item?id=45093192</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45093192</guid></item><item><title>Ask HN: Who wants to be hired? (September 2025)</title><description>
+&lt;p&gt;Share your information if you are looking for work. Please use this format:&lt;p&gt;&lt;pre&gt;&lt;code&gt;  Location:
+  Remote:
+  Willing to relocate:
+  Technologies:
+  Résumé/CV:
+  Email:
+&lt;/code&gt;&lt;/pre&gt;
+Please only post if you are personally looking for work. Agencies, recruiters, job boards,
+and so on, are off topic here.&lt;p&gt;Readers: please only email these addresses to discuss work opportunities.&lt;p&gt;There's a site for searching these posts at &lt;a href="https://www.wantstobehired.com" rel="nofollow"&gt;https://www.wantstobehired.com&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45093190"&gt;https://news.ycombinator.com/item?id=45093190&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 77&lt;/p&gt;
+&lt;p&gt;# Comments: 164&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 15:01:02 +0000</pubDate><link>https://news.ycombinator.com/item?id=45093190</link><dc:creator>whoishiring</dc:creator><comments>https://news.ycombinator.com/item?id=45093190</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45093190</guid></item><item><title>Cloudflare Radar: AI Insights</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://radar.cloudflare.com/ai-insights"&gt;https://radar.cloudflare.com/ai-insights&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45093090"&gt;https://news.ycombinator.com/item?id=45093090&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 274&lt;/p&gt;
+&lt;p&gt;# Comments: 87&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 14:49:25 +0000</pubDate><link>https://radar.cloudflare.com/ai-insights</link><dc:creator>tosh</dc:creator><comments>https://news.ycombinator.com/item?id=45093090</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45093090</guid></item><item><title>Effective learning: Rules of formulating knowledge (1999)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge"&gt;https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45093022"&gt;https://news.ycombinator.com/item?id=45093022&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 99&lt;/p&gt;
+&lt;p&gt;# Comments: 24&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 14:43:37 +0000</pubDate><link>https://www.supermemo.com/en/blog/twenty-rules-of-formulating-knowledge</link><dc:creator>swatson741</dc:creator><comments>https://news.ycombinator.com/item?id=45093022</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45093022</guid></item><item><title>Bear is now source-available</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://herman.bearblog.dev/license/"&gt;https://herman.bearblog.dev/license/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45092490"&gt;https://news.ycombinator.com/item?id=45092490&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 303&lt;/p&gt;
+&lt;p&gt;# Comments: 269&lt;/p&gt;
+</description><pubDate>Mon, 01 Sep 2025 13:17:56 +0000</pubDate><link>https://herman.bearblog.dev/license/</link><dc:creator>neoromantique</dc:creator><comments>https://news.ycombinator.com/item?id=45092490</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45092490</guid></item></channel></rss>
