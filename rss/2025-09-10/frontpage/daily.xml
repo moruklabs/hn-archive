@@ -1,0 +1,103 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Wed, 10 Sep 2025 00:28:08 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Hypervisor in 1k Lines</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://1000hv.seiya.me/en"&gt;https://1000hv.seiya.me/en&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45190777"&gt;https://news.ycombinator.com/item?id=45190777&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 4&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 23:13:59 +0000</pubDate><link>https://1000hv.seiya.me/en</link><dc:creator>lioeters</dc:creator><comments>https://news.ycombinator.com/item?id=45190777</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45190777</guid></item><item><title>Anthropic is endorsing SB 53</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.anthropic.com/news/anthropic-is-endorsing-sb-53"&gt;https://www.anthropic.com/news/anthropic-is-endorsing-sb-53&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45189053"&gt;https://news.ycombinator.com/item?id=45189053&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 33&lt;/p&gt;
+&lt;p&gt;# Comments: 34&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 21:01:47 +0000</pubDate><link>https://www.anthropic.com/news/anthropic-is-endorsing-sb-53</link><dc:creator>antfarm</dc:creator><comments>https://news.ycombinator.com/item?id=45189053</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45189053</guid></item><item><title>Immunotherapy drug clinical trial results: half of tumors shrink or disappear</title><description>
+&lt;p&gt;&lt;a href="https://www.sciencedirect.com/science/article/pii/S1535610825003198" rel="nofollow"&gt;https://www.sciencedirect.com/science/article/pii/S153561082...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45188945"&gt;https://news.ycombinator.com/item?id=45188945&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 222&lt;/p&gt;
+&lt;p&gt;# Comments: 43&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 20:55:16 +0000</pubDate><link>https://www.rockefeller.edu/news/38120-immunotherapy-drug-eliminates-aggressive-cancers-in-clinical-trial/</link><dc:creator>marc__1</dc:creator><comments>https://news.ycombinator.com/item?id=45188945</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45188945</guid></item><item><title>Inflation Erased U.S. Income Gains Last Year</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.wsj.com/economy/consumers/census-income-insurance-poverty-2024-31d82ad0"&gt;https://www.wsj.com/economy/consumers/census-income-insurance-poverty-2024-31d82ad0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45187687"&gt;https://news.ycombinator.com/item?id=45187687&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 139&lt;/p&gt;
+&lt;p&gt;# Comments: 45&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 19:44:12 +0000</pubDate><link>https://www.wsj.com/economy/consumers/census-income-insurance-poverty-2024-31d82ad0</link><dc:creator>JumpCrisscross</dc:creator><comments>https://news.ycombinator.com/item?id=45187687</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45187687</guid></item><item><title>A cryptography expert on how Web3 started, and how it’s going</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://spectrum.ieee.org/web3-hardware-security"&gt;https://spectrum.ieee.org/web3-hardware-security&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45186726"&gt;https://news.ycombinator.com/item?id=45186726&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 132&lt;/p&gt;
+&lt;p&gt;# Comments: 144&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 18:47:44 +0000</pubDate><link>https://spectrum.ieee.org/web3-hardware-security</link><dc:creator>warrenm</dc:creator><comments>https://news.ycombinator.com/item?id=45186726</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45186726</guid></item><item><title>Memory Integrity Enforcement</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://security.apple.com/blog/memory-integrity-enforcement/"&gt;https://security.apple.com/blog/memory-integrity-enforcement/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45186265"&gt;https://news.ycombinator.com/item?id=45186265&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 283&lt;/p&gt;
+&lt;p&gt;# Comments: 131&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 18:25:03 +0000</pubDate><link>https://security.apple.com/blog/memory-integrity-enforcement/</link><dc:creator>circuit</dc:creator><comments>https://news.ycombinator.com/item?id=45186265</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45186265</guid></item><item><title>iPhone Air</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/"&gt;https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45186015"&gt;https://news.ycombinator.com/item?id=45186015&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 431&lt;/p&gt;
+&lt;p&gt;# Comments: 1025&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 18:12:51 +0000</pubDate><link>https://www.apple.com/newsroom/2025/09/introducing-iphone-air-a-powerful-new-iphone-with-a-breakthrough-design/</link><dc:creator>excerionsforte</dc:creator><comments>https://news.ycombinator.com/item?id=45186015</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45186015</guid></item><item><title>Dropbox Paper mobile App Discontinuation</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://help.dropbox.com/installs/paper-mobile-discontinuation"&gt;https://help.dropbox.com/installs/paper-mobile-discontinuation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45186011"&gt;https://news.ycombinator.com/item?id=45186011&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 119&lt;/p&gt;
+&lt;p&gt;# Comments: 95&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 18:12:28 +0000</pubDate><link>https://help.dropbox.com/installs/paper-mobile-discontinuation</link><dc:creator>mercenario</dc:creator><comments>https://news.ycombinator.com/item?id=45186011</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45186011</guid></item><item><title>Tomorrow's emoji today: Unicode 17.0</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170"&gt;https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45185875"&gt;https://news.ycombinator.com/item?id=45185875&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 90&lt;/p&gt;
+&lt;p&gt;# Comments: 122&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 18:04:49 +0000</pubDate><link>https://jenniferdaniel.substack.com/p/tomorrows-emoji-today-unicode-170</link><dc:creator>ChrisArchitect</dc:creator><comments>https://news.ycombinator.com/item?id=45185875</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45185875</guid></item><item><title>E-paper display reaches the realm of LCD screens</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://spectrum.ieee.org/e-paper-display-modos"&gt;https://spectrum.ieee.org/e-paper-display-modos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45185756"&gt;https://news.ycombinator.com/item?id=45185756&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 176&lt;/p&gt;
+&lt;p&gt;# Comments: 71&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 17:57:35 +0000</pubDate><link>https://spectrum.ieee.org/e-paper-display-modos</link><dc:creator>rbanffy</dc:creator><comments>https://news.ycombinator.com/item?id=45185756</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45185756</guid></item><item><title>Weave (YC W25) is hiring a founding AI engineer</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer"&gt;https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45184921"&gt;https://news.ycombinator.com/item?id=45184921&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 17:01:12 +0000</pubDate><link>https://www.ycombinator.com/companies/weave-3/jobs/SqFnIFE-founding-ai-engineer</link><dc:creator>adchurch</dc:creator><comments>https://news.ycombinator.com/item?id=45184921</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45184921</guid></item><item><title>Microsoft is officially sending employees back to the office</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9"&gt;https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45184432"&gt;https://news.ycombinator.com/item?id=45184432&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 198&lt;/p&gt;
+&lt;p&gt;# Comments: 359&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 16:31:17 +0000</pubDate><link>https://www.businessinsider.com/microsoft-send-employees-back-to-office-rto-remote-work-2025-9</link><dc:creator>alloyed</dc:creator><comments>https://news.ycombinator.com/item?id=45184432</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45184432</guid></item><item><title>ICE is using fake cell towers to spy on people's phones</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/"&gt;https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45184368"&gt;https://news.ycombinator.com/item?id=45184368&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 448&lt;/p&gt;
+&lt;p&gt;# Comments: 189&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 16:27:41 +0000</pubDate><link>https://www.forbes.com/sites/the-wiretap/2025/09/09/how-ice-is-using-fake-cell-towers-to-spy-on-peoples-phones/</link><dc:creator>coloneltcb</dc:creator><comments>https://news.ycombinator.com/item?id=45184368</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45184368</guid></item><item><title>An attacker’s blunder gave us a look into their operations</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.huntress.com/blog/rare-look-inside-attacker-operation"&gt;https://www.huntress.com/blog/rare-look-inside-attacker-operation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45183589"&gt;https://news.ycombinator.com/item?id=45183589&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 115&lt;/p&gt;
+&lt;p&gt;# Comments: 79&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 15:42:32 +0000</pubDate><link>https://www.huntress.com/blog/rare-look-inside-attacker-operation</link><dc:creator>mellosouls</dc:creator><comments>https://news.ycombinator.com/item?id=45183589</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45183589</guid></item><item><title>Building a DOOM-like multiplayer shooter in pure SQL</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://cedardb.com/blog/doomql/"&gt;https://cedardb.com/blog/doomql/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45183050"&gt;https://news.ycombinator.com/item?id=45183050&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 133&lt;/p&gt;
+&lt;p&gt;# Comments: 31&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 15:12:18 +0000</pubDate><link>https://cedardb.com/blog/doomql/</link><dc:creator>lvogel</dc:creator><comments>https://news.ycombinator.com/item?id=45183050</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45183050</guid></item><item><title>We all dodged a bullet</title><description>
+&lt;p&gt;Related: &lt;i&gt;NPM debug and chalk packages compromised&lt;/i&gt; - &lt;a href="https://news.ycombinator.com/item?id=45169657"&gt;https://news.ycombinator.com/item?id=45169657&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45183029"&gt;https://news.ycombinator.com/item?id=45183029&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 527&lt;/p&gt;
+&lt;p&gt;# Comments: 313&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 15:11:26 +0000</pubDate><link>https://xeiaso.net/notes/2025/we-dodged-a-bullet/</link><dc:creator>WhyNotHugo</dc:creator><comments>https://news.ycombinator.com/item?id=45183029</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45183029</guid></item><item><title>A new experimental Go API for JSON</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://go.dev/blog/jsonv2-exp"&gt;https://go.dev/blog/jsonv2-exp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45182770"&gt;https://news.ycombinator.com/item?id=45182770&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 168&lt;/p&gt;
+&lt;p&gt;# Comments: 54&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 14:54:32 +0000</pubDate><link>https://go.dev/blog/jsonv2-exp</link><dc:creator>darccio</dc:creator><comments>https://news.ycombinator.com/item?id=45182770</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45182770</guid></item><item><title>US High school students' scores fall in reading and math</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a"&gt;https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45182657"&gt;https://news.ycombinator.com/item?id=45182657&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 181&lt;/p&gt;
+&lt;p&gt;# Comments: 248&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 14:45:46 +0000</pubDate><link>https://apnews.com/article/naep-reading-math-scores-12th-grade-c18d6e3fbc125f12948cc70cb85a520a</link><dc:creator>bikenaga</dc:creator><comments>https://news.ycombinator.com/item?id=45182657</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45182657</guid></item><item><title>Claude now has access to a server-side container environment</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.anthropic.com/news/create-files"&gt;https://www.anthropic.com/news/create-files&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45182381"&gt;https://news.ycombinator.com/item?id=45182381&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 392&lt;/p&gt;
+&lt;p&gt;# Comments: 233&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 14:25:55 +0000</pubDate><link>https://www.anthropic.com/news/create-files</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=45182381</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45182381</guid></item><item><title>DuckDB NPM packages 1.3.3 and 1.29.2 compromised with malware</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c"&gt;https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45179939"&gt;https://news.ycombinator.com/item?id=45179939&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 290&lt;/p&gt;
+&lt;p&gt;# Comments: 220&lt;/p&gt;
+</description><pubDate>Tue, 09 Sep 2025 10:10:15 +0000</pubDate><link>https://github.com/duckdb/duckdb-node/security/advisories/GHSA-w62p-hx95-gf2c</link><dc:creator>tosh</dc:creator><comments>https://news.ycombinator.com/item?id=45179939</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45179939</guid></item></channel></rss>
