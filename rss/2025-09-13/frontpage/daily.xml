@@ -1,0 +1,102 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sat, 13 Sep 2025 00:26:50 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Tips for installing Windows 98 in QEMU/UTM</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/"&gt;https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45227749"&gt;https://news.ycombinator.com/item?id=45227749&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 16&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 23:04:08 +0000</pubDate><link>https://sporks.space/2025/08/28/tips-for-installing-windows-98-in-qemu-utm/</link><dc:creator>Bogdanp</dc:creator><comments>https://news.ycombinator.com/item?id=45227749</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45227749</guid></item><item><title>FFglitch, FFmpeg fork for glitch arch</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ffglitch.org/gallery/"&gt;https://ffglitch.org/gallery/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45227212"&gt;https://news.ycombinator.com/item?id=45227212&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 45&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 21:54:34 +0000</pubDate><link>https://ffglitch.org/gallery/</link><dc:creator>captain_bender</dc:creator><comments>https://news.ycombinator.com/item?id=45227212</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45227212</guid></item><item><title>Show HN: Aris – a free AI-powered answer engine for kids</title><description>
+&lt;p&gt;I am Andrew, and I’m building Aris (&lt;a href="https://www.aris.chat/" rel="nofollow"&gt;https://www.aris.chat/&lt;/a&gt;).&lt;p&gt;Aris is a minimalist tool that answers any questions a child has.&lt;p&gt;Encyclopedias, periodicals, field guides, cookbooks, and other print resources we used as kids to find knowledge, learn, and pursue our curiosities have been replaced in most households by something that is not safe for kids: the internet. So instead, kids get Fortnite, Minecraft, and ‘edutainment’ options that don’t compare to the knowledge resources that past generations have had access to.&lt;p&gt;With this in mind, many of the smartest people I know raise (or plan to raise) their kids with access to only a 1990s level of consumer technology, without smartphones, tablets, social media, online gaming, etc. Many of these people believe the last three decades of technological development have been a net negative for kids. When my child was born, I had a similar sentiment. However, there are some major problems with limiting a kid’s access to technology today. To name a couple: 1.) a set of World Book encyclopedias now costs $1,200, and 2.) many print resources aren’t as good as they used to be, if they are even still in print, since the market changed. As parents, we need a safe, simple, nonaddictive way for kids to access and explore the world’s knowledge easily and independently.&lt;p&gt;Aris uses a combination of large language models with policy engines and web search tools to find relevant, timely answers to their questions and only returns the stripped-down answers.  It does not return links for them to click on or images or advertisements. Parents can tune the moderation settings as finely as they’d like, preventing discussions about banned topics and even getting as specific as making sure Aris doesn’t tell their second child that Santa isn’t real.&lt;p&gt;The model context handling and system instructions are designed to prevent kids from building emotional reliance or relationships with it. Rather than trying to pull a child into the experience to maximize engagement, Aris is meant to gently redirect the child out of the device into the real world after their question has been answered.&lt;p&gt;We are available as a web app and iPhone/iPad app in the Apple App store, but we have also made our Apple Watch app available in the iOS store as well. We believe minimalist wearables are a good device substitute for younger humans, and we hope Aris can be a healthy addition to those wearables.&lt;p&gt;We plan to make money through premium features that include creating multiple child accounts, accessing premium models for better answers, and for ultra-high usage limits.&lt;p&gt;Come use the app for free on our website or by downloading it in the iOS store by searching for “Aris AI”. We’d love to hear your ideas, experiences, and feedback. Thanks!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45227134"&gt;https://news.ycombinator.com/item?id=45227134&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 13&lt;/p&gt;
+&lt;p&gt;# Comments: 18&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 21:44:47 +0000</pubDate><link>https://www.aris.chat</link><dc:creator>andrewdug</dc:creator><comments>https://news.ycombinator.com/item?id=45227134</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45227134</guid></item><item><title>Proton Mail suspended journalist accounts at request of cybersecurity agency</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/"&gt;https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45226903"&gt;https://news.ycombinator.com/item?id=45226903&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 132&lt;/p&gt;
+&lt;p&gt;# Comments: 65&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 21:20:36 +0000</pubDate><link>https://theintercept.com/2025/09/12/proton-mail-journalist-accounts-suspended/</link><dc:creator>lehi</dc:creator><comments>https://news.ycombinator.com/item?id=45226903</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45226903</guid></item><item><title>I used standard Emacs extension-points to extend org-mode</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://edoput.it/2025/04/16/emacs-paradigm-shift.html"&gt;https://edoput.it/2025/04/16/emacs-paradigm-shift.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45226639"&gt;https://news.ycombinator.com/item?id=45226639&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 105&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 20:53:33 +0000</pubDate><link>https://edoput.it/2025/04/16/emacs-paradigm-shift.html</link><dc:creator>Karrot_Kream</dc:creator><comments>https://news.ycombinator.com/item?id=45226639</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45226639</guid></item><item><title>UTF-8 is a brilliant design</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://iamvishnu.com/posts/utf8-is-brilliant-design"&gt;https://iamvishnu.com/posts/utf8-is-brilliant-design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45225098"&gt;https://news.ycombinator.com/item?id=45225098&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 351&lt;/p&gt;
+&lt;p&gt;# Comments: 150&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 18:30:15 +0000</pubDate><link>https://iamvishnu.com/posts/utf8-is-brilliant-design</link><dc:creator>vishnuharidas</dc:creator><comments>https://news.ycombinator.com/item?id=45225098</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45225098</guid></item><item><title>EU court rules nuclear energy is clean energy</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy"&gt;https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45224967"&gt;https://news.ycombinator.com/item?id=45224967&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 602&lt;/p&gt;
+&lt;p&gt;# Comments: 458&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 18:18:00 +0000</pubDate><link>https://www.weplanet.org/post/eu-court-rules-nuclear-energy-is-clean-energy</link><dc:creator>mpweiher</dc:creator><comments>https://news.ycombinator.com/item?id=45224967</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45224967</guid></item><item><title>Why do browsers throttle JavaScript timers?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/"&gt;https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45224542"&gt;https://news.ycombinator.com/item?id=45224542&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 46&lt;/p&gt;
+&lt;p&gt;# Comments: 27&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 17:35:08 +0000</pubDate><link>https://nolanlawson.com/2025/08/31/why-do-browsers-throttle-javascript-timers/</link><dc:creator>vidyesh</dc:creator><comments>https://news.ycombinator.com/item?id=45224542</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45224542</guid></item><item><title>How FOSS Projects Handle Legal Takedown Requests</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html"&gt;https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45224421"&gt;https://news.ycombinator.com/item?id=45224421&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 82&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 17:22:38 +0000</pubDate><link>https://f-droid.org/2025/09/10/how-foss-projects-handle-legal-takedown-requests.html</link><dc:creator>mkesper</dc:creator><comments>https://news.ycombinator.com/item?id=45224421</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45224421</guid></item><item><title>Humanely dealing with humungus crawlers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers"&gt;https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45224246"&gt;https://news.ycombinator.com/item?id=45224246&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 68&lt;/p&gt;
+&lt;p&gt;# Comments: 36&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 17:06:52 +0000</pubDate><link>https://flak.tedunangst.com/post/humanely-dealing-with-humungus-crawlers</link><dc:creator>freediver</dc:creator><comments>https://news.ycombinator.com/item?id=45224246</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45224246</guid></item><item><title>K2-think: A parameter-efficient reasoning system</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arxiv.org/abs/2509.07604"&gt;https://arxiv.org/abs/2509.07604&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45224219"&gt;https://news.ycombinator.com/item?id=45224219&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 35&lt;/p&gt;
+&lt;p&gt;# Comments: 6&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 17:04:03 +0000</pubDate><link>https://arxiv.org/abs/2509.07604</link><dc:creator>mgl</dc:creator><comments>https://news.ycombinator.com/item?id=45224219</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45224219</guid></item><item><title>QGIS is a free, open-source, cross platform geographical information system</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/qgis/QGIS"&gt;https://github.com/qgis/QGIS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45224156"&gt;https://news.ycombinator.com/item?id=45224156&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 276&lt;/p&gt;
+&lt;p&gt;# Comments: 74&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 16:57:17 +0000</pubDate><link>https://github.com/qgis/QGIS</link><dc:creator>rcarmo</dc:creator><comments>https://news.ycombinator.com/item?id=45224156</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45224156</guid></item><item><title>VaultGemma: The most capable differentially private LLM</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/"&gt;https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45223726"&gt;https://news.ycombinator.com/item?id=45223726&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 81&lt;/p&gt;
+&lt;p&gt;# Comments: 16&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 16:14:50 +0000</pubDate><link>https://research.google/blog/vaultgemma-the-worlds-most-capable-differentially-private-llm/</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=45223726</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45223726</guid></item><item><title>Corporations are trying to hide job openings from US citizens</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/"&gt;https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45223719"&gt;https://news.ycombinator.com/item?id=45223719&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 299&lt;/p&gt;
+&lt;p&gt;# Comments: 223&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 16:13:49 +0000</pubDate><link>https://thehill.com/opinion/finance/5498346-corporate-america-has-been-trying-to-hide-job-openings-now-it-is-failing/</link><dc:creator>b_mc2</dc:creator><comments>https://news.ycombinator.com/item?id=45223719</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45223719</guid></item><item><title>OpenAI Grove</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://openai.com/index/openai-grove/"&gt;https://openai.com/index/openai-grove/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45223660"&gt;https://news.ycombinator.com/item?id=45223660&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 75&lt;/p&gt;
+&lt;p&gt;# Comments: 78&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 16:05:58 +0000</pubDate><link>https://openai.com/index/openai-grove/</link><dc:creator>manveerc</dc:creator><comments>https://news.ycombinator.com/item?id=45223660</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45223660</guid></item><item><title>Advanced Scheme Techniques (2004) [pdf]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://people.csail.mit.edu//jhbrown/scheme/continuationslides04.pdf"&gt;https://people.csail.mit.edu//jhbrown/scheme/continuationslides04.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45223419"&gt;https://news.ycombinator.com/item?id=45223419&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 90&lt;/p&gt;
+&lt;p&gt;# Comments: 12&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 15:44:52 +0000</pubDate><link>https://people.csail.mit.edu//jhbrown/scheme/continuationslides04.pdf</link><dc:creator>mooreds</dc:creator><comments>https://news.ycombinator.com/item?id=45223419</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45223419</guid></item><item><title>Oq: Terminal OpenAPI Spec Viewer</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/plutov/oq"&gt;https://github.com/plutov/oq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45222799"&gt;https://news.ycombinator.com/item?id=45222799&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 88&lt;/p&gt;
+&lt;p&gt;# Comments: 11&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 14:53:45 +0000</pubDate><link>https://github.com/plutov/oq</link><dc:creator>der_gopher</dc:creator><comments>https://news.ycombinator.com/item?id=45222799</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45222799</guid></item><item><title>Many hard LeetCode problems are easy constraint problems</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/"&gt;https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45222695"&gt;https://news.ycombinator.com/item?id=45222695&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 396&lt;/p&gt;
+&lt;p&gt;# Comments: 341&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 14:44:05 +0000</pubDate><link>https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/</link><dc:creator>mpweiher</dc:creator><comments>https://news.ycombinator.com/item?id=45222695</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45222695</guid></item><item><title>3D modeling with paper</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.arvinpoddar.com/blog/3d-modeling-with-paper"&gt;https://www.arvinpoddar.com/blog/3d-modeling-with-paper&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45222369"&gt;https://news.ycombinator.com/item?id=45222369&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 230&lt;/p&gt;
+&lt;p&gt;# Comments: 32&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 14:12:23 +0000</pubDate><link>https://www.arvinpoddar.com/blog/3d-modeling-with-paper</link><dc:creator>joshuawootonn</dc:creator><comments>https://news.ycombinator.com/item?id=45222369</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45222369</guid></item><item><title>The treasury is expanding the Patriot Act to attack Bitcoin self custody</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.tftc.io/treasury-iexpanding-patriot-act/"&gt;https://www.tftc.io/treasury-iexpanding-patriot-act/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45221274"&gt;https://news.ycombinator.com/item?id=45221274&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 588&lt;/p&gt;
+&lt;p&gt;# Comments: 441&lt;/p&gt;
+</description><pubDate>Fri, 12 Sep 2025 12:10:29 +0000</pubDate><link>https://www.tftc.io/treasury-iexpanding-patriot-act/</link><dc:creator>bilsbie</dc:creator><comments>https://news.ycombinator.com/item?id=45221274</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45221274</guid></item></channel></rss>
