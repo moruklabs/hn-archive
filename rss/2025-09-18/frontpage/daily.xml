@@ -1,0 +1,106 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Thu, 18 Sep 2025 00:19:28 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Pg_links</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://giulianopz.github.io/pg.html"&gt;https://giulianopz.github.io/pg.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45281899"&gt;https://news.ycombinator.com/item?id=45281899&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 24&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 22:00:45 +0000</pubDate><link>https://giulianopz.github.io/pg.html</link><dc:creator>giulianopz</dc:creator><comments>https://news.ycombinator.com/item?id=45281899</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45281899</guid></item><item><title>Jqp: TUI Playground to Experiment with Jq</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/noahgorstein/jqp"&gt;https://github.com/noahgorstein/jqp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45281437"&gt;https://news.ycombinator.com/item?id=45281437&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 17&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 21:10:04 +0000</pubDate><link>https://github.com/noahgorstein/jqp</link><dc:creator>ingve</dc:creator><comments>https://news.ycombinator.com/item?id=45281437</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45281437</guid></item><item><title>A postmortem of three recent issues</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues"&gt;https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45281139"&gt;https://news.ycombinator.com/item?id=45281139&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 151&lt;/p&gt;
+&lt;p&gt;# Comments: 54&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 20:41:07 +0000</pubDate><link>https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues</link><dc:creator>moatmoat</dc:creator><comments>https://news.ycombinator.com/item?id=45281139</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45281139</guid></item><item><title>Gluon: a GPU programming language based on the same compiler stack as Triton</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py"&gt;https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45280592"&gt;https://news.ycombinator.com/item?id=45280592&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 50&lt;/p&gt;
+&lt;p&gt;# Comments: 15&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 19:50:11 +0000</pubDate><link>https://github.com/triton-lang/triton/blob/main/python/tutorials/gluon/01-intro.py</link><dc:creator>matt_d</dc:creator><comments>https://news.ycombinator.com/item?id=45280592</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45280592</guid></item><item><title>Famous cognitive psychology experiments that failed to replicate</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://buttondown.com/aethermug/archive/aether-mug-famous-cognitive-psychology/"&gt;https://buttondown.com/aethermug/archive/aether-mug-famous-cognitive-psychology/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45279898"&gt;https://news.ycombinator.com/item?id=45279898&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 126&lt;/p&gt;
+&lt;p&gt;# Comments: 91&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 18:55:28 +0000</pubDate><link>https://buttondown.com/aethermug/archive/aether-mug-famous-cognitive-psychology/</link><dc:creator>PaulHoule</dc:creator><comments>https://news.ycombinator.com/item?id=45279898</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45279898</guid></item><item><title>Optimizing ClickHouse for Intel's 280 core processors</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu"&gt;https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45279792"&gt;https://news.ycombinator.com/item?id=45279792&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 130&lt;/p&gt;
+&lt;p&gt;# Comments: 33&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 18:46:03 +0000</pubDate><link>https://clickhouse.com/blog/optimizing-clickhouse-intel-high-core-count-cpu</link><dc:creator>ashvardanian</dc:creator><comments>https://news.ycombinator.com/item?id=45279792</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45279792</guid></item><item><title>WASM 3.0 Completed</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://webassembly.org/news/2025-09-17-wasm-3.0/"&gt;https://webassembly.org/news/2025-09-17-wasm-3.0/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45279384"&gt;https://news.ycombinator.com/item?id=45279384&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 634&lt;/p&gt;
+&lt;p&gt;# Comments: 256&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 18:16:53 +0000</pubDate><link>https://webassembly.org/news/2025-09-17-wasm-3.0/</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=45279384</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45279384</guid></item><item><title>DeepMind and OpenAI win gold at ICPC</title><description>
+&lt;p&gt;&lt;a href="https://x.com/MostafaRohani/status/1968360976379703569" rel="nofollow"&gt;https://x.com/MostafaRohani/status/1968360976379703569&lt;/a&gt;&lt;p&gt;&lt;a href="https://x.com/HengTze/status/1968359525339246825" rel="nofollow"&gt;https://x.com/HengTze/status/1968359525339246825&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45279357"&gt;https://news.ycombinator.com/item?id=45279357&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 145&lt;/p&gt;
+&lt;p&gt;# Comments: 150&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 18:15:16 +0000</pubDate><link>https://codeforces.com/blog/entry/146536</link><dc:creator>notemap</dc:creator><comments>https://news.ycombinator.com/item?id=45279357</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45279357</guid></item><item><title>Anthropic irks White House with limits on models’ use</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.semafor.com/article/09/17/2025/anthropic-irks-white-house-with-limits-on-models-uswhite-house-with-limits-on-models-use"&gt;https://www.semafor.com/article/09/17/2025/anthropic-irks-white-house-with-limits-on-models-uswhite-house-with-limits-on-models-use&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45279143"&gt;https://news.ycombinator.com/item?id=45279143&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 211&lt;/p&gt;
+&lt;p&gt;# Comments: 110&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 17:57:39 +0000</pubDate><link>https://www.semafor.com/article/09/17/2025/anthropic-irks-white-house-with-limits-on-models-uswhite-house-with-limits-on-models-use</link><dc:creator>mindingnever</dc:creator><comments>https://news.ycombinator.com/item?id=45279143</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45279143</guid></item><item><title>DeepSeek writes less secure code for groups China disfavors?</title><description>
+&lt;p&gt;&lt;a href="https://archive.ph/KwJ64" rel="nofollow"&gt;https://archive.ph/KwJ64&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45278740"&gt;https://news.ycombinator.com/item?id=45278740&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 218&lt;/p&gt;
+&lt;p&gt;# Comments: 137&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 17:24:14 +0000</pubDate><link>https://www.washingtonpost.com/technology/2025/09/16/deepseek-ai-security/</link><dc:creator>otterley</dc:creator><comments>https://news.ycombinator.com/item?id=45278740</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45278740</guid></item><item><title>Depression reduces capacity to learn to actively avoid aversive events</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.eneuro.org/content/12/9/ENEURO.0034-25.2025"&gt;https://www.eneuro.org/content/12/9/ENEURO.0034-25.2025&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45278686"&gt;https://news.ycombinator.com/item?id=45278686&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 172&lt;/p&gt;
+&lt;p&gt;# Comments: 42&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 17:20:36 +0000</pubDate><link>https://www.eneuro.org/content/12/9/ENEURO.0034-25.2025</link><dc:creator>PaulHoule</dc:creator><comments>https://news.ycombinator.com/item?id=45278686</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45278686</guid></item><item><title>Tinycolor supply chain attack post-mortem</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://sigh.dev/posts/ctrl-tinycolor-post-mortem/"&gt;https://sigh.dev/posts/ctrl-tinycolor-post-mortem/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45278657"&gt;https://news.ycombinator.com/item?id=45278657&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 121&lt;/p&gt;
+&lt;p&gt;# Comments: 50&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 17:18:38 +0000</pubDate><link>https://sigh.dev/posts/ctrl-tinycolor-post-mortem/</link><dc:creator>STRiDEX</dc:creator><comments>https://news.ycombinator.com/item?id=45278657</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45278657</guid></item><item><title>Drought in Iraq reveals tombs created 2,300 years ago</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/"&gt;https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45278581"&gt;https://news.ycombinator.com/item?id=45278581&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 91&lt;/p&gt;
+&lt;p&gt;# Comments: 11&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 17:12:15 +0000</pubDate><link>https://www.smithsonianmag.com/smart-news/severe-droughts-in-iraq-reveals-dozens-of-ancient-tombs-created-2300-years-ago-180987347/</link><dc:creator>pseudolus</dc:creator><comments>https://news.ycombinator.com/item?id=45278581</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45278581</guid></item><item><title>Event Horizon Labs (YC W24) Is Hiring</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs"&gt;https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45278424"&gt;https://news.ycombinator.com/item?id=45278424&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 17:00:05 +0000</pubDate><link>https://www.ycombinator.com/companies/event-horizon-labs/jobs/U6oyyKZ-founding-engineer-at-event-horizon-labs</link><dc:creator>ocolegro</dc:creator><comments>https://news.ycombinator.com/item?id=45278424</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45278424</guid></item><item><title>Ton Roosendaal to step down as Blender chairman and CEO</title><description>
+&lt;p&gt;&lt;a href="https://www.blender.org/press/blender-foundation-announces-new-board-and-executive-director/" rel="nofollow"&gt;https://www.blender.org/press/blender-foundation-announces-n...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45278279"&gt;https://news.ycombinator.com/item?id=45278279&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 212&lt;/p&gt;
+&lt;p&gt;# Comments: 41&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 16:49:37 +0000</pubDate><link>https://www.cgchannel.com/2025/09/ton-roosendaal-to-step-down-as-blender-chairman-and-ceo/</link><dc:creator>cma</dc:creator><comments>https://news.ycombinator.com/item?id=45278279</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45278279</guid></item><item><title>Launch HN: RunRL (YC X25) – Reinforcement learning as a service</title><description>
+&lt;p&gt;Hey HN, we’re Andrew and Derik at RunRL (&lt;a href="https://runrl.com/"&gt;https://runrl.com/&lt;/a&gt;). We've built a platform to improve models and agents with reinforcement learning. If you can define a metric, we'll make your model or agent better, without you having to think about managing GPU clusters.&lt;p&gt;Here's a demo video: &lt;a href="https://youtu.be/EtiBjs4jfCg" rel="nofollow"&gt;https://youtu.be/EtiBjs4jfCg&lt;/a&gt;&lt;p&gt;I (Andrew) was doing a PhD in reinforcement learning on language models, and everyone kept...not using RL because it was too hard to get running. At some point I realized that someone's got to sit down and actually write a good platform for running RL experiments.&lt;p&gt;Once this happened, people started using it for antiviral design, formal verification, browser agents, and a bunch of other cool applications, so we decided to make a startup out of it.&lt;p&gt;How it works:&lt;p&gt;- Choose an open-weight base model (weights are necessary for RL updates; Qwen3-4B-Instruct-2507 is a good starting point)&lt;p&gt;- Upload a set of initial prompts ("Generate an antiviral targeting Sars-CoV-2 protease", "Prove this theorem", "What's the average summer high in Windhoek?")&lt;p&gt;- Define a reward function, using Python, an LLM-as-a-judge, or both&lt;p&gt;- For complex settings, you can define an entire multi-turn environment&lt;p&gt;- Watch the reward go up!&lt;p&gt;For most well-defined problems, a small open model + RunRL outperforms frontier models. (For instance, we've seen Qwen-3B do better than Claude 4.1 Opus on antiviral design.) This is because LLM intelligence is notoriously "spiky"; often models are decent-but-not-great at common-sense knowledge, are randomly good at a few domains, but make mistakes on lots of other tasks. RunRL creates spikes precisely on the tasks where you need them.&lt;p&gt;Pricing: $80/node-hour. Most models up to 14B parameters fit on one node (0.6-1.2 TB of VRAM). We do full fine-tuning, at the cost of parameter-efficiency (with RL, people seem to care a lot about the last few percent gains in e.g. agent reliability).&lt;p&gt;Next up: continuous learning; tool use. Tool use is currently in private beta, which you can join here: &lt;a href="https://forms.gle/D2mSmeQDVCDraPQg8" rel="nofollow"&gt;https://forms.gle/D2mSmeQDVCDraPQg8&lt;/a&gt;&lt;p&gt;We'd love to hear any thoughts, questions, or positive or negative reinforcement!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45277704"&gt;https://news.ycombinator.com/item?id=45277704&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 50&lt;/p&gt;
+&lt;p&gt;# Comments: 12&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 16:13:00 +0000</pubDate><link>https://runrl.com</link><dc:creator>ag8</dc:creator><comments>https://news.ycombinator.com/item?id=45277704</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45277704</guid></item><item><title>How to motivate yourself to do a thing you don't want to do</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ashleyjanssen.com/how-to-motivate-yourself-to-do-a-thing-you-dont-want-to-do/"&gt;https://ashleyjanssen.com/how-to-motivate-yourself-to-do-a-thing-you-dont-want-to-do/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45276987"&gt;https://news.ycombinator.com/item?id=45276987&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 257&lt;/p&gt;
+&lt;p&gt;# Comments: 193&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 15:25:24 +0000</pubDate><link>https://ashleyjanssen.com/how-to-motivate-yourself-to-do-a-thing-you-dont-want-to-do/</link><dc:creator>mooreds</dc:creator><comments>https://news.ycombinator.com/item?id=45276987</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45276987</guid></item><item><title>YouTube addresses lower view counts which seem to be caused by ad blockers</title><description>
+&lt;p&gt;&lt;a href="https://github.com/easylist/easylist/issues/22375" rel="nofollow"&gt;https://github.com/easylist/easylist/issues/22375&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45276262"&gt;https://news.ycombinator.com/item?id=45276262&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 255&lt;/p&gt;
+&lt;p&gt;# Comments: 516&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 14:29:10 +0000</pubDate><link>https://9to5google.com/2025/09/16/youtube-lower-view-counts-ad-blockers/</link><dc:creator>iamflimflam1</dc:creator><comments>https://news.ycombinator.com/item?id=45276262</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45276262</guid></item><item><title>UUIDv47: Store UUIDv7 in DB, emit UUIDv4 outside (SipHash-masked timestamp)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/stateless-me/uuidv47"&gt;https://github.com/stateless-me/uuidv47&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45275973"&gt;https://news.ycombinator.com/item?id=45275973&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 140&lt;/p&gt;
+&lt;p&gt;# Comments: 65&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 14:02:29 +0000</pubDate><link>https://github.com/stateless-me/uuidv47</link><dc:creator>aabbdev</dc:creator><comments>https://news.ycombinator.com/item?id=45275973</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45275973</guid></item><item><title>Tau² benchmark: How a prompt rewrite boosted GPT-5-mini by 22%</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/"&gt;https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45275354"&gt;https://news.ycombinator.com/item?id=45275354&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 159&lt;/p&gt;
+&lt;p&gt;# Comments: 49&lt;/p&gt;
+</description><pubDate>Wed, 17 Sep 2025 13:03:24 +0000</pubDate><link>https://quesma.com/blog/tau2-benchmark-improving-results-smaller-models/</link><dc:creator>blndrt</dc:creator><comments>https://news.ycombinator.com/item?id=45275354</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45275354</guid></item></channel></rss>
