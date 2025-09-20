@@ -1,0 +1,103 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sat, 20 Sep 2025 00:14:24 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Restriction on Entry of Certain Nonimmigrant Workers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.whitehouse.gov/presidential-actions/2025/09/restriction-on-entry-of-certain-nonimmigrant-workers/"&gt;https://www.whitehouse.gov/presidential-actions/2025/09/restriction-on-entry-of-certain-nonimmigrant-workers/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45307922"&gt;https://news.ycombinator.com/item?id=45307922&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 24&lt;/p&gt;
+&lt;p&gt;# Comments: 13&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 23:15:17 +0000</pubDate><link>https://www.whitehouse.gov/presidential-actions/2025/09/restriction-on-entry-of-certain-nonimmigrant-workers/</link><dc:creator>quantumwannabe</dc:creator><comments>https://news.ycombinator.com/item?id=45307922</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45307922</guid></item><item><title>Less is safer: how Obsidian reduces the risk of supply chain attacks</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://obsidian.md/blog/less-is-safer/"&gt;https://obsidian.md/blog/less-is-safer/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45307242"&gt;https://news.ycombinator.com/item?id=45307242&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 69&lt;/p&gt;
+&lt;p&gt;# Comments: 42&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 22:02:29 +0000</pubDate><link>https://obsidian.md/blog/less-is-safer/</link><dc:creator>saeedesmaili</dc:creator><comments>https://news.ycombinator.com/item?id=45307242</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45307242</guid></item><item><title>Show HN: Zedis – A Redis clone I'm writing in Zig</title><description>
+&lt;p&gt;Writing Redis from scratch in Zig.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45307166"&gt;https://news.ycombinator.com/item?id=45307166&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 32&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 21:55:43 +0000</pubDate><link>https://github.com/barddoo/zedis</link><dc:creator>barddoo</dc:creator><comments>https://news.ycombinator.com/item?id=45307166</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45307166</guid></item><item><title>Hidden risk in Notion 3.0 AI agents: Web search tool abuse for data exfiltration</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.codeintegrity.ai/blog/notion"&gt;https://www.codeintegrity.ai/blog/notion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45307095"&gt;https://news.ycombinator.com/item?id=45307095&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 51&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 21:49:37 +0000</pubDate><link>https://www.codeintegrity.ai/blog/notion</link><dc:creator>abirag</dc:creator><comments>https://news.ycombinator.com/item?id=45307095</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45307095</guid></item><item><title>Feedmaker: URL + CSS selectors = RSS feed</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://feedmaker.fly.dev"&gt;https://feedmaker.fly.dev&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45306701"&gt;https://news.ycombinator.com/item?id=45306701&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 62&lt;/p&gt;
+&lt;p&gt;# Comments: 13&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 21:14:56 +0000</pubDate><link>https://feedmaker.fly.dev</link><dc:creator>mustaphah</dc:creator><comments>https://news.ycombinator.com/item?id=45306701</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45306701</guid></item><item><title>Ask HN: Has anyone else been unemployed for over two years?</title><description>
+&lt;p&gt;How are you coping?&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45306539"&gt;https://news.ycombinator.com/item?id=45306539&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 265&lt;/p&gt;
+&lt;p&gt;# Comments: 249&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 21:01:42 +0000</pubDate><link>https://news.ycombinator.com/item?id=45306539</link><dc:creator>ncarlson</dc:creator><comments>https://news.ycombinator.com/item?id=45306539</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45306539</guid></item><item><title>How to waste CPU like a Professional</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://mostlynerdless.de/blog/2025/09/19/how-to-waste-cpu-like-a-professional/"&gt;https://mostlynerdless.de/blog/2025/09/19/how-to-waste-cpu-like-a-professional/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45306147"&gt;https://news.ycombinator.com/item?id=45306147&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 25&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 20:28:21 +0000</pubDate><link>https://mostlynerdless.de/blog/2025/09/19/how-to-waste-cpu-like-a-professional/</link><dc:creator>tanelpoder</dc:creator><comments>https://news.ycombinator.com/item?id=45306147</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45306147</guid></item><item><title>Show HN: WeUseElixir - Elixir project directory</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://weuseelixir.com/"&gt;https://weuseelixir.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45306120"&gt;https://news.ycombinator.com/item?id=45306120&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 71&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 20:25:14 +0000</pubDate><link>https://weuseelixir.com/</link><dc:creator>taddgiles</dc:creator><comments>https://news.ycombinator.com/item?id=45306120</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45306120</guid></item><item><title>Time Spent on Hardening</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://third-bit.com/2025/09/18/time-spent-on-hardening/"&gt;https://third-bit.com/2025/09/18/time-spent-on-hardening/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45305909"&gt;https://news.ycombinator.com/item?id=45305909&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 38&lt;/p&gt;
+&lt;p&gt;# Comments: 15&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 20:05:48 +0000</pubDate><link>https://third-bit.com/2025/09/18/time-spent-on-hardening/</link><dc:creator>mooreds</dc:creator><comments>https://news.ycombinator.com/item?id=45305909</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45305909</guid></item><item><title>The Economic Impacts of AI: A Multidisciplinary, Multibook Review [pdf]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://kevinbryanecon.com/BryanAIBookReview.pdf"&gt;https://kevinbryanecon.com/BryanAIBookReview.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45305660"&gt;https://news.ycombinator.com/item?id=45305660&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 37&lt;/p&gt;
+&lt;p&gt;# Comments: 11&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 19:44:16 +0000</pubDate><link>https://kevinbryanecon.com/BryanAIBookReview.pdf</link><dc:creator>cjbarber</dc:creator><comments>https://news.ycombinator.com/item?id=45305660</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45305660</guid></item><item><title>Three-Minute Take-Home Test May Identify Symptoms Linked to Alzheimer's Disease</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/"&gt;https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45305180"&gt;https://news.ycombinator.com/item?id=45305180&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 46&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 19:03:02 +0000</pubDate><link>https://www.smithsonianmag.com/smart-news/three-minute-take-home-test-may-identify-symptoms-linked-to-alzheimers-disease-years-before-a-traditional-diagnosis-180987281/</link><dc:creator>pseudolus</dc:creator><comments>https://news.ycombinator.com/item?id=45305180</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45305180</guid></item><item><title>An untidy history of AI across four books</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity"&gt;https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45304706"&gt;https://news.ycombinator.com/item?id=45304706&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 78&lt;/p&gt;
+&lt;p&gt;# Comments: 26&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 18:15:18 +0000</pubDate><link>https://hedgehogreview.com/issues/lessons-of-babel/articles/perplexity</link><dc:creator>ewf</dc:creator><comments>https://news.ycombinator.com/item?id=45304706</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45304706</guid></item><item><title>Your very own humane interface: Try Jef Raskin's ideas at home</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/"&gt;https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45304379"&gt;https://news.ycombinator.com/item?id=45304379&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 55&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 17:43:33 +0000</pubDate><link>https://arstechnica.com/gadgets/2025/09/your-very-own-humane-interface-try-jef-raskins-ideas-at-home/</link><dc:creator>zdw</dc:creator><comments>https://news.ycombinator.com/item?id=45304379</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45304379</guid></item><item><title>Kernel: Introduce Multikernel Architecture Support</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lwn.net/ml/all/20250918222607.186488-1-xiyou.wangcong@gmail.com/"&gt;https://lwn.net/ml/all/20250918222607.186488-1-xiyou.wangcong@gmail.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45302721"&gt;https://news.ycombinator.com/item?id=45302721&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 97&lt;/p&gt;
+&lt;p&gt;# Comments: 23&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 15:29:25 +0000</pubDate><link>https://lwn.net/ml/all/20250918222607.186488-1-xiyou.wangcong@gmail.com/</link><dc:creator>ahlCVA</dc:creator><comments>https://news.ycombinator.com/item?id=45302721</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45302721</guid></item><item><title>Revamping an Old TV as a Gift (2019)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.davidv.dev/posts/revamping-an-old-tv-as-a-gift/"&gt;https://blog.davidv.dev/posts/revamping-an-old-tv-as-a-gift/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45302222"&gt;https://news.ycombinator.com/item?id=45302222&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 57&lt;/p&gt;
+&lt;p&gt;# Comments: 24&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 14:43:50 +0000</pubDate><link>https://blog.davidv.dev/posts/revamping-an-old-tv-as-a-gift/</link><dc:creator>deivid</dc:creator><comments>https://news.ycombinator.com/item?id=45302222</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45302222</guid></item><item><title>I regret building this $3000 Pi AI cluster</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster"&gt;https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45302065"&gt;https://news.ycombinator.com/item?id=45302065&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 402&lt;/p&gt;
+&lt;p&gt;# Comments: 297&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 14:28:47 +0000</pubDate><link>https://www.jeffgeerling.com/blog/2025/i-regret-building-3000-pi-ai-cluster</link><dc:creator>speckx</dc:creator><comments>https://news.ycombinator.com/item?id=45302065</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45302065</guid></item><item><title>Ants that seem to defy biology – They lay eggs that hatch into another species</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/"&gt;https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45300865"&gt;https://news.ycombinator.com/item?id=45300865&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 305&lt;/p&gt;
+&lt;p&gt;# Comments: 96&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 12:25:50 +0000</pubDate><link>https://www.smithsonianmag.com/smart-news/these-ant-queens-seem-to-defy-biology-they-lay-eggs-that-hatch-into-another-species-180987292/</link><dc:creator>sampo</dc:creator><comments>https://news.ycombinator.com/item?id=45300865</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45300865</guid></item><item><title>YouTube downloaders (and how Google silenced the press)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://windowsread.me/p/best-youtube-downloaders"&gt;https://windowsread.me/p/best-youtube-downloaders&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45300810"&gt;https://news.ycombinator.com/item?id=45300810&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 160&lt;/p&gt;
+&lt;p&gt;# Comments: 62&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 12:20:10 +0000</pubDate><link>https://windowsread.me/p/best-youtube-downloaders</link><dc:creator>Leftium</dc:creator><comments>https://news.ycombinator.com/item?id=45300810</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45300810</guid></item><item><title>Dynamo AI (YC W22) Is Hiring a Senior Kubernetes Engineer</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer"&gt;https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45300615"&gt;https://news.ycombinator.com/item?id=45300615&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 12:00:16 +0000</pubDate><link>https://www.ycombinator.com/companies/dynamo-ai/jobs/fU1oC9q-senior-kubernetes-engineer</link><dc:creator>DynamoFL</dc:creator><comments>https://news.ycombinator.com/item?id=45300615</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45300615</guid></item><item><title>Ruby Central's Attack on RubyGems [pdf]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://pup-e.com/goodbye-rubygems.pdf"&gt;https://pup-e.com/goodbye-rubygems.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45299170"&gt;https://news.ycombinator.com/item?id=45299170&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 583&lt;/p&gt;
+&lt;p&gt;# Comments: 188&lt;/p&gt;
+</description><pubDate>Fri, 19 Sep 2025 08:09:17 +0000</pubDate><link>https://pup-e.com/goodbye-rubygems.pdf</link><dc:creator>jolux</dc:creator><comments>https://news.ycombinator.com/item?id=45299170</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45299170</guid></item></channel></rss>
