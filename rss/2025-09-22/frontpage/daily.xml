@@ -1,0 +1,103 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Mon, 22 Sep 2025 00:24:30 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Be Careful with Go Struct Embedding</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html"&gt;https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45327531"&gt;https://news.ycombinator.com/item?id=45327531&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 16&lt;/p&gt;
+&lt;p&gt;# Comments: 12&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 23:16:08 +0000</pubDate><link>https://mattjhall.co.uk/posts/be-careful-with-go-struct-embedding.html</link><dc:creator>mattjhall</dc:creator><comments>https://news.ycombinator.com/item?id=45327531</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45327531</guid></item><item><title>Why is Venus hell and Earth an Eden?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/"&gt;https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45327417"&gt;https://news.ycombinator.com/item?id=45327417&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 30&lt;/p&gt;
+&lt;p&gt;# Comments: 27&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 22:56:31 +0000</pubDate><link>https://www.quantamagazine.org/why-is-venus-hell-and-earth-an-eden-20250915/</link><dc:creator>pseudolus</dc:creator><comments>https://news.ycombinator.com/item?id=45327417</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45327417</guid></item><item><title>EU to block Big Tech from new financial data sharing system</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ft.com/content/6596876f-c831-482c-878c-78c1499ef543"&gt;https://www.ft.com/content/6596876f-c831-482c-878c-78c1499ef543&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45327399"&gt;https://news.ycombinator.com/item?id=45327399&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 13&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 22:54:10 +0000</pubDate><link>https://www.ft.com/content/6596876f-c831-482c-878c-78c1499ef543</link><dc:creator>1vuio0pswjnm7</dc:creator><comments>https://news.ycombinator.com/item?id=45327399</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45327399</guid></item><item><title>Zig got a new ELF linker and it's fast</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/ziglang/zig/pull/25299"&gt;https://github.com/ziglang/zig/pull/25299&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45327318"&gt;https://news.ycombinator.com/item?id=45327318&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 36&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 22:40:28 +0000</pubDate><link>https://github.com/ziglang/zig/pull/25299</link><dc:creator>Retro_Dev</dc:creator><comments>https://news.ycombinator.com/item?id=45327318</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45327318</guid></item><item><title>Tiny reactors could one day power towns, campuses; community input will be key</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://theconversation.com/nuclear-in-your-backyard-tiny-reactors-could-one-day-power-towns-and-campuses-but-community-input-will-be-key-261225"&gt;https://theconversation.com/nuclear-in-your-backyard-tiny-reactors-could-one-day-power-towns-and-campuses-but-community-input-will-be-key-261225&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45327108"&gt;https://news.ycombinator.com/item?id=45327108&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 16&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 22:05:23 +0000</pubDate><link>https://theconversation.com/nuclear-in-your-backyard-tiny-reactors-could-one-day-power-towns-and-campuses-but-community-input-will-be-key-261225</link><dc:creator>rntn</dc:creator><comments>https://news.ycombinator.com/item?id=45327108</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45327108</guid></item><item><title>My new Git utility `what-changed-twice` needs a new name</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.plover.com/2025/09/21/#what-changed-twice"&gt;https://blog.plover.com/2025/09/21/#what-changed-twice&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45327059"&gt;https://news.ycombinator.com/item?id=45327059&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 4&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 21:59:12 +0000</pubDate><link>https://blog.plover.com/2025/09/21/#what-changed-twice</link><dc:creator>jamesbowman</dc:creator><comments>https://news.ycombinator.com/item?id=45327059</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45327059</guid></item><item><title>Show HN: Tips to stay safe from NPM supply chain attacks</title><description>
+&lt;p&gt;Hi everyone, given the recent increase of attacks on the NPM supply chain, I've put together a list of tips and tricks to help developers stay secure on this specific topic: &lt;a href="https://github.com/bodadotsh/npm-security-best-practices" rel="nofollow"&gt;https://github.com/bodadotsh/npm-security-best-practices&lt;/a&gt;&lt;p&gt;I'd love for you to check it out, and contribute your own insights and best practices to make this a comprehensive resource for the community.&lt;p&gt;Cheers!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45326754"&gt;https://news.ycombinator.com/item?id=45326754&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 7&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 21:19:47 +0000</pubDate><link>https://github.com/bodadotsh/npm-security-best-practices</link><dc:creator>bodash</dc:creator><comments>https://news.ycombinator.com/item?id=45326754</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45326754</guid></item><item><title>Lightweight, highly accurate line and paragraph detection</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arxiv.org/abs/2203.09638"&gt;https://arxiv.org/abs/2203.09638&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45326740"&gt;https://news.ycombinator.com/item?id=45326740&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 32&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 21:18:14 +0000</pubDate><link>https://arxiv.org/abs/2203.09638</link><dc:creator>colonCapitalDee</dc:creator><comments>https://news.ycombinator.com/item?id=45326740</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45326740</guid></item><item><title>Procedural Island Generation (VI)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html"&gt;https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45326690"&gt;https://news.ycombinator.com/item?id=45326690&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 21&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 21:11:57 +0000</pubDate><link>https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html</link><dc:creator>ibobev</dc:creator><comments>https://news.ycombinator.com/item?id=45326690</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45326690</guid></item><item><title>Apple Silicon GPU Support in Mojo</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295"&gt;https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45326388"&gt;https://news.ycombinator.com/item?id=45326388&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 76&lt;/p&gt;
+&lt;p&gt;# Comments: 21&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 20:35:14 +0000</pubDate><link>https://forum.modular.com/t/apple-silicon-gpu-support-in-mojo/2295</link><dc:creator>mpweiher</dc:creator><comments>https://news.ycombinator.com/item?id=45326388</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45326388</guid></item><item><title>Bringing Observability to Claude Code: OpenTelemetry in Action</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/"&gt;https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45325410"&gt;https://news.ycombinator.com/item?id=45325410&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 17&lt;/p&gt;
+&lt;p&gt;# Comments: 6&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 18:37:04 +0000</pubDate><link>https://signoz.io/blog/claude-code-monitoring-with-opentelemetry/</link><dc:creator>pranay01</dc:creator><comments>https://news.ycombinator.com/item?id=45325410</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45325410</guid></item><item><title>Sj.h: A tiny little JSON parsing library in ~150 lines of C99</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/rxi/sj.h"&gt;https://github.com/rxi/sj.h&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45324349"&gt;https://news.ycombinator.com/item?id=45324349&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 277&lt;/p&gt;
+&lt;p&gt;# Comments: 146&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 16:43:45 +0000</pubDate><link>https://github.com/rxi/sj.h</link><dc:creator>simonpure</dc:creator><comments>https://news.ycombinator.com/item?id=45324349</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45324349</guid></item><item><title>Timesketch: Collaborative forensic timeline analysis</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/google/timesketch"&gt;https://github.com/google/timesketch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45324343"&gt;https://news.ycombinator.com/item?id=45324343&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 96&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 16:43:19 +0000</pubDate><link>https://github.com/google/timesketch</link><dc:creator>apachepig</dc:creator><comments>https://news.ycombinator.com/item?id=45324343</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45324343</guid></item><item><title>Show HN: Freeing GPUs stuck by runaway jobs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/kagehq/gpu-kill"&gt;https://github.com/kagehq/gpu-kill&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45323875"&gt;https://news.ycombinator.com/item?id=45323875&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 22&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 16:00:06 +0000</pubDate><link>https://github.com/kagehq/gpu-kill</link><dc:creator>lexokoh</dc:creator><comments>https://news.ycombinator.com/item?id=45323875</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45323875</guid></item><item><title>LaLiga's Anti-Piracy Crackdown Triggers Widespread Internet Disruptions in Spain</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions"&gt;https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45323856"&gt;https://news.ycombinator.com/item?id=45323856&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 304&lt;/p&gt;
+&lt;p&gt;# Comments: 124&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 15:57:49 +0000</pubDate><link>https://reclaimthenet.org/laligas-anti-piracy-crackdown-triggers-widespread-internet-disruptions</link><dc:creator>akyuu</dc:creator><comments>https://news.ycombinator.com/item?id=45323856</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45323856</guid></item><item><title>Oxford loses top 3 university ranking in the UK</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://hotminute.co.uk/2025/09/19/oxford-loses-top-3-university-ranking-for-the-first-time/"&gt;https://hotminute.co.uk/2025/09/19/oxford-loses-top-3-university-ranking-for-the-first-time/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45323793"&gt;https://news.ycombinator.com/item?id=45323793&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 225&lt;/p&gt;
+&lt;p&gt;# Comments: 330&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 15:51:03 +0000</pubDate><link>https://hotminute.co.uk/2025/09/19/oxford-loses-top-3-university-ranking-for-the-first-time/</link><dc:creator>ilamont</dc:creator><comments>https://news.ycombinator.com/item?id=45323793</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45323793</guid></item><item><title>DXGI debugging: Microsoft put me on a list</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/"&gt;https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45323207"&gt;https://news.ycombinator.com/item?id=45323207&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 192&lt;/p&gt;
+&lt;p&gt;# Comments: 61&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 14:45:50 +0000</pubDate><link>https://slugcat.systems/post/25-09-21-dxgi-debugging-microsoft-put-me-on-a-list/</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=45323207</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45323207</guid></item><item><title>Unified Line and Paragraph Detection by Graph Convolutional Networks (2022)</title><description>
+&lt;p&gt;Direct link to the book: &lt;a href="https://fhetextbook.github.io/" rel="nofollow"&gt;https://fhetextbook.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45323027"&gt;https://news.ycombinator.com/item?id=45323027&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 85&lt;/p&gt;
+&lt;p&gt;# Comments: 12&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 14:26:10 +0000</pubDate><link>https://arxiv.org/abs/2503.05136</link><dc:creator>Qision</dc:creator><comments>https://news.ycombinator.com/item?id=45323027</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45323027</guid></item><item><title>Extrachromosomal DNA–Driven Oncogene Evolution in Glioblastoma</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-24-1555/764257/Extrachromosomal-DNA-Driven-Oncogene-Spatial"&gt;https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-24-1555/764257/Extrachromosomal-DNA-Driven-Oncogene-Spatial&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45322992"&gt;https://news.ycombinator.com/item?id=45322992&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 31&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 14:22:10 +0000</pubDate><link>https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-24-1555/764257/Extrachromosomal-DNA-Driven-Oncogene-Spatial</link><dc:creator>PaulHoule</dc:creator><comments>https://news.ycombinator.com/item?id=45322992</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45322992</guid></item><item><title>I forced myself to spend a week in Instagram instead of Xcode</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in"&gt;https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45322819"&gt;https://news.ycombinator.com/item?id=45322819&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 176&lt;/p&gt;
+&lt;p&gt;# Comments: 64&lt;/p&gt;
+</description><pubDate>Sun, 21 Sep 2025 14:00:16 +0000</pubDate><link>https://www.pixelpusher.club/p/i-forced-myself-to-spend-a-week-in</link><dc:creator>wallflower</dc:creator><comments>https://news.ycombinator.com/item?id=45322819</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45322819</guid></item></channel></rss>
