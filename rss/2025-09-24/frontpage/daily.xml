@@ -1,0 +1,103 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Wed, 24 Sep 2025 00:16:17 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>The Top Programming Languages 2025</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://spectrum.ieee.org/top-programming-languages-2025"&gt;https://spectrum.ieee.org/top-programming-languages-2025&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45354314"&gt;https://news.ycombinator.com/item?id=45354314&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 4&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 23:42:50 +0000</pubDate><link>https://spectrum.ieee.org/top-programming-languages-2025</link><dc:creator>jnord</dc:creator><comments>https://news.ycombinator.com/item?id=45354314</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45354314</guid></item><item><title>NYC Telecom Raid: What's Up with Those Weird SIM Banks?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/"&gt;https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45354262"&gt;https://news.ycombinator.com/item?id=45354262&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 15&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 23:36:16 +0000</pubDate><link>https://tedium.co/2025/09/23/secret-service-raid-sim-bank-telecom-hardware/</link><dc:creator>coloneltcb</dc:creator><comments>https://news.ycombinator.com/item?id=45354262</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45354262</guid></item><item><title>From Rust to reality: The hidden journey of fetch_max</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://questdb.com/blog/rust-fetch-max-compiler-journey/"&gt;https://questdb.com/blog/rust-fetch-max-compiler-journey/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45352944"&gt;https://news.ycombinator.com/item?id=45352944&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 84&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 21:24:45 +0000</pubDate><link>https://questdb.com/blog/rust-fetch-max-compiler-journey/</link><dc:creator>bluestreak</dc:creator><comments>https://news.ycombinator.com/item?id=45352944</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45352944</guid></item><item><title>Context Engineering for AI Agents: Lessons</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus"&gt;https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45352901"&gt;https://news.ycombinator.com/item?id=45352901&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 32&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 21:20:15 +0000</pubDate><link>https://manus.im/blog/Context-Engineering-for-AI-Agents-Lessons-from-Building-Manus</link><dc:creator>helloericsf</dc:creator><comments>https://news.ycombinator.com/item?id=45352901</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45352901</guid></item><item><title>Qwen3-VL</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&amp;from=research.latest-advancements-list"&gt;https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&amp;from=research.latest-advancements-list&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45352672"&gt;https://news.ycombinator.com/item?id=45352672&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 116&lt;/p&gt;
+&lt;p&gt;# Comments: 25&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 20:59:17 +0000</pubDate><link>https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&amp;from=research.latest-advancements-list</link><dc:creator>natrys</dc:creator><comments>https://news.ycombinator.com/item?id=45352672</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45352672</guid></item><item><title>Is life a form of computation?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/"&gt;https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45352533"&gt;https://news.ycombinator.com/item?id=45352533&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 57&lt;/p&gt;
+&lt;p&gt;# Comments: 54&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 20:46:24 +0000</pubDate><link>https://thereader.mitpress.mit.edu/is-life-a-form-of-computation/</link><dc:creator>redeemed</dc:creator><comments>https://news.ycombinator.com/item?id=45352533</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45352533</guid></item><item><title>Podman Desktop celebrates 3M downloads</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://podman-desktop.io/blog/3-million"&gt;https://podman-desktop.io/blog/3-million&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45352460"&gt;https://news.ycombinator.com/item?id=45352460&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 39&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 20:40:21 +0000</pubDate><link>https://podman-desktop.io/blog/3-million</link><dc:creator>twelvenmonkeys</dc:creator><comments>https://news.ycombinator.com/item?id=45352460</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45352460</guid></item><item><title>YouTube says it'll bring back creators banned for Covid and election content</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.businessinsider.com/youtube-reinstate-channels-banned-over-covid-content-policies-2025-9"&gt;https://www.businessinsider.com/youtube-reinstate-channels-banned-over-covid-content-policies-2025-9&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45352213"&gt;https://news.ycombinator.com/item?id=45352213&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 192&lt;/p&gt;
+&lt;p&gt;# Comments: 295&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 20:16:47 +0000</pubDate><link>https://www.businessinsider.com/youtube-reinstate-channels-banned-over-covid-content-policies-2025-9</link><dc:creator>delichon</dc:creator><comments>https://news.ycombinator.com/item?id=45352213</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45352213</guid></item><item><title>Is Fortran better than Python for teaching basics of numerical linear algebra?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html"&gt;https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45351624"&gt;https://news.ycombinator.com/item?id=45351624&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 40&lt;/p&gt;
+&lt;p&gt;# Comments: 37&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 19:29:26 +0000</pubDate><link>https://loiseaujc.github.io/posts/blog-title/fortran_vs_python.html</link><dc:creator>Bostonian</dc:creator><comments>https://news.ycombinator.com/item?id=45351624</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45351624</guid></item><item><title>consumed.today</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://consumed.today/"&gt;https://consumed.today/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45351446"&gt;https://news.ycombinator.com/item?id=45351446&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 144&lt;/p&gt;
+&lt;p&gt;# Comments: 27&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 19:12:54 +0000</pubDate><link>https://consumed.today/</link><dc:creator>burkaman</dc:creator><comments>https://news.ycombinator.com/item?id=45351446</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45351446</guid></item><item><title>Apple A19 SoC die shot</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://chipwise.tech/our-portfolio/apple-a19-dieshot/"&gt;https://chipwise.tech/our-portfolio/apple-a19-dieshot/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45351437"&gt;https://news.ycombinator.com/item?id=45351437&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 67&lt;/p&gt;
+&lt;p&gt;# Comments: 31&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 19:12:08 +0000</pubDate><link>https://chipwise.tech/our-portfolio/apple-a19-dieshot/</link><dc:creator>giuliomagnifico</dc:creator><comments>https://news.ycombinator.com/item?id=45351437</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45351437</guid></item><item><title>How to draw construction equipment for kids</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment"&gt;https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45351410"&gt;https://news.ycombinator.com/item?id=45351410&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 77&lt;/p&gt;
+&lt;p&gt;# Comments: 30&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 19:09:50 +0000</pubDate><link>https://alyssarosenberg.substack.com/p/how-to-draw-construction-equipment</link><dc:creator>holotrope</dc:creator><comments>https://news.ycombinator.com/item?id=45351410</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45351410</guid></item><item><title>Denmark wants to push through Chat Control</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/"&gt;https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45351405"&gt;https://news.ycombinator.com/item?id=45351405&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 191&lt;/p&gt;
+&lt;p&gt;# Comments: 98&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 19:09:13 +0000</pubDate><link>https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/</link><dc:creator>Improvement</dc:creator><comments>https://news.ycombinator.com/item?id=45351405</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45351405</guid></item><item><title>Find SF parking cops</title><description>
+&lt;p&gt;&lt;a href="https://walzr.com/sf-parking/about/" rel="nofollow"&gt;https://walzr.com/sf-parking/about/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45350690"&gt;https://news.ycombinator.com/item?id=45350690&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 511&lt;/p&gt;
+&lt;p&gt;# Comments: 297&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 18:06:07 +0000</pubDate><link>https://walzr.com/sf-parking/</link><dc:creator>alazsengul</dc:creator><comments>https://news.ycombinator.com/item?id=45350690</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45350690</guid></item><item><title>Always Invite Anna</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://sharif.io/anna-alexei"&gt;https://sharif.io/anna-alexei&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45348495"&gt;https://news.ycombinator.com/item?id=45348495&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 582&lt;/p&gt;
+&lt;p&gt;# Comments: 59&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 15:33:23 +0000</pubDate><link>https://sharif.io/anna-alexei</link><dc:creator>walterbell</dc:creator><comments>https://news.ycombinator.com/item?id=45348495</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45348495</guid></item><item><title>Shopify, pulling strings at Ruby Central, forces Bundler and RubyGems takeover</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://joel.drapper.me/p/rubygems-takeover/"&gt;https://joel.drapper.me/p/rubygems-takeover/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45348390"&gt;https://news.ycombinator.com/item?id=45348390&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 414&lt;/p&gt;
+&lt;p&gt;# Comments: 257&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 15:25:29 +0000</pubDate><link>https://joel.drapper.me/p/rubygems-takeover/</link><dc:creator>bradgessler</dc:creator><comments>https://news.ycombinator.com/item?id=45348390</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45348390</guid></item><item><title>From MCP to shell: MCP auth flaws enable RCE in Claude Code, Gemini CLI and more</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://verialabs.com/blog/from-mcp-to-shell/"&gt;https://verialabs.com/blog/from-mcp-to-shell/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45348183"&gt;https://news.ycombinator.com/item?id=45348183&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 114&lt;/p&gt;
+&lt;p&gt;# Comments: 31&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 15:09:50 +0000</pubDate><link>https://verialabs.com/blog/from-mcp-to-shell/</link><dc:creator>stuxf</dc:creator><comments>https://news.ycombinator.com/item?id=45348183</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45348183</guid></item><item><title>Launch HN: Strata (YC X25) – One MCP server for AI to handle thousands of tools</title><description>
+&lt;p&gt;Hey HN! We are Klavis AI (&lt;a href="https://www.klavis.ai/"&gt;https://www.klavis.ai/&lt;/a&gt;) and we're launching Strata, one open-source MCP server that helps AI agents use thousands of API tools without getting overwhelmed. Instead of showing all available tools at once, Strata reveals them step-by-step based on what the AI actually needs.&lt;p&gt;As a former Senior SWE on Google Gemini 's tool use team, I saw firsthand how AI would struggle with tools. If you've built AI agents, you've likely hit the same walls: (1) AI agents struggle to pick the right API from hundreds of options. (2) Tool descriptions and info consume massive token budgets. (3) Most servers cap at 40~50 tools to avoid these problems, limiting what you can build.&lt;p&gt;Instead of flooding the AI with everything upfront, Strata works like a human would. It guides the AI agents to discover relevant categories, then lists available actions in those categories. It relies on LLMs’ reasoning to drill down progressively to find the exact tool needed. Here are some examples:&lt;p&gt;&lt;i&gt;Github query: "Find my stale pull requests in our main repo"&lt;/i&gt;&lt;p&gt;Strata: AI model identifies GitHub → Shows categories (Repos, Issues, PRs, Actions) → AI selects PRs → Shows PR-specific actions -&gt; AI selects list_pull_requests → Shows  list_pull_requests details -&gt; Executes list_pull_requests with the right parameters.&lt;p&gt;&lt;i&gt;Jira query: "Create a bug ticket in the 'MOBILE' project about the app crashing on startup."&lt;/i&gt;&lt;p&gt;Strata: AI identifies Jira → Shows categories (Projects, Issues, Sprints) → AI selects Issues → Shows actions (create_issue, get_issue) → AI selects create_issue → Shows create_issue details → Executes with correct parameters.&lt;p&gt;&lt;i&gt;Slack query: "Post a message in the #announcements channel that bonus will be paid out next Friday."&lt;/i&gt;&lt;p&gt;Strata: AI identifies Slack → Shows categories (Channels, Messages, Users) → AI selects Messages → Shows actions (send_message, schedule_message) → AI selects send_message → Shows send_message details → Executes with correct parameters.&lt;p&gt;This progressive approach unlocks a huge advantage: depth. While most integrations offer a handful of high-level tools, Strata can expose hundreds of granular features for a single app like GitHub, Jira, etc. Your AI agent can finally access the deep, specific features that real workflows require, without getting lost in a sea of options.&lt;p&gt;Under the hood, Strata manages authentication tokens and includes a built-in search tool for the agent to dig into documentation if it gets stuck.&lt;p&gt;On the MCPMark &lt;a href="https://mcpmark.ai/leaderboard/mcp" rel="nofollow"&gt;https://mcpmark.ai/leaderboard/mcp&lt;/a&gt;, Strata achieves +15.2% higher pass@1 rate vs the official GitHub server and +13.4% higher pass@1 rate vs the official Notion server. In human eval tests, it hits 83%+ accuracy on complex, real-world multi-app workflows.&lt;p&gt;Here is a quick demo to watch Strata navigate a complex workflow with multiple apps, automatically selecting the right tools at each step: &lt;a href="https://www.youtube.com/watch?v=N00cY9Ov_fM" rel="nofollow"&gt;https://www.youtube.com/watch?v=N00cY9Ov_fM&lt;/a&gt;.&lt;p&gt;You can connect to any external MCP Server into Strata, and we have an open source version for it: &lt;a href="https://github.com/Klavis-AI/klavis" rel="nofollow"&gt;https://github.com/Klavis-AI/klavis&lt;/a&gt;.&lt;p&gt;For team or production use with more features, visit our website: &lt;a href="https://www.klavis.ai"&gt;https://www.klavis.ai&lt;/a&gt;. Add Strata to Cursor, VS Code or any MCP-compatible application with one click. You can also use our API to easily plug in Strata to your AI application.&lt;p&gt;We look forward to your comments. Thanks for reading!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45347914"&gt;https://news.ycombinator.com/item?id=45347914&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 114&lt;/p&gt;
+&lt;p&gt;# Comments: 59&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 14:52:07 +0000</pubDate><link>https://news.ycombinator.com/item?id=45347914</link><dc:creator>wirehack</dc:creator><comments>https://news.ycombinator.com/item?id=45347914</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45347914</guid></item><item><title>Getting AI to work in complex codebases</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md"&gt;https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45347532"&gt;https://news.ycombinator.com/item?id=45347532&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 201&lt;/p&gt;
+&lt;p&gt;# Comments: 212&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 14:27:36 +0000</pubDate><link>https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md</link><dc:creator>dhorthy</dc:creator><comments>https://news.ycombinator.com/item?id=45347532</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45347532</guid></item><item><title>Libghostty is coming</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://mitchellh.com/writing/libghostty-is-coming"&gt;https://mitchellh.com/writing/libghostty-is-coming&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45347117"&gt;https://news.ycombinator.com/item?id=45347117&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 505&lt;/p&gt;
+&lt;p&gt;# Comments: 148&lt;/p&gt;
+</description><pubDate>Tue, 23 Sep 2025 13:56:28 +0000</pubDate><link>https://mitchellh.com/writing/libghostty-is-coming</link><dc:creator>kingori</dc:creator><comments>https://news.ycombinator.com/item?id=45347117</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45347117</guid></item></channel></rss>
