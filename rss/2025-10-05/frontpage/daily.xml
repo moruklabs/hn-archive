@@ -1,0 +1,103 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sun, 05 Oct 2025 00:26:31 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>OpenAI's hunger for computing power has Sam Altman dashing around the globe</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809"&gt;https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45477192"&gt;https://news.ycombinator.com/item?id=45477192&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 28&lt;/p&gt;
+&lt;p&gt;# Comments: 12&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 22:14:29 +0000</pubDate><link>https://www.wsj.com/tech/ai/openai-sam-altman-asia-middle-east-7b660809</link><dc:creator>doener</dc:creator><comments>https://news.ycombinator.com/item?id=45477192</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45477192</guid></item><item><title>XiangShan Vector Floating-Point Unit Design</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/"&gt;https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45477118"&gt;https://news.ycombinator.com/item?id=45477118&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 17&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 22:02:28 +0000</pubDate><link>https://docs.xiangshan.cc/projects/design/en/latest/backend/VFPU/</link><dc:creator>camel-cdr</dc:creator><comments>https://news.ycombinator.com/item?id=45477118</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45477118</guid></item><item><title>Matrix Core Programming on AMD GPUs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://salykova.github.io/matrix-cores-cdna"&gt;https://salykova.github.io/matrix-cores-cdna&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45476821"&gt;https://news.ycombinator.com/item?id=45476821&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 21&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 21:22:11 +0000</pubDate><link>https://salykova.github.io/matrix-cores-cdna</link><dc:creator>skidrow</dc:creator><comments>https://news.ycombinator.com/item?id=45476821</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45476821</guid></item><item><title>$912 energy independence without red tape</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://sunboxlabs.com/"&gt;https://sunboxlabs.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45476820"&gt;https://news.ycombinator.com/item?id=45476820&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 93&lt;/p&gt;
+&lt;p&gt;# Comments: 72&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 21:22:05 +0000</pubDate><link>https://sunboxlabs.com/</link><dc:creator>nikodunk</dc:creator><comments>https://news.ycombinator.com/item?id=45476820</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45476820</guid></item><item><title>The UK is still trying to backdoor encryption for Apple users</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users"&gt;https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45476273"&gt;https://news.ycombinator.com/item?id=45476273&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 231&lt;/p&gt;
+&lt;p&gt;# Comments: 78&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 20:07:11 +0000</pubDate><link>https://www.eff.org/deeplinks/2025/10/uk-still-trying-backdoor-encryption-apple-users</link><dc:creator>CharlesW</dc:creator><comments>https://news.ycombinator.com/item?id=45476273</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45476273</guid></item><item><title>Blog Feeds</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blogfeeds.net"&gt;https://blogfeeds.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45475808"&gt;https://news.ycombinator.com/item?id=45475808&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 80&lt;/p&gt;
+&lt;p&gt;# Comments: 39&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 19:08:46 +0000</pubDate><link>https://blogfeeds.net</link><dc:creator>stevedsimkins</dc:creator><comments>https://news.ycombinator.com/item?id=45475808</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45475808</guid></item><item><title>ProofOfThought: LLM-based reasoning using Z3 theorem proving</title><description>
+&lt;p&gt;&lt;a href="https://arxiv.org/abs/2409.17270" rel="nofollow"&gt;https://arxiv.org/abs/2409.17270&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45475529"&gt;https://news.ycombinator.com/item?id=45475529&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 168&lt;/p&gt;
+&lt;p&gt;# Comments: 88&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 18:34:23 +0000</pubDate><link>https://github.com/DebarghaG/proofofthought</link><dc:creator>barthelomew</dc:creator><comments>https://news.ycombinator.com/item?id=45475529</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45475529</guid></item><item><title>Show HN: Run – a CLI universal code runner I built while learning Rust</title><description>
+&lt;p&gt;Hi HN — I’m learning Rust and decided to build a universal CLI for running code in many languages. The tool, Run, aims to be a single, minimal dependency utility for: running one-off snippets (from CLI flags), running files, reading and executing piped stdin, and providing language-specific REPLs that you can switch between interactively.&lt;p&gt;I designed it to support both interpreted languages (Python, JS, Ruby, etc.) and compiled languages (Rust, Go, C/C++). It detects languages from flags or file extensions, can compile temporary files for compiled languages, and exposes a unified REPL experience with commands like :help, :lang, and :quit.&lt;p&gt;Install: cargo install run-kit (or use the platform downloads on GitHub). Source &amp; releases: &lt;a href="https://github.com/Esubaalew/run" rel="nofollow"&gt;https://github.com/Esubaalew/run&lt;/a&gt;&lt;p&gt;I used Rust while following the official learning resources and used AI to speed up development, so I expect there are bugs and rough edges. I’d love feedback on: usability and UX of the REPL, edge cases for piping input to language runtimes, security considerations (sandboxing/resource limits), packaging and cross-platform distribution.&lt;p&gt;Thanks — I’ll try to answer questions and share design notes.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45475528"&gt;https://news.ycombinator.com/item?id=45475528&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 53&lt;/p&gt;
+&lt;p&gt;# Comments: 18&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 18:34:13 +0000</pubDate><link>https://github.com/Esubaalew/run</link><dc:creator>esubaalew</dc:creator><comments>https://news.ycombinator.com/item?id=45475528</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45475528</guid></item><item><title>Provable Scaling Laws of Feature Emergence from Learning Dynamics of Grokking</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arxiv.org/abs/2509.21519"&gt;https://arxiv.org/abs/2509.21519&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45475471"&gt;https://news.ycombinator.com/item?id=45475471&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 20&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 18:26:29 +0000</pubDate><link>https://arxiv.org/abs/2509.21519</link><dc:creator>sva_</dc:creator><comments>https://news.ycombinator.com/item?id=45475471</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45475471</guid></item><item><title>How to inject knowledge efficiently? Knowledge infusion scaling law for LLMs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arxiv.org/abs/2509.19371"&gt;https://arxiv.org/abs/2509.19371&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45474900"&gt;https://news.ycombinator.com/item?id=45474900&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 60&lt;/p&gt;
+&lt;p&gt;# Comments: 15&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 17:18:07 +0000</pubDate><link>https://arxiv.org/abs/2509.19371</link><dc:creator>PaulHoule</dc:creator><comments>https://news.ycombinator.com/item?id=45474900</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45474900</guid></item><item><title>A comparison of Ada and Rust, using solutions to the Advent of Code</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md"&gt;https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45473861"&gt;https://news.ycombinator.com/item?id=45473861&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 186&lt;/p&gt;
+&lt;p&gt;# Comments: 118&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 15:10:49 +0000</pubDate><link>https://github.com/johnperry-math/AoC2023/blob/master/More_Detailed_Comparison.md</link><dc:creator>andsoitis</dc:creator><comments>https://news.ycombinator.com/item?id=45473861</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45473861</guid></item><item><title>Self-hosting email like it's 1984</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://maxadamski.com/blog/2025/10/email.html"&gt;https://maxadamski.com/blog/2025/10/email.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45473730"&gt;https://news.ycombinator.com/item?id=45473730&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 161&lt;/p&gt;
+&lt;p&gt;# Comments: 103&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 14:53:32 +0000</pubDate><link>https://maxadamski.com/blog/2025/10/email.html</link><dc:creator>xmx98</dc:creator><comments>https://news.ycombinator.com/item?id=45473730</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45473730</guid></item><item><title>Thunderscan: A clever device transforms a printer into a scanner (2004)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.folklore.org/Thunderscan.html"&gt;https://www.folklore.org/Thunderscan.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45472765"&gt;https://news.ycombinator.com/item?id=45472765&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 130&lt;/p&gt;
+&lt;p&gt;# Comments: 23&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 12:16:37 +0000</pubDate><link>https://www.folklore.org/Thunderscan.html</link><dc:creator>dtgriscom</dc:creator><comments>https://news.ycombinator.com/item?id=45472765</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45472765</guid></item><item><title>The Buchstabenmuseum Berlin is closing</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.buchstabenmuseum.de/en/"&gt;https://www.buchstabenmuseum.de/en/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45472678"&gt;https://news.ycombinator.com/item?id=45472678&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 152&lt;/p&gt;
+&lt;p&gt;# Comments: 46&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 11:58:58 +0000</pubDate><link>https://www.buchstabenmuseum.de/en/</link><dc:creator>t-vi</dc:creator><comments>https://news.ycombinator.com/item?id=45472678</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45472678</guid></item><item><title>Paged Out Issue #7 [pdf]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://pagedout.institute/download/PagedOut_007.pdf"&gt;https://pagedout.institute/download/PagedOut_007.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45472319"&gt;https://news.ycombinator.com/item?id=45472319&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 224&lt;/p&gt;
+&lt;p&gt;# Comments: 17&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 10:38:06 +0000</pubDate><link>https://pagedout.institute/download/PagedOut_007.pdf</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=45472319</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45472319</guid></item><item><title>Alibaba cloud FPGA: the $200 Kintex UltraScale+</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://essenceia.github.io/projects/alibaba_cloud_fpga/"&gt;https://essenceia.github.io/projects/alibaba_cloud_fpga/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45471136"&gt;https://news.ycombinator.com/item?id=45471136&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 239&lt;/p&gt;
+&lt;p&gt;# Comments: 77&lt;/p&gt;
+</description><pubDate>Sat, 04 Oct 2025 06:49:58 +0000</pubDate><link>https://essenceia.github.io/projects/alibaba_cloud_fpga/</link><dc:creator>signa11</dc:creator><comments>https://news.ycombinator.com/item?id=45471136</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45471136</guid></item><item><title>Zig builds are getting faster</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://mitchellh.com/writing/zig-builds-getting-faster"&gt;https://mitchellh.com/writing/zig-builds-getting-faster&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45468698"&gt;https://news.ycombinator.com/item?id=45468698&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 406&lt;/p&gt;
+&lt;p&gt;# Comments: 191&lt;/p&gt;
+</description><pubDate>Fri, 03 Oct 2025 22:45:28 +0000</pubDate><link>https://mitchellh.com/writing/zig-builds-getting-faster</link><dc:creator>emschwartz</dc:creator><comments>https://news.ycombinator.com/item?id=45468698</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45468698</guid></item><item><title>Offline card payments should be possible no later than 1 July 2026</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/"&gt;https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45467500"&gt;https://news.ycombinator.com/item?id=45467500&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 469&lt;/p&gt;
+&lt;p&gt;# Comments: 537&lt;/p&gt;
+</description><pubDate>Fri, 03 Oct 2025 20:36:03 +0000</pubDate><link>https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/offline-card-payments-should-be-possible-no-later-than-1-july-2026/</link><dc:creator>sebiw</dc:creator><comments>https://news.ycombinator.com/item?id=45467500</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45467500</guid></item><item><title>Where it's at://</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://overreacted.io/where-its-at/"&gt;https://overreacted.io/where-its-at/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45455164"&gt;https://news.ycombinator.com/item?id=45455164&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 390&lt;/p&gt;
+&lt;p&gt;# Comments: 234&lt;/p&gt;
+</description><pubDate>Thu, 02 Oct 2025 20:31:43 +0000</pubDate><link>https://overreacted.io/where-its-at/</link><dc:creator>steveklabnik</dc:creator><comments>https://news.ycombinator.com/item?id=45455164</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45455164</guid></item><item><title>Study confirms that pianists can shape piano timbre through touch</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://neurosciencenews.com/piano-touch-timbre-neuroscience-29755/"&gt;https://neurosciencenews.com/piano-touch-timbre-neuroscience-29755/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45443662"&gt;https://news.ycombinator.com/item?id=45443662&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 28&lt;/p&gt;
+&lt;p&gt;# Comments: 37&lt;/p&gt;
+</description><pubDate>Wed, 01 Oct 2025 21:15:44 +0000</pubDate><link>https://neurosciencenews.com/piano-touch-timbre-neuroscience-29755/</link><dc:creator>bookofjoe</dc:creator><comments>https://news.ycombinator.com/item?id=45443662</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45443662</guid></item></channel></rss>
