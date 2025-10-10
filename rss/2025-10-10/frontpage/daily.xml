@@ -1,0 +1,106 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Fri, 10 Oct 2025 00:22:37 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>How to Write in Cuneiform, the Oldest Writing System in the World</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html"&gt;https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45533902"&gt;https://news.ycombinator.com/item?id=45533902&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 21&lt;/p&gt;
+&lt;p&gt;# Comments: 6&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 22:58:31 +0000</pubDate><link>https://www.openculture.com/2025/09/how-to-write-in-cuneiform-the-oldest-writing-system.html</link><dc:creator>PaulHoule</dc:creator><comments>https://news.ycombinator.com/item?id=45533902</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45533902</guid></item><item><title>Show HN: 100% open source, logical multi-master PostgreSQL replication</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/pgEdge/spock"&gt;https://github.com/pgEdge/spock&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45533870"&gt;https://news.ycombinator.com/item?id=45533870&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 13&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 22:53:39 +0000</pubDate><link>https://github.com/pgEdge/spock</link><dc:creator>pgedge_postgres</dc:creator><comments>https://news.ycombinator.com/item?id=45533870</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45533870</guid></item><item><title>Show HN: GYST – Digital organizer that replicates the feeling of a physical desk</title><description>
+&lt;p&gt;Hi HN! I’ve been working on a tool that merges file explorer, whiteboard, bookmarking, note-taking &amp; simple graphic design into one lightweight interface.&lt;p&gt;The idea is to make all these tools feel like one fluid space instead of 5 separate tools. 
+The hope is to replicate the feeling of a physical desk : where order and freedom coexist.&lt;p&gt;This 15-min video walks through the current alpha and the vision for the full product : &lt;a href="https://youtu.be/AcWzuBBuiPM" rel="nofollow"&gt;https://youtu.be/AcWzuBBuiPM&lt;/a&gt;&lt;p&gt;I’d love your feedback — especially around the concept and UX. The alpha is online if you want to try it: &lt;a href="https://gyst.fr" rel="nofollow"&gt;https://gyst.fr&lt;/a&gt;&lt;p&gt;This is a solo project for now, inspired by the “second brain” / PKM movement and my own frustration with fragmented tools and outdated UX.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45533208"&gt;https://news.ycombinator.com/item?id=45533208&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 13&lt;/p&gt;
+&lt;p&gt;# Comments: 6&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 21:18:29 +0000</pubDate><link>https://gyst.fr/</link><dc:creator>ricroz</dc:creator><comments>https://news.ycombinator.com/item?id=45533208</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45533208</guid></item><item><title>A built-in 'off switch' to stop persistent pain</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain"&gt;https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45532685"&gt;https://news.ycombinator.com/item?id=45532685&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 85&lt;/p&gt;
+&lt;p&gt;# Comments: 25&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 20:27:39 +0000</pubDate><link>https://penntoday.upenn.edu/news/select-neurons-brainstem-may-hold-key-treating-chronic-pain</link><dc:creator>gmays</dc:creator><comments>https://news.ycombinator.com/item?id=45532685</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45532685</guid></item><item><title>Finding a VS Code Memory Leak</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/"&gt;https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45532680"&gt;https://news.ycombinator.com/item?id=45532680&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 39&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 20:27:28 +0000</pubDate><link>https://randomascii.wordpress.com/2025/10/09/finding-a-vs-code-memory-leak/</link><dc:creator>brucedawson</dc:creator><comments>https://news.ycombinator.com/item?id=45532680</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45532680</guid></item><item><title>The Burrows-Wheeler Transform</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://sandbox.bio/concepts/bwt"&gt;https://sandbox.bio/concepts/bwt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45532352"&gt;https://news.ycombinator.com/item?id=45532352&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 53&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 20:00:31 +0000</pubDate><link>https://sandbox.bio/concepts/bwt</link><dc:creator>g0xA52A2A</dc:creator><comments>https://news.ycombinator.com/item?id=45532352</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45532352</guid></item><item><title>The government ate my name</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html"&gt;https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45531721"&gt;https://news.ycombinator.com/item?id=45531721&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 81&lt;/p&gt;
+&lt;p&gt;# Comments: 84&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 19:03:43 +0000</pubDate><link>https://slate.com/life/2025/10/passport-name-change-united-states-mexico-spain-immigration.html</link><dc:creator>notok</dc:creator><comments>https://news.ycombinator.com/item?id=45531721</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45531721</guid></item><item><title>Hacker News Live Feed</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jerbear2008.github.io/hn-live/"&gt;https://jerbear2008.github.io/hn-live/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45531367"&gt;https://news.ycombinator.com/item?id=45531367&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 129&lt;/p&gt;
+&lt;p&gt;# Comments: 59&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 18:33:17 +0000</pubDate><link>https://jerbear2008.github.io/hn-live/</link><dc:creator>gregsadetsky</dc:creator><comments>https://news.ycombinator.com/item?id=45531367</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45531367</guid></item><item><title>2025 MacArthur Fellows</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.macfound.org/programs/awards/fellows/"&gt;https://www.macfound.org/programs/awards/fellows/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45531284"&gt;https://news.ycombinator.com/item?id=45531284&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 46&lt;/p&gt;
+&lt;p&gt;# Comments: 31&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 18:25:49 +0000</pubDate><link>https://www.macfound.org/programs/awards/fellows/</link><dc:creator>bookofjoe</dc:creator><comments>https://news.ycombinator.com/item?id=45531284</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45531284</guid></item><item><title>Rubygems.org AWS Root Access Event – September 2025</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/"&gt;https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45530832"&gt;https://news.ycombinator.com/item?id=45530832&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 223&lt;/p&gt;
+&lt;p&gt;# Comments: 119&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 17:48:23 +0000</pubDate><link>https://rubycentral.org/news/rubygems-org-aws-root-access-event-september-2025/</link><dc:creator>ilikepi</dc:creator><comments>https://news.ycombinator.com/item?id=45530832</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45530832</guid></item><item><title>Subway Builder: A realistic subway simulation game</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.subwaybuilder.com/"&gt;https://www.subwaybuilder.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45530744"&gt;https://news.ycombinator.com/item?id=45530744&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 158&lt;/p&gt;
+&lt;p&gt;# Comments: 79&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 17:38:29 +0000</pubDate><link>https://www.subwaybuilder.com/</link><dc:creator>0xbeefcab</dc:creator><comments>https://news.ycombinator.com/item?id=45530744</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45530744</guid></item><item><title>LLMs are mortally terrified of exceptions</title><description>
+&lt;p&gt;&lt;a href="https://x.com/karpathy/status/1976082963382272334" rel="nofollow"&gt;https://x.com/karpathy/status/1976082963382272334&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45530486"&gt;https://news.ycombinator.com/item?id=45530486&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 107&lt;/p&gt;
+&lt;p&gt;# Comments: 64&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 17:16:28 +0000</pubDate><link>https://twitter.com/karpathy/status/1976077806443569355</link><dc:creator>nought</dc:creator><comments>https://news.ycombinator.com/item?id=45530486</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45530486</guid></item><item><title>Show HN: I wrote a full text search engine in Go</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/wizenheimer/blaze"&gt;https://github.com/wizenheimer/blaze&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45530388"&gt;https://news.ycombinator.com/item?id=45530388&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 67&lt;/p&gt;
+&lt;p&gt;# Comments: 32&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 17:09:22 +0000</pubDate><link>https://github.com/wizenheimer/blaze</link><dc:creator>novocayn</dc:creator><comments>https://news.ycombinator.com/item?id=45530388</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45530388</guid></item><item><title>ESP32 and Termux</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.gavide.dev/blog/esp32-and-termux"&gt;https://blog.gavide.dev/blog/esp32-and-termux&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45530261"&gt;https://news.ycombinator.com/item?id=45530261&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 81&lt;/p&gt;
+&lt;p&gt;# Comments: 17&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 16:56:52 +0000</pubDate><link>https://blog.gavide.dev/blog/esp32-and-termux</link><dc:creator>gavide</dc:creator><comments>https://news.ycombinator.com/item?id=45530261</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45530261</guid></item><item><title>Launch HN: Extend (YC W23) – Turn your messiest documents into data</title><description>
+&lt;p&gt;Hey HN! We’re Kushal and Eli, co-founders of Extend (&lt;a href="https://www.extend.ai/"&gt;https://www.extend.ai/&lt;/a&gt;). Extend is a toolkit for AI teams to ingest any kind of messy document (e.g. PDFs, images, excel files) and build incredible products.&lt;p&gt;We built Extend to handle the hardest documents that break most pipelines. You can see some examples here in our demo (no signup required): &lt;a href="https://dashboard.extend.ai/demo"&gt;https://dashboard.extend.ai/demo&lt;/a&gt;&lt;p&gt;I know you're probably thinking “not another document API startup”. Unfortunately, the problem just isn’t solved yet!&lt;p&gt;I’ve personally spent months struggling to build reliable document pipelines at a previous job. The long tail of edge cases is endless — massive tables split across pages, 100pg+ files, messy handwriting, scribbled signatures, checkboxes represented in 10 different formats, multiple file types… the list just keeps going. After seeing countless other teams during our time in YC run into these same issues, we started building Extend.&lt;p&gt;We initially launched with a set of APIs for engineers to parse, classify, split, and extract documents. That started to take off, and soon we were deployed in production at companies building everything from medical agents, to real-time bank account onboarding, to mortgage automation. Over time, we’ve worked closely with these teams and seen first-hand how large the gap is between raw OCR/model outputs —&gt; a production-ready pipeline (LLMs and VLMs aren’t magic).&lt;p&gt;Unlike other solutions in the space, we're specifically focused on three core areas: (1) the computer vision layer, (2) LLM context engineering, and (3) the surrounding product tooling. The combination of all three is what we think it takes to hit 99% accuracy and maintain it at scale.&lt;p&gt;For instance, to parse messy handwriting, we built an agentic OCR correction layer which uses a VLM to review and make edits to low confidence OCR errors. To tackle multi-page tabular data, we built a semantic chunking engine which can detect the optimal boundaries within a document so models can excel with smaller context inputs.&lt;p&gt;We also shipped a prompt optimization agent to automate the endless prompt engineering whack-a-mole teams spend time on. It’s built as a background agent to replicate the best prompter on your team, and runs in a loop with access to a set of tools (view files, run evals, analyze results, and update schemas).&lt;p&gt;The most surprising part of this whole experience has been seeing how many crazy PDF formats are out there! We've run into everything from supermarket inventory magazines, pesticide labels, construction blueprints, and satellite manufacturing plans.&lt;p&gt;Everything described above is live today. You can see it in action here (no signup): &lt;a href="https://dashboard.extend.ai/demo"&gt;https://dashboard.extend.ai/demo&lt;/a&gt;. To upload your own files, you can log in and do so (we’re adding free usage credits to all accounts that sign up today).&lt;p&gt;We’re excited to be sharing with HN! We’d love to hear about your experiences building document pipelines. Please try it out, and share any and all feedback with us (e.g. hard documents that didn’t work, feature requests).&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45529628"&gt;https://news.ycombinator.com/item?id=45529628&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 43&lt;/p&gt;
+&lt;p&gt;# Comments: 26&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 16:06:49 +0000</pubDate><link>https://www.extend.ai/</link><dc:creator>kbyatnal</dc:creator><comments>https://news.ycombinator.com/item?id=45529628</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45529628</guid></item><item><title>A small number of samples can poison LLMs of any size</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.anthropic.com/research/small-samples-poison"&gt;https://www.anthropic.com/research/small-samples-poison&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45529587"&gt;https://news.ycombinator.com/item?id=45529587&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 633&lt;/p&gt;
+&lt;p&gt;# Comments: 192&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 16:04:04 +0000</pubDate><link>https://www.anthropic.com/research/small-samples-poison</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=45529587</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45529587</guid></item><item><title>Show HN: I've built a tiny hand-held keyboard</title><description>
+&lt;p&gt;I bet you didn't knew you can use modelling clay (as opposed to 3d printing) to make nice devices by hand :)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45529393"&gt;https://news.ycombinator.com/item?id=45529393&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 249&lt;/p&gt;
+&lt;p&gt;# Comments: 75&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 15:51:20 +0000</pubDate><link>https://github.com/mafik/keyer</link><dc:creator>mafik</dc:creator><comments>https://news.ycombinator.com/item?id=45529393</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45529393</guid></item><item><title>New nanotherapy clears amyloid-β, reversing symptoms of Alzheimer's in mice</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/"&gt;https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45528308"&gt;https://news.ycombinator.com/item?id=45528308&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 210&lt;/p&gt;
+&lt;p&gt;# Comments: 107&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 14:36:52 +0000</pubDate><link>https://www.drugtargetreview.com/news/189235/new-nanotherapy-clears-amyloid-%CE%B2-reversing-alzheimers-in-mice/</link><dc:creator>self_awareness</dc:creator><comments>https://news.ycombinator.com/item?id=45528308</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45528308</guid></item><item><title>Python's splitlines does more than just newlines</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/"&gt;https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45527758"&gt;https://news.ycombinator.com/item?id=45527758&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 89&lt;/p&gt;
+&lt;p&gt;# Comments: 38&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 13:55:04 +0000</pubDate><link>https://yossarian.net/til/post/python-s-splitlines-does-a-lot-more-than-just-newlines/</link><dc:creator>Bogdanp</dc:creator><comments>https://news.ycombinator.com/item?id=45527758</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45527758</guid></item><item><title>Using a laptop as an HDMI monitor for an SBC</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/"&gt;https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45527507"&gt;https://news.ycombinator.com/item?id=45527507&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 99&lt;/p&gt;
+&lt;p&gt;# Comments: 68&lt;/p&gt;
+</description><pubDate>Thu, 09 Oct 2025 13:36:01 +0000</pubDate><link>https://danielmangum.com/posts/laptop-hdmi-monitor-sbc/</link><dc:creator>hasheddan</dc:creator><comments>https://news.ycombinator.com/item?id=45527507</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45527507</guid></item></channel></rss>
