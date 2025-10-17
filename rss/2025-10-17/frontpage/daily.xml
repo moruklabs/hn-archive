@@ -1,0 +1,108 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Fri, 17 Oct 2025 00:30:21 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Nvidia DGX Spark and Apple Mac Studio = 4x Faster LLM Inference with EXO 1.0</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.exolabs.net/nvidia-dgx-spark/"&gt;https://blog.exolabs.net/nvidia-dgx-spark/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45611912"&gt;https://news.ycombinator.com/item?id=45611912&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 14&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 23:30:36 +0000</pubDate><link>https://blog.exolabs.net/nvidia-dgx-spark/</link><dc:creator>edelsohn</dc:creator><comments>https://news.ycombinator.com/item?id=45611912</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45611912</guid></item><item><title>Lead Limited Brain and Language Development in Neanderthals and Other Hominids?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids"&gt;https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45611851"&gt;https://news.ycombinator.com/item?id=45611851&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 17&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 23:20:16 +0000</pubDate><link>https://today.ucsd.edu/story/did-lead-limit-brain-and-language-development-in-neanderthals-and-other-extinct-hominids</link><dc:creator>gmays</dc:creator><comments>https://news.ycombinator.com/item?id=45611851</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45611851</guid></item><item><title>America's Semiconductor Boom is Real [video]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.youtube.com/watch?v=T-jt3qBzJ4A"&gt;https://www.youtube.com/watch?v=T-jt3qBzJ4A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45611735"&gt;https://news.ycombinator.com/item?id=45611735&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 14&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 23:05:04 +0000</pubDate><link>https://www.youtube.com/watch?v=T-jt3qBzJ4A</link><dc:creator>zdw</dc:creator><comments>https://news.ycombinator.com/item?id=45611735</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45611735</guid></item><item><title>Understanding Spec-Driven-Development: Kiro, Spec-Kit, and Tessl</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html"&gt;https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45610996"&gt;https://news.ycombinator.com/item?id=45610996&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 17&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 21:36:43 +0000</pubDate><link>https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html</link><dc:creator>janpio</dc:creator><comments>https://news.ycombinator.com/item?id=45610996</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45610996</guid></item><item><title>Hacker News – The Good Parts</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://smartmic.bearblog.dev/why-hacker-news/"&gt;https://smartmic.bearblog.dev/why-hacker-news/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45610620"&gt;https://news.ycombinator.com/item?id=45610620&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 75&lt;/p&gt;
+&lt;p&gt;# Comments: 88&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 21:02:11 +0000</pubDate><link>https://smartmic.bearblog.dev/why-hacker-news/</link><dc:creator>smartmic</dc:creator><comments>https://news.ycombinator.com/item?id=45610620</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45610620</guid></item><item><title>Cloudflare Sandbox SDK</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://sandbox.cloudflare.com/"&gt;https://sandbox.cloudflare.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45610523"&gt;https://news.ycombinator.com/item?id=45610523&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 94&lt;/p&gt;
+&lt;p&gt;# Comments: 37&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 20:51:27 +0000</pubDate><link>https://sandbox.cloudflare.com/</link><dc:creator>bentaber</dc:creator><comments>https://news.ycombinator.com/item?id=45610523</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45610523</guid></item><item><title>How I bypassed Amazon's Kindle web DRM</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.pixelmelt.dev/kindle-web-drm/"&gt;https://blog.pixelmelt.dev/kindle-web-drm/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45610226"&gt;https://news.ycombinator.com/item?id=45610226&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 431&lt;/p&gt;
+&lt;p&gt;# Comments: 127&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 20:22:48 +0000</pubDate><link>https://blog.pixelmelt.dev/kindle-web-drm/</link><dc:creator>pixelmelt</dc:creator><comments>https://news.ycombinator.com/item?id=45610226</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45610226</guid></item><item><title>Benjie's Humanoid Olympic Games</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://generalrobots.substack.com/p/benjies-humanoid-olympic-games"&gt;https://generalrobots.substack.com/p/benjies-humanoid-olympic-games&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45609922"&gt;https://news.ycombinator.com/item?id=45609922&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 92&lt;/p&gt;
+&lt;p&gt;# Comments: 69&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 19:51:47 +0000</pubDate><link>https://generalrobots.substack.com/p/benjies-humanoid-olympic-games</link><dc:creator>robobenjie</dc:creator><comments>https://news.ycombinator.com/item?id=45609922</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45609922</guid></item><item><title>A conspiracy to kill IE6 (2019)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6"&gt;https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45608887"&gt;https://news.ycombinator.com/item?id=45608887&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 139&lt;/p&gt;
+&lt;p&gt;# Comments: 77&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 18:22:08 +0000</pubDate><link>https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6</link><dc:creator>romanhn</dc:creator><comments>https://news.ycombinator.com/item?id=45608887</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45608887</guid></item><item><title>Talent</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.felixstocker.com/blog/talent"&gt;https://www.felixstocker.com/blog/talent&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45608456"&gt;https://news.ycombinator.com/item?id=45608456&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 98&lt;/p&gt;
+&lt;p&gt;# Comments: 37&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 17:47:19 +0000</pubDate><link>https://www.felixstocker.com/blog/talent</link><dc:creator>BinaryIgor</dc:creator><comments>https://news.ycombinator.com/item?id=45608456</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45608456</guid></item><item><title>Gemini 3.0 spotted in the wild through A/B testing</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/"&gt;https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45607758"&gt;https://news.ycombinator.com/item?id=45607758&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 256&lt;/p&gt;
+&lt;p&gt;# Comments: 159&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 16:54:26 +0000</pubDate><link>https://ricklamers.io/posts/gemini-3-spotted-in-the-wild/</link><dc:creator>ricklamers</dc:creator><comments>https://news.ycombinator.com/item?id=45607758</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45607758</guid></item><item><title>Claude Skills</title><description>
+&lt;p&gt;&lt;a href="https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills" rel="nofollow"&gt;https://www.anthropic.com/engineering/equipping-agents-for-t...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45607117"&gt;https://news.ycombinator.com/item?id=45607117&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 431&lt;/p&gt;
+&lt;p&gt;# Comments: 268&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 16:05:47 +0000</pubDate><link>https://www.anthropic.com/news/skills</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=45607117</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45607117</guid></item><item><title>Codex Is Live in Zed</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://zed.dev/blog/codex-is-live-in-zed"&gt;https://zed.dev/blog/codex-is-live-in-zed&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45606698"&gt;https://news.ycombinator.com/item?id=45606698&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 161&lt;/p&gt;
+&lt;p&gt;# Comments: 20&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 15:36:39 +0000</pubDate><link>https://zed.dev/blog/codex-is-live-in-zed</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=45606698</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45606698</guid></item><item><title>DoorDash and Waymo launch autonomous delivery service in Phoenix</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://about.doordash.com/en-us/news/waymo"&gt;https://about.doordash.com/en-us/news/waymo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45605501"&gt;https://news.ycombinator.com/item?id=45605501&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 201&lt;/p&gt;
+&lt;p&gt;# Comments: 471&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 14:04:18 +0000</pubDate><link>https://about.doordash.com/en-us/news/waymo</link><dc:creator>ChrisArchitect</dc:creator><comments>https://news.ycombinator.com/item?id=45605501</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45605501</guid></item><item><title>Lace: A New Kind of Cellular Automata Where Links Matter</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.novaspivack.com/science/introducing-lace-a-new-kind-of-cellular-automata"&gt;https://www.novaspivack.com/science/introducing-lace-a-new-kind-of-cellular-automata&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45605153"&gt;https://news.ycombinator.com/item?id=45605153&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 111&lt;/p&gt;
+&lt;p&gt;# Comments: 42&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 13:33:45 +0000</pubDate><link>https://www.novaspivack.com/science/introducing-lace-a-new-kind-of-cellular-automata</link><dc:creator>airesearcher</dc:creator><comments>https://news.ycombinator.com/item?id=45605153</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45605153</guid></item><item><title>Electricity can heal wounds three times as fast (2023)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.chalmers.se/en/current/news/mc2-how-electricity-can-heal-wounds-three-times-as-fast/"&gt;https://www.chalmers.se/en/current/news/mc2-how-electricity-can-heal-wounds-three-times-as-fast/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45604779"&gt;https://news.ycombinator.com/item?id=45604779&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 115&lt;/p&gt;
+&lt;p&gt;# Comments: 79&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 12:59:08 +0000</pubDate><link>https://www.chalmers.se/en/current/news/mc2-how-electricity-can-heal-wounds-three-times-as-fast/</link><dc:creator>mgh2</dc:creator><comments>https://news.ycombinator.com/item?id=45604779</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45604779</guid></item><item><title>Show HN: Inkeep (YC W23) – Agent Builder to create agents in code or visually</title><description>
+&lt;p&gt;Hi HN! I'm Nick from Inkeep. We built an agent builder with true 2-way sync between code and a drag-and-drop visual editor, so devs and non-devs can collaborate on the same agents. Here’s a demo video: &lt;a href="https://go.inkeep.com/video"&gt;https://go.inkeep.com/video&lt;/a&gt;.&lt;p&gt;As a developer, the flow is:
+1) Build AI Chat Assistants or AI Workflows with the TypeScript SDK 2) Run `inkeep push` from your CLI to publish 3)Edit agents in the visual builder (or hand off to non-technical teams) 4) Run `inkeep pull to edit in code again.&lt;p&gt;We built this because we wanted the accessibility of no-code workflow builders (n8n, Zapier), but the flexibility and devex of code-based agent frameworks (LangGraph, Mastra). We also wanted first-class support for chat assistants with interactive UIs, not just workflows. OpenAI got close, but you can only do a one-time export from visual builder to code and there’s vendor lock-in.&lt;p&gt;How I've used it: I bootstrapped a few agents for our marketing and sales teams, then was able to hand off so they can maintain and create their own agents. This has enabled us to adopt agents across technical and non-technical roles in our company on a single platform.&lt;p&gt;To try it, here’s the quickstart: &lt;a href="https://go.inkeep.com/quickstart"&gt;https://go.inkeep.com/quickstart&lt;/a&gt;.&lt;p&gt;We leaned on open protocols to make it easy to use agents anywhere:
+An MCP endpoint, so agents can be used from Cursor/Claude/ChatGPT
+A Chat UI library with interactive elements you can customize in React
+An API endpoint compatible with the Vercel AI SDK `useChat` hook
+Support for Agent2Agent (A2A) so they work with other agent ecosystems&lt;p&gt;We made some practical templates like a customer_support, deep_research, and docs_assistant. Deployment is easy with Vercel/Docker with a fair-code license and there's a traces UI and OTEL logs for observability.&lt;p&gt;Under the hood, we went all-in on a multi-agent architecture. Agents are made up of LLMs, MCPs, and agent-to-agent relationships. We’ve found this approach to be easier to maintain and more flexible than traditional “if/else” approaches for complex workflows.&lt;p&gt;The interoperability works because the SDK and visual builder share a common underlying representation, and the Inkeep CLI bridges it with a mix of LLMs and TypeScript syntactic sugar. Details in our docs: &lt;a href="https://docs.inkeep.com"&gt;https://docs.inkeep.com&lt;/a&gt;.&lt;p&gt;We’re open to ideas and contributions! And would love to hear about your experience building agents - what works, hasn’t worked, what’s promising?&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45604700"&gt;https://news.ycombinator.com/item?id=45604700&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 62&lt;/p&gt;
+&lt;p&gt;# Comments: 45&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 12:50:08 +0000</pubDate><link>https://github.com/inkeep/agents</link><dc:creator>engomez</dc:creator><comments>https://news.ycombinator.com/item?id=45604700</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45604700</guid></item><item><title>Hyperflask – Full stack Flask and Htmx framework</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://hyperflask.dev/"&gt;https://hyperflask.dev/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45604673"&gt;https://news.ycombinator.com/item?id=45604673&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 270&lt;/p&gt;
+&lt;p&gt;# Comments: 86&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 12:46:28 +0000</pubDate><link>https://hyperflask.dev/</link><dc:creator>emixam</dc:creator><comments>https://news.ycombinator.com/item?id=45604673</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45604673</guid></item><item><title>A stateful browser agent using self-healing DOM maps</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps"&gt;https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45604451"&gt;https://news.ycombinator.com/item?id=45604451&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 104&lt;/p&gt;
+&lt;p&gt;# Comments: 54&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 12:21:36 +0000</pubDate><link>https://100x.bot/a/a-stateful-browser-agent-using-self-healing-dom-maps</link><dc:creator>shardullavekar</dc:creator><comments>https://news.ycombinator.com/item?id=45604451</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45604451</guid></item><item><title>Elixir 1.19</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/"&gt;https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45602428"&gt;https://news.ycombinator.com/item?id=45602428&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 172&lt;/p&gt;
+&lt;p&gt;# Comments: 26&lt;/p&gt;
+</description><pubDate>Thu, 16 Oct 2025 07:31:25 +0000</pubDate><link>https://elixir-lang.org/blog/2025/10/16/elixir-v1-19-0-released/</link><dc:creator>theanirudh</dc:creator><comments>https://news.ycombinator.com/item?id=45602428</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45602428</guid></item></channel></rss>
