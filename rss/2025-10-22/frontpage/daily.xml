@@ -1,0 +1,105 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Wed, 22 Oct 2025 00:29:15 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>"Butt breathing" might soon be a real medical treatment</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/"&gt;https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45662831"&gt;https://news.ycombinator.com/item?id=45662831&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 5&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 23:00:40 +0000</pubDate><link>https://arstechnica.com/science/2025/10/butt-breathing-might-soon-be-a-real-medical-treatment/</link><dc:creator>zdw</dc:creator><comments>https://news.ycombinator.com/item?id=45662831</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45662831</guid></item><item><title>The Lottery-fication of Everything</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything"&gt;https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45661698"&gt;https://news.ycombinator.com/item?id=45661698&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 56&lt;/p&gt;
+&lt;p&gt;# Comments: 21&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 21:05:26 +0000</pubDate><link>https://www.dopaminemarkets.com/p/the-lottery-fication-of-everything</link><dc:creator>_1729</dc:creator><comments>https://news.ycombinator.com/item?id=45661698</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45661698</guid></item><item><title>rlsw – Raylib software OpenGL renderer in less than 5k LOC</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h"&gt;https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45661638"&gt;https://news.ycombinator.com/item?id=45661638&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 68&lt;/p&gt;
+&lt;p&gt;# Comments: 13&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 21:00:10 +0000</pubDate><link>https://github.com/raysan5/raylib/blob/master/src/external/rlsw.h</link><dc:creator>fschuett</dc:creator><comments>https://news.ycombinator.com/item?id=45661638</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45661638</guid></item><item><title>We rewrote OpenFGA in pure Postgres</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://getrover.substack.com/p/how-we-rewrote-openfga-in-pure-postgres"&gt;https://getrover.substack.com/p/how-we-rewrote-openfga-in-pure-postgres&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45661547"&gt;https://news.ycombinator.com/item?id=45661547&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 31&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 20:52:44 +0000</pubDate><link>https://getrover.substack.com/p/how-we-rewrote-openfga-in-pure-postgres</link><dc:creator>wbadart</dc:creator><comments>https://news.ycombinator.com/item?id=45661547</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45661547</guid></item><item><title>Replacing a $3000/mo Heroku bill with a $55/mo server</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/"&gt;https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45661253"&gt;https://news.ycombinator.com/item?id=45661253&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 331&lt;/p&gt;
+&lt;p&gt;# Comments: 257&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 20:28:15 +0000</pubDate><link>https://disco.cloud/blog/how-idealistorg-replaced-a-3000mo-heroku-bill-with-a-55-server/</link><dc:creator>jryio</dc:creator><comments>https://news.ycombinator.com/item?id=45661253</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45661253</guid></item><item><title>Doomsday scoreboard</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://doomsday.march1studios.com/"&gt;https://doomsday.march1studios.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45661084"&gt;https://news.ycombinator.com/item?id=45661084&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 170&lt;/p&gt;
+&lt;p&gt;# Comments: 70&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 20:14:22 +0000</pubDate><link>https://doomsday.march1studios.com/</link><dc:creator>diymaker</dc:creator><comments>https://news.ycombinator.com/item?id=45661084</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45661084</guid></item><item><title>ChatGPT Atlas</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://chatgpt.com/atlas"&gt;https://chatgpt.com/atlas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45658479"&gt;https://news.ycombinator.com/item?id=45658479&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 520&lt;/p&gt;
+&lt;p&gt;# Comments: 505&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 17:18:13 +0000</pubDate><link>https://chatgpt.com/atlas</link><dc:creator>easton</dc:creator><comments>https://news.ycombinator.com/item?id=45658479</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45658479</guid></item><item><title>Flexport Is Hiring SDRs in Chicago</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976"&gt;https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45658221"&gt;https://news.ycombinator.com/item?id=45658221&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 17:01:02 +0000</pubDate><link>https://job-boards.greenhouse.io/flexport/jobs/5690976?gh_jid=5690976</link><dc:creator>thedogeye</dc:creator><comments>https://news.ycombinator.com/item?id=45658221</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45658221</guid></item><item><title>Build your own database</title><description>
+&lt;p&gt;Source material: Designing Data-Intensive Applications
+&lt;a href="https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/" rel="nofollow"&gt;https://www.oreilly.com/library/view/designing-data-intensiv...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45657827"&gt;https://news.ycombinator.com/item?id=45657827&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 348&lt;/p&gt;
+&lt;p&gt;# Comments: 61&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 16:31:51 +0000</pubDate><link>https://www.nan.fyi/database</link><dc:creator>nansdotio</dc:creator><comments>https://news.ycombinator.com/item?id=45657827</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45657827</guid></item><item><title>Ask HN: Our AWS account got compromised after their outage</title><description>
+&lt;p&gt;Could there be any link between the two events?&lt;p&gt;Here is what happened:&lt;p&gt;Some 600 instances were spawned within 3 hours before AWS flagged it off and sent us a health event. There were numerous domains verified and we could see SES quota increase request was made.&lt;p&gt;We are still investigating the vulnerability at our end. our initial suspect list has 2 suspects.  api key or console access where MFA wasn’t enabled.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45657345"&gt;https://news.ycombinator.com/item?id=45657345&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 160&lt;/p&gt;
+&lt;p&gt;# Comments: 49&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 15:55:41 +0000</pubDate><link>https://news.ycombinator.com/item?id=45657345</link><dc:creator>kinj28</dc:creator><comments>https://news.ycombinator.com/item?id=45657345</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45657345</guid></item><item><title>Foreign hackers breached a US nuclear weapons plant via SharePoint flaws</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html"&gt;https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45657287"&gt;https://news.ycombinator.com/item?id=45657287&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 308&lt;/p&gt;
+&lt;p&gt;# Comments: 201&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 15:51:33 +0000</pubDate><link>https://www.csoonline.com/article/4074962/foreign-hackers-breached-a-us-nuclear-weapons-plant-via-sharepoint-flaws.html</link><dc:creator>zdw</dc:creator><comments>https://news.ycombinator.com/item?id=45657287</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45657287</guid></item><item><title>Show HN: Katakate – Dozens of VMs per node for safe code exec</title><description>
+&lt;p&gt;I've built this to make it easy to host your own infra for lightweight VMs at large scale.&lt;p&gt;Intended for exec of AI-generated code, for CICD runners, or for off-chain AI DApps. Mainly to avoid Docker-in-Docker dangers and mess.&lt;p&gt;Super easy to use with CLI / Python SDK, friendly to AI engs who usually don't like to mess with VM orchestration and networking too much.&lt;p&gt;Defense-in-depth philosophy.&lt;p&gt;Would love to get feedback (and contributors: clear &amp; exciting roadmap!), thx&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45656952"&gt;https://news.ycombinator.com/item?id=45656952&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 83&lt;/p&gt;
+&lt;p&gt;# Comments: 36&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 15:22:25 +0000</pubDate><link>https://github.com/Katakate/k7</link><dc:creator>gbxk</dc:creator><comments>https://news.ycombinator.com/item?id=45656952</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45656952</guid></item><item><title>LLMs can get "brain rot"</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://llm-brain-rot.github.io/"&gt;https://llm-brain-rot.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45656223"&gt;https://news.ycombinator.com/item?id=45656223&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 269&lt;/p&gt;
+&lt;p&gt;# Comments: 150&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 14:24:26 +0000</pubDate><link>https://llm-brain-rot.github.io/</link><dc:creator>tamnd</dc:creator><comments>https://news.ycombinator.com/item?id=45656223</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45656223</guid></item><item><title>Ilo – a Forth system running on UEFI</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E"&gt;https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45655263"&gt;https://news.ycombinator.com/item?id=45655263&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 101&lt;/p&gt;
+&lt;p&gt;# Comments: 41&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 13:05:21 +0000</pubDate><link>https://asciinema.org/a/Lbxa2w9R5IbaJqW3INqVrbX8E</link><dc:creator>rickcarlino</dc:creator><comments>https://news.ycombinator.com/item?id=45655263</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45655263</guid></item><item><title>Our modular, high-performance Merkle Tree library for Rust</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/bilinearlabs/rs-merkle-tree"&gt;https://github.com/bilinearlabs/rs-merkle-tree&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45655190"&gt;https://news.ycombinator.com/item?id=45655190&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 122&lt;/p&gt;
+&lt;p&gt;# Comments: 26&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 12:58:57 +0000</pubDate><link>https://github.com/bilinearlabs/rs-merkle-tree</link><dc:creator>bibiver</dc:creator><comments>https://news.ycombinator.com/item?id=45655190</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45655190</guid></item><item><title>NASA chief suggests SpaceX may be booted from moon mission</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy"&gt;https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45655188"&gt;https://news.ycombinator.com/item?id=45655188&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 197&lt;/p&gt;
+&lt;p&gt;# Comments: 608&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 12:58:43 +0000</pubDate><link>https://www.cnn.com/2025/10/20/science/nasa-spacex-moon-landing-contract-sean-duffy</link><dc:creator>voxleone</dc:creator><comments>https://news.ycombinator.com/item?id=45655188</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45655188</guid></item><item><title>Neural audio codecs: how to get audio into LLMs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://kyutai.org/next/codec-explainer"&gt;https://kyutai.org/next/codec-explainer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45655161"&gt;https://news.ycombinator.com/item?id=45655161&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 324&lt;/p&gt;
+&lt;p&gt;# Comments: 97&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 12:55:59 +0000</pubDate><link>https://kyutai.org/next/codec-explainer</link><dc:creator>karimf</dc:creator><comments>https://news.ycombinator.com/item?id=45655161</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45655161</guid></item><item><title>Diamond Thermal Conductivity: A New Era in Chip Cooling</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://spectrum.ieee.org/diamond-thermal-conductivity"&gt;https://spectrum.ieee.org/diamond-thermal-conductivity&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45654512"&gt;https://news.ycombinator.com/item?id=45654512&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 159&lt;/p&gt;
+&lt;p&gt;# Comments: 56&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 11:16:34 +0000</pubDate><link>https://spectrum.ieee.org/diamond-thermal-conductivity</link><dc:creator>rbanffy</dc:creator><comments>https://news.ycombinator.com/item?id=45654512</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45654512</guid></item><item><title>60k kids have avoided peanut allergies due to 2015 advice, study finds</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/"&gt;https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45652307"&gt;https://news.ycombinator.com/item?id=45652307&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 253&lt;/p&gt;
+&lt;p&gt;# Comments: 253&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 03:53:20 +0000</pubDate><link>https://www.cbsnews.com/news/peanut-allergies-60000-kids-avoided-2015-advice/</link><dc:creator>zdw</dc:creator><comments>https://news.ycombinator.com/item?id=45652307</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45652307</guid></item><item><title>Wikipedia says traffic is falling due to AI search summaries and social video</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/"&gt;https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45651485"&gt;https://news.ycombinator.com/item?id=45651485&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 244&lt;/p&gt;
+&lt;p&gt;# Comments: 245&lt;/p&gt;
+</description><pubDate>Tue, 21 Oct 2025 01:29:03 +0000</pubDate><link>https://techcrunch.com/2025/10/18/wikipedia-says-traffic-is-falling-due-to-ai-search-summaries-and-social-video/</link><dc:creator>gmays</dc:creator><comments>https://news.ycombinator.com/item?id=45651485</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45651485</guid></item></channel></rss>
