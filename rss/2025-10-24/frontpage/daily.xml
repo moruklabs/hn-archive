@@ -1,0 +1,103 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Fri, 24 Oct 2025 00:25:40 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>React Flow, open source libraries for node-based UIs with React or Svelte</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/xyflow/xyflow"&gt;https://github.com/xyflow/xyflow&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45688836"&gt;https://news.ycombinator.com/item?id=45688836&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 5&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 23:33:28 +0000</pubDate><link>https://github.com/xyflow/xyflow</link><dc:creator>mountainview</dc:creator><comments>https://news.ycombinator.com/item?id=45688836</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45688836</guid></item><item><title>Introduction to the concept of likelihood and its applications (2018)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://journals.sagepub.com/doi/10.1177/2515245917744314"&gt;https://journals.sagepub.com/doi/10.1177/2515245917744314&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45688443"&gt;https://news.ycombinator.com/item?id=45688443&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 7&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 22:52:15 +0000</pubDate><link>https://journals.sagepub.com/doi/10.1177/2515245917744314</link><dc:creator>sebg</dc:creator><comments>https://news.ycombinator.com/item?id=45688443</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45688443</guid></item><item><title>Apple loses UK App Store monopoly case, penalty might near $2B</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/"&gt;https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45688006"&gt;https://news.ycombinator.com/item?id=45688006&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 131&lt;/p&gt;
+&lt;p&gt;# Comments: 78&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 22:11:23 +0000</pubDate><link>https://9to5mac.com/2025/10/23/apple-loses-uk-app-store-monopoly-case-penalty-might-near-2-billion/</link><dc:creator>thelastgallon</dc:creator><comments>https://news.ycombinator.com/item?id=45688006</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45688006</guid></item><item><title>How memory maps (mmap) deliver faster file access in Go</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go"&gt;https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45687796"&gt;https://news.ycombinator.com/item?id=45687796&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 49&lt;/p&gt;
+&lt;p&gt;# Comments: 24&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 21:56:07 +0000</pubDate><link>https://info.varnish-software.com/blog/how-memory-maps-mmap-deliver-25x-faster-file-access-in-go</link><dc:creator>ingve</dc:creator><comments>https://news.ycombinator.com/item?id=45687796</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45687796</guid></item><item><title>/dev/null is an ACID compliant database</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/"&gt;https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45687458"&gt;https://news.ycombinator.com/item?id=45687458&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 97&lt;/p&gt;
+&lt;p&gt;# Comments: 48&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 21:28:02 +0000</pubDate><link>https://jyu.dev/blog/why-dev-null-is-an-acid-compliant-database/</link><dc:creator>swills</dc:creator><comments>https://news.ycombinator.com/item?id=45687458</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45687458</guid></item><item><title>When is it better to think without words?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.henrikkarlsson.xyz/p/wordless-thought"&gt;https://www.henrikkarlsson.xyz/p/wordless-thought&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45687441"&gt;https://news.ycombinator.com/item?id=45687441&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 38&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 21:26:57 +0000</pubDate><link>https://www.henrikkarlsson.xyz/p/wordless-thought</link><dc:creator>Curiositry</dc:creator><comments>https://news.ycombinator.com/item?id=45687441</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45687441</guid></item><item><title>Zram Performance Analysis</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://notes.xeome.dev/notes/Zram"&gt;https://notes.xeome.dev/notes/Zram&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45686280"&gt;https://news.ycombinator.com/item?id=45686280&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 48&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 19:58:12 +0000</pubDate><link>https://notes.xeome.dev/notes/Zram</link><dc:creator>enz</dc:creator><comments>https://news.ycombinator.com/item?id=45686280</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45686280</guid></item><item><title>Show HN: OpenSnowcat – A fork of Snowplow to keep open analytics alive</title><description>
+&lt;p&gt;I’ve been a long-time Snowplow user and unofficial evangelizer. I have deep respect for its founders, Alex and Yali, who I met a few times.&lt;p&gt;What made me fall in love with Snowplow was that it was unopinionated, gave access to raw event data, and was truly open source. Back in 2013, that changed everything for me. I couldn’t look at GA the same way again.&lt;p&gt;Over the years, analytics moved into SQL warehouses driven by cheaper CPU/storage, dbt, reproducibility, and transparency. I saw the need for a democratized Snowplow pipeline and launched a hosted version in 2019.&lt;p&gt;In January 2024, Snowplow changed its license (SLULA), effectively ending open-source Snowplow by restricting production use. When that happened, I realized the spirit of open data and open architecture was gone.&lt;p&gt;A week later, I forked it, I wanted to keep the idea alive.&lt;p&gt;OpenSnowcat keeps the original collector and enricher under Apache 2.0 and stays fully compatible with existing Snowplow pipelines. We maintain it with regular patches, performance optimizations, and integrations with modern tools like Warpstream Bento for event processing/routing.&lt;p&gt;The goal is simple: keep open analytics open.&lt;p&gt;Would love to hear how others in the community think we can preserve openness in data infrastructure as “open source” becomes increasingly commercialized.&lt;p&gt;That's it, I should have posted here earlier but now felt right.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45685793"&gt;https://news.ycombinator.com/item?id=45685793&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 45&lt;/p&gt;
+&lt;p&gt;# Comments: 12&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 19:24:04 +0000</pubDate><link>https://opensnowcat.io/</link><dc:creator>joaocorreia</dc:creator><comments>https://news.ycombinator.com/item?id=45685793</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45685793</guid></item><item><title>What happened to Apple's legendary attention to detail?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html"&gt;https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45685551"&gt;https://news.ycombinator.com/item?id=45685551&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 570&lt;/p&gt;
+&lt;p&gt;# Comments: 357&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 19:05:24 +0000</pubDate><link>https://blog.johnozbay.com/what-happened-to-apples-attention-to-detail.html</link><dc:creator>Bogdanp</dc:creator><comments>https://news.ycombinator.com/item?id=45685551</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45685551</guid></item><item><title>Can “second life” EV batteries work as grid-scale energy storage?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.volts.wtf/p/can-second-life-ev-batteries-work"&gt;https://www.volts.wtf/p/can-second-life-ev-batteries-work&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45685007"&gt;https://news.ycombinator.com/item?id=45685007&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 98&lt;/p&gt;
+&lt;p&gt;# Comments: 101&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 18:15:45 +0000</pubDate><link>https://www.volts.wtf/p/can-second-life-ev-batteries-work</link><dc:creator>davidw</dc:creator><comments>https://news.ycombinator.com/item?id=45685007</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45685007</guid></item><item><title>Armed police swarm student after AI mistakes bag of Doritos for a weapon</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/"&gt;https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45684934"&gt;https://news.ycombinator.com/item?id=45684934&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 425&lt;/p&gt;
+&lt;p&gt;# Comments: 257&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 18:09:37 +0000</pubDate><link>https://www.dexerto.com/entertainment/armed-police-swarm-student-after-ai-mistakes-bag-of-doritos-for-a-weapon-3273512/</link><dc:creator>antongribok</dc:creator><comments>https://news.ycombinator.com/item?id=45684934</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45684934</guid></item><item><title>OpenAI acquires Sky.app</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://openai.com/index/openai-acquires-software-applications-incorporated"&gt;https://openai.com/index/openai-acquires-software-applications-incorporated&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45684236"&gt;https://news.ycombinator.com/item?id=45684236&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 114&lt;/p&gt;
+&lt;p&gt;# Comments: 56&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 17:04:17 +0000</pubDate><link>https://openai.com/index/openai-acquires-software-applications-incorporated</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=45684236</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45684236</guid></item><item><title>Make Any TypeScript Function Durable</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://useworkflow.dev/"&gt;https://useworkflow.dev/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45684217"&gt;https://news.ycombinator.com/item?id=45684217&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 79&lt;/p&gt;
+&lt;p&gt;# Comments: 54&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 17:03:13 +0000</pubDate><link>https://useworkflow.dev/</link><dc:creator>tilt</dc:creator><comments>https://news.ycombinator.com/item?id=45684217</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45684217</guid></item><item><title>New updates and more access to Google Earth AI</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/"&gt;https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45684155"&gt;https://news.ycombinator.com/item?id=45684155&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 121&lt;/p&gt;
+&lt;p&gt;# Comments: 38&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 16:58:04 +0000</pubDate><link>https://blog.google/technology/research/new-updates-and-more-access-to-google-earth-ai/</link><dc:creator>diogenico</dc:creator><comments>https://news.ycombinator.com/item?id=45684155</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45684155</guid></item><item><title>Claude Memory</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.anthropic.com/news/memory"&gt;https://www.anthropic.com/news/memory&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45684134"&gt;https://news.ycombinator.com/item?id=45684134&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 340&lt;/p&gt;
+&lt;p&gt;# Comments: 189&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 16:56:07 +0000</pubDate><link>https://www.anthropic.com/news/memory</link><dc:creator>doppp</dc:creator><comments>https://news.ycombinator.com/item?id=45684134</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45684134</guid></item><item><title>Trump pardons convicted Binance founder</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63"&gt;https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45683152"&gt;https://news.ycombinator.com/item?id=45683152&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 670&lt;/p&gt;
+&lt;p&gt;# Comments: 648&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 15:41:48 +0000</pubDate><link>https://www.wsj.com/finance/currencies/trump-pardons-convicted-binance-founder-7509bd63</link><dc:creator>cowboyscott</dc:creator><comments>https://news.ycombinator.com/item?id=45683152</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45683152</guid></item><item><title>Show HN: Git for LLMs – A context management interface</title><description>
+&lt;p&gt;Hi HN, we’re Jamie and Matti, co-founders of Twigg.&lt;p&gt;During our master’s we continually found the same pain points cropping up when using LLMs. The linear nature of typical LLMs interfaces - like ChatGPT and Claude - made it really easy to get lost without any easy way to visualise or navigate your project.&lt;p&gt;Worst of all, none of them are well suited for long term projects. We found ourselves spending days using the same chat, only for it to eventually break. Transferring context from one chat to another is also cumbersome. We decided to build something more intuitive to the ways humans think.&lt;p&gt;We started with two simple ideas. Enabling chat branching for exploring tangents, and an interactive tree diagram to allow for easy visualisation and navigation of your project.&lt;p&gt;Twigg has developed into an interface for context management -  like “Git for LLMs”. We believe the input to a model - or the context - is fundamental to its performance.  To extract the maximum potential of an LLM, we believe the users need complete control over exactly what context is provided to the model, which you can do using simple features like cut, copy and delete to manipulate your tree.&lt;p&gt;Through Twigg, you can access a variety of LLMs from all the major providers, like ChatGPT, Gemini, Claude, and Grok.  Aside from a standard tiered subscription model (free, plus, pro), we also offer a Bring Your Own Key (BYOK) service, where you can plug and play with your own API keys.&lt;p&gt;Our target audience are technical users who use LLMs for large projects on a regular basis. If this sounds like you, please try out Twigg, you can sign up for free at &lt;a href="https://twigg.ai/" rel="nofollow"&gt;https://twigg.ai/&lt;/a&gt;. We would love to get your feedback!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45682776"&gt;https://news.ycombinator.com/item?id=45682776&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 53&lt;/p&gt;
+&lt;p&gt;# Comments: 12&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 15:12:57 +0000</pubDate><link>https://twigg.ai</link><dc:creator>jborland</dc:creator><comments>https://news.ycombinator.com/item?id=45682776</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45682776</guid></item><item><title>I spent a year making an ASN.1 compiler in D</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/"&gt;https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45681200"&gt;https://news.ycombinator.com/item?id=45681200&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 240&lt;/p&gt;
+&lt;p&gt;# Comments: 144&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 12:47:41 +0000</pubDate><link>https://bradley.chatha.dev/blog/dlang-propaganda/asn1-compiler-in-d/</link><dc:creator>BradleyChatha</dc:creator><comments>https://news.ycombinator.com/item?id=45681200</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45681200</guid></item><item><title>US probes Waymo robotaxis over school bus safety</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html"&gt;https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45681147"&gt;https://news.ycombinator.com/item?id=45681147&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 59&lt;/p&gt;
+&lt;p&gt;# Comments: 90&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 12:40:57 +0000</pubDate><link>https://www.yahoo.com/news/articles/us-investigates-waymo-robotaxis-over-102015308.html</link><dc:creator>gmays</dc:creator><comments>https://news.ycombinator.com/item?id=45681147</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45681147</guid></item><item><title>Nango (YC W23) is hiring staff back-end engineers (remote)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.nango.dev/careers"&gt;https://www.nango.dev/careers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45680847"&gt;https://news.ycombinator.com/item?id=45680847&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Thu, 23 Oct 2025 12:00:11 +0000</pubDate><link>https://www.nango.dev/careers</link><dc:creator>bastienbeurier</dc:creator><comments>https://news.ycombinator.com/item?id=45680847</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45680847</guid></item></channel></rss>
