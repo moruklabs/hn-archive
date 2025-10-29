@@ -1,0 +1,102 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Wed, 29 Oct 2025 00:22:41 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Fil-C: A memory-safe C implementation</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lwn.net/SubscriberLink/1042938/ac9a001023324bf8/"&gt;https://lwn.net/SubscriberLink/1042938/ac9a001023324bf8/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45740467"&gt;https://news.ycombinator.com/item?id=45740467&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 4&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 23:03:47 +0000</pubDate><link>https://lwn.net/SubscriberLink/1042938/ac9a001023324bf8/</link><dc:creator>askl</dc:creator><comments>https://news.ycombinator.com/item?id=45740467</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45740467</guid></item><item><title>Static Android Debug Bridge (adb)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/kiddlu/adb-static"&gt;https://github.com/kiddlu/adb-static&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45740348"&gt;https://news.ycombinator.com/item?id=45740348&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 10&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 22:52:49 +0000</pubDate><link>https://github.com/kiddlu/adb-static</link><dc:creator>1vuio0pswjnm7</dc:creator><comments>https://news.ycombinator.com/item?id=45740348</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45740348</guid></item><item><title>Keeping the Internet fast and secure: introducing Merkle Tree Certificates</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.cloudflare.com/bootstrap-mtc/"&gt;https://blog.cloudflare.com/bootstrap-mtc/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45740214"&gt;https://news.ycombinator.com/item?id=45740214&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 22&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 22:39:24 +0000</pubDate><link>https://blog.cloudflare.com/bootstrap-mtc/</link><dc:creator>tatersolid</dc:creator><comments>https://news.ycombinator.com/item?id=45740214</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45740214</guid></item><item><title>Tor Browser 15.0</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.torproject.org/new-release-tor-browser-150/"&gt;https://blog.torproject.org/new-release-tor-browser-150/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45739515"&gt;https://news.ycombinator.com/item?id=45739515&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 47&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 21:33:01 +0000</pubDate><link>https://blog.torproject.org/new-release-tor-browser-150/</link><dc:creator>pentagrama</dc:creator><comments>https://news.ycombinator.com/item?id=45739515</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45739515</guid></item><item><title>If you don't tinker, you don't have taste</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://seated.ro/blog/tinkering-a-lost-art"&gt;https://seated.ro/blog/tinkering-a-lost-art&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45739499"&gt;https://news.ycombinator.com/item?id=45739499&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 68&lt;/p&gt;
+&lt;p&gt;# Comments: 53&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 21:31:50 +0000</pubDate><link>https://seated.ro/blog/tinkering-a-lost-art</link><dc:creator>jxmorris12</dc:creator><comments>https://news.ycombinator.com/item?id=45739499</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45739499</guid></item><item><title>Generative AI Image Editing Showdown</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://genai-showdown.specr.net/image-editing"&gt;https://genai-showdown.specr.net/image-editing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45739080"&gt;https://news.ycombinator.com/item?id=45739080&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 105&lt;/p&gt;
+&lt;p&gt;# Comments: 22&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 20:58:22 +0000</pubDate><link>https://genai-showdown.specr.net/image-editing</link><dc:creator>gaws</dc:creator><comments>https://news.ycombinator.com/item?id=45739080</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45739080</guid></item><item><title>Boring is what we wanted</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://512pixels.net/2025/10/boring-is-what-we-wanted/"&gt;https://512pixels.net/2025/10/boring-is-what-we-wanted/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45738247"&gt;https://news.ycombinator.com/item?id=45738247&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 150&lt;/p&gt;
+&lt;p&gt;# Comments: 67&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 19:57:16 +0000</pubDate><link>https://512pixels.net/2025/10/boring-is-what-we-wanted/</link><dc:creator>Amorymeltzer</dc:creator><comments>https://news.ycombinator.com/item?id=45738247</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45738247</guid></item><item><title>Show HN: Butter – A Behavior Cache for LLMs</title><description>
+&lt;p&gt;Hi HN! I'm Erik. We built Butter, an LLM proxy that makes agent systems deterministic by caching and replaying responses, so automations behave consistently across runs.&lt;p&gt;- It’s a chat completions compatible endpoint, making it easy to drop into existing agents with a custom base_url&lt;p&gt;- The cache is template-aware, meaning lookups can treat dynamic content (names, addresses, etc.) as variables&lt;p&gt;You can see it in action in this demo where it memorizes tic-tac-toe games: &lt;a href="https://www.youtube.com/watch?v=PWbyeZwPjuY" rel="nofollow"&gt;https://www.youtube.com/watch?v=PWbyeZwPjuY&lt;/a&gt;&lt;p&gt;Why we built this: before Butter, we were Pig.dev (YC W25), where we built computer-use agents to automate legacy Windows applications. The goal was to replace RPA. But in practice, these agents were slow, expensive, and unpredictable - a major downgrade from deterministic RPA, and unacceptable in the worlds of healthcare, lending, and government. We realized users don't want to replace RPA with AI, they just want AI to handle the edge cases.&lt;p&gt;We set out to build a system for "muscle memory" for AI automations (general purpose, not just computer-use), where agent trajectories get baked into reusable code. You may recall our first iteration of this in May, a library called Muscle Mem: &lt;a href="https://news.ycombinator.com/item?id=43988381"&gt;https://news.ycombinator.com/item?id=43988381&lt;/a&gt;&lt;p&gt;Today we're relaunching it as a chat completions proxy. It emulates scripted automations by storing observed message histories in a tree structure, where each fork in the tree represents some conditional branch in the workflow's "code". We replay behaviors by walking the agent down the tree, falling back to AI to add new branches if the next step is not yet known.&lt;p&gt;The proxy is live and free to use while we work through making the template-aware engine more flexible and accurate. Please try it out and share how it went, where it breaks, and if it’s helpful.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45737948"&gt;https://news.ycombinator.com/item?id=45737948&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 4&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 19:39:51 +0000</pubDate><link>https://www.butter.dev/</link><dc:creator>edunteman</dc:creator><comments>https://news.ycombinator.com/item?id=45737948</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45737948</guid></item><item><title>Why do some radio towers blink?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink"&gt;https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45737941"&gt;https://news.ycombinator.com/item?id=45737941&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 91&lt;/p&gt;
+&lt;p&gt;# Comments: 71&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 19:38:53 +0000</pubDate><link>https://www.jeffgeerling.com/blog/2025/why-do-some-radio-towers-blink</link><dc:creator>warrenm</dc:creator><comments>https://news.ycombinator.com/item?id=45737941</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45737941</guid></item><item><title>Samsung makes ads on smart fridges official with upcoming software update</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/"&gt;https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45737338"&gt;https://news.ycombinator.com/item?id=45737338&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 337&lt;/p&gt;
+&lt;p&gt;# Comments: 280&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 19:02:48 +0000</pubDate><link>https://arstechnica.com/gadgets/2025/10/samsung-makes-ads-on-3499-smart-fridges-official-with-upcoming-software-update/</link><dc:creator>stalfosknight</dc:creator><comments>https://news.ycombinator.com/item?id=45737338</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45737338</guid></item><item><title>Nearly 90% of Windows Games Now Run on Linux</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.tomshardware.com/software/linux/nearly-90-percent-of-windows-games-now-run-on-linux-latest-data-shows-as-windows-10-dies-gaming-on-linux-is-more-viable-than-ever"&gt;https://www.tomshardware.com/software/linux/nearly-90-percent-of-windows-games-now-run-on-linux-latest-data-shows-as-windows-10-dies-gaming-on-linux-is-more-viable-than-ever&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45736925"&gt;https://news.ycombinator.com/item?id=45736925&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 183&lt;/p&gt;
+&lt;p&gt;# Comments: 89&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 18:37:33 +0000</pubDate><link>https://www.tomshardware.com/software/linux/nearly-90-percent-of-windows-games-now-run-on-linux-latest-data-shows-as-windows-10-dies-gaming-on-linux-is-more-viable-than-ever</link><dc:creator>jamesgill</dc:creator><comments>https://news.ycombinator.com/item?id=45736925</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45736925</guid></item><item><title>Mapping the off-target effects of every FDA-approved drug in existence</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.owlposting.com/p/mapping-the-off-target-effects-of"&gt;https://www.owlposting.com/p/mapping-the-off-target-effects-of&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45736608"&gt;https://news.ycombinator.com/item?id=45736608&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 99&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 18:12:10 +0000</pubDate><link>https://www.owlposting.com/p/mapping-the-off-target-effects-of</link><dc:creator>abhishaike</dc:creator><comments>https://news.ycombinator.com/item?id=45736608</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45736608</guid></item><item><title>What we talk about when we talk about sideloading</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://f-droid.org/2025/10/28/sideloading.html"&gt;https://f-droid.org/2025/10/28/sideloading.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45736479"&gt;https://news.ycombinator.com/item?id=45736479&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 577&lt;/p&gt;
+&lt;p&gt;# Comments: 291&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 18:02:36 +0000</pubDate><link>https://f-droid.org/2025/10/28/sideloading.html</link><dc:creator>rom1v</dc:creator><comments>https://news.ycombinator.com/item?id=45736479</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45736479</guid></item><item><title>Fil-C: A memory-safe C implementation</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/"&gt;https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45735877"&gt;https://news.ycombinator.com/item?id=45735877&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 100&lt;/p&gt;
+&lt;p&gt;# Comments: 24&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 17:25:04 +0000</pubDate><link>https://lwn.net/SubscriberLink/1042938/658ade3768dd4758/</link><dc:creator>chmaynard</dc:creator><comments>https://news.ycombinator.com/item?id=45735877</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45735877</guid></item><item><title>SigNoz (YC W21) Is Hiring DevRel Engineers in the US – Open Source O11y Platform</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3"&gt;https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45735491"&gt;https://news.ycombinator.com/item?id=45735491&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 17:00:31 +0000</pubDate><link>https://jobs.ashbyhq.com/SigNoz/8447522c-1163-48d0-8f55-fac25f64a0f3</link><dc:creator>pranay01</dc:creator><comments>https://news.ycombinator.com/item?id=45735491</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45735491</guid></item><item><title>Using AI to negotiate a $195k hospital bill down to $33k</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw"&gt;https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45734582"&gt;https://news.ycombinator.com/item?id=45734582&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 765&lt;/p&gt;
+&lt;p&gt;# Comments: 695&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 15:58:58 +0000</pubDate><link>https://www.threads.com/@nthmonkey/post/DQVdAD1gHhw</link><dc:creator>stevenhubertron</dc:creator><comments>https://news.ycombinator.com/item?id=45734582</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45734582</guid></item><item><title>How to build a 747 – A WorldFlight Story</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/"&gt;https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45733772"&gt;https://news.ycombinator.com/item?id=45733772&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 80&lt;/p&gt;
+&lt;p&gt;# Comments: 11&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 15:02:59 +0000</pubDate><link>https://www.x-plane.com/2025/10/how-to-build-a-747-a-worldflight-story/</link><dc:creator>hggh</dc:creator><comments>https://news.ycombinator.com/item?id=45733772</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45733772</guid></item><item><title>EuroLLM: LLM made in Europe built to support all 24 official EU languages</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://eurollm.io/"&gt;https://eurollm.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45733707"&gt;https://news.ycombinator.com/item?id=45733707&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 493&lt;/p&gt;
+&lt;p&gt;# Comments: 389&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 14:58:04 +0000</pubDate><link>https://eurollm.io/</link><dc:creator>NotInOurNames</dc:creator><comments>https://news.ycombinator.com/item?id=45733707</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45733707</guid></item><item><title>A brief history of random numbers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://crates.io/crates/oorandom#a-brief-history-of-random-numbers"&gt;https://crates.io/crates/oorandom#a-brief-history-of-random-numbers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45733412"&gt;https://news.ycombinator.com/item?id=45733412&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 172&lt;/p&gt;
+&lt;p&gt;# Comments: 57&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 14:34:18 +0000</pubDate><link>https://crates.io/crates/oorandom#a-brief-history-of-random-numbers</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=45733412</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45733412</guid></item><item><title>The AirPods Pro 3 flight problem</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem"&gt;https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45733329"&gt;https://news.ycombinator.com/item?id=45733329&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 297&lt;/p&gt;
+&lt;p&gt;# Comments: 192&lt;/p&gt;
+</description><pubDate>Tue, 28 Oct 2025 14:27:37 +0000</pubDate><link>https://basicappleguy.com/basicappleblog/the-airpods-pro-3-flight-problem</link><dc:creator>andrem</dc:creator><comments>https://news.ycombinator.com/item?id=45733329</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45733329</guid></item></channel></rss>
