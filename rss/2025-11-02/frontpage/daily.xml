@@ -1,0 +1,104 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sun, 02 Nov 2025 00:28:02 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Pomelli</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://labs.google.com/pomelli/about/"&gt;https://labs.google.com/pomelli/about/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45786324"&gt;https://news.ycombinator.com/item?id=45786324&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 16&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 23:09:25 +0000</pubDate><link>https://labs.google.com/pomelli/about/</link><dc:creator>birriel</dc:creator><comments>https://news.ycombinator.com/item?id=45786324</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45786324</guid></item><item><title>Show HN: KeyLeak Detector – Scan websites for exposed API keys and secrets</title><description>
+&lt;p&gt;I built this after seeing multiple teams accidentally ship API keys in their frontend code.&lt;p&gt;The problem: Modern web development moves fast. You're vibe-coding, shipping features, and suddenly your AWS keys are sitting in a &lt;script&gt; tag visible to anyone who opens DevTools. I've personally witnessed this happen to at least 3-4 production apps in the past year alone.&lt;p&gt;KeyLeak Detector runs through your site (headless browser + network interception) and checks for 50+ types of leaked secrets: AWS/Google keys, Stripe tokens, database connection strings, LLM API keys (OpenAI, Claude, etc.), JWT tokens, and more.&lt;p&gt;It's not perfect, there are false positives but it's caught real issues in my own projects. Think of it as a quick sanity check before you ship.&lt;p&gt;Use case: Run it on staging before deploying, or audit your existing sites. Takes ~30 seconds per page.&lt;p&gt;MIT licensed, for authorized testing only.&lt;p&gt;&lt;a href="https://github.com/Amal-David/keyleak-detector" rel="nofollow"&gt;https://github.com/Amal-David/keyleak-detector&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45786192"&gt;https://news.ycombinator.com/item?id=45786192&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 5&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 22:52:22 +0000</pubDate><link>https://github.com/Amal-David/keyleak-detector</link><dc:creator>amaldavid</dc:creator><comments>https://news.ycombinator.com/item?id=45786192</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45786192</guid></item><item><title>OpenDesk by the Centre for Digital Sovereignty</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.opendesk.eu/en/product"&gt;https://www.opendesk.eu/en/product&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45785986"&gt;https://news.ycombinator.com/item?id=45785986&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 13&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 22:26:03 +0000</pubDate><link>https://www.opendesk.eu/en/product</link><dc:creator>athousandsteps</dc:creator><comments>https://news.ycombinator.com/item?id=45785986</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45785986</guid></item><item><title>OS maintained by a single developer since 1997: Visopsys</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://visopsys.org/"&gt;https://visopsys.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45785858"&gt;https://news.ycombinator.com/item?id=45785858&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 71&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 22:07:49 +0000</pubDate><link>https://visopsys.org/</link><dc:creator>kome</dc:creator><comments>https://news.ycombinator.com/item?id=45785858</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45785858</guid></item><item><title>SailfishOS: A Linux-based European alternative to dominant mobile OSes</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://sailfishos.org/info/"&gt;https://sailfishos.org/info/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45785840"&gt;https://news.ycombinator.com/item?id=45785840&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 123&lt;/p&gt;
+&lt;p&gt;# Comments: 65&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 22:05:00 +0000</pubDate><link>https://sailfishos.org/info/</link><dc:creator>ForHackernews</dc:creator><comments>https://news.ycombinator.com/item?id=45785840</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45785840</guid></item><item><title>From 400 Mbps to 1.7 Gbps: A WiFi 7 Debugging Journey</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.tymscar.com/posts/wifi7speedhunt/"&gt;https://blog.tymscar.com/posts/wifi7speedhunt/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45784729"&gt;https://news.ycombinator.com/item?id=45784729&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 58&lt;/p&gt;
+&lt;p&gt;# Comments: 42&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 19:50:03 +0000</pubDate><link>https://blog.tymscar.com/posts/wifi7speedhunt/</link><dc:creator>tymscar</dc:creator><comments>https://news.ycombinator.com/item?id=45784729</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45784729</guid></item><item><title>Beginner-friendly, unofficial documentation for Helix text editor</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://helix-editor.vercel.app/start-here/basics/"&gt;https://helix-editor.vercel.app/start-here/basics/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45784596"&gt;https://news.ycombinator.com/item?id=45784596&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 84&lt;/p&gt;
+&lt;p&gt;# Comments: 29&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 19:33:48 +0000</pubDate><link>https://helix-editor.vercel.app/start-here/basics/</link><dc:creator>Curiositry</dc:creator><comments>https://news.ycombinator.com/item?id=45784596</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45784596</guid></item><item><title>Word2vec-style vector arithmetic on docs embeddings</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://technicalwriting.dev/embeddings/arithmetic/index.html"&gt;https://technicalwriting.dev/embeddings/arithmetic/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45784455"&gt;https://news.ycombinator.com/item?id=45784455&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 42&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 19:14:58 +0000</pubDate><link>https://technicalwriting.dev/embeddings/arithmetic/index.html</link><dc:creator>kaycebasques</dc:creator><comments>https://news.ycombinator.com/item?id=45784455</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45784455</guid></item><item><title>Czech police forced to turn off facial recognition cameras at the Prague airport</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/"&gt;https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45784185"&gt;https://news.ycombinator.com/item?id=45784185&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 108&lt;/p&gt;
+&lt;p&gt;# Comments: 20&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 18:42:39 +0000</pubDate><link>https://edri.org/our-work/czech-police-forced-to-turn-off-facial-recognition-cameras-at-the-prague-airport-thanks-to-the-ai-act/</link><dc:creator>campuscodi</dc:creator><comments>https://news.ycombinator.com/item?id=45784185</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45784185</guid></item><item><title>Claude Code Can Debug Low-Level Cryptography</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://words.filippo.io/claude-debugging/"&gt;https://words.filippo.io/claude-debugging/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45784179"&gt;https://news.ycombinator.com/item?id=45784179&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 171&lt;/p&gt;
+&lt;p&gt;# Comments: 95&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 18:41:56 +0000</pubDate><link>https://words.filippo.io/claude-debugging/</link><dc:creator>Bogdanp</dc:creator><comments>https://news.ycombinator.com/item?id=45784179</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45784179</guid></item><item><title>Reconfigurable Analog Computers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arxiv.org/abs/2510.25942"&gt;https://arxiv.org/abs/2510.25942&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45783835"&gt;https://news.ycombinator.com/item?id=45783835&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 18&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 18:03:56 +0000</pubDate><link>https://arxiv.org/abs/2510.25942</link><dc:creator>gidellav</dc:creator><comments>https://news.ycombinator.com/item?id=45783835</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45783835</guid></item><item><title>Visible from space, Sudan's bloodied sands expose a massacre of thousands</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/"&gt;https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45783699"&gt;https://news.ycombinator.com/item?id=45783699&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 227&lt;/p&gt;
+&lt;p&gt;# Comments: 84&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 17:50:38 +0000</pubDate><link>https://www.telegraph.co.uk/world-news/2025/10/28/sudan-bloodied-sands-massacre-thousands/</link><dc:creator>wslh</dc:creator><comments>https://news.ycombinator.com/item?id=45783699</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45783699</guid></item><item><title>Show HN: Why write code if the LLM can just do the thing? (web app experiment)</title><description>
+&lt;p&gt;I spent a few hours last weekend testing whether AI can replace code by executing directly. Built a contact manager where every HTTP request goes to an LLM with three tools: database (SQLite), webResponse (HTML/JSON/JS), and updateMemory (feedback). No routes, no controllers, no business logic. The AI designs schemas on first request, generates UIs from paths alone, and evolves based on natural language feedback. It works—forms submit, data persists, APIs return JSON—but it's catastrophically slow (30-60s per request), absurdly expensive ($0.05/request), and has zero UI consistency between requests. The capability exists; performance is the problem. When inference gets 10x faster, maybe the question shifts from "how do we generate better code?" to "why generate code at all?"&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45783640"&gt;https://news.ycombinator.com/item?id=45783640&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 195&lt;/p&gt;
+&lt;p&gt;# Comments: 160&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 17:45:18 +0000</pubDate><link>https://github.com/samrolken/nokode</link><dc:creator>samrolken</dc:creator><comments>https://news.ycombinator.com/item?id=45783640</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45783640</guid></item><item><title>Ask HN: Where to begin with "modern" Emacs?</title><description>
+&lt;p&gt;Hi all,&lt;p&gt;I’m a longtime Neovim user who’s been EMacs-curious. The hold up for me has been that I’ve been unable to find a source of truth for what’s top-of-the-line as far as plugins are. With Neovim, it’s a safe bet to look at what folks like Folke are doing, but I have struggled to find a similar figure in the Emacs community who gives insight into what’s-what. I know Doom exists, but I want to fully “own” my config and not over complicate it.&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45783376"&gt;https://news.ycombinator.com/item?id=45783376&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 94&lt;/p&gt;
+&lt;p&gt;# Comments: 61&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 17:13:04 +0000</pubDate><link>https://news.ycombinator.com/item?id=45783376</link><dc:creator>weakfish</dc:creator><comments>https://news.ycombinator.com/item?id=45783376</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45783376</guid></item><item><title>Studies increasingly find links between air pollutants and dementia</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html"&gt;https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45783206"&gt;https://news.ycombinator.com/item?id=45783206&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 132&lt;/p&gt;
+&lt;p&gt;# Comments: 84&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 16:54:45 +0000</pubDate><link>https://www.nytimes.com/2025/11/01/health/alzheimers-dementia-air-pollution.html</link><dc:creator>quapster</dc:creator><comments>https://news.ycombinator.com/item?id=45783206</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45783206</guid></item><item><title>Chat Control proposal fails again after public opposition</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/"&gt;https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45783114"&gt;https://news.ycombinator.com/item?id=45783114&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 424&lt;/p&gt;
+&lt;p&gt;# Comments: 113&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 16:42:57 +0000</pubDate><link>https://andreafortuna.org/2025/11/01/chat-control-proposal-fails-again-after-massive-public-opposition/</link><dc:creator>speckx</dc:creator><comments>https://news.ycombinator.com/item?id=45783114</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45783114</guid></item><item><title>GHC now runs in the browser</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169"&gt;https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45782981"&gt;https://news.ycombinator.com/item?id=45782981&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 232&lt;/p&gt;
+&lt;p&gt;# Comments: 65&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 16:29:23 +0000</pubDate><link>https://discourse.haskell.org/t/ghc-now-runs-in-your-browser/13169</link><dc:creator>kaycebasques</dc:creator><comments>https://news.ycombinator.com/item?id=45782981</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45782981</guid></item><item><title>Open-Source Ada: From Gateware to Application</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.adacore.com/open-source-ada-from-gateware-to-application"&gt;https://blog.adacore.com/open-source-ada-from-gateware-to-application&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45782348"&gt;https://news.ycombinator.com/item?id=45782348&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 49&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 15:21:00 +0000</pubDate><link>https://blog.adacore.com/open-source-ada-from-gateware-to-application</link><dc:creator>Bogdanp</dc:creator><comments>https://news.ycombinator.com/item?id=45782348</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45782348</guid></item><item><title>Updated practice for review articles and position papers in ArXiv CS category</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/"&gt;https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45782136"&gt;https://news.ycombinator.com/item?id=45782136&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 402&lt;/p&gt;
+&lt;p&gt;# Comments: 192&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 14:58:05 +0000</pubDate><link>https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/</link><dc:creator>dw64</dc:creator><comments>https://news.ycombinator.com/item?id=45782136</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45782136</guid></item><item><title>CharlotteOS – An Experimental Modern Operating System</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/charlotte-os/Catten"&gt;https://github.com/charlotte-os/Catten&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45781397"&gt;https://news.ycombinator.com/item?id=45781397&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 146&lt;/p&gt;
+&lt;p&gt;# Comments: 64&lt;/p&gt;
+</description><pubDate>Sat, 01 Nov 2025 13:12:47 +0000</pubDate><link>https://github.com/charlotte-os/Catten</link><dc:creator>ementally</dc:creator><comments>https://news.ycombinator.com/item?id=45781397</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45781397</guid></item></channel></rss>
