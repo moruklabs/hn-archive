@@ -11,7 +11,6 @@ from urllib.parse import urlparse
 import xml.etree.ElementTree
 import argparse
 import concurrent.futures
-from urllib.parse import urlparse, urljoin
 
 CONFIG_FILE = 'config.json'
 CAPTURES_DIR = 'rss'
@@ -163,7 +162,7 @@ def generate_master_feed_for_category(category):
             try:
                 from email.utils import parsedate_to_datetime
                 return parsedate_to_datetime(pub_date_elem.text)
-            except:
+            except Exception:
                 pass
         return datetime.min.replace(tzinfo=timezone.utc)
     
