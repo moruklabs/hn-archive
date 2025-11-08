@@ -1,0 +1,104 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sat, 08 Nov 2025 00:21:45 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Analysis of Hedy Lamarr's Contribution to Spread-Spectrum Communication</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://researchers.one/articles/24.01.00001v4"&gt;https://researchers.one/articles/24.01.00001v4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45852642"&gt;https://news.ycombinator.com/item?id=45852642&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 4&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 23:42:01 +0000</pubDate><link>https://researchers.one/articles/24.01.00001v4</link><dc:creator>drmpeg</dc:creator><comments>https://news.ycombinator.com/item?id=45852642</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45852642</guid></item><item><title>Why is Zig so Cool?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://nilostolte.github.io/tech/articles/ZigCool.html"&gt;https://nilostolte.github.io/tech/articles/ZigCool.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45852328"&gt;https://news.ycombinator.com/item?id=45852328&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 56&lt;/p&gt;
+&lt;p&gt;# Comments: 12&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 23:04:39 +0000</pubDate><link>https://nilostolte.github.io/tech/articles/ZigCool.html</link><dc:creator>vitalnodo</dc:creator><comments>https://news.ycombinator.com/item?id=45852328</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45852328</guid></item><item><title>FAA restricts commercial rocket launches indefinitely due to air traffic risks</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown"&gt;https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45852275"&gt;https://news.ycombinator.com/item?id=45852275&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 56&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 22:59:04 +0000</pubDate><link>https://www.space.com/space-exploration/launches-spacecraft/faa-restricts-commercial-rocket-launches-indefinitely-due-to-air-traffic-risks-from-government-shutdown</link><dc:creator>bookmtn</dc:creator><comments>https://news.ycombinator.com/item?id=45852275</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45852275</guid></item><item><title>Mind captioning: Evolving descriptive text of mental content of brain activity</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.science.org/doi/10.1126/sciadv.adw1464"&gt;https://www.science.org/doi/10.1126/sciadv.adw1464&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45852257"&gt;https://news.ycombinator.com/item?id=45852257&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 6&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 22:57:18 +0000</pubDate><link>https://www.science.org/doi/10.1126/sciadv.adw1464</link><dc:creator>Marshferm</dc:creator><comments>https://news.ycombinator.com/item?id=45852257</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45852257</guid></item><item><title>How a devboard works (and how to make your own)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://kaipereira.com/journal/build-a-devboard"&gt;https://kaipereira.com/journal/build-a-devboard&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45852029"&gt;https://news.ycombinator.com/item?id=45852029&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 18&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 22:35:28 +0000</pubDate><link>https://kaipereira.com/journal/build-a-devboard</link><dc:creator>kaipereira</dc:creator><comments>https://news.ycombinator.com/item?id=45852029</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45852029</guid></item><item><title>He Jiankui PhD Thesis: Spontaneous Emergence of Hierarchy in Biological Systems</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://repository.rice.edu/server/api/core/bitstreams/85449216-b2ec-4519-87cf-83eafe4534e7/content"&gt;https://repository.rice.edu/server/api/core/bitstreams/85449216-b2ec-4519-87cf-83eafe4534e7/content&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45852011"&gt;https://news.ycombinator.com/item?id=45852011&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 6&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 22:34:15 +0000</pubDate><link>https://repository.rice.edu/server/api/core/bitstreams/85449216-b2ec-4519-87cf-83eafe4534e7/content</link><dc:creator>gradus_ad</dc:creator><comments>https://news.ycombinator.com/item?id=45852011</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45852011</guid></item><item><title>Show HN: VoxConvo – "X but it's only voice messages"</title><description>
+&lt;p&gt;Hi HN,&lt;p&gt;I saw this tweet: "Hear me out: X but it's only voice messages (with AI transcriptions)" - and couldn't stop thinking about it.&lt;p&gt;So I built VoxConvo.&lt;p&gt;Why this exists:&lt;p&gt;AI-generated content is drowning social media. ChatGPT replies, bot threads, AI slop everywhere.&lt;p&gt;When you hear someone's actual voice: their tone, hesitation, excitement - you know it's real. That authenticity is what we're losing.&lt;p&gt;So I built a simple platform where voice is the ONLY option.&lt;p&gt;The experience:&lt;p&gt;Every post is voice + transcript with word-level timestamps:&lt;p&gt;Read mode: Scan the transcript like normal text or listen mode: hit play and words highlight in real-time.&lt;p&gt;You get the emotion of voice with the scannability of text.&lt;p&gt;Key features:&lt;p&gt;- Voice shorts&lt;p&gt;- Real-time transcription&lt;p&gt;- Visual voice editing - click a word in transcript deletes that audio segment to remove filler words, mistakes, pauses&lt;p&gt;- Word-level timestamp sync&lt;p&gt;- No LLM content generation&lt;p&gt;Technical details:&lt;p&gt;Backend running on Mac Mini M1:&lt;p&gt;- TypeGraphQL + Apollo Server&lt;p&gt;- MongoDB + Atlas Search (community mongo + mongot)&lt;p&gt;- Redis pub/sub for GraphQL subscriptions&lt;p&gt;- Docker containerization for ready to scale&lt;p&gt;Transcription:&lt;p&gt;- VOSK real time gigaspeech model eats about 7GB RAM&lt;p&gt;- WebSocket streaming for real-time partial results&lt;p&gt;- Word-level timestamp extraction plus punctuation model&lt;p&gt;Storage:&lt;p&gt;- Audio files are stored to AWS S3&lt;p&gt;- Everything else is local&lt;p&gt;Why Mac Mini for MVP? Validation first, scaling later. 
+Architecture is containerized and ready to migrate. But I'd rather prove demand on gigabit fiber than burn cloud budget.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45851807"&gt;https://news.ycombinator.com/item?id=45851807&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 6&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 22:15:41 +0000</pubDate><link>https://voxconvo.com</link><dc:creator>siim</dc:creator><comments>https://news.ycombinator.com/item?id=45851807</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45851807</guid></item><item><title>Using the Web Monetization API for fun and profit</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/"&gt;https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45851786"&gt;https://news.ycombinator.com/item?id=45851786&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 16&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 22:13:37 +0000</pubDate><link>https://blog.tomayac.com/2025/11/07/using-the-web-monetization-api-for-fun-and-profit/</link><dc:creator>tomayac</dc:creator><comments>https://news.ycombinator.com/item?id=45851786</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45851786</guid></item><item><title>Becoming a Compiler Engineer</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://rona.substack.com/p/becoming-a-compiler-engineer"&gt;https://rona.substack.com/p/becoming-a-compiler-engineer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45851495"&gt;https://news.ycombinator.com/item?id=45851495&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 53&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 21:45:03 +0000</pubDate><link>https://rona.substack.com/p/becoming-a-compiler-engineer</link><dc:creator>lalitkale</dc:creator><comments>https://news.ycombinator.com/item?id=45851495</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45851495</guid></item><item><title>YouTube Removes Windows 11 Bypass Tutorials, Claims 'Risk of Physical Harm'</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/"&gt;https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45850963"&gt;https://news.ycombinator.com/item?id=45850963&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 320&lt;/p&gt;
+&lt;p&gt;# Comments: 107&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 20:50:40 +0000</pubDate><link>https://news.itsfoss.com/youtube-removes-windows-11-bypass-tutorials/</link><dc:creator>WaitWaitWha</dc:creator><comments>https://news.ycombinator.com/item?id=45850963</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45850963</guid></item><item><title>VLC's Jean-Baptiste Kempf Receives the European SFS Award 2025</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://fsfe.org/news/2025/news-20251107-01.en.html"&gt;https://fsfe.org/news/2025/news-20251107-01.en.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45850751"&gt;https://news.ycombinator.com/item?id=45850751&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 211&lt;/p&gt;
+&lt;p&gt;# Comments: 35&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 20:31:36 +0000</pubDate><link>https://fsfe.org/news/2025/news-20251107-01.en.html</link><dc:creator>kirschner</dc:creator><comments>https://news.ycombinator.com/item?id=45850751</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45850751</guid></item><item><title>Ribir: Non-intrusive GUI framework for Rust/WASM</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/RibirX/Ribir"&gt;https://github.com/RibirX/Ribir&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45850671"&gt;https://news.ycombinator.com/item?id=45850671&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 41&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 20:26:26 +0000</pubDate><link>https://github.com/RibirX/Ribir</link><dc:creator>adamnemecek</dc:creator><comments>https://news.ycombinator.com/item?id=45850671</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45850671</guid></item><item><title>Apple is crossing a Steve Jobs red line</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/"&gt;https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45850430"&gt;https://news.ycombinator.com/item?id=45850430&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 236&lt;/p&gt;
+&lt;p&gt;# Comments: 204&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 20:05:32 +0000</pubDate><link>https://kensegall.com/2025/11/07/apple-is-crossing-a-steve-jobs-red-line/</link><dc:creator>zdw</dc:creator><comments>https://news.ycombinator.com/item?id=45850430</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45850430</guid></item><item><title>How did I get here?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://how-did-i-get-here.net/"&gt;https://how-did-i-get-here.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45850382"&gt;https://news.ycombinator.com/item?id=45850382&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 103&lt;/p&gt;
+&lt;p&gt;# Comments: 30&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 20:01:09 +0000</pubDate><link>https://how-did-i-get-here.net/</link><dc:creator>zachlatta</dc:creator><comments>https://news.ycombinator.com/item?id=45850382</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45850382</guid></item><item><title>James Watson has died</title><description>
+&lt;p&gt;&lt;a href="https://archive.ph/KaTaT" rel="nofollow"&gt;https://archive.ph/KaTaT&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45850069"&gt;https://news.ycombinator.com/item?id=45850069&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 204&lt;/p&gt;
+&lt;p&gt;# Comments: 108&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 19:30:18 +0000</pubDate><link>https://www.nytimes.com/2025/11/07/science/james-watson-dead.html</link><dc:creator>granzymes</dc:creator><comments>https://news.ycombinator.com/item?id=45850069</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45850069</guid></item><item><title>Ruby Solved My Problem</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://newsletter.masilotti.com/p/ruby-already-solved-my-problem"&gt;https://newsletter.masilotti.com/p/ruby-already-solved-my-problem&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45849528"&gt;https://news.ycombinator.com/item?id=45849528&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 149&lt;/p&gt;
+&lt;p&gt;# Comments: 56&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 18:45:35 +0000</pubDate><link>https://newsletter.masilotti.com/p/ruby-already-solved-my-problem</link><dc:creator>joemasilotti</dc:creator><comments>https://news.ycombinator.com/item?id=45849528</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45849528</guid></item><item><title>Myna: Monospace typeface designed for symbol-heavy programming languages</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/sayyadirfanali/Myna"&gt;https://github.com/sayyadirfanali/Myna&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45849342"&gt;https://news.ycombinator.com/item?id=45849342&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 182&lt;/p&gt;
+&lt;p&gt;# Comments: 73&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 18:27:36 +0000</pubDate><link>https://github.com/sayyadirfanali/Myna</link><dc:creator>birdculture</dc:creator><comments>https://news.ycombinator.com/item?id=45849342</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45849342</guid></item><item><title>Angel Investors, a Field Guide</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.jeanyang.com/posts/angel-investors-a-field-guide/"&gt;https://www.jeanyang.com/posts/angel-investors-a-field-guide/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45848468"&gt;https://news.ycombinator.com/item?id=45848468&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 85&lt;/p&gt;
+&lt;p&gt;# Comments: 17&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 17:03:30 +0000</pubDate><link>https://www.jeanyang.com/posts/angel-investors-a-field-guide/</link><dc:creator>azhenley</dc:creator><comments>https://news.ycombinator.com/item?id=45848468</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45848468</guid></item><item><title>Denmark's government aims to ban access to social media for children under 15</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4"&gt;https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45848083"&gt;https://news.ycombinator.com/item?id=45848083&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 387&lt;/p&gt;
+&lt;p&gt;# Comments: 278&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 16:28:31 +0000</pubDate><link>https://apnews.com/article/denmark-social-media-ban-children-7862d2a8cc590b4969c8931a01adc7f4</link><dc:creator>c420</dc:creator><comments>https://news.ycombinator.com/item?id=45848083</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45848083</guid></item><item><title>I Love OCaml</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://mccd.space/posts/ocaml-the-worlds-best/"&gt;https://mccd.space/posts/ocaml-the-worlds-best/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45846517"&gt;https://news.ycombinator.com/item?id=45846517&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 287&lt;/p&gt;
+&lt;p&gt;# Comments: 195&lt;/p&gt;
+</description><pubDate>Fri, 07 Nov 2025 14:05:49 +0000</pubDate><link>https://mccd.space/posts/ocaml-the-worlds-best/</link><dc:creator>art-w</dc:creator><comments>https://news.ycombinator.com/item?id=45846517</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45846517</guid></item></channel></rss>
