@@ -1,0 +1,102 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Thu, 13 Nov 2025 00:21:04 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Voyager 1 is a light-day away by November 2026</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432"&gt;https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45908483"&gt;https://news.ycombinator.com/item?id=45908483&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 25&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 23:38:56 +0000</pubDate><link>https://www.iflscience.com/on-november-13-2026-voyager-will-reach-one-full-light-day-away-from-earth-81432</link><dc:creator>Neuronaut</dc:creator><comments>https://news.ycombinator.com/item?id=45908483</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45908483</guid></item><item><title>Jasmine: A Simple, Performant and Scalable Jax-Based World Modeling Codebase</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arxiv.org/abs/2510.27002"&gt;https://arxiv.org/abs/2510.27002&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45907839"&gt;https://news.ycombinator.com/item?id=45907839&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 10&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 22:35:29 +0000</pubDate><link>https://arxiv.org/abs/2510.27002</link><dc:creator>PaulHoule</dc:creator><comments>https://news.ycombinator.com/item?id=45907839</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45907839</guid></item><item><title>Marble: A Multimodal World Model</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.worldlabs.ai/blog/marble-world-model"&gt;https://www.worldlabs.ai/blog/marble-world-model&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45907541"&gt;https://news.ycombinator.com/item?id=45907541&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 38&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 22:11:14 +0000</pubDate><link>https://www.worldlabs.ai/blog/marble-world-model</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=45907541</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45907541</guid></item><item><title>Homebrew no longer allows bypassing Gatekeeper for unsigned/unnotarized software</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/Homebrew/brew/issues/20755"&gt;https://github.com/Homebrew/brew/issues/20755&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45907259"&gt;https://news.ycombinator.com/item?id=45907259&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 99&lt;/p&gt;
+&lt;p&gt;# Comments: 100&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 21:50:14 +0000</pubDate><link>https://github.com/Homebrew/brew/issues/20755</link><dc:creator>firexcy</dc:creator><comments>https://news.ycombinator.com/item?id=45907259</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45907259</guid></item><item><title>OmniAI (YC W24) Is Hiring Forward Deployed Engineers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer"&gt;https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45906604"&gt;https://news.ycombinator.com/item?id=45906604&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 21:00:43 +0000</pubDate><link>https://www.ycombinator.com/companies/omniai/jobs/fuTMf2w-forward-deployed-engineer</link><dc:creator>themanmaran</dc:creator><comments>https://news.ycombinator.com/item?id=45906604</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45906604</guid></item><item><title>Making the Clang AST Leaner and Faster</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html"&gt;https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45905620"&gt;https://news.ycombinator.com/item?id=45905620&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 24&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 20:02:58 +0000</pubDate><link>https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html</link><dc:creator>vitaut</dc:creator><comments>https://news.ycombinator.com/item?id=45905620</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45905620</guid></item><item><title>Blasting Yeast with UV Light</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with"&gt;https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45904161"&gt;https://news.ycombinator.com/item?id=45904161&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 53&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 18:46:40 +0000</pubDate><link>https://chillphysicsenjoyer.substack.com/p/results-from-blasting-yeast-with</link><dc:creator>Gormisdomai</dc:creator><comments>https://news.ycombinator.com/item?id=45904161</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45904161</guid></item><item><title>How Tube Amplifiers Work</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://robrobinette.com/How_Amps_Work.htm"&gt;https://robrobinette.com/How_Amps_Work.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45903995"&gt;https://news.ycombinator.com/item?id=45903995&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 57&lt;/p&gt;
+&lt;p&gt;# Comments: 34&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 18:35:59 +0000</pubDate><link>https://robrobinette.com/How_Amps_Work.htm</link><dc:creator>gokhan</dc:creator><comments>https://news.ycombinator.com/item?id=45903995</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45903995</guid></item><item><title>Valve Announces New Steam Machine, Steam Controller and Steam Frame</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.phoronix.com/news/Steam-Machines-Frame-2026"&gt;https://www.phoronix.com/news/Steam-Machines-Frame-2026&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45903840"&gt;https://news.ycombinator.com/item?id=45903840&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 300&lt;/p&gt;
+&lt;p&gt;# Comments: 94&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 18:26:25 +0000</pubDate><link>https://www.phoronix.com/news/Steam-Machines-Frame-2026</link><dc:creator>doener</dc:creator><comments>https://news.ycombinator.com/item?id=45903840</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45903840</guid></item><item><title>Async and Finaliser Deadlocks</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html"&gt;https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45903586"&gt;https://news.ycombinator.com/item?id=45903586&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 51&lt;/p&gt;
+&lt;p&gt;# Comments: 17&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 18:12:29 +0000</pubDate><link>https://tratt.net/laurie/blog/2025/async_and_finaliser_deadlocks.html</link><dc:creator>emailed</dc:creator><comments>https://news.ycombinator.com/item?id=45903586</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45903586</guid></item><item><title>Steam Machine</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://store.steampowered.com/sale/steammachine"&gt;https://store.steampowered.com/sale/steammachine&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45903404"&gt;https://news.ycombinator.com/item?id=45903404&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 1242&lt;/p&gt;
+&lt;p&gt;# Comments: 630&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 17:59:43 +0000</pubDate><link>https://store.steampowered.com/sale/steammachine</link><dc:creator>davikr</dc:creator><comments>https://news.ycombinator.com/item?id=45903404</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45903404</guid></item><item><title>Steam Frame</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://store.steampowered.com/sale/steamframe"&gt;https://store.steampowered.com/sale/steamframe&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45903325"&gt;https://news.ycombinator.com/item?id=45903325&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 901&lt;/p&gt;
+&lt;p&gt;# Comments: 330&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 17:54:58 +0000</pubDate><link>https://store.steampowered.com/sale/steamframe</link><dc:creator>Philpax</dc:creator><comments>https://news.ycombinator.com/item?id=45903325</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45903325</guid></item><item><title>Launch HN: JSX Tool (YC F25) – A Browser Dev-Panel IDE for React</title><description>
+&lt;p&gt;Hi HN, We’re Jamie &amp; Dan, building JSX Tool (&lt;a href="https://jsxtool.com"&gt;https://jsxtool.com&lt;/a&gt;) a new inspector/dev panel IDE that allows you to navigate to any line of your React project’s JSX with just a click and a command click to explore your render stack.&lt;p&gt;Demo video: &lt;a href="https://www.youtube.com/watch?v=JIIXvN7vhrs" rel="nofollow"&gt;https://www.youtube.com/watch?v=JIIXvN7vhrs&lt;/a&gt;&lt;p&gt;I’ve been writing React code for nearly a decade. Since I first saw source maps in the days of Babel and Redux, I’ve always wanted to be able to edit my code from the source maps. I’ve also always wanted to be able to inspect my JSX like it was HTML.&lt;p&gt;Last year, I found my first real use of AI was taking ad-hoc CSS changes in the Chrome element inspector, pasting them into ChatGPT, and asking for the equivalent in Tailwind. I’d then paste those changes into my React TSX files.&lt;p&gt;I wanted to streamline this process but came to the conclusion that to do so I needed to build a JSX inspector. I had to write a custom AST parser to create a mapping between the JSX and HTML. So I hacked on an inspector for a couple of months that connected JSX to the DOM in both directions.&lt;p&gt;The next feature was adding a CSS editor, like the one in the browser inspectors but for JSX. Unlike styling a piece of HTML I decided that any in memory style edits to a React fiber should be globally applied, as if you had tweaked that line of code in your codebase.&lt;p&gt;Finally, I was able to add the two AI features I really wanted: (1) prompt for in-memory styles for when I was pixel tweaking, and (2) save those temporary changes back to my codebase in the convention of the codebase I was working in.&lt;p&gt;To accomplish talking to the filesystem from the Chrome extension I built a little local server that mounts from the root of your project and allows the extension to send file-system commands back to your project root. We named this the “Dev Server”. (Note: You can fully use us as a JSX inspector without this server installed.)&lt;p&gt;After all that, I found that to convert myself as a user I needed it to be a pretty fully functional IDE. I needed vim bindings, I needed a typechecker, I needed auto-complete, I needed a linter, I needed code search and I needed a proper file explorer. Fortunately we were able to take advantage of the dev-server architecture we had stumbled onto in order to add an LSP server and Rip Grep. At this point, after months of dog fooding, I use JSX Tool for almost all of my website edits.&lt;p&gt;We’re still rough around the edges for mobile but we’re working on that.&lt;p&gt;All of the IDE stuff not involving AI is free and works fine without AI. We let you get a taste of the prompting stuff for free but apply some rate limits.&lt;p&gt;The extension itself is not open source but the dev server with the LSP is. It’s a great foundation if you want to build any sort of in-browser IDE and it's nearly React agnostic. Building the dev server was a big undertaking so I’d love to see someone fork it and find value in it.&lt;p&gt;In the future we want to start adding things that we are in a position to take advantage of over something like Cursor, such as letting AI give you code suggestions for runtime exceptions or work with the network logs. We think that the convenience of having your IDE in the dev panel gives us a leg up in convenience and workflow context.&lt;p&gt;Anyway, regardless of how you feel about AI coding, I wanted to make something that was useful with or without AI. We’d love it if you gave it a spin and we want to share anything we can about the technical side of the product that you might find interesting.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45903161"&gt;https://news.ycombinator.com/item?id=45903161&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 70&lt;/p&gt;
+&lt;p&gt;# Comments: 58&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 17:43:42 +0000</pubDate><link>https://news.ycombinator.com/item?id=45903161</link><dc:creator>jsunderland323</dc:creator><comments>https://news.ycombinator.com/item?id=45903161</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45903161</guid></item><item><title>Project Euler</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://projecteuler.net"&gt;https://projecteuler.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45902898"&gt;https://news.ycombinator.com/item?id=45902898&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 280&lt;/p&gt;
+&lt;p&gt;# Comments: 74&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 17:24:54 +0000</pubDate><link>https://projecteuler.net</link><dc:creator>swatson741</dc:creator><comments>https://news.ycombinator.com/item?id=45902898</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45902898</guid></item><item><title>The last-ever penny will be minted today in Philadelphia</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.cnn.com/2025/11/12/business/last-penny-minted"&gt;https://www.cnn.com/2025/11/12/business/last-penny-minted&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45901904"&gt;https://news.ycombinator.com/item?id=45901904&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 516&lt;/p&gt;
+&lt;p&gt;# Comments: 682&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 16:10:13 +0000</pubDate><link>https://www.cnn.com/2025/11/12/business/last-penny-minted</link><dc:creator>andrewl</dc:creator><comments>https://news.ycombinator.com/item?id=45901904</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45901904</guid></item><item><title>Waymo robotaxis are now giving rides on freeways in LA, SF and Phoenix</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/"&gt;https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45901855"&gt;https://news.ycombinator.com/item?id=45901855&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 284&lt;/p&gt;
+&lt;p&gt;# Comments: 340&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 16:06:29 +0000</pubDate><link>https://techcrunch.com/2025/11/12/waymo-robotaxis-are-now-giving-rides-on-freeways-in-these-3-cities/</link><dc:creator>nharada</dc:creator><comments>https://news.ycombinator.com/item?id=45901855</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45901855</guid></item><item><title>Learn Prolog Now</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lpn.swi-prolog.org/lpnpage.php?pageid=top"&gt;https://lpn.swi-prolog.org/lpnpage.php?pageid=top&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45900978"&gt;https://news.ycombinator.com/item?id=45900978&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 234&lt;/p&gt;
+&lt;p&gt;# Comments: 158&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 14:54:27 +0000</pubDate><link>https://lpn.swi-prolog.org/lpnpage.php?pageid=top</link><dc:creator>rramadass</dc:creator><comments>https://news.ycombinator.com/item?id=45900978</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45900978</guid></item><item><title>Fighting the New York Times' invasion of user privacy</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://openai.com/index/fighting-nyt-user-privacy-invasion"&gt;https://openai.com/index/fighting-nyt-user-privacy-invasion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45900370"&gt;https://news.ycombinator.com/item?id=45900370&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 247&lt;/p&gt;
+&lt;p&gt;# Comments: 251&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 14:08:28 +0000</pubDate><link>https://openai.com/index/fighting-nyt-user-privacy-invasion</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=45900370</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45900370</guid></item><item><title>Micro.blog launches new 'Studio' tier with video hosting</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://heydingus.net/blog/2025/11/micro-blog-offers-an-indie-alternative-to-youtube-with-its-studio-video-hosting-plan"&gt;https://heydingus.net/blog/2025/11/micro-blog-offers-an-indie-alternative-to-youtube-with-its-studio-video-hosting-plan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45900108"&gt;https://news.ycombinator.com/item?id=45900108&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 107&lt;/p&gt;
+&lt;p&gt;# Comments: 31&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 13:46:28 +0000</pubDate><link>https://heydingus.net/blog/2025/11/micro-blog-offers-an-indie-alternative-to-youtube-with-its-studio-video-hosting-plan</link><dc:creator>justin-reeves</dc:creator><comments>https://news.ycombinator.com/item?id=45900108</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45900108</guid></item><item><title>A brief look at FreeBSD</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://yorickpeterse.com/articles/a-brief-look-at-freebsd/"&gt;https://yorickpeterse.com/articles/a-brief-look-at-freebsd/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45899189"&gt;https://news.ycombinator.com/item?id=45899189&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 108&lt;/p&gt;
+&lt;p&gt;# Comments: 50&lt;/p&gt;
+</description><pubDate>Wed, 12 Nov 2025 12:10:11 +0000</pubDate><link>https://yorickpeterse.com/articles/a-brief-look-at-freebsd/</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=45899189</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45899189</guid></item></channel></rss>
