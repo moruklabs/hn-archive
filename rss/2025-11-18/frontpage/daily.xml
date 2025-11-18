@@ -1,0 +1,113 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Tue, 18 Nov 2025 00:18:31 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Windows 11 adds AI agent that runs in background with access to personal folders</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/"&gt;https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45959795"&gt;https://news.ycombinator.com/item?id=45959795&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 10&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 23:47:27 +0000</pubDate><link>https://www.windowslatest.com/2025/11/18/windows-11-to-add-an-ai-agent-that-runs-in-background-with-access-to-personal-folders-warns-of-security-risk/</link><dc:creator>jinxmeta</dc:creator><comments>https://news.ycombinator.com/item?id=45959795</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45959795</guid></item><item><title>Ion: Modern System Shell in Rust</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/redox-os/ion"&gt;https://github.com/redox-os/ion&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45958815"&gt;https://news.ycombinator.com/item?id=45958815&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 15&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 21:56:58 +0000</pubDate><link>https://github.com/redox-os/ion</link><dc:creator>nateb2022</dc:creator><comments>https://news.ycombinator.com/item?id=45958815</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45958815</guid></item><item><title>Run ancient Unix on modern hardware</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/felipenlunkes/run-ancient-unix"&gt;https://github.com/felipenlunkes/run-ancient-unix&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45958717"&gt;https://news.ycombinator.com/item?id=45958717&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 28&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 21:46:06 +0000</pubDate><link>https://github.com/felipenlunkes/run-ancient-unix</link><dc:creator>doener</dc:creator><comments>https://news.ycombinator.com/item?id=45958717</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45958717</guid></item><item><title>Compiling Ruby to machine language</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language"&gt;https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45957629"&gt;https://news.ycombinator.com/item?id=45957629&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 153&lt;/p&gt;
+&lt;p&gt;# Comments: 19&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 20:04:49 +0000</pubDate><link>https://patshaughnessy.net/2025/11/17/compiling-ruby-to-machine-language</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=45957629</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45957629</guid></item><item><title>Show HN: PrinceJS – 19,200 req/s Bun framework in 2.8 kB (built by a 13yo)</title><description>
+&lt;p&gt;Hey HN,&lt;p&gt;I'm 13, from Nigeria, and I just released PrinceJS — the fastest web framework for Bun right now.&lt;p&gt;• 19,200 req/s (beats Hono/Elysia/Express)
+• 2.8 kB gzipped
+• Tree-shakable (cache, AI, email, cron, SSE, queue, test, static...)
+• Zero deps. Zero config.&lt;p&gt;Built in &lt; 1 week. No team. Just me and Bun.&lt;p&gt;Try it: `bun add princejs`
+GitHub: &lt;a href="https://github.com/MatthewTheCoder1218/princejs" rel="nofollow"&gt;https://github.com/MatthewTheCoder1218/princejs&lt;/a&gt;
+Docs: &lt;a href="https://princejs.vercel.app" rel="nofollow"&gt;https://princejs.vercel.app&lt;/a&gt;&lt;p&gt;Brutal feedback welcome. What's missing?&lt;p&gt;– @Lil_Prince_1218&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45957402"&gt;https://news.ycombinator.com/item?id=45957402&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 110&lt;/p&gt;
+&lt;p&gt;# Comments: 38&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 19:45:00 +0000</pubDate><link>https://princejs.vercel.app</link><dc:creator>lilprince1218</dc:creator><comments>https://news.ycombinator.com/item?id=45957402</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45957402</guid></item><item><title>An official atlas of North Korea</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.cartographerstale.com/p/an-official-atlas-of-north-korea"&gt;https://www.cartographerstale.com/p/an-official-atlas-of-north-korea&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45956176"&gt;https://news.ycombinator.com/item?id=45956176&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 161&lt;/p&gt;
+&lt;p&gt;# Comments: 94&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 18:07:17 +0000</pubDate><link>https://www.cartographerstale.com/p/an-official-atlas-of-north-korea</link><dc:creator>speckx</dc:creator><comments>https://news.ycombinator.com/item?id=45956176</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45956176</guid></item><item><title>EEG-based neurofeedback in athletes and non-athletes</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.mdpi.com/2306-5354/12/11/1202"&gt;https://www.mdpi.com/2306-5354/12/11/1202&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45955921"&gt;https://news.ycombinator.com/item?id=45955921&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 31&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 17:40:45 +0000</pubDate><link>https://www.mdpi.com/2306-5354/12/11/1202</link><dc:creator>PaulHoule</dc:creator><comments>https://news.ycombinator.com/item?id=45955921</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45955921</guid></item><item><title>Azure hit by 15 Tbps DDoS attack using 500k IP addresses</title><description>
+&lt;p&gt;&lt;a href="https://techcommunity.microsoft.com/blog/azureinfrastructureblog/defending-the-cloud-azure-neutralized-a-record-breaking-15-tbps-ddos-attack/4470422" rel="nofollow"&gt;https://techcommunity.microsoft.com/blog/azureinfrastructure...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45955900"&gt;https://news.ycombinator.com/item?id=45955900&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 177&lt;/p&gt;
+&lt;p&gt;# Comments: 153&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 17:39:15 +0000</pubDate><link>https://www.bleepingcomputer.com/news/microsoft/microsoft-aisuru-botnet-used-500-000-ips-in-15-tbps-azure-ddos-attack/</link><dc:creator>speckx</dc:creator><comments>https://news.ycombinator.com/item?id=45955900</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45955900</guid></item><item><title>How when AWS was down, we were not</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts"&gt;https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45955565"&gt;https://news.ycombinator.com/item?id=45955565&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 86&lt;/p&gt;
+&lt;p&gt;# Comments: 41&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 17:07:17 +0000</pubDate><link>https://authress.io/knowledge-base/articles/2025/11/01/how-we-prevent-aws-downtime-impacts</link><dc:creator>mooreds</dc:creator><comments>https://news.ycombinator.com/item?id=45955565</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45955565</guid></item><item><title>Project Gemini</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://geminiprotocol.net/"&gt;https://geminiprotocol.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45954640"&gt;https://news.ycombinator.com/item?id=45954640&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 196&lt;/p&gt;
+&lt;p&gt;# Comments: 121&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 15:50:04 +0000</pubDate><link>https://geminiprotocol.net/</link><dc:creator>andsoitis</dc:creator><comments>https://news.ycombinator.com/item?id=45954640</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45954640</guid></item><item><title>How to escape the Linux networking stack</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/"&gt;https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45954638"&gt;https://news.ycombinator.com/item?id=45954638&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 87&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 15:49:38 +0000</pubDate><link>https://blog.cloudflare.com/so-long-and-thanks-for-all-the-fish-how-to-escape-the-linux-networking-stack/</link><dc:creator>meysamazad</dc:creator><comments>https://news.ycombinator.com/item?id=45954638</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45954638</guid></item><item><title>WeatherNext 2: Our most advanced weather forecasting model</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.google/technology/google-deepmind/weathernext-2/"&gt;https://blog.google/technology/google-deepmind/weathernext-2/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45954210"&gt;https://news.ycombinator.com/item?id=45954210&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 194&lt;/p&gt;
+&lt;p&gt;# Comments: 86&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 15:04:26 +0000</pubDate><link>https://blog.google/technology/google-deepmind/weathernext-2/</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=45954210</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45954210</guid></item><item><title>Aldous Huxley predicts Adderall and champions alternative therapies</title><description>
+&lt;p&gt;Audio: &lt;a href="https://www.youtube.com/watch?v=ld2E9LWIYJk&amp;list=PLhQ_EZYXXSe8Ymj_JlriRG3Bk4SM5cuEc&amp;index=9" rel="nofollow"&gt;https://www.youtube.com/watch?v=ld2E9LWIYJk&amp;list=PLhQ_EZYXXS...&lt;/a&gt;&lt;p&gt;Transcript: &lt;a href="https://www.organism.earth/library/document/realizing-human-potential" rel="nofollow"&gt;https://www.organism.earth/library/document/realizing-human-...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45954140"&gt;https://news.ycombinator.com/item?id=45954140&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 55&lt;/p&gt;
+&lt;p&gt;# Comments: 41&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 14:57:33 +0000</pubDate><link>https://angadh.com/inkhaven-7</link><dc:creator>surprisetalk</dc:creator><comments>https://news.ycombinator.com/item?id=45954140</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45954140</guid></item><item><title>Show HN: ESPectre – Motion detection based on Wi-Fi spectre analysis</title><description>
+&lt;p&gt;Hi everyone, I'm the author of ESPectre.&lt;p&gt;This is an open-source (GPLv3) project that uses Wi-Fi signal analysis to detect motion using CSI data, and it has already garnered almost 2,000 stars in two weeks.&lt;p&gt;Key technical details:&lt;p&gt;- The system does NOT use Machine Learning, it relies purely on Math.
+— Runs in real-time on a super affordable chip like the ESP32.
+- It integrates seamlessly with Home Assistant via MQTT.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45953977"&gt;https://news.ycombinator.com/item?id=45953977&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 107&lt;/p&gt;
+&lt;p&gt;# Comments: 29&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 14:40:54 +0000</pubDate><link>https://github.com/francescopace/espectre</link><dc:creator>francescopace</dc:creator><comments>https://news.ycombinator.com/item?id=45953977</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45953977</guid></item><item><title>The time has finally come for geothermal energy</title><description>
+&lt;p&gt;&lt;a href="https://archive.ph/CR2KL" rel="nofollow"&gt;https://archive.ph/CR2KL&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45953568"&gt;https://news.ycombinator.com/item?id=45953568&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 98&lt;/p&gt;
+&lt;p&gt;# Comments: 154&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 13:55:53 +0000</pubDate><link>https://www.newyorker.com/magazine/2025/11/24/why-the-time-has-finally-come-for-geothermal-energy</link><dc:creator>riordan</dc:creator><comments>https://news.ycombinator.com/item?id=45953568</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45953568</guid></item><item><title>FreeMDU: Open-source Miele appliance diagnostic tools</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/medusalix/FreeMDU"&gt;https://github.com/medusalix/FreeMDU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45953452"&gt;https://news.ycombinator.com/item?id=45953452&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 227&lt;/p&gt;
+&lt;p&gt;# Comments: 60&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 13:40:40 +0000</pubDate><link>https://github.com/medusalix/FreeMDU</link><dc:creator>Medusalix</dc:creator><comments>https://news.ycombinator.com/item?id=45953452</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45953452</guid></item><item><title>Are you stuck in movie logic?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic"&gt;https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45952890"&gt;https://news.ycombinator.com/item?id=45952890&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 167&lt;/p&gt;
+&lt;p&gt;# Comments: 139&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 12:06:37 +0000</pubDate><link>https://usefulfictions.substack.com/p/are-you-stuck-in-movie-logic</link><dc:creator>eatitraw</dc:creator><comments>https://news.ycombinator.com/item?id=45952890</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45952890</guid></item><item><title>Giving C a superpower: custom header file (safe_c.h)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/"&gt;https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45952428"&gt;https://news.ycombinator.com/item?id=45952428&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 233&lt;/p&gt;
+&lt;p&gt;# Comments: 202&lt;/p&gt;
+</description><pubDate>Mon, 17 Nov 2025 10:40:55 +0000</pubDate><link>https://hwisnu.bearblog.dev/giving-c-a-superpower-custom-header-file-safe_ch/</link><dc:creator>mithcs</dc:creator><comments>https://news.ycombinator.com/item?id=45952428</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45952428</guid></item><item><title>Where do the children play?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://unpublishablepapers.substack.com/p/where-do-the-children-play"&gt;https://unpublishablepapers.substack.com/p/where-do-the-children-play&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45945114"&gt;https://news.ycombinator.com/item?id=45945114&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 315&lt;/p&gt;
+&lt;p&gt;# Comments: 233&lt;/p&gt;
+</description><pubDate>Sun, 16 Nov 2025 13:45:45 +0000</pubDate><link>https://unpublishablepapers.substack.com/p/where-do-the-children-play</link><dc:creator>casca</dc:creator><comments>https://news.ycombinator.com/item?id=45945114</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45945114</guid></item><item><title>Astrophotographer snaps skydiver falling in front of the sun</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570"&gt;https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=45944158"&gt;https://news.ycombinator.com/item?id=45944158&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 192&lt;/p&gt;
+&lt;p&gt;# Comments: 46&lt;/p&gt;
+</description><pubDate>Sun, 16 Nov 2025 11:02:25 +0000</pubDate><link>https://www.iflscience.com/the-fall-of-icarus-you-have-never-seen-an-astrophotography-picture-like-this-81570</link><dc:creator>doener</dc:creator><comments>https://news.ycombinator.com/item?id=45944158</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=45944158</guid></item></channel></rss>
