@@ -1,0 +1,106 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sat, 22 Nov 2025 00:25:34 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Explaining, at some length, Techmeme's 20 years of consistency</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://news.techmeme.com/250912/20-years"&gt;https://news.techmeme.com/250912/20-years&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46010552"&gt;https://news.ycombinator.com/item?id=46010552&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 6&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 23:54:49 +0000</pubDate><link>https://news.techmeme.com/250912/20-years</link><dc:creator>nhf</dc:creator><comments>https://news.ycombinator.com/item?id=46010552</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46010552</guid></item><item><title>I learned Vulkan and wrote a small game engine with it</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://edw.is/learning-vulkan/"&gt;https://edw.is/learning-vulkan/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46010329"&gt;https://news.ycombinator.com/item?id=46010329&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 5&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 23:28:40 +0000</pubDate><link>https://edw.is/learning-vulkan/</link><dc:creator>jakogut</dc:creator><comments>https://news.ycombinator.com/item?id=46010329</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46010329</guid></item><item><title>3D printing with unconventional vase mode</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/"&gt;https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46010173"&gt;https://news.ycombinator.com/item?id=46010173&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 4&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 23:10:17 +0000</pubDate><link>https://vorpal.se/posts/2025/jun/23/3d-printing-with-unconventional-vase-mode/</link><dc:creator>dgroshev</dc:creator><comments>https://news.ycombinator.com/item?id=46010173</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46010173</guid></item><item><title>California DMV approves map increase in Waymo driverless operations</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/"&gt;https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46009994"&gt;https://news.ycombinator.com/item?id=46009994&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 79&lt;/p&gt;
+&lt;p&gt;# Comments: 33&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 22:52:13 +0000</pubDate><link>https://www.dmv.ca.gov/portal/vehicle-industry-services/autonomous-vehicles/autonomous-vehicle-testing-permit-holders/waymo-approved-areas-of-operation-for-driverless-testing-and-deployment/</link><dc:creator>NullHypothesist</dc:creator><comments>https://news.ycombinator.com/item?id=46009994</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46009994</guid></item><item><title>Personal blogs are back, should niche blogs be next?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://disassociated.com/personal-blogs-back-niche-blogs-next/"&gt;https://disassociated.com/personal-blogs-back-niche-blogs-next/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46009894"&gt;https://news.ycombinator.com/item?id=46009894&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 32&lt;/p&gt;
+&lt;p&gt;# Comments: 16&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 22:40:28 +0000</pubDate><link>https://disassociated.com/personal-blogs-back-niche-blogs-next/</link><dc:creator>gnabgib</dc:creator><comments>https://news.ycombinator.com/item?id=46009894</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46009894</guid></item><item><title>Is Matrix Multiplication Ugly?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/"&gt;https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46009660"&gt;https://news.ycombinator.com/item?id=46009660&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 14&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 22:17:11 +0000</pubDate><link>https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/</link><dc:creator>jamespropp</dc:creator><comments>https://news.ycombinator.com/item?id=46009660</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46009660</guid></item><item><title>LAPD helicopter tracker with real-time operating costs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lapdhelicoptertracker.com/"&gt;https://lapdhelicoptertracker.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46009591"&gt;https://news.ycombinator.com/item?id=46009591&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 92&lt;/p&gt;
+&lt;p&gt;# Comments: 102&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 22:11:07 +0000</pubDate><link>https://lapdhelicoptertracker.com/</link><dc:creator>polalavik</dc:creator><comments>https://news.ycombinator.com/item?id=46009591</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46009591</guid></item><item><title>The Untold History of Arduino (2016)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arduinohistory.github.io/"&gt;https://arduinohistory.github.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46009209"&gt;https://news.ycombinator.com/item?id=46009209&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 51&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 21:29:28 +0000</pubDate><link>https://arduinohistory.github.io/</link><dc:creator>davikr</dc:creator><comments>https://news.ycombinator.com/item?id=46009209</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46009209</guid></item><item><title>We remain alive also in a dead internet</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://slavoj.substack.com/p/why-we-remain-alive-also-in-a-dead-954"&gt;https://slavoj.substack.com/p/why-we-remain-alive-also-in-a-dead-954&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46008788"&gt;https://news.ycombinator.com/item?id=46008788&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 58&lt;/p&gt;
+&lt;p&gt;# Comments: 46&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 20:46:36 +0000</pubDate><link>https://slavoj.substack.com/p/why-we-remain-alive-also-in-a-dead-954</link><dc:creator>achierius</dc:creator><comments>https://news.ycombinator.com/item?id=46008788</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46008788</guid></item><item><title>Pixar: The Early Days A never-before-seen 1996 interview</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://stevejobsarchive.com/stories/pixar-early-days"&gt;https://stevejobsarchive.com/stories/pixar-early-days&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46008769"&gt;https://news.ycombinator.com/item?id=46008769&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 60&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 20:45:06 +0000</pubDate><link>https://stevejobsarchive.com/stories/pixar-early-days</link><dc:creator>sanj</dc:creator><comments>https://news.ycombinator.com/item?id=46008769</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46008769</guid></item><item><title>Boom, bubble, bust, boom. Why should AI be different?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/"&gt;https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46008628"&gt;https://news.ycombinator.com/item?id=46008628&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 88&lt;/p&gt;
+&lt;p&gt;# Comments: 116&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 20:30:51 +0000</pubDate><link>https://crazystupidtech.com/2025/11/21/boom-bubble-bust-boom-why-should-ai-be-different/</link><dc:creator>speckx</dc:creator><comments>https://news.ycombinator.com/item?id=46008628</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46008628</guid></item><item><title>Tuxedo Computers Cancels Snapdragon X1 Linux Laptop</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo"&gt;https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46008156"&gt;https://news.ycombinator.com/item?id=46008156&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 53&lt;/p&gt;
+&lt;p&gt;# Comments: 15&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 19:46:34 +0000</pubDate><link>https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo</link><dc:creator>Venn1</dc:creator><comments>https://news.ycombinator.com/item?id=46008156</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46008156</guid></item><item><title>Helping Valve to power up Steam devices</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.igalia.com/2025/11/helpingvalve.html"&gt;https://www.igalia.com/2025/11/helpingvalve.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46006616"&gt;https://news.ycombinator.com/item?id=46006616&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 377&lt;/p&gt;
+&lt;p&gt;# Comments: 118&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 17:29:59 +0000</pubDate><link>https://www.igalia.com/2025/11/helpingvalve.html</link><dc:creator>TingPing</dc:creator><comments>https://news.ycombinator.com/item?id=46006616</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46006616</guid></item><item><title>Solving Fizz Buzz with Cosines</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://susam.net/fizz-buzz-with-cosines.html"&gt;https://susam.net/fizz-buzz-with-cosines.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46006598"&gt;https://news.ycombinator.com/item?id=46006598&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 107&lt;/p&gt;
+&lt;p&gt;# Comments: 28&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 17:28:25 +0000</pubDate><link>https://susam.net/fizz-buzz-with-cosines.html</link><dc:creator>hprotagonist</dc:creator><comments>https://news.ycombinator.com/item?id=46006598</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46006598</guid></item><item><title>Pivot Robotics (YC W24) Is Hiring for an Industrial Automation Hardware Engineer</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls"&gt;https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46006250"&gt;https://news.ycombinator.com/item?id=46006250&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 17:00:00 +0000</pubDate><link>https://www.ycombinator.com/companies/pivot-robotics/jobs/7xG9Dc6-mechanical-engineer-controls</link><dc:creator>vigneshrajmohan</dc:creator><comments>https://news.ycombinator.com/item?id=46006250</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46006250</guid></item><item><title>You can make PS2 games in JavaScript</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript"&gt;https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46006082"&gt;https://news.ycombinator.com/item?id=46006082&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 218&lt;/p&gt;
+&lt;p&gt;# Comments: 50&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 16:42:19 +0000</pubDate><link>https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript</link><dc:creator>tosh</dc:creator><comments>https://news.ycombinator.com/item?id=46006082</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46006082</guid></item><item><title>Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker</title><description>
+&lt;p&gt;Hi HN, creator of Wealthfolio here.&lt;p&gt;A year ago, I posted the first version. Since then, the app has matured significantly with two major updates:&lt;p&gt;1. Multi-platform Support: 
+Now available on Mobile (iOS), Desktop (macOS, Windows, Linux), and as a Self-hosted Docker image.
+(Android coming soon).&lt;p&gt;2. Addons System:
+We added explicit support for extensions so you can hack around, vibe code your own integrations, and customize the app to fit your needs.&lt;p&gt;The core philosophy remains the same: Always private, transparent, and open source.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46006016"&gt;https://news.ycombinator.com/item?id=46006016&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 413&lt;/p&gt;
+&lt;p&gt;# Comments: 144&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 16:34:52 +0000</pubDate><link>https://wealthfolio.app/?v=2.0</link><dc:creator>a-fadil</dc:creator><comments>https://news.ycombinator.com/item?id=46006016</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46006016</guid></item><item><title>Command Lines</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.wreflection.com/p/command-lines-ai-coding"&gt;https://www.wreflection.com/p/command-lines-ai-coding&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46006004"&gt;https://news.ycombinator.com/item?id=46006004&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 49&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 16:33:28 +0000</pubDate><link>https://www.wreflection.com/p/command-lines-ai-coding</link><dc:creator>nowflux</dc:creator><comments>https://news.ycombinator.com/item?id=46006004</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46006004</guid></item><item><title>Arduino published updated terms and conditions: no longer an open commons</title><description>
+&lt;p&gt;Previous thread: &lt;i&gt;The Death of Arduino?&lt;/i&gt; - &lt;a href="https://news.ycombinator.com/item?id=45984143"&gt;https://news.ycombinator.com/item?id=45984143&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46005553"&gt;https://news.ycombinator.com/item?id=46005553&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 291&lt;/p&gt;
+&lt;p&gt;# Comments: 99&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 15:44:16 +0000</pubDate><link>https://www.molecularist.com/2025/11/did-qualcomm-kill-arduino-for-good.html</link><dc:creator>felineflock</dc:creator><comments>https://news.ycombinator.com/item?id=46005553</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46005553</guid></item><item><title>We should all be using dependency cooldowns</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns"&gt;https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46005111"&gt;https://news.ycombinator.com/item?id=46005111&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 258&lt;/p&gt;
+&lt;p&gt;# Comments: 175&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 14:50:36 +0000</pubDate><link>https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46005111</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46005111</guid></item></channel></rss>
