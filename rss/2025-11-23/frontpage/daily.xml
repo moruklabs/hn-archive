@@ -1,0 +1,113 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sun, 23 Nov 2025 00:30:38 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>How to Spot a Counterfeit Lithium-Ion Battery</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://spectrum.ieee.org/counterfeit-lithium-ion-batteries"&gt;https://spectrum.ieee.org/counterfeit-lithium-ion-batteries&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46019168"&gt;https://news.ycombinator.com/item?id=46019168&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 7&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sat, 22 Nov 2025 23:08:57 +0000</pubDate><link>https://spectrum.ieee.org/counterfeit-lithium-ion-batteries</link><dc:creator>jnord</dc:creator><comments>https://news.ycombinator.com/item?id=46019168</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46019168</guid></item><item><title>Windows ARM64 Internals: Deconstructing Pointer Authentication</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication"&gt;https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46018664"&gt;https://news.ycombinator.com/item?id=46018664&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 16&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sat, 22 Nov 2025 22:03:29 +0000</pubDate><link>https://www.preludesecurity.com/blog/windows-arm64-internals-deconstructing-pointer-authentication</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46018664</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46018664</guid></item><item><title>WorldGen – Text to Immersive 3D Worlds</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/"&gt;https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46018380"&gt;https://news.ycombinator.com/item?id=46018380&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 98&lt;/p&gt;
+&lt;p&gt;# Comments: 42&lt;/p&gt;
+</description><pubDate>Sat, 22 Nov 2025 21:20:24 +0000</pubDate><link>https://www.meta.com/en-gb/blog/worldgen-3d-world-generation-reality-labs-generative-ai-research/</link><dc:creator>smusamashah</dc:creator><comments>https://news.ycombinator.com/item?id=46018380</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46018380</guid></item><item><title>Kids who own smartphones before age 13 have worse mental health outcomes: Study</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082"&gt;https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46018292"&gt;https://news.ycombinator.com/item?id=46018292&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 59&lt;/p&gt;
+&lt;p&gt;# Comments: 24&lt;/p&gt;
+</description><pubDate>Sat, 22 Nov 2025 21:11:15 +0000</pubDate><link>https://abcnews.go.com/GMA/Family/kids-smartphones-age-13-worse-mental-health-outcomes/story?id=123961082</link><dc:creator>donsupreme</dc:creator><comments>https://news.ycombinator.com/item?id=46018292</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46018292</guid></item><item><title>Show HN: I built a wizard to turn ideas into AI coding agent-ready specs</title><description>
+&lt;p&gt;I created vibescaffold.dev. It is a wizard-style AI tool that will guide you from idea → vision → tech spec → implementation plan. It will generate all the documents necessary for AI coding agents to understand &amp; iteratively execute on your vision.&lt;p&gt;How it works:
+- Step 1: Define your product vision and MVP
+- Step 2: AI helps create technical architecture and data models  
+- Step 3: Generate a staged development plan
+- Step 4: Create an AGENTS.md for automated workflows&lt;p&gt;I've used AI coding tools for awhile. Before this workflow (and now, this tool), I kept getting "close but not quite" results from AI coding tools. I learned that the more context &amp; guidance I gave these tools up front, the better results I got.&lt;p&gt;The other thing I have found with most tools that attempt to improve on "vibe coding" is that they add abstraction. To me, this just adds to the problem. AI coding agents are valuable, but they are error-prone - you need to be an active participation in their work. This workflow is designed to provide a scaffolding for these AI agents, while minimizing additional abstraction.&lt;p&gt;Would love feedback on the workflow - especially curious if others find the upfront planning helpful or constraining.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46018229"&gt;https://news.ycombinator.com/item?id=46018229&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 18&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Sat, 22 Nov 2025 21:02:34 +0000</pubDate><link>https://vibescaffold.dev/</link><dc:creator>straydusk</dc:creator><comments>https://news.ycombinator.com/item?id=46018229</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46018229</guid></item><item><title>Show HN: Build the habit of writing meaningful commit messages</title><description>
+&lt;p&gt;Too often I find myself being lazy with commit messages. But I don't want AI to write them for me... only i truly know why i wrote the code i did.&lt;p&gt;So why don't i get AI to help me get that into words from my head?&lt;p&gt;That's what i built: smartcommit asks you questions about your changes, then helps you articulate what you already know into a proper commit message. Captures the what, how, and why.&lt;p&gt;Built this after repeatedly being confused 6 months in a project as to why i made the change i had made...&lt;p&gt;Would love feedback!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46018165"&gt;https://news.ycombinator.com/item?id=46018165&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 40&lt;/p&gt;
+&lt;p&gt;# Comments: 30&lt;/p&gt;
+</description><pubDate>Sat, 22 Nov 2025 20:54:35 +0000</pubDate><link>https://github.com/arpxspace/smartcommit</link><dc:creator>Aplikethewatch</dc:creator><comments>https://news.ycombinator.com/item?id=46018165</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46018165</guid></item><item><title>A Reverse Engineer's Anatomy of the macOS Boot Chain and Security Architecture</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/"&gt;https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46018158"&gt;https://news.ycombinator.com/item?id=46018158&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 33&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Sat, 22 Nov 2025 20:54:02 +0000</pubDate><link>https://stack.int.mov/a-reverse-engineers-anatomy-of-the-macos-boot-chain-security-architecture/</link><dc:creator>19h</dc:creator><comments>https://news.ycombinator.com/item?id=46018158</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46018158</guid></item><item><title>The Mozilla Cycle, Part III: Mozilla Dies in Ignominy</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://taggart-tech.com/mozilla-cycle-pt3/"&gt;https://taggart-tech.com/mozilla-cycle-pt3/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46017910"&gt;https://news.ycombinator.com/item?id=46017910&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 113&lt;/p&gt;
+&lt;p&gt;# Comments: 63&lt;/p&gt;
+</description><pubDate>Sat, 22 Nov 2025 20:21:56 +0000</pubDate><link>https://taggart-tech.com/mozilla-cycle-pt3/</link><dc:creator>holysoles</dc:creator><comments>https://news.ycombinator.com/item?id=46017910</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46017910</guid></item><item><title>Show HN: Forty.News – Daily news, but on a 40-year delay</title><description>
+&lt;p&gt;This started as a reaction to a conversational trope. Despite being a tranquil place, even conversations at my yoga studio often start with, "Can you believe what's going on right now?" with that angry/scared undertone.&lt;p&gt;I'm a news avoider, so I usually feel some smug self-satisfaction in those instances, but I wondered if there was a way to satisfy the urge to doomscroll without the anxiety.&lt;p&gt;My hypothesis: Apply a 40-year latency buffer. You get the intellectual stimulation of "Big Events" without the fog of war, because you know the world didn't end.&lt;p&gt;40 years creates a mirror between the Reagan Era and today. The parallels include celebrity populism, Cold War tensions (Soviets vs. Russia), and inflation economics.&lt;p&gt;The system ingests raw newspaper scans and uses a multi-step LLM pipeline to generate the daily edition:&lt;p&gt;OCR &amp; Ingestion: Converts raw pixels to text.&lt;p&gt;Scoring: Grades events on metrics like Dramatic Irony and Name Recognition to surface stories that are interesting with hindsight. For example, a dry business blurb about Steve Jobs leaving Apple scores highly because the future context creates a narrative arc.&lt;p&gt;Objective Fact Extraction: Extracts a list of discrete, verifiable facts from the raw text.&lt;p&gt;Generation: Uses those extracted facts as the ground truth to write new headlines and story summaries.&lt;p&gt;I expected a zen experience. Instead, I got an entertaining docudrama. Historical events are surprisingly compelling when serialized over weeks.&lt;p&gt;For example, on Oct 7, 1985, Palestinian hijackers took over the cruise ship Achille Lauro. Reading this on a delay in 2025, the story unfolded over weeks: first they threw an American in a wheelchair overboard, then US fighter jets forced the escape plane to land, leading to a military standoff between US Navy SEALs and the Italian Air Force. Unbelievably, the US backed down, but the later diplomatic fallout led the Italian Prime Minister to resign.&lt;p&gt;It hits the dopamine receptors of the news cycle, but with the comfort of a known outcome.&lt;p&gt;Stack: React, Node.js (Caskada for the LLM pipeline orchestration), Gemini for OCR/Scoring.&lt;p&gt;Link: &lt;a href="https://forty.news" rel="nofollow"&gt;https://forty.news&lt;/a&gt; (No signup required, it's only if you want the stories emailed to you daily/weekly)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46017175"&gt;https://news.ycombinator.com/item?id=46017175&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 145&lt;/p&gt;
+&lt;p&gt;# Comments: 63&lt;/p&gt;
+</description><pubDate>Sat, 22 Nov 2025 18:47:08 +0000</pubDate><link>https://forty.news</link><dc:creator>foxbarrington</dc:creator><comments>https://news.ycombinator.com/item?id=46017175</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46017175</guid></item><item><title>Depot (YC W23) Is Hiring a Staff Infrastructure Engineer</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer"&gt;https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46016799"&gt;https://news.ycombinator.com/item?id=46016799&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sat, 22 Nov 2025 18:05:47 +0000</pubDate><link>https://www.ycombinator.com/companies/depot/jobs/O2iB56E-staff-infrastructure-engineer</link><dc:creator>jacobwg</dc:creator><comments>https://news.ycombinator.com/item?id=46016799</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46016799</guid></item><item><title>China reaches energy milestone by "breeding" uranium from thorium</title><description>
+&lt;p&gt;&lt;a href="https://archive.is/DQpXM" rel="nofollow"&gt;https://archive.is/DQpXM&lt;/a&gt;&lt;p&gt;&lt;a href="https://www.stdaily.com/web/English/2025-11/17/content_432984.html" rel="nofollow"&gt;https://www.stdaily.com/web/English/2025-11/17/content_43298...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46016639"&gt;https://news.ycombinator.com/item?id=46016639&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 184&lt;/p&gt;
+&lt;p&gt;# Comments: 124&lt;/p&gt;
+</description><pubDate>Sat, 22 Nov 2025 17:49:27 +0000</pubDate><link>https://www.scmp.com/news/china/science/article/3331312/china-reaches-energy-independence-milestone-breeding-uranium-thorium</link><dc:creator>surprisetalk</dc:creator><comments>https://news.ycombinator.com/item?id=46016639</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46016639</guid></item><item><title>Gwern's "Stem Humor" Directory</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://gwern.net/doc/math/humor/index"&gt;https://gwern.net/doc/math/humor/index&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46016630"&gt;https://news.ycombinator.com/item?id=46016630&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 31&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Sat, 22 Nov 2025 17:49:05 +0000</pubDate><link>https://gwern.net/doc/math/humor/index</link><dc:creator>surprisetalk</dc:creator><comments>https://news.ycombinator.com/item?id=46016630</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46016630</guid></item><item><title>The realities of being a pop star</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star"&gt;https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46016613"&gt;https://news.ycombinator.com/item?id=46016613&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 98&lt;/p&gt;
+&lt;p&gt;# Comments: 24&lt;/p&gt;
+</description><pubDate>Sat, 22 Nov 2025 17:47:23 +0000</pubDate><link>https://itscharlibb.substack.com/p/the-realities-of-being-a-pop-star</link><dc:creator>lovestory</dc:creator><comments>https://news.ycombinator.com/item?id=46016613</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46016613</guid></item><item><title>The privacy nightmare of browser fingerprinting</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://kevinboone.me/fingerprinting.html"&gt;https://kevinboone.me/fingerprinting.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46016249"&gt;https://news.ycombinator.com/item?id=46016249&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 394&lt;/p&gt;
+&lt;p&gt;# Comments: 241&lt;/p&gt;
+</description><pubDate>Sat, 22 Nov 2025 17:08:36 +0000</pubDate><link>https://kevinboone.me/fingerprinting.html</link><dc:creator>ingve</dc:creator><comments>https://news.ycombinator.com/item?id=46016249</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46016249</guid></item><item><title>Agent design is still hard</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lucumr.pocoo.org/2025/11/21/agents-are-hard/"&gt;https://lucumr.pocoo.org/2025/11/21/agents-are-hard/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46013935"&gt;https://news.ycombinator.com/item?id=46013935&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 335&lt;/p&gt;
+&lt;p&gt;# Comments: 192&lt;/p&gt;
+</description><pubDate>Sat, 22 Nov 2025 11:27:24 +0000</pubDate><link>https://lucumr.pocoo.org/2025/11/21/agents-are-hard/</link><dc:creator>the_mitsuhiko</dc:creator><comments>https://news.ycombinator.com/item?id=46013935</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46013935</guid></item><item><title>Personal blogs are back, should niche blogs be next?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://disassociated.com/personal-blogs-back-niche-blogs-next/"&gt;https://disassociated.com/personal-blogs-back-niche-blogs-next/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46009894"&gt;https://news.ycombinator.com/item?id=46009894&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 584&lt;/p&gt;
+&lt;p&gt;# Comments: 350&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 22:40:28 +0000</pubDate><link>https://disassociated.com/personal-blogs-back-niche-blogs-next/</link><dc:creator>gnabgib</dc:creator><comments>https://news.ycombinator.com/item?id=46009894</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46009894</guid></item><item><title>We Induced Smells With Ultrasound</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://writetobrain.com/olfactory"&gt;https://writetobrain.com/olfactory&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46008332"&gt;https://news.ycombinator.com/item?id=46008332&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 148&lt;/p&gt;
+&lt;p&gt;# Comments: 38&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 20:02:45 +0000</pubDate><link>https://writetobrain.com/olfactory</link><dc:creator>exr0n</dc:creator><comments>https://news.ycombinator.com/item?id=46008332</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46008332</guid></item><item><title>Helping Valve to power up Steam devices</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.igalia.com/2025/11/helpingvalve.html"&gt;https://www.igalia.com/2025/11/helpingvalve.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46006616"&gt;https://news.ycombinator.com/item?id=46006616&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 799&lt;/p&gt;
+&lt;p&gt;# Comments: 286&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 17:29:59 +0000</pubDate><link>https://www.igalia.com/2025/11/helpingvalve.html</link><dc:creator>TingPing</dc:creator><comments>https://news.ycombinator.com/item?id=46006616</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46006616</guid></item><item><title>Show HN: Wealthfolio 2.0- Open source investment tracker. Now Mobile and Docker</title><description>
+&lt;p&gt;Hi HN, creator of Wealthfolio here.&lt;p&gt;A year ago, I posted the first version. Since then, the app has matured significantly with two major updates:&lt;p&gt;1. Multi-platform Support: 
+Now available on Mobile (iOS), Desktop (macOS, Windows, Linux), and as a Self-hosted Docker image.
+(Android coming soon).&lt;p&gt;2. Addons System:
+We added explicit support for extensions so you can hack around, vibe code your own integrations, and customize the app to fit your needs.&lt;p&gt;The core philosophy remains the same: Always private, transparent, and open source.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46006016"&gt;https://news.ycombinator.com/item?id=46006016&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 637&lt;/p&gt;
+&lt;p&gt;# Comments: 201&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 16:34:52 +0000</pubDate><link>https://wealthfolio.app/?v=2.0</link><dc:creator>a-fadil</dc:creator><comments>https://news.ycombinator.com/item?id=46006016</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46006016</guid></item><item><title>We should all be using dependency cooldowns</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns"&gt;https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46005111"&gt;https://news.ycombinator.com/item?id=46005111&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 460&lt;/p&gt;
+&lt;p&gt;# Comments: 259&lt;/p&gt;
+</description><pubDate>Fri, 21 Nov 2025 14:50:36 +0000</pubDate><link>https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46005111</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46005111</guid></item></channel></rss>
