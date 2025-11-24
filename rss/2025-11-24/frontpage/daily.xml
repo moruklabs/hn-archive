@@ -1,0 +1,102 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Mon, 24 Nov 2025 00:21:01 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>ISPs more likely to throttle netizens who connect through CG-NAT: Cloudflare</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/"&gt;https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46028627"&gt;https://news.ycombinator.com/item?id=46028627&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 13&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 23:53:06 +0000</pubDate><link>https://www.theregister.com/2025/11/03/cloudflare_cgnat_bias_research/</link><dc:creator>throw0101a</dc:creator><comments>https://news.ycombinator.com/item?id=46028627</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46028627</guid></item><item><title>X's new country-of-origin feature reveals many 'US' accounts to be foreign-run</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html"&gt;https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46028422"&gt;https://news.ycombinator.com/item?id=46028422&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 193&lt;/p&gt;
+&lt;p&gt;# Comments: 74&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 23:25:03 +0000</pubDate><link>https://www.hindustantimes.com/world-news/us-news/xs-new-country-of-origin-feature-shakes-maga-and-democrat-circles-as-many-us-accounts-revealed-to-be-foreignrun-101763857104296.html</link><dc:creator>ourmandave</dc:creator><comments>https://news.ycombinator.com/item?id=46028422</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46028422</guid></item><item><title>Liva AI (YC S25) Is Hiring</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern"&gt;https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46028046"&gt;https://news.ycombinator.com/item?id=46028046&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 22:36:07 +0000</pubDate><link>https://www.ycombinator.com/companies/liva-ai/jobs/fYP8QP8-growth-intern</link><dc:creator>ashlleymo</dc:creator><comments>https://news.ycombinator.com/item?id=46028046</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46028046</guid></item><item><title>Sunsetting Supermaven</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://supermaven.com/blog/sunsetting-supermaven"&gt;https://supermaven.com/blog/sunsetting-supermaven&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46028033"&gt;https://news.ycombinator.com/item?id=46028033&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 23&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 22:33:34 +0000</pubDate><link>https://supermaven.com/blog/sunsetting-supermaven</link><dc:creator>vednig</dc:creator><comments>https://news.ycombinator.com/item?id=46028033</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46028033</guid></item><item><title>Show HN: I wrote a minimal memory allocator in C</title><description>
+&lt;p&gt;A fun toy memory allocator (not thread safe, that's a future TODO). I also wanted to explain how I approached it, so I also wrote a tutorial blog post (~20 minute read) covering the code which you can find the link to in the README.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46027962"&gt;https://news.ycombinator.com/item?id=46027962&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 16&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 22:25:36 +0000</pubDate><link>https://github.com/t9nzin/memory</link><dc:creator>t9nzin</dc:creator><comments>https://news.ycombinator.com/item?id=46027962</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46027962</guid></item><item><title>A desktop app for isolated, parallel agentic development</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/coder/mux"&gt;https://github.com/coder/mux&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46027947"&gt;https://news.ycombinator.com/item?id=46027947&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 12&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 22:24:23 +0000</pubDate><link>https://github.com/coder/mux</link><dc:creator>mercat</dc:creator><comments>https://news.ycombinator.com/item?id=46027947</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46027947</guid></item><item><title>Iowa City Made Its Buses Free. Traffic Cleared, and So Did the Air</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html"&gt;https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46027833"&gt;https://news.ycombinator.com/item?id=46027833&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 99&lt;/p&gt;
+&lt;p&gt;# Comments: 83&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 22:06:44 +0000</pubDate><link>https://www.nytimes.com/2025/11/18/climate/iowa-city-free-buses.html</link><dc:creator>bookofjoe</dc:creator><comments>https://news.ycombinator.com/item?id=46027833</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46027833</guid></item><item><title>Particle Life – Sandbox Science</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://sandbox-science.com/particle-life"&gt;https://sandbox-science.com/particle-life&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46027722"&gt;https://news.ycombinator.com/item?id=46027722&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 24&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 21:54:32 +0000</pubDate><link>https://sandbox-science.com/particle-life</link><dc:creator>StromFLIX</dc:creator><comments>https://news.ycombinator.com/item?id=46027722</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46027722</guid></item><item><title>µcad: New open source programming language that can generate 2D sketches and 3D</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://microcad.xyz/"&gt;https://microcad.xyz/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46027216"&gt;https://news.ycombinator.com/item?id=46027216&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 23&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 20:51:22 +0000</pubDate><link>https://microcad.xyz/</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46027216</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46027216</guid></item><item><title>Giving the Jakks Atari Paddle a Spin</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://nicole.express/2025/paddle-me-atari.html"&gt;https://nicole.express/2025/paddle-me-atari.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46027065"&gt;https://news.ycombinator.com/item?id=46027065&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 8&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 20:31:45 +0000</pubDate><link>https://nicole.express/2025/paddle-me-atari.html</link><dc:creator>ingve</dc:creator><comments>https://news.ycombinator.com/item?id=46027065</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46027065</guid></item><item><title>"Good engineering management" is a fad</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lethain.com/good-eng-mgmt-is-a-fad/"&gt;https://lethain.com/good-eng-mgmt-is-a-fad/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46026939"&gt;https://news.ycombinator.com/item?id=46026939&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 136&lt;/p&gt;
+&lt;p&gt;# Comments: 52&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 20:16:04 +0000</pubDate><link>https://lethain.com/good-eng-mgmt-is-a-fad/</link><dc:creator>jkbyc</dc:creator><comments>https://news.ycombinator.com/item?id=46026939</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46026939</guid></item><item><title>780k Windows Users Downloaded Linux Distro Zorin OS in the Last 5 Weeks</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/"&gt;https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46026579"&gt;https://news.ycombinator.com/item?id=46026579&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 189&lt;/p&gt;
+&lt;p&gt;# Comments: 145&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 19:38:15 +0000</pubDate><link>https://blog.zorin.com/2025/11/18/test-the-upgrade-from-zorin-os-17-to-18-and-celebrating-1-million-downloads-of-zorin-os-18/</link><dc:creator>m463</dc:creator><comments>https://news.ycombinator.com/item?id=46026579</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46026579</guid></item><item><title>Fran Sans – font inspired by San Francisco light rail displays</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://emilysneddon.com/fran-sans-essay"&gt;https://emilysneddon.com/fran-sans-essay&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46025942"&gt;https://news.ycombinator.com/item?id=46025942&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 475&lt;/p&gt;
+&lt;p&gt;# Comments: 68&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 18:20:27 +0000</pubDate><link>https://emilysneddon.com/fran-sans-essay</link><dc:creator>ChrisArchitect</dc:creator><comments>https://news.ycombinator.com/item?id=46025942</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46025942</guid></item><item><title>Native Secure Enclave backed SSH keys on macOS</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf"&gt;https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46025721"&gt;https://news.ycombinator.com/item?id=46025721&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 282&lt;/p&gt;
+&lt;p&gt;# Comments: 118&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 17:55:11 +0000</pubDate><link>https://gist.github.com/arianvp/5f59f1783e3eaf1a2d4cd8e952bb4acf</link><dc:creator>arianvanp</dc:creator><comments>https://news.ycombinator.com/item?id=46025721</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46025721</guid></item><item><title>Calculus for Mathematicians, Computer Scientists, and Physicists [pdf]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://mathcs.holycross.edu/~ahwang/print/calc.pdf"&gt;https://mathcs.holycross.edu/~ahwang/print/calc.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46024773"&gt;https://news.ycombinator.com/item?id=46024773&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 212&lt;/p&gt;
+&lt;p&gt;# Comments: 40&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 16:31:50 +0000</pubDate><link>https://mathcs.holycross.edu/~ahwang/print/calc.pdf</link><dc:creator>o4c</dc:creator><comments>https://news.ycombinator.com/item?id=46024773</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46024773</guid></item><item><title>Mount Proton Drive on Linux using rclone and systemd</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/dadtronics/protondrive-linux"&gt;https://github.com/dadtronics/protondrive-linux&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46024584"&gt;https://news.ycombinator.com/item?id=46024584&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 100&lt;/p&gt;
+&lt;p&gt;# Comments: 33&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 16:12:06 +0000</pubDate><link>https://github.com/dadtronics/protondrive-linux</link><dc:creator>cf100clunk</dc:creator><comments>https://news.ycombinator.com/item?id=46024584</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46024584</guid></item><item><title>Court filings allege Meta downplayed risks to children and misled the public</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://time.com/7336204/meta-lawsuit-files-child-safety/"&gt;https://time.com/7336204/meta-lawsuit-files-child-safety/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46024184"&gt;https://news.ycombinator.com/item?id=46024184&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 305&lt;/p&gt;
+&lt;p&gt;# Comments: 133&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 15:18:00 +0000</pubDate><link>https://time.com/7336204/meta-lawsuit-files-child-safety/</link><dc:creator>binning</dc:creator><comments>https://news.ycombinator.com/item?id=46024184</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46024184</guid></item><item><title>Editing Code in Emacs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html"&gt;https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46024032"&gt;https://news.ycombinator.com/item?id=46024032&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 116&lt;/p&gt;
+&lt;p&gt;# Comments: 33&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 14:59:38 +0000</pubDate><link>https://redpenguin101.github.io/html/posts/2025_11_23_emacs_for_code_editing.html</link><dc:creator>redpenguin101</dc:creator><comments>https://news.ycombinator.com/item?id=46024032</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46024032</guid></item><item><title>Racket v9.0</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.racket-lang.org/2025/11/racket-v9-0.html"&gt;https://blog.racket-lang.org/2025/11/racket-v9-0.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46023460"&gt;https://news.ycombinator.com/item?id=46023460&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 259&lt;/p&gt;
+&lt;p&gt;# Comments: 90&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 13:35:27 +0000</pubDate><link>https://blog.racket-lang.org/2025/11/racket-v9-0.html</link><dc:creator>Fice</dc:creator><comments>https://news.ycombinator.com/item?id=46023460</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46023460</guid></item><item><title>Shaders: How to draw high fidelity graphics with just x and y coordinates</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.makingsoftware.com/chapters/shaders"&gt;https://www.makingsoftware.com/chapters/shaders&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46023013"&gt;https://news.ycombinator.com/item?id=46023013&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 322&lt;/p&gt;
+&lt;p&gt;# Comments: 72&lt;/p&gt;
+</description><pubDate>Sun, 23 Nov 2025 12:26:30 +0000</pubDate><link>https://www.makingsoftware.com/chapters/shaders</link><dc:creator>Garbage</dc:creator><comments>https://news.ycombinator.com/item?id=46023013</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46023013</guid></item></channel></rss>
