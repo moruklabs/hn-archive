@@ -1,0 +1,103 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sat, 29 Nov 2025 01:48:58 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>A triangle whose interior angles sum to zero</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/"&gt;https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46084122"&gt;https://news.ycombinator.com/item?id=46084122&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 24&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Sat, 29 Nov 2025 00:26:42 +0000</pubDate><link>https://www.johndcook.com/blog/2025/11/28/tricusp-triangle/</link><dc:creator>tzury</dc:creator><comments>https://news.ycombinator.com/item?id=46084122</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46084122</guid></item><item><title>Fabric Project</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/Fabric-Project/Fabric"&gt;https://github.com/Fabric-Project/Fabric&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46083375"&gt;https://news.ycombinator.com/item?id=46083375&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 23&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 22:32:03 +0000</pubDate><link>https://github.com/Fabric-Project/Fabric</link><dc:creator>brcmthrowaway</dc:creator><comments>https://news.ycombinator.com/item?id=46083375</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46083375</guid></item><item><title>Confessions of a Software Developer: No More Self-Censorship</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/"&gt;https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46083303"&gt;https://news.ycombinator.com/item?id=46083303&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 86&lt;/p&gt;
+&lt;p&gt;# Comments: 87&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 22:21:25 +0000</pubDate><link>https://kerrick.blog/articles/2025/confessions-of-a-software-developer-no-more-self-censorship/</link><dc:creator>Kerrick</dc:creator><comments>https://news.ycombinator.com/item?id=46083303</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46083303</guid></item><item><title>How to Short the Bubbliest Firms</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms"&gt;https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46083137"&gt;https://news.ycombinator.com/item?id=46083137&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 24&lt;/p&gt;
+&lt;p&gt;# Comments: 28&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 21:56:58 +0000</pubDate><link>https://www.economist.com/finance-and-economics/2025/11/26/how-to-short-the-bubbliest-firms</link><dc:creator>1vuio0pswjnm7</dc:creator><comments>https://news.ycombinator.com/item?id=46083137</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46083137</guid></item><item><title>A first look at Django's new background tasks</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/"&gt;https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46083051"&gt;https://news.ycombinator.com/item?id=46083051&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 59&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 21:46:07 +0000</pubDate><link>https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks/</link><dc:creator>roam</dc:creator><comments>https://news.ycombinator.com/item?id=46083051</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46083051</guid></item><item><title>Airbus A320 – intense solar radiation may corrupt data critical for flight</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action"&gt;https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46083004"&gt;https://news.ycombinator.com/item?id=46083004&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 76&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 21:40:21 +0000</pubDate><link>https://www.airbus.com/en/newsroom/press-releases/2025-11-airbus-update-on-a320-family-precautionary-fleet-action</link><dc:creator>pyrophoenix</dc:creator><comments>https://news.ycombinator.com/item?id=46083004</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46083004</guid></item><item><title>Flight disruption warning as Airbus requests modifications to 6k planes</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.bbc.com/news/live/cvg4y6g74ert"&gt;https://www.bbc.com/news/live/cvg4y6g74ert&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46082825"&gt;https://news.ycombinator.com/item?id=46082825&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 155&lt;/p&gt;
+&lt;p&gt;# Comments: 59&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 21:16:46 +0000</pubDate><link>https://www.bbc.com/news/live/cvg4y6g74ert</link><dc:creator>nrhrjrjrjtntbt</dc:creator><comments>https://news.ycombinator.com/item?id=46082825</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46082825</guid></item><item><title>How good engineers write bad code at big companies</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.seangoedecke.com/bad-code-at-big-companies/"&gt;https://www.seangoedecke.com/bad-code-at-big-companies/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46082223"&gt;https://news.ycombinator.com/item?id=46082223&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 226&lt;/p&gt;
+&lt;p&gt;# Comments: 140&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 19:59:32 +0000</pubDate><link>https://www.seangoedecke.com/bad-code-at-big-companies/</link><dc:creator>gfysfm</dc:creator><comments>https://news.ycombinator.com/item?id=46082223</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46082223</guid></item><item><title>The original ABC language, Python's predecessor (1991)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/gvanrossum/abc-unix"&gt;https://github.com/gvanrossum/abc-unix&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46082204"&gt;https://news.ycombinator.com/item?id=46082204&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 72&lt;/p&gt;
+&lt;p&gt;# Comments: 13&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 19:58:13 +0000</pubDate><link>https://github.com/gvanrossum/abc-unix</link><dc:creator>tony</dc:creator><comments>https://news.ycombinator.com/item?id=46082204</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46082204</guid></item><item><title>Effective harnesses for long-running agents</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents"&gt;https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46081704"&gt;https://news.ycombinator.com/item?id=46081704&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 68&lt;/p&gt;
+&lt;p&gt;# Comments: 18&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 19:05:16 +0000</pubDate><link>https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents</link><dc:creator>diwank</dc:creator><comments>https://news.ycombinator.com/item?id=46081704</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46081704</guid></item><item><title>Show HN: Pulse 2.0 – Live co-listening rooms where anyone can be a DJ</title><description>
+&lt;p&gt;I wanted to listen to music with friends who live far away. Not "watch a YouTube video together" - actually share what I'm hearing in real-time, like we're in the same room.&lt;p&gt;Pulse is what came out of that. Anyone can host a live audio stream from their browser tab or system audio. Listeners join, music recognition identifies tracks automatically, and there's chat with 7TV emotes. No account required - you get an anonymous code and you're in.&lt;p&gt;We're running demo rooms that stream NTS Radio and SomaFM 24/7 (indie project, not affiliated - we backlink to the original stations). There's also a "Money For Nothing 24/7" room if you want to loop that Dire Straits instrumental forever.&lt;p&gt;Think of it as co-listening infrastructure. 
+Bedroom DJs, listening parties, or just sharing your current vibe.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46081443"&gt;https://news.ycombinator.com/item?id=46081443&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 55&lt;/p&gt;
+&lt;p&gt;# Comments: 21&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 18:39:34 +0000</pubDate><link>https://473999.net/pulse</link><dc:creator>473999</dc:creator><comments>https://news.ycombinator.com/item?id=46081443</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46081443</guid></item><item><title>Imgur geo-blocked the UK, so I geo-unblocked my network</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.tymscar.com/posts/imgurukproxy/"&gt;https://blog.tymscar.com/posts/imgurukproxy/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46081188"&gt;https://news.ycombinator.com/item?id=46081188&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 270&lt;/p&gt;
+&lt;p&gt;# Comments: 97&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 18:15:50 +0000</pubDate><link>https://blog.tymscar.com/posts/imgurukproxy/</link><dc:creator>tymscar</dc:creator><comments>https://news.ycombinator.com/item?id=46081188</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46081188</guid></item><item><title>28M Hacker News comments as vector embedding search dataset</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset"&gt;https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46081053"&gt;https://news.ycombinator.com/item?id=46081053&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 319&lt;/p&gt;
+&lt;p&gt;# Comments: 129&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 18:02:04 +0000</pubDate><link>https://clickhouse.com/docs/getting-started/example-datasets/hackernews-vector-search-dataset</link><dc:creator>walterbell</dc:creator><comments>https://news.ycombinator.com/item?id=46081053</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46081053</guid></item><item><title>Molly: An Improved Signal App</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://molly.im/"&gt;https://molly.im/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46080916"&gt;https://news.ycombinator.com/item?id=46080916&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 226&lt;/p&gt;
+&lt;p&gt;# Comments: 120&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 17:48:25 +0000</pubDate><link>https://molly.im/</link><dc:creator>dtj1123</dc:creator><comments>https://news.ycombinator.com/item?id=46080916</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46080916</guid></item><item><title>JSON Schema Demystified: Dialects, Vocabularies and Metaschemas</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.iankduncan.com/engineering/2025-11-24-json-schema-demystified/"&gt;https://www.iankduncan.com/engineering/2025-11-24-json-schema-demystified/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46080769"&gt;https://news.ycombinator.com/item?id=46080769&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 48&lt;/p&gt;
+&lt;p&gt;# Comments: 22&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 17:34:26 +0000</pubDate><link>https://www.iankduncan.com/engineering/2025-11-24-json-schema-demystified/</link><dc:creator>navigate8310</dc:creator><comments>https://news.ycombinator.com/item?id=46080769</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46080769</guid></item><item><title>Show HN: An LLM-Powered Tool to Catch PCB Schematic Mistakes</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://netlist.io/"&gt;https://netlist.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46080737"&gt;https://news.ycombinator.com/item?id=46080737&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 35&lt;/p&gt;
+&lt;p&gt;# Comments: 21&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 17:30:41 +0000</pubDate><link>https://netlist.io/</link><dc:creator>wafflesfreak</dc:creator><comments>https://news.ycombinator.com/item?id=46080737</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46080737</guid></item><item><title>C++ Web Server on my custom hobby OS</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://oshub.org/projects/retros-32/posts/getting-a-webserver-running"&gt;https://oshub.org/projects/retros-32/posts/getting-a-webserver-running&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46080579"&gt;https://news.ycombinator.com/item?id=46080579&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 85&lt;/p&gt;
+&lt;p&gt;# Comments: 11&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 17:15:20 +0000</pubDate><link>https://oshub.org/projects/retros-32/posts/getting-a-webserver-running</link><dc:creator>joexbayer</dc:creator><comments>https://news.ycombinator.com/item?id=46080579</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46080579</guid></item><item><title>Bringing Sexy Back. Internet surveillance has killed eroticism</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lux-magazine.com/article/privacy-eroticism/"&gt;https://lux-magazine.com/article/privacy-eroticism/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46080473"&gt;https://news.ycombinator.com/item?id=46080473&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 302&lt;/p&gt;
+&lt;p&gt;# Comments: 202&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 17:05:31 +0000</pubDate><link>https://lux-magazine.com/article/privacy-eroticism/</link><dc:creator>eustoria</dc:creator><comments>https://news.ycombinator.com/item?id=46080473</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46080473</guid></item><item><title>So you wanna build a local RAG?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.yakkomajuri.com/blog/local-rag"&gt;https://blog.yakkomajuri.com/blog/local-rag&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46080364"&gt;https://news.ycombinator.com/item?id=46080364&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 200&lt;/p&gt;
+&lt;p&gt;# Comments: 35&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 16:54:56 +0000</pubDate><link>https://blog.yakkomajuri.com/blog/local-rag</link><dc:creator>pedriquepacheco</dc:creator><comments>https://news.ycombinator.com/item?id=46080364</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46080364</guid></item><item><title>Airloom – 3D Flight Tracker</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://objectiveunclear.com/airloom.html"&gt;https://objectiveunclear.com/airloom.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46080289"&gt;https://news.ycombinator.com/item?id=46080289&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 149&lt;/p&gt;
+&lt;p&gt;# Comments: 40&lt;/p&gt;
+</description><pubDate>Fri, 28 Nov 2025 16:49:12 +0000</pubDate><link>https://objectiveunclear.com/airloom.html</link><dc:creator>azinman2</dc:creator><comments>https://news.ycombinator.com/item?id=46080289</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46080289</guid></item></channel></rss>
