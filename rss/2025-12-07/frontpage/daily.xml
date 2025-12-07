@@ -1,0 +1,114 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sun, 07 Dec 2025 02:00:34 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Using LLMs at Oxide</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://rfd.shared.oxide.computer/rfd/0576"&gt;https://rfd.shared.oxide.computer/rfd/0576&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46178347"&gt;https://news.ycombinator.com/item?id=46178347&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 45&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 01:17:40 +0000</pubDate><link>https://rfd.shared.oxide.computer/rfd/0576</link><dc:creator>steveklabnik</dc:creator><comments>https://news.ycombinator.com/item?id=46178347</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46178347</guid></item><item><title>Trains cancelled over fake bridge collapse image</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.bbc.com/news/articles/cwygqqll9k2o"&gt;https://www.bbc.com/news/articles/cwygqqll9k2o&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46178108"&gt;https://news.ycombinator.com/item?id=46178108&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 47&lt;/p&gt;
+&lt;p&gt;# Comments: 16&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 00:37:15 +0000</pubDate><link>https://www.bbc.com/news/articles/cwygqqll9k2o</link><dc:creator>josephcsible</dc:creator><comments>https://news.ycombinator.com/item?id=46178108</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46178108</guid></item><item><title>Magnitude-7.0 earthquake hits in remote wilderness along Alaska-Canada border</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71"&gt;https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46177926"&gt;https://news.ycombinator.com/item?id=46177926&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 15&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 00:11:47 +0000</pubDate><link>https://apnews.com/article/earthquake-alaska-canada-yukon-7c0f68370e387b1b23fa7fe7fc9c2c71</link><dc:creator>appreciatorBus</dc:creator><comments>https://news.ycombinator.com/item?id=46177926</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46177926</guid></item><item><title>Show HN: FuseCells – a handcrafted logic puzzle game with 2,500 levels</title><description>
+&lt;p&gt;Hi everyone,
+I built FuseCells, a minimalistic logic puzzle game where every level is handcrafted (no procedural generation). It started as a personal challenge to design a clean rule-set and scale it to thousands of puzzles without losing difficulty balance.&lt;p&gt;What’s unique:
+ • 2,500 handcrafted levels across multiple grid sizes
+ • Deterministic logic — no guessing required
+ • A rule system inspired by constraint-solving and path-finding concepts
+ • Daily challenges and global progress tracking
+ • Fully built as a solo dev project&lt;p&gt;Technical notes for those curious:
+ • Level generation tools I wrote validate solvability using a custom constraint solver
+ • Difficulty is estimated via step-count of the solver
+ • The game is optimized to run smoothly on low-end devices
+ • Designed first for iOS, now fully adapted for iPad as well&lt;p&gt;I’d love feedback from puzzle lovers, game designers, and anyone interested in handcrafted logic design.
+Here’s the App Store link: [inserați linkul]&lt;p&gt;Thanks for reading — happy to answer any technical questions!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46177737"&gt;https://news.ycombinator.com/item?id=46177737&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 17&lt;/p&gt;
+&lt;p&gt;# Comments: 6&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 23:51:08 +0000</pubDate><link>https://apps.apple.com/us/app/fusecells-logic-grid-puzzle/id6754704139</link><dc:creator>keini</dc:creator><comments>https://news.ycombinator.com/item?id=46177737</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46177737</guid></item><item><title>OpenTelemetry Distribution Builder</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/observIQ/otel-distro-builder"&gt;https://github.com/observIQ/otel-distro-builder&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46177664"&gt;https://news.ycombinator.com/item?id=46177664&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 9&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 23:41:18 +0000</pubDate><link>https://github.com/observIQ/otel-distro-builder</link><dc:creator>pveierland</dc:creator><comments>https://news.ycombinator.com/item?id=46177664</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46177664</guid></item><item><title>Kilauea erupts, destroying webcam [video]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.youtube.com/watch?v=TK2N99BDw7A"&gt;https://www.youtube.com/watch?v=TK2N99BDw7A&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46177645"&gt;https://news.ycombinator.com/item?id=46177645&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 97&lt;/p&gt;
+&lt;p&gt;# Comments: 17&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 23:39:02 +0000</pubDate><link>https://www.youtube.com/watch?v=TK2N99BDw7A</link><dc:creator>zdw</dc:creator><comments>https://news.ycombinator.com/item?id=46177645</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46177645</guid></item><item><title>PatchworkOS: An OS for x86_64, built from scratch in C and assembly</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/KaiNorberg/PatchworkOS"&gt;https://github.com/KaiNorberg/PatchworkOS&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46177615"&gt;https://news.ycombinator.com/item?id=46177615&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 21&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 23:33:23 +0000</pubDate><link>https://github.com/KaiNorberg/PatchworkOS</link><dc:creator>pykello</dc:creator><comments>https://news.ycombinator.com/item?id=46177615</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46177615</guid></item><item><title>Saving Japan's exceptionally rare 'snow monsters'</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters"&gt;https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46177418"&gt;https://news.ycombinator.com/item?id=46177418&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 29&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 23:06:53 +0000</pubDate><link>https://www.bbc.com/future/article/20251203-japans-disappearing-snow-monsters</link><dc:creator>1659447091</dc:creator><comments>https://news.ycombinator.com/item?id=46177418</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46177418</guid></item><item><title>Wave of (Open Street Map) Vandalism in South Korea</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.openstreetmap.org/user/KennyDap/diary/407844"&gt;https://www.openstreetmap.org/user/KennyDap/diary/407844&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46177198"&gt;https://news.ycombinator.com/item?id=46177198&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 57&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 22:34:56 +0000</pubDate><link>https://www.openstreetmap.org/user/KennyDap/diary/407844</link><dc:creator>shortrounddev2</dc:creator><comments>https://news.ycombinator.com/item?id=46177198</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46177198</guid></item><item><title>United States Antarctic Program Field Manual (2024) [pdf]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf"&gt;https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46177132"&gt;https://news.ycombinator.com/item?id=46177132&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 40&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 22:26:26 +0000</pubDate><link>https://www.usap.gov/usapgov/travelAndDeployment/documents/Continental-Field-Manual-2024.pdf</link><dc:creator>SheinhardtWigCo</dc:creator><comments>https://news.ycombinator.com/item?id=46177132</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46177132</guid></item><item><title>Catala – Law to Code</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://catala-lang.org"&gt;https://catala-lang.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46177022"&gt;https://news.ycombinator.com/item?id=46177022&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 37&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 22:11:33 +0000</pubDate><link>https://catala-lang.org</link><dc:creator>Grognak</dc:creator><comments>https://news.ycombinator.com/item?id=46177022</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46177022</guid></item><item><title>Screenshots from developers: 2002 vs. 2015 (2015)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/"&gt;https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46176905"&gt;https://news.ycombinator.com/item?id=46176905&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 154&lt;/p&gt;
+&lt;p&gt;# Comments: 58&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 21:55:09 +0000</pubDate><link>https://anders.unix.se/2015/12/10/screenshots-from-developers--2002-vs.-2015/</link><dc:creator>turrini</dc:creator><comments>https://news.ycombinator.com/item?id=46176905</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46176905</guid></item><item><title>Coffee linked to slower biological ageing among those with severe mental illness</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit"&gt;https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46176766"&gt;https://news.ycombinator.com/item?id=46176766&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 94&lt;/p&gt;
+&lt;p&gt;# Comments: 55&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 21:33:03 +0000</pubDate><link>https://www.kcl.ac.uk/news/coffee-linked-to-slower-biological-ageing-among-those-with-severe-mental-illness-up-to-a-limit</link><dc:creator>bookofjoe</dc:creator><comments>https://news.ycombinator.com/item?id=46176766</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46176766</guid></item><item><title>Show HN: Tascli, a command line based (human) task and record manager</title><description>
+&lt;p&gt;`cargo install tascli`&lt;p&gt;Manages your own task and records in the terminal simply with tascli - tiny, fast and simple.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46176533"&gt;https://news.ycombinator.com/item?id=46176533&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 24&lt;/p&gt;
+&lt;p&gt;# Comments: 12&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 20:56:38 +0000</pubDate><link>https://github.com/Aperocky/tascli</link><dc:creator>Aperocky</dc:creator><comments>https://news.ycombinator.com/item?id=46176533</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46176533</guid></item><item><title>Zebra-Llama: Towards Efficient Hybrid Models</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arxiv.org/abs/2505.17272"&gt;https://arxiv.org/abs/2505.17272&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46176289"&gt;https://news.ycombinator.com/item?id=46176289&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 78&lt;/p&gt;
+&lt;p&gt;# Comments: 35&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 20:15:54 +0000</pubDate><link>https://arxiv.org/abs/2505.17272</link><dc:creator>mirrir</dc:creator><comments>https://news.ycombinator.com/item?id=46176289</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46176289</guid></item><item><title>OMSCS Open Courseware</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://sites.gatech.edu/omscsopencourseware/"&gt;https://sites.gatech.edu/omscsopencourseware/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46175826"&gt;https://news.ycombinator.com/item?id=46175826&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 133&lt;/p&gt;
+&lt;p&gt;# Comments: 45&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 19:14:35 +0000</pubDate><link>https://sites.gatech.edu/omscsopencourseware/</link><dc:creator>kerim-ca</dc:creator><comments>https://news.ycombinator.com/item?id=46175826</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46175826</guid></item><item><title>Infisical (YC W23) Is Hiring Engineers to Build the Modern OSS Security Stack</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada"&gt;https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46174789"&gt;https://news.ycombinator.com/item?id=46174789&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 17:01:53 +0000</pubDate><link>https://www.ycombinator.com/companies/infisical/jobs/2pwGcK9-senior-full-stack-engineer-us-canada</link><dc:creator>vmatsiiako</dc:creator><comments>https://news.ycombinator.com/item?id=46174789</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46174789</guid></item><item><title>HTML as an Accessible Format for Papers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://info.arxiv.org/about/accessible_HTML.html"&gt;https://info.arxiv.org/about/accessible_HTML.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46173825"&gt;https://news.ycombinator.com/item?id=46173825&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 203&lt;/p&gt;
+&lt;p&gt;# Comments: 107&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 14:59:52 +0000</pubDate><link>https://info.arxiv.org/about/accessible_HTML.html</link><dc:creator>el3ctron</dc:creator><comments>https://news.ycombinator.com/item?id=46173825</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46173825</guid></item><item><title>Tiny Core Linux: a 23 MB Linux distro with graphical desktop</title><description>
+&lt;p&gt;Article URL: &lt;a href="http://www.tinycorelinux.net/"&gt;http://www.tinycorelinux.net/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46173547"&gt;https://news.ycombinator.com/item?id=46173547&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 358&lt;/p&gt;
+&lt;p&gt;# Comments: 165&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 14:18:42 +0000</pubDate><link>http://www.tinycorelinux.net/</link><dc:creator>LorenDB</dc:creator><comments>https://news.ycombinator.com/item?id=46173547</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46173547</guid></item><item><title>GrapheneOS is the only Android OS providing full security patches</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://grapheneos.social/@GrapheneOS/115647408229616018"&gt;https://grapheneos.social/@GrapheneOS/115647408229616018&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46173407"&gt;https://news.ycombinator.com/item?id=46173407&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 467&lt;/p&gt;
+&lt;p&gt;# Comments: 202&lt;/p&gt;
+</description><pubDate>Sat, 06 Dec 2025 13:58:31 +0000</pubDate><link>https://grapheneos.social/@GrapheneOS/115647408229616018</link><dc:creator>akyuu</dc:creator><comments>https://news.ycombinator.com/item?id=46173407</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46173407</guid></item></channel></rss>
