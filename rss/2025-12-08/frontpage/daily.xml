@@ -1,0 +1,103 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Mon, 08 Dec 2025 01:51:18 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Spinlocks vs. Mutexes: When to Spin and When to Sleep</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin"&gt;https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46186997"&gt;https://news.ycombinator.com/item?id=46186997&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 25&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Mon, 08 Dec 2025 00:38:44 +0000</pubDate><link>https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin</link><dc:creator>birdculture</dc:creator><comments>https://news.ycombinator.com/item?id=46186997</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46186997</guid></item><item><title>Toyota Unintended Acceleration and the Big Bowl of "Spaghetti" Code(2013)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/"&gt;https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46186950"&gt;https://news.ycombinator.com/item?id=46186950&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 4&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Mon, 08 Dec 2025 00:31:12 +0000</pubDate><link>https://www.safetyresearch.net/toyota-unintended-acceleration-and-the-big-bowl-of-spaghetti-code/</link><dc:creator>SoKamil</dc:creator><comments>https://news.ycombinator.com/item?id=46186950</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46186950</guid></item><item><title>Show HN: Cdecl-dump - represent C declarations visually</title><description>
+&lt;p&gt;A small tool that parses C declarations and outputs a simple visual representation at each stage, as it encounters arrays, pointers or functions.&lt;p&gt;The program uses a table-driven lexer and a hand-written, shift-reduce parser. No external dependencies apart from the standard library.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46186917"&gt;https://news.ycombinator.com/item?id=46186917&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 5&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Mon, 08 Dec 2025 00:26:04 +0000</pubDate><link>https://github.com/bbu/cdecl-dump</link><dc:creator>bluetomcat</dc:creator><comments>https://news.ycombinator.com/item?id=46186917</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46186917</guid></item><item><title>Bag of words, have mercy on us</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us"&gt;https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46185957"&gt;https://news.ycombinator.com/item?id=46185957&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 35&lt;/p&gt;
+&lt;p&gt;# Comments: 20&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 22:31:22 +0000</pubDate><link>https://www.experimental-history.com/p/bag-of-words-have-mercy-on-us</link><dc:creator>ntnbr</dc:creator><comments>https://news.ycombinator.com/item?id=46185957</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46185957</guid></item><item><title>How I block all online ads</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://troubled.engineer/posts/no-ads/"&gt;https://troubled.engineer/posts/no-ads/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46185816"&gt;https://news.ycombinator.com/item?id=46185816&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 71&lt;/p&gt;
+&lt;p&gt;# Comments: 25&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 22:18:59 +0000</pubDate><link>https://troubled.engineer/posts/no-ads/</link><dc:creator>StrLght</dc:creator><comments>https://news.ycombinator.com/item?id=46185816</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46185816</guid></item><item><title>Mechanical power generation using Earth's ambient radiation</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.science.org/doi/10.1126/sciadv.adw6833"&gt;https://www.science.org/doi/10.1126/sciadv.adw6833&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46185576"&gt;https://news.ycombinator.com/item?id=46185576&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 49&lt;/p&gt;
+&lt;p&gt;# Comments: 16&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 21:55:01 +0000</pubDate><link>https://www.science.org/doi/10.1126/sciadv.adw6833</link><dc:creator>defrost</dc:creator><comments>https://news.ycombinator.com/item?id=46185576</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46185576</guid></item><item><title>Proxmox delivers its software-defined datacenter contender and VMware escape</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/"&gt;https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46185317"&gt;https://news.ycombinator.com/item?id=46185317&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 56&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 21:26:35 +0000</pubDate><link>https://www.theregister.com/2025/12/05/proxmox_datacenter_manager_1_stable/</link><dc:creator>Bender</dc:creator><comments>https://news.ycombinator.com/item?id=46185317</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46185317</guid></item><item><title>Evidence from the One Laptop per Child program in rural Peru</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.nber.org/papers/w34495"&gt;https://www.nber.org/papers/w34495&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46184575"&gt;https://news.ycombinator.com/item?id=46184575&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 93&lt;/p&gt;
+&lt;p&gt;# Comments: 78&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 19:56:03 +0000</pubDate><link>https://www.nber.org/papers/w34495</link><dc:creator>danso</dc:creator><comments>https://news.ycombinator.com/item?id=46184575</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46184575</guid></item><item><title>Estimates are difficult for developers and product owners</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://thorsell.io/2025/12/07/estimates.html"&gt;https://thorsell.io/2025/12/07/estimates.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46184229"&gt;https://news.ycombinator.com/item?id=46184229&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 147&lt;/p&gt;
+&lt;p&gt;# Comments: 171&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 19:17:17 +0000</pubDate><link>https://thorsell.io/2025/12/07/estimates.html</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46184229</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46184229</guid></item><item><title>Millions of Americans mess up their taxes, but a new law will help</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.wakeuptopolitics.com/p/millions-of-americans-mess-up-their"&gt;https://www.wakeuptopolitics.com/p/millions-of-americans-mess-up-their&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46184128"&gt;https://news.ycombinator.com/item?id=46184128&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 32&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 19:03:16 +0000</pubDate><link>https://www.wakeuptopolitics.com/p/millions-of-americans-mess-up-their</link><dc:creator>toomuchtodo</dc:creator><comments>https://news.ycombinator.com/item?id=46184128</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46184128</guid></item><item><title>Show HN: Spotify Wrapped but for LeetCode</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/collinboler/leetcodewrapped"&gt;https://github.com/collinboler/leetcodewrapped&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46183952"&gt;https://news.ycombinator.com/item?id=46183952&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 23&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 18:42:57 +0000</pubDate><link>https://github.com/collinboler/leetcodewrapped</link><dc:creator>collinboler2</dc:creator><comments>https://news.ycombinator.com/item?id=46183952</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46183952</guid></item><item><title>The C++ standard for the F-35 Fighter Jet [video]</title><description>
+&lt;p&gt;PDF: &lt;a href="https://www.stroustrup.com/JSF-AV-rules.pdf" rel="nofollow"&gt;https://www.stroustrup.com/JSF-AV-rules.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46183657"&gt;https://news.ycombinator.com/item?id=46183657&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 184&lt;/p&gt;
+&lt;p&gt;# Comments: 186&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 18:07:06 +0000</pubDate><link>https://www.youtube.com/watch?v=Gv4sDL9Ljww</link><dc:creator>AareyBaba</dc:creator><comments>https://news.ycombinator.com/item?id=46183657</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46183657</guid></item><item><title>I failed to recreate the 1996 Space Jam website with Claude</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/"&gt;https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46183294"&gt;https://news.ycombinator.com/item?id=46183294&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 299&lt;/p&gt;
+&lt;p&gt;# Comments: 250&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 17:18:54 +0000</pubDate><link>https://j0nah.com/i-failed-to-recreate-the-1996-space-jam-website-with-claude/</link><dc:creator>thecr0w</dc:creator><comments>https://news.ycombinator.com/item?id=46183294</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46183294</guid></item><item><title>What the heck is going on at Apple?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.cnn.com/2025/12/06/tech/apple-tim-cook-leadership-changes"&gt;https://www.cnn.com/2025/12/06/tech/apple-tim-cook-leadership-changes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46183088"&gt;https://news.ycombinator.com/item?id=46183088&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 44&lt;/p&gt;
+&lt;p&gt;# Comments: 46&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 16:54:44 +0000</pubDate><link>https://www.cnn.com/2025/12/06/tech/apple-tim-cook-leadership-changes</link><dc:creator>methuselah_in</dc:creator><comments>https://news.ycombinator.com/item?id=46183088</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46183088</guid></item><item><title>Scala 3 slowed us down?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html"&gt;https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46182202"&gt;https://news.ycombinator.com/item?id=46182202&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 178&lt;/p&gt;
+&lt;p&gt;# Comments: 107&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 15:08:17 +0000</pubDate><link>https://kmaliszewski9.github.io/scala/2025/12/07/scala3-slowdown.html</link><dc:creator>kmaliszewski</dc:creator><comments>https://news.ycombinator.com/item?id=46182202</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46182202</guid></item><item><title>Nested Learning: A new ML paradigm for continual learning</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/"&gt;https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46182031"&gt;https://news.ycombinator.com/item?id=46182031&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 77&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 14:47:02 +0000</pubDate><link>https://research.google/blog/introducing-nested-learning-a-new-ml-paradigm-for-continual-learning/</link><dc:creator>themgt</dc:creator><comments>https://news.ycombinator.com/item?id=46182031</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46182031</guid></item><item><title>Dollar-stores overcharge customers while promising low prices</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs"&gt;https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46181962"&gt;https://news.ycombinator.com/item?id=46181962&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 248&lt;/p&gt;
+&lt;p&gt;# Comments: 395&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 14:37:21 +0000</pubDate><link>https://www.theguardian.com/us-news/2025/dec/03/customers-pay-more-rising-dollar-store-costs</link><dc:creator>bookofjoe</dc:creator><comments>https://news.ycombinator.com/item?id=46181962</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46181962</guid></item><item><title>The state of Schleswig-Holstein is consistently relying on open source</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html"&gt;https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46181491"&gt;https://news.ycombinator.com/item?id=46181491&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 515&lt;/p&gt;
+&lt;p&gt;# Comments: 238&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 13:21:24 +0000</pubDate><link>https://www.heise.de/en/news/Goodbye-Microsoft-Schleswig-Holstein-relies-on-Open-Source-and-saves-millions-11105459.html</link><dc:creator>doener</dc:creator><comments>https://news.ycombinator.com/item?id=46181491</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46181491</guid></item><item><title>Over fifty new hallucinations in ICLR 2026 submissions</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://gptzero.me/news/iclr-2026/"&gt;https://gptzero.me/news/iclr-2026/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46181466"&gt;https://news.ycombinator.com/item?id=46181466&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 458&lt;/p&gt;
+&lt;p&gt;# Comments: 357&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 13:16:26 +0000</pubDate><link>https://gptzero.me/news/iclr-2026/</link><dc:creator>puttycat</dc:creator><comments>https://news.ycombinator.com/item?id=46181466</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46181466</guid></item><item><title>The Anatomy of a macOS App</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/"&gt;https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46181268"&gt;https://news.ycombinator.com/item?id=46181268&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 189&lt;/p&gt;
+&lt;p&gt;# Comments: 56&lt;/p&gt;
+</description><pubDate>Sun, 07 Dec 2025 12:31:53 +0000</pubDate><link>https://eclecticlight.co/2025/12/04/the-anatomy-of-a-macos-app/</link><dc:creator>elashri</dc:creator><comments>https://news.ycombinator.com/item?id=46181268</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46181268</guid></item></channel></rss>
