@@ -1,0 +1,101 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sat, 13 Dec 2025 00:27:34 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>OpenAI are quietly adopting skills, now available in ChatGPT and Codex CLI</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://simonwillison.net/2025/Dec/12/openai-skills/"&gt;https://simonwillison.net/2025/Dec/12/openai-skills/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46250332"&gt;https://news.ycombinator.com/item?id=46250332&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 31&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 23:30:19 +0000</pubDate><link>https://simonwillison.net/2025/Dec/12/openai-skills/</link><dc:creator>simonw</dc:creator><comments>https://news.ycombinator.com/item?id=46250332</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46250332</guid></item><item><title>50 years of proof assistants</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html"&gt;https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46250309"&gt;https://news.ycombinator.com/item?id=46250309&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 11&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 23:26:26 +0000</pubDate><link>https://lawrencecpaulson.github.io//2025/12/05/History_of_Proof_Assistants.html</link><dc:creator>baruchel</dc:creator><comments>https://news.ycombinator.com/item?id=46250309</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46250309</guid></item><item><title>Can I use HTTPS RRs?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.netmeister.org/blog/https-caniuse.html"&gt;https://www.netmeister.org/blog/https-caniuse.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46249834"&gt;https://news.ycombinator.com/item?id=46249834&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 14&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 22:34:13 +0000</pubDate><link>https://www.netmeister.org/blog/https-caniuse.html</link><dc:creator>zdw</dc:creator><comments>https://news.ycombinator.com/item?id=46249834</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46249834</guid></item><item><title>Show HN: Tiny VM sandbox in C with apps in Rust, C and Zig</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/ringtailsoftware/uvm32"&gt;https://github.com/ringtailsoftware/uvm32&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46249538"&gt;https://news.ycombinator.com/item?id=46249538&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 47&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 22:02:14 +0000</pubDate><link>https://github.com/ringtailsoftware/uvm32</link><dc:creator>trj</dc:creator><comments>https://news.ycombinator.com/item?id=46249538</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46249538</guid></item><item><title>Capsudo: Rethinking Sudo with Object Capabilities</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html"&gt;https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46249337"&gt;https://news.ycombinator.com/item?id=46249337&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 23&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 21:42:04 +0000</pubDate><link>https://ariadne.space/2025/12/12/rethinking-sudo-with-object-capabilities.html</link><dc:creator>fanf2</dc:creator><comments>https://news.ycombinator.com/item?id=46249337</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46249337</guid></item><item><title>Motion (YC W20) Is Hiring Senior Staff Front End Engineers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39"&gt;https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46248892"&gt;https://news.ycombinator.com/item?id=46248892&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 21:00:54 +0000</pubDate><link>https://jobs.ashbyhq.com/motion/715d9646-27d4-44f6-9229-61eb0380ae39</link><dc:creator>ethanyu94</dc:creator><comments>https://news.ycombinator.com/item?id=46248892</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46248892</guid></item><item><title>GNU Unifont</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://unifoundry.com/unifont/index.html"&gt;https://unifoundry.com/unifont/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46248859"&gt;https://news.ycombinator.com/item?id=46248859&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 134&lt;/p&gt;
+&lt;p&gt;# Comments: 42&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 20:57:34 +0000</pubDate><link>https://unifoundry.com/unifont/index.html</link><dc:creator>remywang</dc:creator><comments>https://news.ycombinator.com/item?id=46248859</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46248859</guid></item><item><title>macOS 26.2 enables fast AI clusters with RDMA over Thunderbolt</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt"&gt;https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46248644"&gt;https://news.ycombinator.com/item?id=46248644&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 214&lt;/p&gt;
+&lt;p&gt;# Comments: 105&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 20:41:38 +0000</pubDate><link>https://developer.apple.com/documentation/macos-release-notes/macos-26_2-release-notes#RDMA-over-Thunderbolt</link><dc:creator>guiand</dc:creator><comments>https://news.ycombinator.com/item?id=46248644</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46248644</guid></item><item><title>Security issues with electronic invoices</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://invoice.secvuln.info/"&gt;https://invoice.secvuln.info/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46248470"&gt;https://news.ycombinator.com/item?id=46248470&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 70&lt;/p&gt;
+&lt;p&gt;# Comments: 42&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 20:28:41 +0000</pubDate><link>https://invoice.secvuln.info/</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46248470</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46248470</guid></item><item><title>Rats Play DOOM</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ratsplaydoom.com/"&gt;https://ratsplaydoom.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46248323"&gt;https://news.ycombinator.com/item?id=46248323&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 146&lt;/p&gt;
+&lt;p&gt;# Comments: 60&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 20:15:58 +0000</pubDate><link>https://ratsplaydoom.com/</link><dc:creator>ano-ther</dc:creator><comments>https://news.ycombinator.com/item?id=46248323</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46248323</guid></item><item><title>Home Depot GitHub token exposed for a year, granted access to internal systems</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/"&gt;https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46247000"&gt;https://news.ycombinator.com/item?id=46247000&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 167&lt;/p&gt;
+&lt;p&gt;# Comments: 101&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 18:23:21 +0000</pubDate><link>https://techcrunch.com/2025/12/12/home-depot-exposed-access-to-internal-systems-for-a-year-says-researcher/</link><dc:creator>kernelrocks</dc:creator><comments>https://news.ycombinator.com/item?id=46247000</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46247000</guid></item><item><title>Async DNS</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://flak.tedunangst.com/post/async-dns"&gt;https://flak.tedunangst.com/post/async-dns&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46245923"&gt;https://news.ycombinator.com/item?id=46245923&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 95&lt;/p&gt;
+&lt;p&gt;# Comments: 30&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 16:52:41 +0000</pubDate><link>https://flak.tedunangst.com/post/async-dns</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46245923</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46245923</guid></item><item><title>Using secondary school maths to demystify AI</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/"&gt;https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46245731"&gt;https://news.ycombinator.com/item?id=46245731&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 92&lt;/p&gt;
+&lt;p&gt;# Comments: 203&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 16:32:43 +0000</pubDate><link>https://www.raspberrypi.org/blog/secondary-school-maths-showing-that-ai-systems-dont-think/</link><dc:creator>zdw</dc:creator><comments>https://news.ycombinator.com/item?id=46245731</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46245731</guid></item><item><title>String theory inspires a brilliant, baffling new math proof</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/"&gt;https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46245622"&gt;https://news.ycombinator.com/item?id=46245622&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 104&lt;/p&gt;
+&lt;p&gt;# Comments: 84&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 16:23:10 +0000</pubDate><link>https://www.quantamagazine.org/string-theory-inspires-a-brilliant-baffling-new-math-proof-20251212/</link><dc:creator>ArmageddonIt</dc:creator><comments>https://news.ycombinator.com/item?id=46245622</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46245622</guid></item><item><title>I couldn't find a logging library that worked for my library, so I made one</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study"&gt;https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46245211"&gt;https://news.ycombinator.com/item?id=46245211&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 8&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 15:46:44 +0000</pubDate><link>https://hackers.pub/@hongminhee/2025/logtape-fedify-case-study</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46245211</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46245211</guid></item><item><title>CM0 – A new Raspberry Pi you can't buy</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy"&gt;https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46244922"&gt;https://news.ycombinator.com/item?id=46244922&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 159&lt;/p&gt;
+&lt;p&gt;# Comments: 38&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 15:19:19 +0000</pubDate><link>https://www.jeffgeerling.com/blog/2025/cm0-new-raspberry-pi-you-cant-buy</link><dc:creator>speckx</dc:creator><comments>https://news.ycombinator.com/item?id=46244922</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46244922</guid></item><item><title>SQLite JSON at full index speed using generated columns</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing"&gt;https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46243904"&gt;https://news.ycombinator.com/item?id=46243904&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 300&lt;/p&gt;
+&lt;p&gt;# Comments: 94&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 13:25:19 +0000</pubDate><link>https://www.dbpro.app/blog/sqlite-json-virtual-columns-indexing</link><dc:creator>upmostly</dc:creator><comments>https://news.ycombinator.com/item?id=46243904</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46243904</guid></item><item><title>Fedora: Open-source repository for long-term digital preservation</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://fedorarepository.org/"&gt;https://fedorarepository.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46243883"&gt;https://news.ycombinator.com/item?id=46243883&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 96&lt;/p&gt;
+&lt;p&gt;# Comments: 45&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 13:23:31 +0000</pubDate><link>https://fedorarepository.org/</link><dc:creator>cernocky</dc:creator><comments>https://news.ycombinator.com/item?id=46243883</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46243883</guid></item><item><title>Sick of smart TVs? Here are your best options</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/"&gt;https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46243655"&gt;https://news.ycombinator.com/item?id=46243655&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 71&lt;/p&gt;
+&lt;p&gt;# Comments: 91&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 12:51:40 +0000</pubDate><link>https://arstechnica.com/gadgets/2025/12/the-ars-technica-guide-to-dumb-tvs/</link><dc:creator>fleahunter</dc:creator><comments>https://news.ycombinator.com/item?id=46243655</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46243655</guid></item><item><title>Building small Docker images faster</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://sgt.hootr.club/blog/docker-protips/"&gt;https://sgt.hootr.club/blog/docker-protips/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46242700"&gt;https://news.ycombinator.com/item?id=46242700&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 12&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Fri, 12 Dec 2025 10:23:23 +0000</pubDate><link>https://sgt.hootr.club/blog/docker-protips/</link><dc:creator>steinuil</dc:creator><comments>https://news.ycombinator.com/item?id=46242700</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46242700</guid></item></channel></rss>
