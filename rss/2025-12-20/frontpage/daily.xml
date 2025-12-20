@@ -1,0 +1,103 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sat, 20 Dec 2025 00:22:02 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>We ran Anthropic’s interviews through structured LLM analysis</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.playbookatlas.com/research/ai-adoption-explorer"&gt;https://www.playbookatlas.com/research/ai-adoption-explorer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46331877"&gt;https://news.ycombinator.com/item?id=46331877&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 26&lt;/p&gt;
+&lt;p&gt;# Comments: 24&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 22:48:24 +0000</pubDate><link>https://www.playbookatlas.com/research/ai-adoption-explorer</link><dc:creator>jp8585</dc:creator><comments>https://news.ycombinator.com/item?id=46331877</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46331877</guid></item><item><title>CSS Grid Lanes</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://webkit.org/blog/17660/introducing-css-grid-lanes/"&gt;https://webkit.org/blog/17660/introducing-css-grid-lanes/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46331586"&gt;https://news.ycombinator.com/item?id=46331586&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 170&lt;/p&gt;
+&lt;p&gt;# Comments: 49&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 22:13:06 +0000</pubDate><link>https://webkit.org/blog/17660/introducing-css-grid-lanes/</link><dc:creator>frizlab</dc:creator><comments>https://news.ycombinator.com/item?id=46331586</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46331586</guid></item><item><title>Buteyko Method</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://en.wikipedia.org/wiki/Buteyko_method"&gt;https://en.wikipedia.org/wiki/Buteyko_method&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46331379"&gt;https://news.ycombinator.com/item?id=46331379&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 24&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 21:52:07 +0000</pubDate><link>https://en.wikipedia.org/wiki/Buteyko_method</link><dc:creator>rzk</dc:creator><comments>https://news.ycombinator.com/item?id=46331379</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46331379</guid></item><item><title>A Better Zip Bomb</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.bamsoftware.com/hacks/zipbomb/"&gt;https://www.bamsoftware.com/hacks/zipbomb/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46331216"&gt;https://news.ycombinator.com/item?id=46331216&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 61&lt;/p&gt;
+&lt;p&gt;# Comments: 20&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 21:34:10 +0000</pubDate><link>https://www.bamsoftware.com/hacks/zipbomb/</link><dc:creator>kekqqq</dc:creator><comments>https://news.ycombinator.com/item?id=46331216</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46331216</guid></item><item><title>LLM Year in Review</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://karpathy.bearblog.dev/year-in-review-2025/"&gt;https://karpathy.bearblog.dev/year-in-review-2025/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46330726"&gt;https://news.ycombinator.com/item?id=46330726&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 28&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 20:49:20 +0000</pubDate><link>https://karpathy.bearblog.dev/year-in-review-2025/</link><dc:creator>swyx</dc:creator><comments>https://news.ycombinator.com/item?id=46330726</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46330726</guid></item><item><title>The scariest boot loader code</title><description>
+&lt;p&gt;Article URL: &lt;a href="http://miod.online.fr/software/openbsd/stories/boot_hppa.html"&gt;http://miod.online.fr/software/openbsd/stories/boot_hppa.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46330522"&gt;https://news.ycombinator.com/item?id=46330522&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 18&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 20:29:53 +0000</pubDate><link>http://miod.online.fr/software/openbsd/stories/boot_hppa.html</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46330522</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46330522</guid></item><item><title>Wall Street Ruined the Roomba and Then Blamed Lina Khan</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.thebignewsletter.com/p/how-wall-street-ruined-the-roomba"&gt;https://www.thebignewsletter.com/p/how-wall-street-ruined-the-roomba&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46329536"&gt;https://news.ycombinator.com/item?id=46329536&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 184&lt;/p&gt;
+&lt;p&gt;# Comments: 135&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 18:59:40 +0000</pubDate><link>https://www.thebignewsletter.com/p/how-wall-street-ruined-the-roomba</link><dc:creator>connor11528</dc:creator><comments>https://news.ycombinator.com/item?id=46329536</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46329536</guid></item><item><title>TP-Link Tapo C200: Hardcoded Keys, Buffer Overflows and Privacy</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/"&gt;https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46329038"&gt;https://news.ycombinator.com/item?id=46329038&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 198&lt;/p&gt;
+&lt;p&gt;# Comments: 56&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 18:19:32 +0000</pubDate><link>https://www.evilsocket.net/2025/12/18/TP-Link-Tapo-C200-Hardcoded-Keys-Buffer-Overflows-and-Privacy-in-the-Era-of-AI-Assisted-Reverse-Engineering/</link><dc:creator>sibellavia</dc:creator><comments>https://news.ycombinator.com/item?id=46329038</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46329038</guid></item><item><title>Reverse Engineering US Airline's PNR System and Accessing All Reservations</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability"&gt;https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46328992"&gt;https://news.ycombinator.com/item?id=46328992&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 80&lt;/p&gt;
+&lt;p&gt;# Comments: 39&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 18:15:17 +0000</pubDate><link>https://alexschapiro.com/security/vulnerability/2025/11/20/avelo-airline-reservation-api-vulnerability</link><dc:creator>bearsyankees</dc:creator><comments>https://news.ycombinator.com/item?id=46328992</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46328992</guid></item><item><title>Performance Hints (2023)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://abseil.io/fast/hints.html"&gt;https://abseil.io/fast/hints.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46328274"&gt;https://news.ycombinator.com/item?id=46328274&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 41&lt;/p&gt;
+&lt;p&gt;# Comments: 23&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 17:14:42 +0000</pubDate><link>https://abseil.io/fast/hints.html</link><dc:creator>danlark1</dc:creator><comments>https://news.ycombinator.com/item?id=46328274</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46328274</guid></item><item><title>Graphite is joining Cursor</title><description>
+&lt;p&gt;Graphite's announcement: &lt;a href="https://graphite.com/blog/graphite-joins-cursor" rel="nofollow"&gt;https://graphite.com/blog/graphite-joins-cursor&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46327206"&gt;https://news.ycombinator.com/item?id=46327206&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 157&lt;/p&gt;
+&lt;p&gt;# Comments: 184&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 15:57:01 +0000</pubDate><link>https://cursor.com/blog/graphite</link><dc:creator>fosterfriends</dc:creator><comments>https://news.ycombinator.com/item?id=46327206</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46327206</guid></item><item><title>Believe the Checkbook</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://robertgreiner.com/believe-the-checkbook/"&gt;https://robertgreiner.com/believe-the-checkbook/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46327133"&gt;https://news.ycombinator.com/item?id=46327133&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 109&lt;/p&gt;
+&lt;p&gt;# Comments: 47&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 15:51:30 +0000</pubDate><link>https://robertgreiner.com/believe-the-checkbook/</link><dc:creator>rg81</dc:creator><comments>https://news.ycombinator.com/item?id=46327133</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46327133</guid></item><item><title>Garage – An S3 object store so reliable you can run it outside datacenters</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://garagehq.deuxfleurs.fr/"&gt;https://garagehq.deuxfleurs.fr/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46326984"&gt;https://news.ycombinator.com/item?id=46326984&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 425&lt;/p&gt;
+&lt;p&gt;# Comments: 89&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 15:40:03 +0000</pubDate><link>https://garagehq.deuxfleurs.fr/</link><dc:creator>ibobev</dc:creator><comments>https://news.ycombinator.com/item?id=46326984</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46326984</guid></item><item><title>The FreeBSD Foundation's Laptop Support and Usability Project</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/FreeBSDFoundation/proj-laptop"&gt;https://github.com/FreeBSDFoundation/proj-laptop&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46326519"&gt;https://news.ycombinator.com/item?id=46326519&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 127&lt;/p&gt;
+&lt;p&gt;# Comments: 42&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 14:56:05 +0000</pubDate><link>https://github.com/FreeBSDFoundation/proj-laptop</link><dc:creator>mikece</dc:creator><comments>https://news.ycombinator.com/item?id=46326519</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46326519</guid></item><item><title>8-bit Boléro</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://linusakesson.net/music/bolero/index.php"&gt;https://linusakesson.net/music/bolero/index.php&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46324702"&gt;https://news.ycombinator.com/item?id=46324702&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 151&lt;/p&gt;
+&lt;p&gt;# Comments: 27&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 11:38:54 +0000</pubDate><link>https://linusakesson.net/music/bolero/index.php</link><dc:creator>Aissen</dc:creator><comments>https://news.ycombinator.com/item?id=46324702</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46324702</guid></item><item><title>GotaTun – Mullvad's WireGuard Implementation in Rust</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn"&gt;https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46324543"&gt;https://news.ycombinator.com/item?id=46324543&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 525&lt;/p&gt;
+&lt;p&gt;# Comments: 110&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 11:16:23 +0000</pubDate><link>https://mullvad.net/en/blog/announcing-gotatun-the-future-of-wireguard-at-mullvad-vpn</link><dc:creator>km</dc:creator><comments>https://news.ycombinator.com/item?id=46324543</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46324543</guid></item><item><title>Amazon will allow ePub and PDF downloads for DRM-free eBooks</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US"&gt;https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46324078"&gt;https://news.ycombinator.com/item?id=46324078&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 518&lt;/p&gt;
+&lt;p&gt;# Comments: 274&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 10:03:38 +0000</pubDate><link>https://www.kdpcommunity.com/s/article/New-eBook-Download-Options-for-Readers-Coming-in-2026?language=en_US</link><dc:creator>captn3m0</dc:creator><comments>https://news.ycombinator.com/item?id=46324078</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46324078</guid></item><item><title>Rust's Block Pattern</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://notgull.net/block-pattern/"&gt;https://notgull.net/block-pattern/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46322391"&gt;https://news.ycombinator.com/item?id=46322391&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 102&lt;/p&gt;
+&lt;p&gt;# Comments: 39&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 04:56:13 +0000</pubDate><link>https://notgull.net/block-pattern/</link><dc:creator>zdw</dc:creator><comments>https://news.ycombinator.com/item?id=46322391</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46322391</guid></item><item><title>Qwen-Image-Layered: transparency and layer aware open diffusion model</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://huggingface.co/papers/2512.15603"&gt;https://huggingface.co/papers/2512.15603&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46321972"&gt;https://news.ycombinator.com/item?id=46321972&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 50&lt;/p&gt;
+&lt;p&gt;# Comments: 6&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 03:24:26 +0000</pubDate><link>https://huggingface.co/papers/2512.15603</link><dc:creator>dvrp</dc:creator><comments>https://news.ycombinator.com/item?id=46321972</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46321972</guid></item><item><title>Brown/MIT shooting suspect found dead, officials say</title><description>
+&lt;p&gt;&lt;a href="https://archive.md/ShO4E" rel="nofollow"&gt;https://archive.md/ShO4E&lt;/a&gt;&lt;p&gt;&lt;a href="https://www.nbcnews.com/news/us-news/live-blog/brown-university-suspect-shooting-death-mit-professor-live-updates-rcna249937" rel="nofollow"&gt;https://www.nbcnews.com/news/us-news/live-blog/brown-univers...&lt;/a&gt;&lt;p&gt;&lt;a href="https://www.masslive.com/news/2025/12/were-catching-serial-killers-the-controversial-tech-behind-solving-brown-university-shooting.html" rel="nofollow"&gt;https://www.masslive.com/news/2025/12/were-catching-serial-k...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46321947"&gt;https://news.ycombinator.com/item?id=46321947&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 73&lt;/p&gt;
+&lt;p&gt;# Comments: 77&lt;/p&gt;
+</description><pubDate>Fri, 19 Dec 2025 03:19:59 +0000</pubDate><link>https://www.washingtonpost.com/nation/2025/12/18/brown-university-shooting-person-of-interest/</link><dc:creator>anigbrowl</dc:creator><comments>https://news.ycombinator.com/item?id=46321947</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46321947</guid></item></channel></rss>
