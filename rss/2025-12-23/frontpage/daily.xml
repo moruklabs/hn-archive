@@ -1,0 +1,103 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Tue, 23 Dec 2025 00:22:50 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Satellites reveal heat leaking from largest US cryptocurrency mining center</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center"&gt;https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46360465"&gt;https://news.ycombinator.com/item?id=46360465&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 10&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 23:23:12 +0000</pubDate><link>https://www.space.com/space-exploration/satellites/satellites-reveal-heat-leaking-from-largest-us-cryptocurrency-mining-center</link><dc:creator>troglo-byte</dc:creator><comments>https://news.ycombinator.com/item?id=46360465</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46360465</guid></item><item><title>Ask HN: Why isn't there competition to LinkedIn yet?</title><description>
+&lt;p&gt;It seems there are many solutions for social media these days, but only one LinkedIn. Why are we still putting up with it? I’m surprised there’s not been a contender yet, or maybe I am not aware and perhaps that could be the rub; the challenge of acquiring enough traffic for the network effect to take hold.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46360146"&gt;https://news.ycombinator.com/item?id=46360146&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 38&lt;/p&gt;
+&lt;p&gt;# Comments: 34&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 22:50:53 +0000</pubDate><link>https://news.ycombinator.com/item?id=46360146</link><dc:creator>antfie</dc:creator><comments>https://news.ycombinator.com/item?id=46360146</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46360146</guid></item><item><title>There Is No Future for Online Safety Without Privacy and Security</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://itsfoss.com/news/alexander-linton-interview/"&gt;https://itsfoss.com/news/alexander-linton-interview/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46360067"&gt;https://news.ycombinator.com/item?id=46360067&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 26&lt;/p&gt;
+&lt;p&gt;# Comments: 11&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 22:43:22 +0000</pubDate><link>https://itsfoss.com/news/alexander-linton-interview/</link><dc:creator>abdelhousni</dc:creator><comments>https://news.ycombinator.com/item?id=46360067</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46360067</guid></item><item><title>NPM Package with 56K Downloads Caught Stealing WhatsApp Messages</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages"&gt;https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46359996"&gt;https://news.ycombinator.com/item?id=46359996&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 174&lt;/p&gt;
+&lt;p&gt;# Comments: 101&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 22:35:45 +0000</pubDate><link>https://www.koi.ai/blog/npm-package-with-56k-downloads-malware-stealing-whatsapp-messages</link><dc:creator>sohkamyung</dc:creator><comments>https://news.ycombinator.com/item?id=46359996</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46359996</guid></item><item><title>Tc – Theodore Calvin's language-agnostic testing framework</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/ahoward/tc"&gt;https://github.com/ahoward/tc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46359683"&gt;https://news.ycombinator.com/item?id=46359683&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 9&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 22:03:07 +0000</pubDate><link>https://github.com/ahoward/tc</link><dc:creator>mooreds</dc:creator><comments>https://news.ycombinator.com/item?id=46359683</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46359683</guid></item><item><title>It's Always TCP_NODELAY</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://brooker.co.za/blog/2024/05/09/nagle.html"&gt;https://brooker.co.za/blog/2024/05/09/nagle.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46359120"&gt;https://news.ycombinator.com/item?id=46359120&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 86&lt;/p&gt;
+&lt;p&gt;# Comments: 21&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 21:09:59 +0000</pubDate><link>https://brooker.co.za/blog/2024/05/09/nagle.html</link><dc:creator>eieio</dc:creator><comments>https://news.ycombinator.com/item?id=46359120</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46359120</guid></item><item><title>In Pursuit of Clancy Sigal (2021)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://yalereview.org/article/in-pursuit-of-clancy-sigal"&gt;https://yalereview.org/article/in-pursuit-of-clancy-sigal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46358538"&gt;https://news.ycombinator.com/item?id=46358538&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 9&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 20:21:12 +0000</pubDate><link>https://yalereview.org/article/in-pursuit-of-clancy-sigal</link><dc:creator>dang</dc:creator><comments>https://news.ycombinator.com/item?id=46358538</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46358538</guid></item><item><title>Ultrasound Cancer Treatment: Sound Waves Fight Tumors</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://spectrum.ieee.org/ultrasound-cancer-treatment"&gt;https://spectrum.ieee.org/ultrasound-cancer-treatment&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46357945"&gt;https://news.ycombinator.com/item?id=46357945&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 142&lt;/p&gt;
+&lt;p&gt;# Comments: 40&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 19:37:34 +0000</pubDate><link>https://spectrum.ieee.org/ultrasound-cancer-treatment</link><dc:creator>rbanffy</dc:creator><comments>https://news.ycombinator.com/item?id=46357945</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46357945</guid></item><item><title>US blocks all offshore wind construction, says reason is classified</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/"&gt;https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46357881"&gt;https://news.ycombinator.com/item?id=46357881&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 391&lt;/p&gt;
+&lt;p&gt;# Comments: 317&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 19:31:11 +0000</pubDate><link>https://arstechnica.com/science/2025/12/us-government-finds-new-excuse-to-stop-construction-of-offshore-wind/</link><dc:creator>rbanffy</dc:creator><comments>https://news.ycombinator.com/item?id=46357881</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46357881</guid></item><item><title>The Garbage Collection Handbook</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://gchandbook.org/index.html"&gt;https://gchandbook.org/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46357870"&gt;https://news.ycombinator.com/item?id=46357870&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 121&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 19:30:18 +0000</pubDate><link>https://gchandbook.org/index.html</link><dc:creator>andsoitis</dc:creator><comments>https://news.ycombinator.com/item?id=46357870</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46357870</guid></item><item><title>The Illustrated Transformer</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jalammar.github.io/illustrated-transformer/"&gt;https://jalammar.github.io/illustrated-transformer/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46357675"&gt;https://news.ycombinator.com/item?id=46357675&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 212&lt;/p&gt;
+&lt;p&gt;# Comments: 47&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 19:15:56 +0000</pubDate><link>https://jalammar.github.io/illustrated-transformer/</link><dc:creator>auraham</dc:creator><comments>https://news.ycombinator.com/item?id=46357675</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46357675</guid></item><item><title>Universal Reasoning Model (53.8% pass 1 ARC1 and 16.0% ARC 2)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arxiv.org/abs/2512.14693"&gt;https://arxiv.org/abs/2512.14693&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46357458"&gt;https://news.ycombinator.com/item?id=46357458&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 48&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 18:59:22 +0000</pubDate><link>https://arxiv.org/abs/2512.14693</link><dc:creator>marojejian</dc:creator><comments>https://news.ycombinator.com/item?id=46357458</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46357458</guid></item><item><title>Things I learnt about passkeys when building passkeybot</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://enzom.dev/b/passkeys/"&gt;https://enzom.dev/b/passkeys/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46357451"&gt;https://news.ycombinator.com/item?id=46357451&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 75&lt;/p&gt;
+&lt;p&gt;# Comments: 32&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 18:58:45 +0000</pubDate><link>https://enzom.dev/b/passkeys/</link><dc:creator>emadda</dc:creator><comments>https://news.ycombinator.com/item?id=46357451</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46357451</guid></item><item><title>GLM-4.7: Advancing the Coding Capability</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://z.ai/blog/glm-4.7"&gt;https://z.ai/blog/glm-4.7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46357287"&gt;https://news.ycombinator.com/item?id=46357287&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 209&lt;/p&gt;
+&lt;p&gt;# Comments: 77&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 18:46:32 +0000</pubDate><link>https://z.ai/blog/glm-4.7</link><dc:creator>pretext</dc:creator><comments>https://news.ycombinator.com/item?id=46357287</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46357287</guid></item><item><title>Henge Finder</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://hengefinder.rcdis.co/#learn"&gt;https://hengefinder.rcdis.co/#learn&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46356320"&gt;https://news.ycombinator.com/item?id=46356320&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 45&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 17:32:18 +0000</pubDate><link>https://hengefinder.rcdis.co/#learn</link><dc:creator>recursecenter</dc:creator><comments>https://news.ycombinator.com/item?id=46356320</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46356320</guid></item><item><title>NIST was 5 μs off UTC after last week's power cut</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut"&gt;https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46355949"&gt;https://news.ycombinator.com/item?id=46355949&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 161&lt;/p&gt;
+&lt;p&gt;# Comments: 85&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 17:01:28 +0000</pubDate><link>https://www.jeffgeerling.com/blog/2025/nist-was-5-μs-utc-after-last-weeks-power-cut</link><dc:creator>jtokoph</dc:creator><comments>https://news.ycombinator.com/item?id=46355949</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46355949</guid></item><item><title>Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.useparallel.com/uplane1/careers"&gt;https://www.useparallel.com/uplane1/careers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46355932"&gt;https://news.ycombinator.com/item?id=46355932&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 17:00:34 +0000</pubDate><link>https://www.useparallel.com/uplane1/careers</link><dc:creator>MarvinStarter</dc:creator><comments>https://news.ycombinator.com/item?id=46355932</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46355932</guid></item><item><title>Jimmy Lai Is a Martyr for Freedom</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/"&gt;https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46355888"&gt;https://news.ycombinator.com/item?id=46355888&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 284&lt;/p&gt;
+&lt;p&gt;# Comments: 133&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 16:56:35 +0000</pubDate><link>https://reason.com/2025/12/19/jimmy-lai-is-a-martyr-for-freedom/</link><dc:creator>mooreds</dc:creator><comments>https://news.ycombinator.com/item?id=46355888</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46355888</guid></item><item><title>Flock Exposed Its AI-Powered Cameras to the Internet. We Tracked Ourselves</title><description>
+&lt;p&gt;Archive Link: &lt;a href="https://archive.ph/IWMKe" rel="nofollow"&gt;https://archive.ph/IWMKe&lt;/a&gt;&lt;p&gt;Also: &lt;a href="https://www.youtube.com/watch?v=vU1-uiUlHTo" rel="nofollow"&gt;https://www.youtube.com/watch?v=vU1-uiUlHTo&lt;/a&gt; – &lt;i&gt;This Flock Camera Leak is like Netflix For Stalkers&lt;/i&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46355548"&gt;https://news.ycombinator.com/item?id=46355548&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 290&lt;/p&gt;
+&lt;p&gt;# Comments: 299&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 16:31:40 +0000</pubDate><link>https://www.404media.co/flock-exposed-its-ai-powered-cameras-to-the-internet-we-tracked-ourselves/</link><dc:creator>chaps</dc:creator><comments>https://news.ycombinator.com/item?id=46355548</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46355548</guid></item><item><title>Claude Code gets native LSP support</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md"&gt;https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46355165"&gt;https://news.ycombinator.com/item?id=46355165&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 272&lt;/p&gt;
+&lt;p&gt;# Comments: 149&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 15:59:01 +0000</pubDate><link>https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md</link><dc:creator>JamesSwift</dc:creator><comments>https://news.ycombinator.com/item?id=46355165</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46355165</guid></item></channel></rss>
