@@ -19,6 +19,232 @@ MAX_RETRIES = 3
 BACKOFF_FACTOR = 2
 REQUEST_TIMEOUT = 10  # seconds
 
+# Base URL for our archive - can be configured based on deployment
+BASE_ARCHIVE_URL = 'https://moruklabs.github.io/hn-archive'
+
+def transform_rss_links(content, filepath):
+    """Transform RSS content to use our own archive links instead of external ones."""
+    try:
+        root = xml.etree.ElementTree.fromstring(content)
+    except xml.etree.ElementTree.ParseError:
+        return content  # Return original if can't parse
+    
+    # Get the date and category from filepath
+    # filepath format: 2025-07-27/frontpage/daily.xml
+    parts = filepath.replace('\\', '/').split('/')
+    if len(parts) >= 2:
+        date_part = parts[0]
+        category_part = parts[1]
+        
+        # Update channel information to point to our archive
+        channel = root.find('channel')
+        if channel is not None:
+            # Update main channel link to our archive
+            link_elem = channel.find('link')
+            if link_elem is not None:
+                link_elem.text = f"{BASE_ARCHIVE_URL}/rss/{date_part}/{category_part}/"
+            
+            # Update self reference
+            atom_ns = {'atom': 'http://www.w3.org/2005/Atom'}
+            self_link = channel.find('atom:link[@rel="self"]', atom_ns)
+            if self_link is not None:
+                self_link.set('href', f"{BASE_ARCHIVE_URL}/rss/{date_part}/{category_part}/daily.xml")
+            
+            # Update docs to point to our project
+            docs_elem = channel.find('docs')
+            if docs_elem is not None:
+                docs_elem.text = f"{BASE_ARCHIVE_URL}/"
+            
+            # Process each item
+            for item in channel.findall('item'):
+                # Transform HN comment links to point to our archive
+                comments_elem = item.find('comments')
+                if comments_elem is not None and 'news.ycombinator.com/item?id=' in comments_elem.text:
+                    # Keep the HN comment link as is for now, but we could archive these too
+                    pass
+                
+                # Transform GUID if it's a HN link 
+                guid_elem = item.find('guid')
+                if guid_elem is not None and 'news.ycombinator.com/item?id=' in guid_elem.text:
+                    # Keep original GUID but mark it as not a permalink
+                    guid_elem.set('isPermaLink', 'false')
+    
+    # Return prettified XML
+    return format_xml_content(root)
+
+def format_xml_content(root):
+    """Format XML content with proper indentation for readability."""
+    # Convert to string with unicode encoding
+    rough_string = xml.etree.ElementTree.tostring(root, encoding='unicode')
+    
+    # Basic formatting - add newlines after major elements
+    formatted = rough_string.replace('><', '>\n<')
+    
+    # Add proper RSS header
+    if not formatted.startswith('<?xml'):
+        formatted = '<?xml version="1.0" encoding="UTF-8"?>\n' + formatted
+    
+    return formatted
+
+def generate_master_feeds():
+    """Generate master RSS feeds that aggregate content across dates."""
+    print("[INFO] Generating master RSS feeds...")
+    
+    categories = ['frontpage', 'bestcomments']
+    
+    for category in categories:
+        generate_master_feed_for_category(category)
+
+def generate_master_feed_for_category(category):
+    """Generate a master RSS feed for a specific category."""
+    import os
+    import glob
+    from datetime import datetime, timezone
+    
+    # Find all RSS files for this category
+    pattern = os.path.join(CAPTURES_DIR, '*', category, 'daily.xml')
+    rss_files = sorted(glob.glob(pattern), reverse=True)  # Most recent first
+    
+    if not rss_files:
+        print(f"[INFO] No RSS files found for category: {category}")
+        return
+    
+    # Limit to last 30 days to keep feed manageable
+    rss_files = rss_files[:30]
+    
+    # Create master RSS content as string to avoid namespace issues
+    rss_header = '''<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>HN Archive: {category_title}</title>
+<link>{base_url}/</link>
+<description>Archived Hacker News {category} feed - aggregated historical content</description>
+<generator>hn-archive v1.0</generator>
+<lastBuildDate>{build_date}</lastBuildDate>
+<atom:link href="{base_url}/rss/{category}.xml" rel="self" type="application/rss+xml" />
+'''.format(
+        category_title=category.title(),
+        category=category,
+        base_url=BASE_ARCHIVE_URL,
+        build_date=datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S +0000')
+    )
+    
+    # Collect items from all RSS files
+    all_items = []
+    
+    for rss_file in rss_files:
+        try:
+            file_root = xml.etree.ElementTree.parse(rss_file).getroot()
+            file_channel = file_root.find('channel')
+            if file_channel is not None:
+                items = file_channel.findall('item')
+                
+                # Add date context and convert to string
+                date_part = os.path.basename(os.path.dirname(os.path.dirname(rss_file)))
+                for item in items:
+                    # Convert item to string and add date prefix to title
+                    item_xml = xml.etree.ElementTree.tostring(item, encoding='unicode')
+                    
+                    # Add date prefix to title
+                    if '<title>' in item_xml:
+                        item_xml = item_xml.replace('<title>', f'<title>[{date_part}] ', 1)
+                    
+                    all_items.append((item, item_xml, date_part))
+                    
+        except Exception as e:
+            print(f"[WARN] Failed to process {rss_file}: {e}")
+    
+    # Sort items by publication date (most recent first)
+    def get_pub_date(item_tuple):
+        item, _, _ = item_tuple
+        pub_date_elem = item.find('pubDate')
+        if pub_date_elem is not None:
+            try:
+                from email.utils import parsedate_to_datetime
+                return parsedate_to_datetime(pub_date_elem.text)
+            except Exception:
+                pass
+        return datetime.min.replace(tzinfo=timezone.utc)
+    
+    all_items.sort(key=get_pub_date, reverse=True)
+    
+    # Limit to most recent 100 items to keep feed manageable
+    all_items = all_items[:100]
+    
+    # Build complete RSS content
+    rss_content = rss_header
+    
+    for _, item_xml, _ in all_items:
+        rss_content += item_xml + '\n'
+    
+    rss_content += '''</channel>
+</rss>'''
+    
+    # Save master feed
+    master_filepath = os.path.join(CAPTURES_DIR, f'{category}.xml')
+    os.makedirs(os.path.dirname(master_filepath), exist_ok=True)
+    
+    with open(master_filepath, 'w', encoding='utf-8') as f:
+        f.write(rss_content)
+    
+    print(f"[INFO] Generated master feed: {master_filepath} with {len(all_items)} items")
+
+def generate_index_file():
+    """Generate an index.html file that lists available RSS feeds."""
+    html_content = """<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacker News Archive RSS Feeds</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .feed-list { list-style: none; padding: 0; }
+        .feed-item { margin: 10px 0; padding: 10px; border: 1px solid #ddd; border-radius: 5px; }
+        .feed-link { text-decoration: none; color: #0066cc; font-weight: bold; }
+        .feed-desc { color: #666; margin-top: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Hacker News Archive RSS Feeds</h1>
+    <p>This archive contains historical Hacker News RSS feeds, processed and formatted for RSS reader consumption.</p>
+    
+    <h2>Master Feeds (Recommended)</h2>
+    <ul class="feed-list">
+        <li class="feed-item">
+            <a href="frontpage.xml" class="feed-link">Front Page Stories</a>
+            <div class="feed-desc">Aggregated front page stories from the last 30 days</div>
+        </li>
+        <li class="feed-item">
+            <a href="bestcomments.xml" class="feed-link">Best Comments</a>
+            <div class="feed-desc">Aggregated best comments from the last 30 days</div>
+        </li>
+    </ul>
+    
+    <h2>Daily Archives</h2>
+    <p>Individual daily feeds are organized by date in the <code>rss/YYYY-MM-DD/</code> directories.</p>
+    
+    <h2>About</h2>
+    <p>This archive fetches RSS feeds from <a href="https://hnrss.org">hnrss.org</a> and processes them to:</p>
+    <ul>
+        <li>Format content for better RSS reader compatibility</li>
+        <li>Use archive-relative links where appropriate</li>
+        <li>Provide aggregated master feeds for easier consumption</li>
+        <li>Maintain historical records of Hacker News content</li>
+    </ul>
+    
+    <footer style="margin-top: 40px; padding-top: 20px; border-top: 1px solid #ddd; color: #666;">
+        <p>Generated by <a href="https://github.com/moruklabs/hn-archive">hn-archive</a></p>
+    </footer>
+</body>
+</html>"""
+    
+    index_path = os.path.join(CAPTURES_DIR, 'index.html')
+    with open(index_path, 'w', encoding='utf-8') as f:
+        f.write(html_content)
+    
+    print(f"[INFO] Generated index file: {index_path}")
+
 def is_safe_path(base_dir, path):
     base_dir = os.path.realpath(base_dir)
     path = os.path.realpath(path)
@@ -143,11 +369,13 @@ def process_language_targets(language_targets):
                 print(f"[ERROR] Invalid XML content for {url}")
                 language_failures.append({"url": url, "filepath": filepath, "error": "invalid XML"})
                 continue
-            ## minify the xml
-            content = xml.etree.ElementTree.fromstring(content)
-            content = xml.etree.ElementTree.tostring(content, encoding='utf-8').decode('utf-8')
-            save_content(os.path.dirname(filepath), os.path.basename(filepath), content)
-            print(f"[INFO] Saved content for {url} to {filepath}")
+            
+            ## Transform RSS content to use our own links and format properly
+            relative_path = os.path.relpath(filepath, CAPTURES_DIR)
+            transformed_content = transform_rss_links(content, relative_path)
+            
+            save_content(os.path.dirname(filepath), os.path.basename(filepath), transformed_content)
+            print(f"[INFO] Saved and transformed content for {url} to {filepath}")
         else:
             print(f"[ERROR] Failed to fetch content for {url}")
             language_failures.append({"url": url, "filepath": filepath, "error": "fetch failed"})
@@ -267,6 +495,11 @@ def main():
         msg_lines = [f"*Capture Failures* ({datetime.now(timezone.utc).isoformat()} UTC):"]
         for f in failures:
             msg_lines.append(f"- `{f.get('url', f.get('language', 'unknown'))}` for `{f.get('filepath', 'unknown')}`: {f['error']}")
+
+    # Generate master feeds and index after processing
+    if not args.dry_run:
+        generate_master_feeds()
+        generate_index_file()
 
     print("[INFO] Script finished.")
 
