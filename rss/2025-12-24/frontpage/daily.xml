@@ -1,0 +1,102 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Wed, 24 Dec 2025 00:28:02 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Is Northern Virginia Still the Least Reliable AWS Region?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://statusgator.com/blog/aws-least-reliable-region-in-2025/"&gt;https://statusgator.com/blog/aws-least-reliable-region-in-2025/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46370592"&gt;https://news.ycombinator.com/item?id=46370592&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 21&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 23:12:03 +0000</pubDate><link>https://statusgator.com/blog/aws-least-reliable-region-in-2025/</link><dc:creator>colinbartlett</dc:creator><comments>https://news.ycombinator.com/item?id=46370592</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46370592</guid></item><item><title>Microspeak: North Star – The Old New Thing (2015)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861"&gt;https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46370180"&gt;https://news.ycombinator.com/item?id=46370180&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 14&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 22:23:49 +0000</pubDate><link>https://devblogs.microsoft.com/oldnewthing/20151103-00/?p=91861</link><dc:creator>rbanffy</dc:creator><comments>https://news.ycombinator.com/item?id=46370180</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46370180</guid></item><item><title>Texas app store age verification law blocked by federal judge</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/"&gt;https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46370012"&gt;https://news.ycombinator.com/item?id=46370012&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 89&lt;/p&gt;
+&lt;p&gt;# Comments: 51&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 22:03:46 +0000</pubDate><link>https://www.macrumors.com/2025/12/23/texas-app-store-law-blocked/</link><dc:creator>danso</dc:creator><comments>https://news.ycombinator.com/item?id=46370012</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46370012</guid></item><item><title>Show HN: Claude Wrapped in the terminal, with a WASM raymarcher</title><description>
+&lt;p&gt;Claude Code added a /stats command. The stats are cached in $HOME/.claude, so I made a fun program with Bun + WASM that pulls the stats (nonsensitive, nonidentifiable), posts them to a database, and lets you see where your usage lies.&lt;p&gt;The code is here[^1] if anyone's interested in the rendering code or wants to make sure I'm not exfiltrating their credit card.&lt;p&gt;[^1]: &lt;a href="https://github.com/tspader/claude-wrapped/" rel="nofollow"&gt;https://github.com/tspader/claude-wrapped/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46369970"&gt;https://news.ycombinator.com/item?id=46369970&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 6&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 21:59:28 +0000</pubDate><link>https://spader.zone/wrapped/</link><dc:creator>dboon</dc:creator><comments>https://news.ycombinator.com/item?id=46369970</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46369970</guid></item><item><title>X-ray: a Python library for finding bad redactions in PDF documents</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/freelawproject/x-ray"&gt;https://github.com/freelawproject/x-ray&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46369923"&gt;https://news.ycombinator.com/item?id=46369923&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 121&lt;/p&gt;
+&lt;p&gt;# Comments: 35&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 21:54:30 +0000</pubDate><link>https://github.com/freelawproject/x-ray</link><dc:creator>rendx</dc:creator><comments>https://news.ycombinator.com/item?id=46369923</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46369923</guid></item><item><title>HTTP Caching, a Refresher</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://danburzo.ro/http-caching-refresher/"&gt;https://danburzo.ro/http-caching-refresher/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46368616"&gt;https://news.ycombinator.com/item?id=46368616&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 44&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 19:41:39 +0000</pubDate><link>https://danburzo.ro/http-caching-refresher/</link><dc:creator>danburzo</dc:creator><comments>https://news.ycombinator.com/item?id=46368616</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46368616</guid></item><item><title>Fixed-Wing Runway Design</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.wbdg.org/building/aviation/fixed-wing-runway-design"&gt;https://www.wbdg.org/building/aviation/fixed-wing-runway-design&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46368608"&gt;https://news.ycombinator.com/item?id=46368608&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 16&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 19:41:14 +0000</pubDate><link>https://www.wbdg.org/building/aviation/fixed-wing-runway-design</link><dc:creator>DarkContinent</dc:creator><comments>https://news.ycombinator.com/item?id=46368608</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46368608</guid></item><item><title>Terrence Malick's Disciples</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://yalereview.org/article/bilge-ebiri-terrence-malick"&gt;https://yalereview.org/article/bilge-ebiri-terrence-malick&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46368557"&gt;https://news.ycombinator.com/item?id=46368557&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 65&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 19:35:20 +0000</pubDate><link>https://yalereview.org/article/bilge-ebiri-terrence-malick</link><dc:creator>prismatic</dc:creator><comments>https://news.ycombinator.com/item?id=46368557</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46368557</guid></item><item><title>Un-Redactor</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/kvthweatt/unredactor"&gt;https://github.com/kvthweatt/unredactor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46368471"&gt;https://news.ycombinator.com/item?id=46368471&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 42&lt;/p&gt;
+&lt;p&gt;# Comments: 37&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 19:26:36 +0000</pubDate><link>https://github.com/kvthweatt/unredactor</link><dc:creator>kvthweatt</dc:creator><comments>https://news.ycombinator.com/item?id=46368471</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46368471</guid></item><item><title>Help My c64 caught on fire</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://c0de517e.com/026_c64fire.htm"&gt;https://c0de517e.com/026_c64fire.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46368300"&gt;https://news.ycombinator.com/item?id=46368300&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 61&lt;/p&gt;
+&lt;p&gt;# Comments: 23&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 19:09:45 +0000</pubDate><link>https://c0de517e.com/026_c64fire.htm</link><dc:creator>ibobev</dc:creator><comments>https://news.ycombinator.com/item?id=46368300</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46368300</guid></item><item><title>LAVD: Meta's New Default Scheduler [pdf]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lpc.events/event/19/contributions/2099/attachments/1875/4020/lpc-2025-lavd-meta.pdf"&gt;https://lpc.events/event/19/contributions/2099/attachments/1875/4020/lpc-2025-lavd-meta.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46368235"&gt;https://news.ycombinator.com/item?id=46368235&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 17&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 19:04:13 +0000</pubDate><link>https://lpc.events/event/19/contributions/2099/attachments/1875/4020/lpc-2025-lavd-meta.pdf</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46368235</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46368235</guid></item><item><title>We replaced H.264 streaming with JPEG screenshots (and it worked better)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen"&gt;https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46367475"&gt;https://news.ycombinator.com/item?id=46367475&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 298&lt;/p&gt;
+&lt;p&gt;# Comments: 188&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 18:00:31 +0000</pubDate><link>https://blog.helix.ml/p/we-mass-deployed-15-year-old-screen</link><dc:creator>quesobob</dc:creator><comments>https://news.ycombinator.com/item?id=46367475</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46367475</guid></item><item><title>Towards a secure peer-to-peer app platform for Clan</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://clan.lol/blog/towards-app-platform-vmtech/"&gt;https://clan.lol/blog/towards-app-platform-vmtech/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46367232"&gt;https://news.ycombinator.com/item?id=46367232&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 72&lt;/p&gt;
+&lt;p&gt;# Comments: 15&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 17:34:22 +0000</pubDate><link>https://clan.lol/blog/towards-app-platform-vmtech/</link><dc:creator>throawayonthe</dc:creator><comments>https://news.ycombinator.com/item?id=46367232</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46367232</guid></item><item><title>Fabrice Bellard Releases MicroQuickJS</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/bellard/mquickjs/blob/main/README.md"&gt;https://github.com/bellard/mquickjs/blob/main/README.md&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46367224"&gt;https://news.ycombinator.com/item?id=46367224&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 725&lt;/p&gt;
+&lt;p&gt;# Comments: 287&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 17:33:42 +0000</pubDate><link>https://github.com/bellard/mquickjs/blob/main/README.md</link><dc:creator>Aissen</dc:creator><comments>https://news.ycombinator.com/item?id=46367224</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46367224</guid></item><item><title>Meta is using the Linux scheduler designed for Valve's Steam Deck on its servers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server"&gt;https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46366998"&gt;https://news.ycombinator.com/item?id=46366998&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 516&lt;/p&gt;
+&lt;p&gt;# Comments: 273&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 17:08:34 +0000</pubDate><link>https://www.phoronix.com/news/Meta-SCX-LAVD-Steam-Deck-Server</link><dc:creator>yellow_lead</dc:creator><comments>https://news.ycombinator.com/item?id=46366998</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46366998</guid></item><item><title>Instant database clones with PostgreSQL 18</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://boringsql.com/posts/instant-database-clones/"&gt;https://boringsql.com/posts/instant-database-clones/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46363360"&gt;https://news.ycombinator.com/item?id=46363360&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 371&lt;/p&gt;
+&lt;p&gt;# Comments: 147&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 07:58:25 +0000</pubDate><link>https://boringsql.com/posts/instant-database-clones/</link><dc:creator>radimm</dc:creator><comments>https://news.ycombinator.com/item?id=46363360</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46363360</guid></item><item><title>10 years bootstrapped: €6.5M revenue with a team of 13</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.datocms.com/blog/a-look-back-at-2025"&gt;https://www.datocms.com/blog/a-look-back-at-2025&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46363319"&gt;https://news.ycombinator.com/item?id=46363319&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 277&lt;/p&gt;
+&lt;p&gt;# Comments: 104&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 07:50:03 +0000</pubDate><link>https://www.datocms.com/blog/a-look-back-at-2025</link><dc:creator>steffoz</dc:creator><comments>https://news.ycombinator.com/item?id=46363319</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46363319</guid></item><item><title>iOS 26.3 brings AirPods-like pairing to third-party devices in EU under DMA</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/"&gt;https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46362927"&gt;https://news.ycombinator.com/item?id=46362927&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 209&lt;/p&gt;
+&lt;p&gt;# Comments: 168&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 06:22:21 +0000</pubDate><link>https://www.macrumors.com/2025/12/22/ios-26-3-dma-airpods-pairing/</link><dc:creator>Tomte</dc:creator><comments>https://news.ycombinator.com/item?id=46362927</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46362927</guid></item><item><title>Local AI is driving the biggest change in laptops in decades</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://spectrum.ieee.org/ai-models-locally"&gt;https://spectrum.ieee.org/ai-models-locally&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46360856"&gt;https://news.ycombinator.com/item?id=46360856&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 169&lt;/p&gt;
+&lt;p&gt;# Comments: 179&lt;/p&gt;
+</description><pubDate>Tue, 23 Dec 2025 00:12:16 +0000</pubDate><link>https://spectrum.ieee.org/ai-models-locally</link><dc:creator>barqawiz</dc:creator><comments>https://news.ycombinator.com/item?id=46360856</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46360856</guid></item><item><title>Uplane (YC F25) Is Hiring Founding Engineers (Full-Stack and AI)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.useparallel.com/uplane1/careers"&gt;https://www.useparallel.com/uplane1/careers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46355932"&gt;https://news.ycombinator.com/item?id=46355932&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Mon, 22 Dec 2025 17:00:34 +0000</pubDate><link>https://www.useparallel.com/uplane1/careers</link><dc:creator>MarvinStarter</dc:creator><comments>https://news.ycombinator.com/item?id=46355932</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46355932</guid></item></channel></rss>
