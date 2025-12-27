@@ -1,0 +1,116 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sat, 27 Dec 2025 00:30:14 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Exe.dev/</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://exe.dev/"&gt;https://exe.dev/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46397609"&gt;https://news.ycombinator.com/item?id=46397609&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 22&lt;/p&gt;
+&lt;p&gt;# Comments: 13&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 23:42:46 +0000</pubDate><link>https://exe.dev/</link><dc:creator>achairapart</dc:creator><comments>https://news.ycombinator.com/item?id=46397609</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46397609</guid></item><item><title>Always Bet on Text</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://graydon2.dreamwidth.org/193447.html"&gt;https://graydon2.dreamwidth.org/193447.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46397379"&gt;https://news.ycombinator.com/item?id=46397379&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 13&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 23:09:40 +0000</pubDate><link>https://graydon2.dreamwidth.org/193447.html</link><dc:creator>jesseduffield</dc:creator><comments>https://news.ycombinator.com/item?id=46397379</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46397379</guid></item><item><title>How I think about Kubernetes</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://garnaudov.com/writings/how-i-think-about-kubernetes/"&gt;https://garnaudov.com/writings/how-i-think-about-kubernetes/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46396043"&gt;https://news.ycombinator.com/item?id=46396043&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 60&lt;/p&gt;
+&lt;p&gt;# Comments: 36&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 20:44:28 +0000</pubDate><link>https://garnaudov.com/writings/how-i-think-about-kubernetes/</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46396043</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46396043</guid></item><item><title>Grok and the Naked King: The Ultimate Argument Against AI Alignment</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/"&gt;https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46395292"&gt;https://news.ycombinator.com/item?id=46395292&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 43&lt;/p&gt;
+&lt;p&gt;# Comments: 20&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 19:25:28 +0000</pubDate><link>https://ibrahimcesar.cloud/blog/grok-and-the-naked-king/</link><dc:creator>ibrahimcesar</dc:creator><comments>https://news.ycombinator.com/item?id=46395292</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46395292</guid></item><item><title>Gaussian Splatting 3 Ways</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/NullandKale/NullSplats"&gt;https://github.com/NullandKale/NullSplats&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46395273"&gt;https://news.ycombinator.com/item?id=46395273&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 42&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 19:23:28 +0000</pubDate><link>https://github.com/NullandKale/NullSplats</link><dc:creator>nullandkale</dc:creator><comments>https://news.ycombinator.com/item?id=46395273</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46395273</guid></item><item><title>My insulin pump controller uses the Linux kernel. It also violates the GPL</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/"&gt;https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46395184"&gt;https://news.ycombinator.com/item?id=46395184&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 278&lt;/p&gt;
+&lt;p&gt;# Comments: 100&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 19:13:22 +0000</pubDate><link>https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/</link><dc:creator>davisr</dc:creator><comments>https://news.ycombinator.com/item?id=46395184</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46395184</guid></item><item><title>How Lewis Carroll computed determinants (2023)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/"&gt;https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46395106"&gt;https://news.ycombinator.com/item?id=46395106&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 130&lt;/p&gt;
+&lt;p&gt;# Comments: 26&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 19:03:32 +0000</pubDate><link>https://www.johndcook.com/blog/2023/07/10/lewis-carroll-determinants/</link><dc:creator>tzury</dc:creator><comments>https://news.ycombinator.com/item?id=46395106</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46395106</guid></item><item><title>Drawing with zero-width characters</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://zw.swerdlow.dev"&gt;https://zw.swerdlow.dev&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46395061"&gt;https://news.ycombinator.com/item?id=46395061&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 52&lt;/p&gt;
+&lt;p&gt;# Comments: 20&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 18:59:39 +0000</pubDate><link>https://zw.swerdlow.dev</link><dc:creator>benswerd</dc:creator><comments>https://news.ycombinator.com/item?id=46395061</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46395061</guid></item><item><title>MongoBleed</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py"&gt;https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46394620"&gt;https://news.ycombinator.com/item?id=46394620&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 47&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 18:17:00 +0000</pubDate><link>https://github.com/joe-desimone/mongobleed/blob/main/mongobleed.py</link><dc:creator>gpi</dc:creator><comments>https://news.ycombinator.com/item?id=46394620</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46394620</guid></item><item><title>FFmpeg has issued a DMCA takedown on GitHub</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://twitter.com/FFmpeg/status/2004599109559496984"&gt;https://twitter.com/FFmpeg/status/2004599109559496984&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46394327"&gt;https://news.ycombinator.com/item?id=46394327&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 358&lt;/p&gt;
+&lt;p&gt;# Comments: 105&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 17:48:25 +0000</pubDate><link>https://twitter.com/FFmpeg/status/2004599109559496984</link><dc:creator>merlindru</dc:creator><comments>https://news.ycombinator.com/item?id=46394327</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46394327</guid></item><item><title>A Proclamation Regarding the Restoration of the Dash</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/"&gt;https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46394169"&gt;https://news.ycombinator.com/item?id=46394169&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 102&lt;/p&gt;
+&lt;p&gt;# Comments: 109&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 17:29:31 +0000</pubDate><link>https://blog.nawaz.org/posts/2025/Dec/a-proclamation-regarding-the-restoration-of-the-dash/</link><dc:creator>BeetleB</dc:creator><comments>https://news.ycombinator.com/item?id=46394169</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46394169</guid></item><item><title>How uv got so fast</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html"&gt;https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46393992"&gt;https://news.ycombinator.com/item?id=46393992&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 466&lt;/p&gt;
+&lt;p&gt;# Comments: 156&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 17:13:07 +0000</pubDate><link>https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html</link><dc:creator>zdw</dc:creator><comments>https://news.ycombinator.com/item?id=46393992</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46393992</guid></item><item><title>Experts explore new mushroom which causes fairytale-like hallucinations</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations"&gt;https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46393936"&gt;https://news.ycombinator.com/item?id=46393936&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 275&lt;/p&gt;
+&lt;p&gt;# Comments: 119&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 17:07:53 +0000</pubDate><link>https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations</link><dc:creator>astronads</dc:creator><comments>https://news.ycombinator.com/item?id=46393936</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46393936</guid></item><item><title>Show HN: Witr – Explain why a process is running on your Linux system</title><description>
+&lt;p&gt;Hi HN,&lt;p&gt;I built a small Linux CLI tool called witr (Why Is This Running?).&lt;p&gt;The idea came from a situation most of us have hit: you log into a machine, see a process or port running, and immediately wonder why it exists, who started it, and what is keeping it alive right now.&lt;p&gt;witr traces a process, service, or port back to its origin and responsibility chain and explains it in a way that’s quick to read, especially when you’re debugging under pressure.&lt;p&gt;This is v0.1.0. It’s intentionally small and focused.
+Feedback, criticism, and edge cases are very welcome.&lt;p&gt;Repo: &lt;a href="https://github.com/pranshuparmar/witr" rel="nofollow"&gt;https://github.com/pranshuparmar/witr&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46392910"&gt;https://news.ycombinator.com/item?id=46392910&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 164&lt;/p&gt;
+&lt;p&gt;# Comments: 23&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 15:20:36 +0000</pubDate><link>https://github.com/pranshuparmar/witr</link><dc:creator>pranshuparmar</dc:creator><comments>https://news.ycombinator.com/item?id=46392910</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46392910</guid></item><item><title>Show HN: Xcc700: Self-hosting mini C compiler for ESP32 (Xtensa) in 700 lines</title><description>
+&lt;p&gt;Repo: &lt;a href="https://github.com/valdanylchuk/xcc700" rel="nofollow"&gt;https://github.com/valdanylchuk/xcc700&lt;/a&gt;&lt;p&gt;Hi Everyone! I just wrote my first compiler!&lt;p&gt;- single pass, recursive descent, direct emission&lt;p&gt;- generates REL ELF binaries, runnable using ESP-IDF elf_loader&lt;p&gt;- very basic features only, just enough for self-hosting&lt;p&gt;- treats the Xtensa CPU as a stack machine for simplicity, no register allocation / window usage&lt;p&gt;- compilable on Mac, probably also Linux, can cross-compile for esp32 there&lt;p&gt;- wrote for fun / cyberdeck project&lt;p&gt;Sample output from esp32:&lt;p&gt;&lt;pre&gt;&lt;code&gt;    xcc700.elf xcc700.c -o /d/cc.elf
+    
+    [ xcc700 ] BUILD COMPLETED &gt; OK
+    &gt; IN  : 700 Lines / 7977 Tokens
+    &gt; SYM : 69 Funcs / 91 Globals
+    &gt; REL : 152 Literals / 1027 Patches
+    &gt; MEM : 1041 B .rodata / 17120 B .bss
+    &gt; OUT : 27735 B .text / 33300 B ELF
+    [ 40 ms ] &gt;&gt; 17500 Lines/sec &lt;&lt;
+&lt;/code&gt;&lt;/pre&gt;
+My best hope is that some fork might grow into a unique nice language tailored to the esp32 platform. I think it is underrated in userland hobby projects.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46392736"&gt;https://news.ycombinator.com/item?id=46392736&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 84&lt;/p&gt;
+&lt;p&gt;# Comments: 16&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 15:07:01 +0000</pubDate><link>https://github.com/valdanylchuk/xcc700</link><dc:creator>isitcontent</dc:creator><comments>https://news.ycombinator.com/item?id=46392736</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46392736</guid></item><item><title>Rob Pike goes nuclear over GenAI</title><description>
+&lt;p&gt;Related: &lt;i&gt;Rob Pike got spammed with an AI slop "act of kindness"&lt;/i&gt; - &lt;a href="https://news.ycombinator.com/item?id=46394867"&gt;https://news.ycombinator.com/item?id=46394867&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46392115"&gt;https://news.ycombinator.com/item?id=46392115&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 1175&lt;/p&gt;
+&lt;p&gt;# Comments: 1452&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 14:08:47 +0000</pubDate><link>https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&amp;viewtype=tree</link><dc:creator>christoph-heiss</dc:creator><comments>https://news.ycombinator.com/item?id=46392115</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46392115</guid></item><item><title>LearnixOS</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.learnix-os.com"&gt;https://www.learnix-os.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46391599"&gt;https://news.ycombinator.com/item?id=46391599&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 192&lt;/p&gt;
+&lt;p&gt;# Comments: 68&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 12:59:56 +0000</pubDate><link>https://www.learnix-os.com</link><dc:creator>gtirloni</dc:creator><comments>https://news.ycombinator.com/item?id=46391599</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46391599</guid></item><item><title>Ask HN: What did you read in 2025?</title><description>
+&lt;p&gt;I mostly read newspapers and technical journals, but two books that I read that made an impression: "The Changing World Order" and "The Gulag Archipelago".&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46391572"&gt;https://news.ycombinator.com/item?id=46391572&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 142&lt;/p&gt;
+&lt;p&gt;# Comments: 184&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 12:55:16 +0000</pubDate><link>https://news.ycombinator.com/item?id=46391572</link><dc:creator>kwar13</dc:creator><comments>https://news.ycombinator.com/item?id=46391572</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46391572</guid></item><item><title>Package managers keep using Git as a database, it never works out</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html"&gt;https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46391514"&gt;https://news.ycombinator.com/item?id=46391514&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 557&lt;/p&gt;
+&lt;p&gt;# Comments: 317&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 12:46:36 +0000</pubDate><link>https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html</link><dc:creator>birdculture</dc:creator><comments>https://news.ycombinator.com/item?id=46391514</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46391514</guid></item><item><title>Unix "find" expressions compiled to bytecode</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://nullprogram.com/blog/2025/12/23/"&gt;https://nullprogram.com/blog/2025/12/23/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46391448"&gt;https://news.ycombinator.com/item?id=46391448&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 97&lt;/p&gt;
+&lt;p&gt;# Comments: 13&lt;/p&gt;
+</description><pubDate>Fri, 26 Dec 2025 12:35:10 +0000</pubDate><link>https://nullprogram.com/blog/2025/12/23/</link><dc:creator>rcarmo</dc:creator><comments>https://news.ycombinator.com/item?id=46391448</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46391448</guid></item></channel></rss>
