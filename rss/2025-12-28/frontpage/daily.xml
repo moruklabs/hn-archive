@@ -1,0 +1,120 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sun, 28 Dec 2025 00:35:01 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Show HN: Waycore – an open-source, offline-first modular field computer</title><description>
+&lt;p&gt;Hi HN,&lt;p&gt;I’m building Waycore, an open-source project exploring what a flexible, offline-first field computer should look like for outdoor, survival, and off-grid scenarios.&lt;p&gt;The core goals are adaptability and resilience:&lt;p&gt;modular hardware (external sensor/tool modules)&lt;p&gt;extensible OS with support for external apps (guidelines in progress)&lt;p&gt;no required internet connection — maps, models, and knowledge work offline&lt;p&gt;optional LTE/Wi-Fi when available and explicitly enabled&lt;p&gt;A major focus is on-device agentic AI, not just chat or image recognition. The AI is intended to:&lt;p&gt;read live sensor data (GPS, compass, environment)&lt;p&gt;reason over offline knowledge&lt;p&gt;use apps and core APIs&lt;p&gt;assist with navigation, safety checks, logging, and communication&lt;p&gt;Main project repo (OS &amp; architecture):
+&lt;a href="https://github.com/dmitry-grechko/waycore" rel="nofollow"&gt;https://github.com/dmitry-grechko/waycore&lt;/a&gt;&lt;p&gt;There’s also a separate repo curating freely downloadable survival &amp; outdoor PDFs for offline use:
+&lt;a href="https://github.com/dmitry-grechko/waycore-knowledge" rel="nofollow"&gt;https://github.com/dmitry-grechko/waycore-knowledge&lt;/a&gt;&lt;p&gt;I’m looking for feedback and contributors around:&lt;p&gt;UI/UX for rugged touch devices&lt;p&gt;hardware modularity &amp; interfaces&lt;p&gt;offline/edge agent architectures&lt;p&gt;small models that work well without internet&lt;p&gt;high-quality public-domain or permissive survival knowledge sources&lt;p&gt;Happy to answer questions or hear critique.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46406486"&gt;https://news.ycombinator.com/item?id=46406486&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 15&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 23:16:55 +0000</pubDate><link>https://news.ycombinator.com/item?id=46406486</link><dc:creator>DGrechko</dc:creator><comments>https://news.ycombinator.com/item?id=46406486</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46406486</guid></item><item><title>7- and 14-segment fonts "DSEG"</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.keshikan.net/fonts.html"&gt;https://www.keshikan.net/fonts.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46406213"&gt;https://news.ycombinator.com/item?id=46406213&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 4&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 22:49:53 +0000</pubDate><link>https://www.keshikan.net/fonts.html</link><dc:creator>anigbrowl</dc:creator><comments>https://news.ycombinator.com/item?id=46406213</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46406213</guid></item><item><title>The Dangers of SSL Certificates</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/"&gt;https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46406129"&gt;https://news.ycombinator.com/item?id=46406129&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 14&lt;/p&gt;
+&lt;p&gt;# Comments: 16&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 22:41:22 +0000</pubDate><link>https://surfingcomplexity.blog/2025/12/27/the-dangers-of-ssl-certificates/</link><dc:creator>azhenley</dc:creator><comments>https://news.ycombinator.com/item?id=46406129</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46406129</guid></item><item><title>How We Found Out About COINTELPRO (2014)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/"&gt;https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46405481"&gt;https://news.ycombinator.com/item?id=46405481&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 51&lt;/p&gt;
+&lt;p&gt;# Comments: 22&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 21:36:27 +0000</pubDate><link>https://monthlyreview.org/articles/how-we-found-out-about-cointelpro/</link><dc:creator>bryanrasmussen</dc:creator><comments>https://news.ycombinator.com/item?id=46405481</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46405481</guid></item><item><title>Pfizer ended up passing on my GLP-1 work back in the early '90s (2024)</title><description>
+&lt;p&gt;&lt;a href="https://web.archive.org/web/20240909093450/https://www.statnews.com/2024/09/09/glp-1-history-pfizer-john-baxter-jeffrey-flier-calbio-metabio/" rel="nofollow"&gt;https://web.archive.org/web/20240909093450/https://www.statn...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46405480"&gt;https://news.ycombinator.com/item?id=46405480&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 37&lt;/p&gt;
+&lt;p&gt;# Comments: 17&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 21:36:22 +0000</pubDate><link>https://www.statnews.com/2024/09/09/glp-1-history-pfizer-john-baxter-jeffrey-flier-calbio-metabio/</link><dc:creator>rajlego</dc:creator><comments>https://news.ycombinator.com/item?id=46405480</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46405480</guid></item><item><title>Say No to Palantir in the NHS</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://notopalantir.goodlawproject.org/email-to-target/stop-palantir-in-the-nhs/"&gt;https://notopalantir.goodlawproject.org/email-to-target/stop-palantir-in-the-nhs/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46405309"&gt;https://news.ycombinator.com/item?id=46405309&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 29&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 21:15:35 +0000</pubDate><link>https://notopalantir.goodlawproject.org/email-to-target/stop-palantir-in-the-nhs/</link><dc:creator>_____k</dc:creator><comments>https://news.ycombinator.com/item?id=46405309</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46405309</guid></item><item><title>Richard Stallman at the First Hackers Conference in 1984 [video]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.youtube.com/watch?v=Hf2pfzzWPYE"&gt;https://www.youtube.com/watch?v=Hf2pfzzWPYE&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46405306"&gt;https://news.ycombinator.com/item?id=46405306&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 76&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 21:15:14 +0000</pubDate><link>https://www.youtube.com/watch?v=Hf2pfzzWPYE</link><dc:creator>schmuckonwheels</dc:creator><comments>https://news.ycombinator.com/item?id=46405306</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46405306</guid></item><item><title>An ounce of silver is now worth more than a barrel of oil</title><description>
+&lt;p&gt;&lt;a href="https://archive.md/qUe7n" rel="nofollow"&gt;https://archive.md/qUe7n&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46405235"&gt;https://news.ycombinator.com/item?id=46405235&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 59&lt;/p&gt;
+&lt;p&gt;# Comments: 40&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 21:06:47 +0000</pubDate><link>https://www.wsj.com/finance/commodities-futures/an-ounce-of-silver-is-now-worth-more-than-a-barrel-of-oil-196e149e</link><dc:creator>bookofjoe</dc:creator><comments>https://news.ycombinator.com/item?id=46405235</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46405235</guid></item><item><title>How we lost communication to entertainment</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ploum.net/2025-12-15-communication-entertainment.html"&gt;https://ploum.net/2025-12-15-communication-entertainment.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46404848"&gt;https://news.ycombinator.com/item?id=46404848&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 225&lt;/p&gt;
+&lt;p&gt;# Comments: 112&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 20:15:01 +0000</pubDate><link>https://ploum.net/2025-12-15-communication-entertainment.html</link><dc:creator>8organicbits</dc:creator><comments>https://news.ycombinator.com/item?id=46404848</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46404848</guid></item><item><title>Rainbow Six Siege hacked as players get billions of credits and random bans</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/"&gt;https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46404597"&gt;https://news.ycombinator.com/item?id=46404597&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 63&lt;/p&gt;
+&lt;p&gt;# Comments: 15&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 19:45:28 +0000</pubDate><link>https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/</link><dc:creator>erhuve</dc:creator><comments>https://news.ycombinator.com/item?id=46404597</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46404597</guid></item><item><title>Toll roads are spreading in America</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america"&gt;https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46403992"&gt;https://news.ycombinator.com/item?id=46403992&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 111&lt;/p&gt;
+&lt;p&gt;# Comments: 310&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 18:31:27 +0000</pubDate><link>https://www.economist.com/united-states/2025/12/18/toll-roads-are-spreading-in-america</link><dc:creator>smurda</dc:creator><comments>https://news.ycombinator.com/item?id=46403992</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46403992</guid></item><item><title>Windows 2 for the Apricot PC/Xi</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ninakalinina.com/notes/win2apri/"&gt;https://www.ninakalinina.com/notes/win2apri/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46403915"&gt;https://news.ycombinator.com/item?id=46403915&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 86&lt;/p&gt;
+&lt;p&gt;# Comments: 20&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 18:22:05 +0000</pubDate><link>https://www.ninakalinina.com/notes/win2apri/</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46403915</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46403915</guid></item><item><title>Nvidia's $20B antitrust loophole</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ossa-ma.github.io/blog/groq"&gt;https://ossa-ma.github.io/blog/groq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46403559"&gt;https://news.ycombinator.com/item?id=46403559&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 306&lt;/p&gt;
+&lt;p&gt;# Comments: 107&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 17:42:46 +0000</pubDate><link>https://ossa-ma.github.io/blog/groq</link><dc:creator>ossa-ma</dc:creator><comments>https://news.ycombinator.com/item?id=46403559</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46403559</guid></item><item><title>Janet Jackson had the power to crash laptop computers (2022)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994"&gt;https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46403291"&gt;https://news.ycombinator.com/item?id=46403291&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 215&lt;/p&gt;
+&lt;p&gt;# Comments: 88&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 17:16:08 +0000</pubDate><link>https://devblogs.microsoft.com/oldnewthing/20220816-00/?p=106994</link><dc:creator>montalbano</dc:creator><comments>https://news.ycombinator.com/item?id=46403291</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46403291</guid></item><item><title>USD share as global reserve currency drops to lowest since 1994</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://wolfstreet.com/2025/12/26/status-of-the-us-dollar-as-global-reserve-currency-usd-share-drops-to-lowest-since-1994/"&gt;https://wolfstreet.com/2025/12/26/status-of-the-us-dollar-as-global-reserve-currency-usd-share-drops-to-lowest-since-1994/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46403276"&gt;https://news.ycombinator.com/item?id=46403276&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 155&lt;/p&gt;
+&lt;p&gt;# Comments: 151&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 17:14:06 +0000</pubDate><link>https://wolfstreet.com/2025/12/26/status-of-the-us-dollar-as-global-reserve-currency-usd-share-drops-to-lowest-since-1994/</link><dc:creator>stevenjgarner</dc:creator><comments>https://news.ycombinator.com/item?id=46403276</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46403276</guid></item><item><title>Gpg.fail</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://gpg.fail"&gt;https://gpg.fail&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46403200"&gt;https://news.ycombinator.com/item?id=46403200&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 261&lt;/p&gt;
+&lt;p&gt;# Comments: 134&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 17:05:50 +0000</pubDate><link>https://gpg.fail</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46403200</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46403200</guid></item><item><title>Floor796</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://floor796.com/"&gt;https://floor796.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46401612"&gt;https://news.ycombinator.com/item?id=46401612&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 492&lt;/p&gt;
+&lt;p&gt;# Comments: 61&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 13:13:00 +0000</pubDate><link>https://floor796.com/</link><dc:creator>krtkush</dc:creator><comments>https://news.ycombinator.com/item?id=46401612</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46401612</guid></item><item><title>OrangePi 6 Plus Review</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://boilingsteam.com/orange-pi-6-plus-review/"&gt;https://boilingsteam.com/orange-pi-6-plus-review/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46401499"&gt;https://news.ycombinator.com/item?id=46401499&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 125&lt;/p&gt;
+&lt;p&gt;# Comments: 99&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 12:51:15 +0000</pubDate><link>https://boilingsteam.com/orange-pi-6-plus-review/</link><dc:creator>ekianjo</dc:creator><comments>https://news.ycombinator.com/item?id=46401499</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46401499</guid></item><item><title>Splice a Fibre</title><description>
+&lt;p&gt;It's interactive, try and splice one!&lt;p&gt;Written in react, it's moderately heavy and not entirely mobile optimised.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46401190"&gt;https://news.ycombinator.com/item?id=46401190&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 85&lt;/p&gt;
+&lt;p&gt;# Comments: 39&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 11:57:17 +0000</pubDate><link>https://react-networks-lib.rackout.net/fibre</link><dc:creator>matt-p</dc:creator><comments>https://news.ycombinator.com/item?id=46401190</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46401190</guid></item><item><title>Show HN: Ez FFmpeg – Video editing in plain English</title><description>
+&lt;p&gt;I built a CLI tool that lets you do common video/audio operations without remembering ffmpeg syntax.&lt;p&gt;Instead of:
+ffmpeg -i video.mp4 -vf "fps=15,scale=480:-1:flags=lanczos" -loop 0 output.gif&lt;p&gt;You write:
+  ff convert video.mp4 to gif&lt;p&gt;More examples:
+  ff compress video.mp4 to 10mb
+  ff trim video.mp4 from 0:30 to 1:00
+  ff extract audio from video.mp4
+  ff resize video.mp4 to 720p
+  ff speed up video.mp4 by 2x
+  ff reverse video.mp4&lt;p&gt;There are similar tools that use LLMs (wtffmpeg, llmpeg, ai-ffmpeg-cli), but they require API keys, cost money, and have latency.&lt;p&gt;Ez FFmpeg is different:
+  - No AI – just regex pattern matching
+  - Instant – no API calls
+  - Free – no tokens
+  - Offline – works without internet&lt;p&gt;It handles ~20 common operations that cover 90% of what developers actually do with ffmpeg. For edge cases, you still need ffmpeg directly.&lt;p&gt;Interactive mode (just type ff) shows media files in your current folder with typeahead search.&lt;p&gt;npm install -g ezff&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46400251"&gt;https://news.ycombinator.com/item?id=46400251&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 330&lt;/p&gt;
+&lt;p&gt;# Comments: 157&lt;/p&gt;
+</description><pubDate>Sat, 27 Dec 2025 08:45:46 +0000</pubDate><link>http://npmjs.com/package/ezff</link><dc:creator>josharsh</dc:creator><comments>https://news.ycombinator.com/item?id=46400251</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46400251</guid></item></channel></rss>
