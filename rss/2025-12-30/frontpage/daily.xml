@@ -1,0 +1,106 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Tue, 30 Dec 2025 00:30:10 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Parsing Advances</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://matklad.github.io/2025/12/28/parsing-advances.html"&gt;https://matklad.github.io/2025/12/28/parsing-advances.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46427376"&gt;https://news.ycombinator.com/item?id=46427376&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 15&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 23:29:35 +0000</pubDate><link>https://matklad.github.io/2025/12/28/parsing-advances.html</link><dc:creator>birdculture</dc:creator><comments>https://news.ycombinator.com/item?id=46427376</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46427376</guid></item><item><title>50,000 drums of radioactive wastes were dumped near the Farallones, 1946 to 1970</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://pubs.usgs.gov/fs/farallones/"&gt;https://pubs.usgs.gov/fs/farallones/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46427181"&gt;https://news.ycombinator.com/item?id=46427181&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 13&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 23:12:00 +0000</pubDate><link>https://pubs.usgs.gov/fs/farallones/</link><dc:creator>greesil</dc:creator><comments>https://news.ycombinator.com/item?id=46427181</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46427181</guid></item><item><title>Lead-Free Organic–Inorganic Halobismuthate for Large Piezoelectric Effect</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://pubs.acs.org/doi/10.1021/jacs.5c15484"&gt;https://pubs.acs.org/doi/10.1021/jacs.5c15484&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46427084"&gt;https://news.ycombinator.com/item?id=46427084&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 7&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 23:03:06 +0000</pubDate><link>https://pubs.acs.org/doi/10.1021/jacs.5c15484</link><dc:creator>PaulHoule</dc:creator><comments>https://news.ycombinator.com/item?id=46427084</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46427084</guid></item><item><title>Show HN: Stop Claude Code from forgetting everything</title><description>
+&lt;p&gt;I got tired of Claude Code forgetting all my context every time I open a new session: set-up decisions, how I like my margins, decision history. etc.&lt;p&gt;We built a shared memory layer you can drop in as a Claude Code Skill. It’s basically a tiny memory DB with recall that remembers your sessions. Not magic. Not AGI. Just state.&lt;p&gt;Install in Claude Code:&lt;p&gt;&lt;pre&gt;&lt;code&gt;  /plugin marketplace add https://github.com/mutable-state-inc/ensue-skill
+  /plugin install ensue-memory
+  # restart Claude Code
+&lt;/code&gt;&lt;/pre&gt;
+What it does: (1) persists context between sessions (2) semantic &amp; temportal search (not just string grep). Basically git for your Claude brain&lt;p&gt;What it doesn’t do: - it won’t read your mind - it’s alpha; it might break if you throw a couch at it&lt;p&gt;Repo: &lt;a href="https://github.com/mutable-state-inc/ensue-skill" rel="nofollow"&gt;https://github.com/mutable-state-inc/ensue-skill&lt;/a&gt;&lt;p&gt;If you try it and it sucks, tell me why so I can fix it. Don't be kind, tia&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46426624"&gt;https://news.ycombinator.com/item?id=46426624&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 46&lt;/p&gt;
+&lt;p&gt;# Comments: 49&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 22:30:25 +0000</pubDate><link>https://github.com/mutable-state-inc/ensue-skill</link><dc:creator>austinbaggio</dc:creator><comments>https://news.ycombinator.com/item?id=46426624</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46426624</guid></item><item><title>ManusAI Joins Meta</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation"&gt;https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46426534"&gt;https://news.ycombinator.com/item?id=46426534&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 96&lt;/p&gt;
+&lt;p&gt;# Comments: 53&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 22:24:22 +0000</pubDate><link>https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation</link><dc:creator>gniting</dc:creator><comments>https://news.ycombinator.com/item?id=46426534</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46426534</guid></item><item><title>Google is dead. Where do we go now?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/"&gt;https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46425198"&gt;https://news.ycombinator.com/item?id=46425198&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 412&lt;/p&gt;
+&lt;p&gt;# Comments: 396&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 20:29:26 +0000</pubDate><link>https://www.circusscientist.com/2025/12/29/google-is-dead-where-do-we-go-now/</link><dc:creator>tomjuggler</dc:creator><comments>https://news.ycombinator.com/item?id=46425198</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46425198</guid></item><item><title>Obelisk 0.32: Cancellation, WebAPI, Postgres</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://obeli.sk/blog/announcing-obelisk-0-32/"&gt;https://obeli.sk/blog/announcing-obelisk-0-32/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46424789"&gt;https://news.ycombinator.com/item?id=46424789&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 19&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 19:58:09 +0000</pubDate><link>https://obeli.sk/blog/announcing-obelisk-0-32/</link><dc:creator>tomasol</dc:creator><comments>https://news.ycombinator.com/item?id=46424789</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46424789</guid></item><item><title>Which Humans? (2023)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://osf.io/preprints/psyarxiv/5b26t_v1"&gt;https://osf.io/preprints/psyarxiv/5b26t_v1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46424782"&gt;https://news.ycombinator.com/item?id=46424782&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 30&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 19:57:47 +0000</pubDate><link>https://osf.io/preprints/psyarxiv/5b26t_v1</link><dc:creator>surprisetalk</dc:creator><comments>https://news.ycombinator.com/item?id=46424782</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46424782</guid></item><item><title>When someone says they hate your product</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.getflack.com/p/responding-to-negative-feedback"&gt;https://www.getflack.com/p/responding-to-negative-feedback&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46424460"&gt;https://news.ycombinator.com/item?id=46424460&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 74&lt;/p&gt;
+&lt;p&gt;# Comments: 64&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 19:30:40 +0000</pubDate><link>https://www.getflack.com/p/responding-to-negative-feedback</link><dc:creator>jger15</dc:creator><comments>https://news.ycombinator.com/item?id=46424460</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46424460</guid></item><item><title>All Delisted Steam Games</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://delistedgames.com/all-delisted-steam-games/"&gt;https://delistedgames.com/all-delisted-steam-games/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46424262"&gt;https://news.ycombinator.com/item?id=46424262&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 170&lt;/p&gt;
+&lt;p&gt;# Comments: 71&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 19:16:32 +0000</pubDate><link>https://delistedgames.com/all-delisted-steam-games/</link><dc:creator>Bondi_Blue</dc:creator><comments>https://news.ycombinator.com/item?id=46424262</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46424262</guid></item><item><title>Left Behind: Futurist Fetishists, Prepping and the Abandonment of Earth (2019)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.boundary2.org/2019/08/sarah-t-roberts-and-mel-hogan-left-behind-futurist-fetishists-prepping-and-the-abandonment-of-earth/"&gt;https://www.boundary2.org/2019/08/sarah-t-roberts-and-mel-hogan-left-behind-futurist-fetishists-prepping-and-the-abandonment-of-earth/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46424217"&gt;https://news.ycombinator.com/item?id=46424217&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 30&lt;/p&gt;
+&lt;p&gt;# Comments: 23&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 19:12:27 +0000</pubDate><link>https://www.boundary2.org/2019/08/sarah-t-roberts-and-mel-hogan-left-behind-futurist-fetishists-prepping-and-the-abandonment-of-earth/</link><dc:creator>naves</dc:creator><comments>https://news.ycombinator.com/item?id=46424217</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46424217</guid></item><item><title>AI is forcing us to write good code</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code"&gt;https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46424200"&gt;https://news.ycombinator.com/item?id=46424200&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 82&lt;/p&gt;
+&lt;p&gt;# Comments: 59&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 19:11:26 +0000</pubDate><link>https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code</link><dc:creator>sgk284</dc:creator><comments>https://news.ycombinator.com/item?id=46424200</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46424200</guid></item><item><title>List of domains censored by German ISPs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://cuiiliste.de/domains"&gt;https://cuiiliste.de/domains&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46423566"&gt;https://news.ycombinator.com/item?id=46423566&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 274&lt;/p&gt;
+&lt;p&gt;# Comments: 109&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 18:21:30 +0000</pubDate><link>https://cuiiliste.de/domains</link><dc:creator>elcapitan</dc:creator><comments>https://news.ycombinator.com/item?id=46423566</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46423566</guid></item><item><title>A production bug that made me care about undefined behavior</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html"&gt;https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46423521"&gt;https://news.ycombinator.com/item?id=46423521&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 94&lt;/p&gt;
+&lt;p&gt;# Comments: 56&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 18:17:29 +0000</pubDate><link>https://gaultier.github.io/blog/the_production_bug_that_made_me_care_about_undefined_behavior.html</link><dc:creator>birdculture</dc:creator><comments>https://news.ycombinator.com/item?id=46423521</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46423521</guid></item><item><title>Nvidia takes $5B stake in Intel under September agreement</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/"&gt;https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46423010"&gt;https://news.ycombinator.com/item?id=46423010&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 190&lt;/p&gt;
+&lt;p&gt;# Comments: 74&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 17:32:08 +0000</pubDate><link>https://www.reuters.com/legal/transactional/nvidia-takes-5-billion-stake-intel-under-september-agreement-2025-12-29/</link><dc:creator>taubek</dc:creator><comments>https://news.ycombinator.com/item?id=46423010</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46423010</guid></item><item><title>GOG is getting acquired by its original co-founder</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/"&gt;https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46422412"&gt;https://news.ycombinator.com/item?id=46422412&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 498&lt;/p&gt;
+&lt;p&gt;# Comments: 280&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 16:43:14 +0000</pubDate><link>https://www.gog.com/blog/gog-is-getting-acquired-by-its-original-co-founder-what-it-means-for-you/</link><dc:creator>haunter</dc:creator><comments>https://news.ycombinator.com/item?id=46422412</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46422412</guid></item><item><title>Static Allocation with Zig</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://nickmonad.blog/2025/static-allocation-with-zig-kv/"&gt;https://nickmonad.blog/2025/static-allocation-with-zig-kv/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46422009"&gt;https://news.ycombinator.com/item?id=46422009&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 151&lt;/p&gt;
+&lt;p&gt;# Comments: 77&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 16:07:27 +0000</pubDate><link>https://nickmonad.blog/2025/static-allocation-with-zig-kv/</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46422009</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46422009</guid></item><item><title>Libgodc: Write Go Programs for Sega Dreamcast</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/drpaneas/libgodc"&gt;https://github.com/drpaneas/libgodc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46420672"&gt;https://news.ycombinator.com/item?id=46420672&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 199&lt;/p&gt;
+&lt;p&gt;# Comments: 46&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 13:43:29 +0000</pubDate><link>https://github.com/drpaneas/libgodc</link><dc:creator>drpaneas</dc:creator><comments>https://news.ycombinator.com/item?id=46420672</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46420672</guid></item><item><title>Kidnapped by Deutsche Bahn</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/"&gt;https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46419970"&gt;https://news.ycombinator.com/item?id=46419970&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 903&lt;/p&gt;
+&lt;p&gt;# Comments: 825&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 12:24:00 +0000</pubDate><link>https://www.theocharis.dev/blog/kidnapped-by-deutsche-bahn/</link><dc:creator>JeremyTheo</dc:creator><comments>https://news.ycombinator.com/item?id=46419970</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46419970</guid></item><item><title>Linux DAW: Help Linux musicians to quickly and easily find the tools they need</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://linuxdaw.org/"&gt;https://linuxdaw.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46419968"&gt;https://news.ycombinator.com/item?id=46419968&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 180&lt;/p&gt;
+&lt;p&gt;# Comments: 88&lt;/p&gt;
+</description><pubDate>Mon, 29 Dec 2025 12:23:49 +0000</pubDate><link>https://linuxdaw.org/</link><dc:creator>prmoustache</dc:creator><comments>https://news.ycombinator.com/item?id=46419968</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46419968</guid></item></channel></rss>
