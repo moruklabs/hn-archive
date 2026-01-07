@@ -1,0 +1,105 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Wed, 07 Jan 2026 00:24:48 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Show HN: GPU Cuckoo Filter – faster queries than Blocked Bloom, with deletion</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/tdortman/cuckoo-filter"&gt;https://github.com/tdortman/cuckoo-filter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46519771"&gt;https://news.ycombinator.com/item?id=46519771&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 10&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 22:33:21 +0000</pubDate><link>https://github.com/tdortman/cuckoo-filter</link><dc:creator>tdortman</dc:creator><comments>https://news.ycombinator.com/item?id=46519771</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46519771</guid></item><item><title>Are we tired of social media once and for all? On the downfall of social media</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all"&gt;https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46519622"&gt;https://news.ycombinator.com/item?id=46519622&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 11&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 22:15:52 +0000</pubDate><link>https://www.danielbrendel.com/blog/24-are-we-tired-of-social-media-once-and-for-all</link><dc:creator>foxiel</dc:creator><comments>https://news.ycombinator.com/item?id=46519622</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46519622</guid></item><item><title>CES 2026: Taking the Lids Off AMD's Venice and MI400 SoCs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds"&gt;https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46519326"&gt;https://news.ycombinator.com/item?id=46519326&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 43&lt;/p&gt;
+&lt;p&gt;# Comments: 28&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 21:46:04 +0000</pubDate><link>https://chipsandcheese.com/p/ces-2026-taking-the-lids-off-amds</link><dc:creator>rbanffy</dc:creator><comments>https://news.ycombinator.com/item?id=46519326</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46519326</guid></item><item><title>Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth"&gt;https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46519303"&gt;https://news.ycombinator.com/item?id=46519303&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 21:44:37 +0000</pubDate><link>https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth</link><dc:creator>amellin794</dc:creator><comments>https://news.ycombinator.com/item?id=46519303</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46519303</guid></item><item><title>Comparing AI agents to cybersecurity professionals in real-world pen testing</title><description>
+&lt;p&gt;WSJ writeup ("AI Hackers Are Coming Dangerously Close to Beating Humans"): &lt;a href="https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerously-close-to-beating-humans-4afc3ad6" rel="nofollow"&gt;https://www.wsj.com/tech/ai/ai-hackers-are-coming-dangerousl...&lt;/a&gt;, &lt;a href="https://archive.ph/L4gh3" rel="nofollow"&gt;https://archive.ph/L4gh3&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46518996"&gt;https://news.ycombinator.com/item?id=46518996&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 53&lt;/p&gt;
+&lt;p&gt;# Comments: 34&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 21:23:07 +0000</pubDate><link>https://arxiv.org/abs/2512.09882</link><dc:creator>littlexsparkee</dc:creator><comments>https://news.ycombinator.com/item?id=46518996</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46518996</guid></item><item><title>Oral microbiome sequencing after taking probiotics</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.booleanbiotech.com/oral-microbiome-biogaia"&gt;https://blog.booleanbiotech.com/oral-microbiome-biogaia&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46518804"&gt;https://news.ycombinator.com/item?id=46518804&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 77&lt;/p&gt;
+&lt;p&gt;# Comments: 27&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 21:10:47 +0000</pubDate><link>https://blog.booleanbiotech.com/oral-microbiome-biogaia</link><dc:creator>sethbannon</dc:creator><comments>https://news.ycombinator.com/item?id=46518804</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46518804</guid></item><item><title>A 30B Qwen Model Walks into a Raspberry Pi and Runs in Real Time</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/"&gt;https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46518573"&gt;https://news.ycombinator.com/item?id=46518573&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 59&lt;/p&gt;
+&lt;p&gt;# Comments: 16&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 20:55:01 +0000</pubDate><link>https://byteshape.com/blogs/Qwen3-30B-A3B-Instruct-2507/</link><dc:creator>dataminer</dc:creator><comments>https://news.ycombinator.com/item?id=46518573</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46518573</guid></item><item><title>Calling All Hackers: How money works (2024)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://phrack.org/issues/71/17"&gt;https://phrack.org/issues/71/17&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46518129"&gt;https://news.ycombinator.com/item?id=46518129&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 123&lt;/p&gt;
+&lt;p&gt;# Comments: 38&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 20:24:45 +0000</pubDate><link>https://phrack.org/issues/71/17</link><dc:creator>krrishd</dc:creator><comments>https://news.ycombinator.com/item?id=46518129</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46518129</guid></item><item><title>Show HN: Finding similarities in New Yorker covers</title><description>
+&lt;p&gt;Originally learned about image hashing and similarity comparison for product image searches. Decided to apply it to magazine covers.&lt;p&gt;Thrasher covers: &lt;a href="https://shoplurker.com/labs/thrasher-covers/" rel="nofollow"&gt;https://shoplurker.com/labs/thrasher-covers/&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46518106"&gt;https://news.ycombinator.com/item?id=46518106&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 17&lt;/p&gt;
+&lt;p&gt;# Comments: 6&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 20:22:43 +0000</pubDate><link>https://shoplurker.com/labs/newyorker-covers/</link><dc:creator>tkp-415</dc:creator><comments>https://news.ycombinator.com/item?id=46518106</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46518106</guid></item><item><title>Self hosting my media library with Jellyfin and Wireguard on Hetzner</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/"&gt;https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46517636"&gt;https://news.ycombinator.com/item?id=46517636&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 103&lt;/p&gt;
+&lt;p&gt;# Comments: 148&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 19:50:35 +0000</pubDate><link>https://layandreas.github.io/personal-blog/posts/how-spotify-made-me-self-host/</link><dc:creator>wismwasm</dc:creator><comments>https://news.ycombinator.com/item?id=46517636</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46517636</guid></item><item><title>Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone</title><description>
+&lt;p&gt;I used Tailscale, an old laptop, Claude Code, and Termius to code from my phone anywhere I have Internet connection.&lt;p&gt;Great for parties where you rather be home tinkering.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46517458"&gt;https://news.ycombinator.com/item?id=46517458&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 202&lt;/p&gt;
+&lt;p&gt;# Comments: 186&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 19:38:32 +0000</pubDate><link>https://github.com/rberg27/doom-coding</link><dc:creator>rbergamini27</dc:creator><comments>https://news.ycombinator.com/item?id=46517458</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46517458</guid></item><item><title>High-Performance DBMSs with io_uring: When and How to use it</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arxiv.org/abs/2512.04859"&gt;https://arxiv.org/abs/2512.04859&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46517319"&gt;https://news.ycombinator.com/item?id=46517319&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 72&lt;/p&gt;
+&lt;p&gt;# Comments: 15&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 19:29:15 +0000</pubDate><link>https://arxiv.org/abs/2512.04859</link><dc:creator>matt_d</dc:creator><comments>https://news.ycombinator.com/item?id=46517319</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46517319</guid></item><item><title>Video Game Websites in the early 00s</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.webdesignmuseum.org/exhibitions/video-game-websites-in-the-early-00s"&gt;https://www.webdesignmuseum.org/exhibitions/video-game-websites-in-the-early-00s&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46516559"&gt;https://news.ycombinator.com/item?id=46516559&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 131&lt;/p&gt;
+&lt;p&gt;# Comments: 71&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 18:39:21 +0000</pubDate><link>https://www.webdesignmuseum.org/exhibitions/video-game-websites-in-the-early-00s</link><dc:creator>klaussilveira</dc:creator><comments>https://news.ycombinator.com/item?id=46516559</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46516559</guid></item><item><title>Passing of Joe Mancuso author of Masonite (Python web framework)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/MasoniteFramework/masonite/discussions/853"&gt;https://github.com/MasoniteFramework/masonite/discussions/853&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46516137"&gt;https://news.ycombinator.com/item?id=46516137&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 124&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 18:11:51 +0000</pubDate><link>https://github.com/MasoniteFramework/masonite/discussions/853</link><dc:creator>wilsonfiifi</dc:creator><comments>https://news.ycombinator.com/item?id=46516137</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46516137</guid></item><item><title>Locating a Photo of a Vehicle in 30 Seconds with GeoSpy</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy"&gt;https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46515948"&gt;https://news.ycombinator.com/item?id=46515948&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 84&lt;/p&gt;
+&lt;p&gt;# Comments: 85&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 18:00:27 +0000</pubDate><link>https://geospy.ai/blog/locating-a-photo-of-a-vehicle-in-30-seconds-with-geospy</link><dc:creator>kachapopopow</dc:creator><comments>https://news.ycombinator.com/item?id=46515948</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46515948</guid></item><item><title>Dude, where's my supersonic jet?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://rationaloptimistsociety.substack.com/p/dude-wheres-my-supersonic-jet"&gt;https://rationaloptimistsociety.substack.com/p/dude-wheres-my-supersonic-jet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46515936"&gt;https://news.ycombinator.com/item?id=46515936&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 96&lt;/p&gt;
+&lt;p&gt;# Comments: 219&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 17:59:41 +0000</pubDate><link>https://rationaloptimistsociety.substack.com/p/dude-wheres-my-supersonic-jet</link><dc:creator>noleary</dc:creator><comments>https://news.ycombinator.com/item?id=46515936</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46515936</guid></item><item><title>Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery</title><description>
+&lt;p&gt;Hi HN, we're Deniz and Sherry from Tamarind Bio (&lt;a href="https://www.tamarind.bio"&gt;https://www.tamarind.bio&lt;/a&gt;). Tamarind is an inference provider for AI drug discovery, serving models like AlphaFold. Biopharma companies use our library of leading open-source models to design new medicines computationally.&lt;p&gt;Here’s a demo: &lt;a href="https://youtu.be/luoMApPeglo" rel="nofollow"&gt;https://youtu.be/luoMApPeglo&lt;/a&gt;&lt;p&gt;Two years ago, I was hired at a Stanford lab to run models for my labmates. Some post-doc would ask me to run a set of 1-5 models in sequence with tens of thousands inputs and I would email them back the result after setting up the workflow in the university cluster.&lt;p&gt;At some point, it became unreasonable that all of an organization's computational biology work would go through an undergrad, so we built Tamarind as a single place for all molecular AI tools, usable at massive scale with no technical background needed. Today, we are used by much of the top 20 pharma, dozens of biotechs and tens of thousands of scientists.&lt;p&gt;When we started getting adoption in the big pharma companies, we found that this problem also persisted. I know directors of data science, where half their job could be described as running scripts for other people.&lt;p&gt;Lots of companies have also deprecated their internally built solution to switch over, dealing with GPU infra and onboarding docker containers not being a very exciting problem when the company you work for is trying to cure cancer.&lt;p&gt;Unlike non-specialized inference providers, we build both a programmatic interface for developers along with a scientist-friendly web app, since most of our users are non-technical. Some of them used to extract proteins from animal blood before replacing that process with using AI to generate proteins on Tamarind.&lt;p&gt;Besides grinding out images for each of the models we serve, we’ve designed a standardized schema to be able to share each model’s data format. We’ve built a custom scheduler and queue optimized for horizontal scaling (each inference call takes minutes to hours, and runs on one GPU at a time), while splitting jobs across CPUs and GPUs for optimal timing.&lt;p&gt;As we've grown to handle a substantial portion of the biopharma R&amp;D AI demand on behalf of our customers, we've expanded beyond just offering a library of open source protocols.&lt;p&gt;A common use case we saw from early on was the need to connect multiple models together into pipelines, and having reproducible, consistent protocols to replace physical experiments. Once we became the place to build internal tools for computational science, our users started asking if they could onboard their own models to the platform.&lt;p&gt;From there, we now support fine-tuning, building UIs for arbitrary docker containers, connecting to wet lab data sources and more!&lt;p&gt;Reach out to me at deniz[at]tamarind.bio if you’re interested in our work, we are hiring! Check out our product at &lt;a href="https://app.tamarind.bio"&gt;https://app.tamarind.bio&lt;/a&gt; and let us know if you have any feedback to support how the biotech industry uses AI today.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46515777"&gt;https://news.ycombinator.com/item?id=46515777&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 48&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 17:49:56 +0000</pubDate><link>https://news.ycombinator.com/item?id=46515777</link><dc:creator>denizkavi</dc:creator><comments>https://news.ycombinator.com/item?id=46515777</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46515777</guid></item><item><title>Opus 4.5 is not the normal AI agent experience that I have had thus far</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://burkeholland.github.io/posts/opus-4-5-change-everything/"&gt;https://burkeholland.github.io/posts/opus-4-5-change-everything/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46515696"&gt;https://news.ycombinator.com/item?id=46515696&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 263&lt;/p&gt;
+&lt;p&gt;# Comments: 365&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 17:45:37 +0000</pubDate><link>https://burkeholland.github.io/posts/opus-4-5-change-everything/</link><dc:creator>tbassetto</dc:creator><comments>https://news.ycombinator.com/item?id=46515696</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46515696</guid></item><item><title>Volkswagen Brings Back Physical Buttons</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/"&gt;https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46514913"&gt;https://news.ycombinator.com/item?id=46514913&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 300&lt;/p&gt;
+&lt;p&gt;# Comments: 21&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 16:59:44 +0000</pubDate><link>https://www.caranddriver.com/news/a69916699/volkswagen-interior-physical-buttons-return/</link><dc:creator>stephc_int13</dc:creator><comments>https://news.ycombinator.com/item?id=46514913</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46514913</guid></item><item><title>Why Big Companies Keep Failing: The Stack Fallacy (2016)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/"&gt;https://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46514816"&gt;https://news.ycombinator.com/item?id=46514816&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 68&lt;/p&gt;
+&lt;p&gt;# Comments: 49&lt;/p&gt;
+</description><pubDate>Tue, 06 Jan 2026 16:53:27 +0000</pubDate><link>https://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/</link><dc:creator>bobbiechen</dc:creator><comments>https://news.ycombinator.com/item?id=46514816</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46514816</guid></item></channel></rss>
