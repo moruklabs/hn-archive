@@ -1,0 +1,104 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Thu, 08 Jan 2026 00:29:53 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Play Aardwolf MUD</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.aardwolf.com/"&gt;https://www.aardwolf.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46534777"&gt;https://news.ycombinator.com/item?id=46534777&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 15&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 23:31:05 +0000</pubDate><link>https://www.aardwolf.com/</link><dc:creator>caminanteblanco</dc:creator><comments>https://news.ycombinator.com/item?id=46534777</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46534777</guid></item><item><title>ICE Is Going on a Surveillance Shopping Spree</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree"&gt;https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46534581"&gt;https://news.ycombinator.com/item?id=46534581&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 32&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 23:11:01 +0000</pubDate><link>https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree</link><dc:creator>BeetleB</dc:creator><comments>https://news.ycombinator.com/item?id=46534581</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46534581</guid></item><item><title>2026 Predictions Scorecard</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://rodneybrooks.com/predictions-scorecard-2026-january-01/"&gt;https://rodneybrooks.com/predictions-scorecard-2026-january-01/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46533343"&gt;https://news.ycombinator.com/item?id=46533343&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 23&lt;/p&gt;
+&lt;p&gt;# Comments: 18&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 21:40:41 +0000</pubDate><link>https://rodneybrooks.com/predictions-scorecard-2026-january-01/</link><dc:creator>calvinfo</dc:creator><comments>https://news.ycombinator.com/item?id=46533343</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46533343</guid></item><item><title>My first paper: A practical implementation of Rubiks cube based passkeys</title><description>
+&lt;p&gt;I'm not super experienced with cryptography but I had some spare time on my hands so I decided to make CubeAuthn and turn it into a paper.&lt;p&gt;Repo here: &lt;a href="https://github.com/Acorn221/CubeAuthn" rel="nofollow"&gt;https://github.com/Acorn221/CubeAuthn&lt;/a&gt;. Feel free to ask questions!&lt;p&gt;---&lt;p&gt;Abstract:&lt;p&gt;We present a novel authentication system that transforms a Rubik's cube into a physical key for digital authentication. By reading the cube's specific arrangement among 43 quintillion possible configurations, our system generates FIDO2-compatible credentials on-demand. Unlike traditional security tokens that store credentials, the cube itself becomes part of the key with its physical state forming a deterministic seed for keypair generation. Our proof-of-concept, CubeAuthn, demonstrates this concept with a browser extension that authenticates users on WebAuthn-enabled sites using the cube's physical state as the cryptographic seed.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46533315"&gt;https://news.ycombinator.com/item?id=46533315&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 21&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 21:38:56 +0000</pubDate><link>https://ieeexplore.ieee.org/document/11280260</link><dc:creator>acorn221</dc:creator><comments>https://news.ycombinator.com/item?id=46533315</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46533315</guid></item><item><title>So you wanna de-bog yourself (2024)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself"&gt;https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46532961"&gt;https://news.ycombinator.com/item?id=46532961&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 21&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 21:16:47 +0000</pubDate><link>https://www.experimental-history.com/p/so-you-wanna-de-bog-yourself</link><dc:creator>calvinfo</dc:creator><comments>https://news.ycombinator.com/item?id=46532961</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46532961</guid></item><item><title>SSDs, power loss protection and fsync latency</title><description>
+&lt;p&gt;Article URL: &lt;a href="http://smalldatum.blogspot.com/2026/01/ssds-power-loss-protection-and-fsync.html"&gt;http://smalldatum.blogspot.com/2026/01/ssds-power-loss-protection-and-fsync.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46532675"&gt;https://news.ycombinator.com/item?id=46532675&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 18&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 21:00:57 +0000</pubDate><link>http://smalldatum.blogspot.com/2026/01/ssds-power-loss-protection-and-fsync.html</link><dc:creator>ingve</dc:creator><comments>https://news.ycombinator.com/item?id=46532675</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46532675</guid></item><item><title>Tailscale state file encryption no longer enabled by default</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://tailscale.com/changelog"&gt;https://tailscale.com/changelog&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46531925"&gt;https://news.ycombinator.com/item?id=46531925&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 173&lt;/p&gt;
+&lt;p&gt;# Comments: 78&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 20:16:50 +0000</pubDate><link>https://tailscale.com/changelog</link><dc:creator>traceroute66</dc:creator><comments>https://news.ycombinator.com/item?id=46531925</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46531925</guid></item><item><title>Claude Code Emergent Behavior: When Skills Combine</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://vibeandscribe.xyz/posts/2025-01-07-emergent-behavior.html"&gt;https://vibeandscribe.xyz/posts/2025-01-07-emergent-behavior.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46531794"&gt;https://news.ycombinator.com/item?id=46531794&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 62&lt;/p&gt;
+&lt;p&gt;# Comments: 31&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 20:06:53 +0000</pubDate><link>https://vibeandscribe.xyz/posts/2025-01-07-emergent-behavior.html</link><dc:creator>ryanthedev</dc:creator><comments>https://news.ycombinator.com/item?id=46531794</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46531794</guid></item><item><title>Notion AI: Unpatched data exfiltration</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration"&gt;https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46531565"&gt;https://news.ycombinator.com/item?id=46531565&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 77&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 19:49:54 +0000</pubDate><link>https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration</link><dc:creator>takira</dc:creator><comments>https://news.ycombinator.com/item?id=46531565</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46531565</guid></item><item><title>ChatGPT Health</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://openai.com/index/introducing-chatgpt-health/"&gt;https://openai.com/index/introducing-chatgpt-health/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46531280"&gt;https://news.ycombinator.com/item?id=46531280&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 137&lt;/p&gt;
+&lt;p&gt;# Comments: 167&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 19:29:39 +0000</pubDate><link>https://openai.com/index/introducing-chatgpt-health/</link><dc:creator>saikatsg</dc:creator><comments>https://news.ycombinator.com/item?id=46531280</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46531280</guid></item><item><title>US will ban Wall Street investors from buying single-family homes</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/"&gt;https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46531068"&gt;https://news.ycombinator.com/item?id=46531068&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 521&lt;/p&gt;
+&lt;p&gt;# Comments: 566&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 19:13:19 +0000</pubDate><link>https://www.reuters.com/world/us/us-will-ban-large-institutional-investors-buying-single-family-homes-trump-says-2026-01-07/</link><dc:creator>kpw94</dc:creator><comments>https://news.ycombinator.com/item?id=46531068</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46531068</guid></item><item><title>Show HN: I visualized the entire history of Citi Bike in the browser</title><description>
+&lt;p&gt;Each moving arrow represents one real bike ride out of 291 million, and if you've ever taken a Citi Bike before, you are included in this massive visualization!&lt;p&gt;You can search for your ride using Cmd + K and your Citi Bike receipt, which should give you the time of your ride and start/end station.&lt;p&gt;Everything is open source: &lt;a href="https://github.com/freemanjiang/bikemap" rel="nofollow"&gt;https://github.com/freemanjiang/bikemap&lt;/a&gt;&lt;p&gt;Some technical details:
+- No backend! Processed data is stored in parquet files on a Cloudflare CDN, and queried directly by DuckDB WASM&lt;p&gt;- deck.gl w/ Mapbox for GPU-accelerated rendering of thousands of concurrent animated bikes&lt;p&gt;- Web Workers decode polyline routes and do as much precomputation as possible off the main thread&lt;p&gt;- Since only (start, end) station pairs are provided, routes are generated by querying OSRM for the shortest path between all 2,400+ station pairs&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46530832"&gt;https://news.ycombinator.com/item?id=46530832&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 41&lt;/p&gt;
+&lt;p&gt;# Comments: 17&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 18:57:18 +0000</pubDate><link>https://bikemap.nyc/</link><dc:creator>freemanjiang</dc:creator><comments>https://news.ycombinator.com/item?id=46530832</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46530832</guid></item><item><title>NPM to implement staged publishing after turbulent shift off classic tokens</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://socket.dev/blog/npm-to-implement-staged-publishing"&gt;https://socket.dev/blog/npm-to-implement-staged-publishing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46530448"&gt;https://news.ycombinator.com/item?id=46530448&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 118&lt;/p&gt;
+&lt;p&gt;# Comments: 20&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 18:31:19 +0000</pubDate><link>https://socket.dev/blog/npm-to-implement-staged-publishing</link><dc:creator>feross</dc:creator><comments>https://news.ycombinator.com/item?id=46530448</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46530448</guid></item><item><title>Eat Real Food</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://realfood.gov"&gt;https://realfood.gov&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46529237"&gt;https://news.ycombinator.com/item?id=46529237&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 431&lt;/p&gt;
+&lt;p&gt;# Comments: 734&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 17:22:09 +0000</pubDate><link>https://realfood.gov</link><dc:creator>atestu</dc:creator><comments>https://news.ycombinator.com/item?id=46529237</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46529237</guid></item><item><title>Health care data breach affects over 600k patients, Illinois agency says</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says"&gt;https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46528353"&gt;https://news.ycombinator.com/item?id=46528353&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 147&lt;/p&gt;
+&lt;p&gt;# Comments: 49&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 16:28:14 +0000</pubDate><link>https://www.nprillinois.org/illinois/2026-01-06/health-care-data-breach-affects-600-000-patients-illinois-agency-says</link><dc:creator>toomuchtodo</dc:creator><comments>https://news.ycombinator.com/item?id=46528353</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46528353</guid></item><item><title>Building voice agents with Nvidia open models</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.daily.co/blog/building-voice-agents-with-nvidia-open-models/"&gt;https://www.daily.co/blog/building-voice-agents-with-nvidia-open-models/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46528045"&gt;https://news.ycombinator.com/item?id=46528045&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 71&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 16:08:36 +0000</pubDate><link>https://www.daily.co/blog/building-voice-agents-with-nvidia-open-models/</link><dc:creator>kwindla</dc:creator><comments>https://news.ycombinator.com/item?id=46528045</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46528045</guid></item><item><title>Creators of Tailwind laid off 75% of their engineering team</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/tailwindlabs/tailwindcss.com/pull/2388"&gt;https://github.com/tailwindlabs/tailwindcss.com/pull/2388&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46527950"&gt;https://news.ycombinator.com/item?id=46527950&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 896&lt;/p&gt;
+&lt;p&gt;# Comments: 557&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 16:02:19 +0000</pubDate><link>https://github.com/tailwindlabs/tailwindcss.com/pull/2388</link><dc:creator>kevlened</dc:creator><comments>https://news.ycombinator.com/item?id=46527950</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46527950</guid></item><item><title>Many hells of WebDAV</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://candid.dev/blog/many-hells-of-webdav"&gt;https://candid.dev/blog/many-hells-of-webdav&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46527775"&gt;https://news.ycombinator.com/item?id=46527775&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 117&lt;/p&gt;
+&lt;p&gt;# Comments: 62&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 15:50:50 +0000</pubDate><link>https://candid.dev/blog/many-hells-of-webdav</link><dc:creator>candiddevmike</dc:creator><comments>https://news.ycombinator.com/item?id=46527775</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46527775</guid></item><item><title>Shipmap.org</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.shipmap.org/"&gt;https://www.shipmap.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46527161"&gt;https://news.ycombinator.com/item?id=46527161&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 427&lt;/p&gt;
+&lt;p&gt;# Comments: 71&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 15:03:41 +0000</pubDate><link>https://www.shipmap.org/</link><dc:creator>surprisetalk</dc:creator><comments>https://news.ycombinator.com/item?id=46527161</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46527161</guid></item><item><title>Everything You Need to Know About Email Encryption in 2026</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://soatok.blog/2026/01/04/everything-you-need-to-know-about-email-encryption-in-2026/"&gt;https://soatok.blog/2026/01/04/everything-you-need-to-know-about-email-encryption-in-2026/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46527119"&gt;https://news.ycombinator.com/item?id=46527119&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 6&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Wed, 07 Jan 2026 15:00:44 +0000</pubDate><link>https://soatok.blog/2026/01/04/everything-you-need-to-know-about-email-encryption-in-2026/</link><dc:creator>birdculture</dc:creator><comments>https://news.ycombinator.com/item?id=46527119</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46527119</guid></item></channel></rss>
