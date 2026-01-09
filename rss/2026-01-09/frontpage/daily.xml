@@ -1,0 +1,103 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Fri, 09 Jan 2026 00:20:21 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Embassy: Modern embedded framework, using Rust and async</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/embassy-rs/embassy"&gt;https://github.com/embassy-rs/embassy&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46547740"&gt;https://news.ycombinator.com/item?id=46547740&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 43&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 23:00:45 +0000</pubDate><link>https://github.com/embassy-rs/embassy</link><dc:creator>birdculture</dc:creator><comments>https://news.ycombinator.com/item?id=46547740</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46547740</guid></item><item><title>Iran Protest Map</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://pouyaii.github.io/Iran/"&gt;https://pouyaii.github.io/Iran/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46547303"&gt;https://news.ycombinator.com/item?id=46547303&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 123&lt;/p&gt;
+&lt;p&gt;# Comments: 53&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 22:20:34 +0000</pubDate><link>https://pouyaii.github.io/Iran/</link><dc:creator>breppp</dc:creator><comments>https://news.ycombinator.com/item?id=46547303</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46547303</guid></item><item><title>Richard D. James aka Aphex Twin speaks to Tatsuya Takahashi</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/"&gt;https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46546614"&gt;https://news.ycombinator.com/item?id=46546614&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 37&lt;/p&gt;
+&lt;p&gt;# Comments: 12&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 21:17:26 +0000</pubDate><link>https://web.archive.org/web/20180719052026/http://item.warp.net/interview/aphex-twin-speaks-to-tatsuya-takahashi/</link><dc:creator>lelandfe</dc:creator><comments>https://news.ycombinator.com/item?id=46546614</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46546614</guid></item><item><title>Mux (YC W16) is hiring a platform engineer that cares about (internal) DX</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.mux.com/jobs"&gt;https://www.mux.com/jobs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46546413"&gt;https://news.ycombinator.com/item?id=46546413&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 21:01:36 +0000</pubDate><link>https://www.mux.com/jobs</link><dc:creator>mmcclure</dc:creator><comments>https://news.ycombinator.com/item?id=46546413</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46546413</guid></item><item><title>Show HN: A geofence-based social network app 6 years in development</title><description>
+&lt;p&gt;My name is Adrian. I'm a Software Engineer and I spent 6 years developing a perimeter-based geofence-based social media app.&lt;p&gt;What it does:&lt;p&gt;- Allows you to load a custom perimeter anywhere on the geographic map (180° E and W longitude and 90° N and S latitude), to cover area any area of interest&lt;p&gt;- Chat rooms get loaded within the perimeter&lt;p&gt;- You can chat with people within the perimeter&lt;p&gt;I developed a mobile app that uses an advanced geofence-based networking system from 2013 to 2019. My goal was to connect uses within polygon geofences anywhere in the world. The app is capable of loading millions of polygon geofences anywhere in the world.&lt;p&gt;&lt;a href="https://enterpriseandroidfoundation.com/assets/images/other/manhattan-polygon-geofences.png" rel="nofollow"&gt;https://enterpriseandroidfoundation.com/assets/images/other/...&lt;/a&gt;&lt;p&gt;But people didn't really have a need for this. So after failing, I spent the next 6 years trying to ideas to use FencedIn for. I tried a location-based video app and a place-based app that had multiple features. Nothing worked, but now I'm almost finished developing ChatLocal, an app that allows you to load a perimeter anywhere on the geographic map, which loads chat rooms.&lt;p&gt;The tech stack is 100% Java (low-level mostly). I have a backend, commons library and an Android app. Java was the natural choice back in 2013. However, I still wouldn't choose anything else today. Java is the best for long-term large-scale projects. (I'm also using WildFly. PostgreSQL and a Linux server.)&lt;p&gt;This app is still not fully finished, but I think the impact on society might be tremendous.&lt;p&gt;The previous app to ChatLocal, LocalVideo, is fully up on the Google Play store and can be tested. It has 88% of the features of ChatLocal, including especially the perimeter-based loading system.&lt;p&gt;The feedback I'm mostly looking for is new ideas and concepts to add to this location-based social media app. And how strong of a value proposition does the app have for society.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46546349"&gt;https://news.ycombinator.com/item?id=46546349&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 25&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 20:56:32 +0000</pubDate><link>https://www.localvideoapp.com</link><dc:creator>Adrian-ChatLocl</dc:creator><comments>https://news.ycombinator.com/item?id=46546349</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46546349</guid></item><item><title>Support for the TSO memory model on Arm CPUs (2024)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lwn.net/Articles/970907/"&gt;https://lwn.net/Articles/970907/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46546322"&gt;https://news.ycombinator.com/item?id=46546322&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 19&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 20:54:30 +0000</pubDate><link>https://lwn.net/Articles/970907/</link><dc:creator>weinzierl</dc:creator><comments>https://news.ycombinator.com/item?id=46546322</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46546322</guid></item><item><title>Sopro TTS: A 169M model with zero-shot voice cloning that runs on the CPU</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/samuel-vitorino/sopro"&gt;https://github.com/samuel-vitorino/sopro&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46546113"&gt;https://news.ycombinator.com/item?id=46546113&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 106&lt;/p&gt;
+&lt;p&gt;# Comments: 48&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 20:37:07 +0000</pubDate><link>https://github.com/samuel-vitorino/sopro</link><dc:creator>sammyyyyyyy</dc:creator><comments>https://news.ycombinator.com/item?id=46546113</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46546113</guid></item><item><title>How to Code Claude Code in 200 Lines of Code</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.mihaileric.com/The-Emperor-Has-No-Clothes/"&gt;https://www.mihaileric.com/The-Emperor-Has-No-Clothes/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46545620"&gt;https://news.ycombinator.com/item?id=46545620&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 252&lt;/p&gt;
+&lt;p&gt;# Comments: 132&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 19:54:26 +0000</pubDate><link>https://www.mihaileric.com/The-Emperor-Has-No-Clothes/</link><dc:creator>nutellalover</dc:creator><comments>https://news.ycombinator.com/item?id=46545620</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46545620</guid></item><item><title>Task-free intelligence testing of LLMs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.marble.onl/posts/tapping/index.html"&gt;https://www.marble.onl/posts/tapping/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46545587"&gt;https://news.ycombinator.com/item?id=46545587&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 31&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 19:51:47 +0000</pubDate><link>https://www.marble.onl/posts/tapping/index.html</link><dc:creator>amarble</dc:creator><comments>https://news.ycombinator.com/item?id=46545587</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46545587</guid></item><item><title>Google AI Studio is now sponsoring Tailwind CSS</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://twitter.com/OfficialLoganK/status/2009339263251566902"&gt;https://twitter.com/OfficialLoganK/status/2009339263251566902&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46545077"&gt;https://news.ycombinator.com/item?id=46545077&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 390&lt;/p&gt;
+&lt;p&gt;# Comments: 139&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 19:09:23 +0000</pubDate><link>https://twitter.com/OfficialLoganK/status/2009339263251566902</link><dc:creator>qwertyforce</dc:creator><comments>https://news.ycombinator.com/item?id=46545077</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46545077</guid></item><item><title>The Unreasonable Effectiveness of the Fourier Transform</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://joshuawise.com/resources/ofdm/"&gt;https://joshuawise.com/resources/ofdm/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46544981"&gt;https://news.ycombinator.com/item?id=46544981&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 118&lt;/p&gt;
+&lt;p&gt;# Comments: 52&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 19:00:28 +0000</pubDate><link>https://joshuawise.com/resources/ofdm/</link><dc:creator>voxadam</dc:creator><comments>https://news.ycombinator.com/item?id=46544981</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46544981</guid></item><item><title>Fixing a Buffer Overflow in Unix v4 Like It's 1973</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/"&gt;https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46544610"&gt;https://news.ycombinator.com/item?id=46544610&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 72&lt;/p&gt;
+&lt;p&gt;# Comments: 18&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 18:29:47 +0000</pubDate><link>https://sigma-star.at/blog/2025/12/unix-v4-buffer-overflow/</link><dc:creator>vzaliva</dc:creator><comments>https://news.ycombinator.com/item?id=46544610</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46544610</guid></item><item><title>Show HN: macOS menu bar app to track Claude usage in real time</title><description>
+&lt;p&gt;I built a macOS menu bar app to track Claude usage in real time via API after hitting limits mid-flow too often.&lt;p&gt;Signed and notarised by Apple. Open source.&lt;p&gt;&lt;a href="https://github.com/richhickson/claudecodeusage" rel="nofollow"&gt;https://github.com/richhickson/claudecodeusage&lt;/a&gt;&lt;p&gt;&lt;a href="https://x.com/richhickson" rel="nofollow"&gt;https://x.com/richhickson&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46544524"&gt;https://news.ycombinator.com/item?id=46544524&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 69&lt;/p&gt;
+&lt;p&gt;# Comments: 30&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 18:24:17 +0000</pubDate><link>https://github.com/richhickson/claudecodeusage</link><dc:creator>RichHickson</dc:creator><comments>https://news.ycombinator.com/item?id=46544524</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46544524</guid></item><item><title>IBM AI ('Bob') Downloads and Executes Malware</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware"&gt;https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46544454"&gt;https://news.ycombinator.com/item?id=46544454&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 223&lt;/p&gt;
+&lt;p&gt;# Comments: 105&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 18:19:09 +0000</pubDate><link>https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware</link><dc:creator>takira</dc:creator><comments>https://news.ycombinator.com/item?id=46544454</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46544454</guid></item><item><title>Tamarind Bio (YC W24) Is Hiring Infrastructure Engineers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer"&gt;https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46543403"&gt;https://news.ycombinator.com/item?id=46543403&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 17:01:00 +0000</pubDate><link>https://www.ycombinator.com/companies/tamarind-bio/jobs/HPRZAz3-infrastructure-engineer</link><dc:creator>sherryliu987</dc:creator><comments>https://news.ycombinator.com/item?id=46543403</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46543403</guid></item><item><title>Digital Red Queen: Adversarial Program Evolution in Core War with LLMs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://sakana.ai/drq/"&gt;https://sakana.ai/drq/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46542761"&gt;https://news.ycombinator.com/item?id=46542761&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 86&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 16:16:43 +0000</pubDate><link>https://sakana.ai/drq/</link><dc:creator>hardmaru</dc:creator><comments>https://news.ycombinator.com/item?id=46542761</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46542761</guid></item><item><title>Iran Goes Into IPv6 Blackout</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://radar.cloudflare.com/routing/ir"&gt;https://radar.cloudflare.com/routing/ir&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46542683"&gt;https://news.ycombinator.com/item?id=46542683&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 378&lt;/p&gt;
+&lt;p&gt;# Comments: 277&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 16:11:48 +0000</pubDate><link>https://radar.cloudflare.com/routing/ir</link><dc:creator>honeycrispy</dc:creator><comments>https://news.ycombinator.com/item?id=46542683</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46542683</guid></item><item><title>AI coding assistants are getting worse?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://spectrum.ieee.org/ai-coding-degrades"&gt;https://spectrum.ieee.org/ai-coding-degrades&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46542036"&gt;https://news.ycombinator.com/item?id=46542036&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 194&lt;/p&gt;
+&lt;p&gt;# Comments: 294&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 15:20:15 +0000</pubDate><link>https://spectrum.ieee.org/ai-coding-degrades</link><dc:creator>voxadam</dc:creator><comments>https://news.ycombinator.com/item?id=46542036</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46542036</guid></item><item><title>Bose is open-sourcing its old smart speakers instead of bricking them</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source"&gt;https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46541892"&gt;https://news.ycombinator.com/item?id=46541892&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 2035&lt;/p&gt;
+&lt;p&gt;# Comments: 306&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 15:07:57 +0000</pubDate><link>https://www.theverge.com/news/858501/bose-soundtouch-smart-speakers-open-source</link><dc:creator>rayrey</dc:creator><comments>https://news.ycombinator.com/item?id=46541892</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46541892</guid></item><item><title>Maine company in the spotlight after Maduro apparently wore one of their hoodies</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.boston.com/news/business/2026/01/06/maine-company-maduro-venezuela-hoodie/"&gt;https://www.boston.com/news/business/2026/01/06/maine-company-maduro-venezuela-hoodie/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46541586"&gt;https://news.ycombinator.com/item?id=46541586&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 5&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Thu, 08 Jan 2026 14:44:24 +0000</pubDate><link>https://www.boston.com/news/business/2026/01/06/maine-company-maduro-venezuela-hoodie/</link><dc:creator>mhb</dc:creator><comments>https://news.ycombinator.com/item?id=46541586</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46541586</guid></item></channel></rss>
