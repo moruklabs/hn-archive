@@ -1,0 +1,118 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sat, 10 Jan 2026 00:25:13 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Washington National Opera Is Leaving the Kennedy Center</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.nytimes.com/2026/01/09/arts/music/washington-national-opera-kennedy-center.html"&gt;https://www.nytimes.com/2026/01/09/arts/music/washington-national-opera-kennedy-center.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46561081"&gt;https://news.ycombinator.com/item?id=46561081&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 12&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 23:56:10 +0000</pubDate><link>https://www.nytimes.com/2026/01/09/arts/music/washington-national-opera-kennedy-center.html</link><dc:creator>mikhael</dc:creator><comments>https://news.ycombinator.com/item?id=46561081</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46561081</guid></item><item><title>Erdos problem #728 was solved more or less autonomously by AI</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://mathstodon.xyz/@tao/115855840223258103"&gt;https://mathstodon.xyz/@tao/115855840223258103&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46560445"&gt;https://news.ycombinator.com/item?id=46560445&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 129&lt;/p&gt;
+&lt;p&gt;# Comments: 67&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 22:39:15 +0000</pubDate><link>https://mathstodon.xyz/@tao/115855840223258103</link><dc:creator>cod1r</dc:creator><comments>https://news.ycombinator.com/item?id=46560445</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46560445</guid></item><item><title>Deno has made its PyPI distribution official</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/denoland/deno/issues/31254"&gt;https://github.com/denoland/deno/issues/31254&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46559761"&gt;https://news.ycombinator.com/item?id=46559761&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 12&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 21:41:27 +0000</pubDate><link>https://github.com/denoland/deno/issues/31254</link><dc:creator>zahlman</dc:creator><comments>https://news.ycombinator.com/item?id=46559761</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46559761</guid></item><item><title>QtNat – Open you port with Qt UPnP</title><description>
+&lt;p&gt;Article URL: &lt;a href="http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/"&gt;http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46558739"&gt;https://news.ycombinator.com/item?id=46558739&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 36&lt;/p&gt;
+&lt;p&gt;# Comments: 22&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 20:17:07 +0000</pubDate><link>http://renaudguezennec.eu/index.php/2026/01/09/qtnat-open-you-port-with-qt/</link><dc:creator>jandeboevrie</dc:creator><comments>https://news.ycombinator.com/item?id=46558739</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46558739</guid></item><item><title>RTX 5090 and Raspberry Pi: Can It Game?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/"&gt;https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46558148"&gt;https://news.ycombinator.com/item?id=46558148&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 111&lt;/p&gt;
+&lt;p&gt;# Comments: 57&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 19:33:47 +0000</pubDate><link>https://scottjg.com/posts/2026-01-08-crappy-computer-showdown/</link><dc:creator>scottjg</dc:creator><comments>https://news.ycombinator.com/item?id=46558148</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46558148</guid></item><item><title>Show HN: Rocket Launch and Orbit Simulator</title><description>
+&lt;p&gt;I (17y/o) have been developing a rocket launch simulation that allows the user to explore what it's like launching a rocket from earth and putting it into orbit. This idea originally started as an educational simulation but as i've gone more down the rabbit hole the more i've wanted to make it realistic. The problem is that I've never had a formal orbital mechanics class or anything like that so I don't know what I'm missing, what I currently have implemented is:&lt;p&gt;&lt;pre&gt;&lt;code&gt;  Variable gravity
+  Variable Atmospheric drag (US Standard Atmosphere 1976)
+  Multi-stage rockets
+  Closed-loop guidance / pitch programs (works well within ranges 350km to 600km)
+  Orbital prediction and thrusting options to change your orbit.
+&lt;/code&gt;&lt;/pre&gt;
+The feedback I'm looking for is: UI improvements and possible future physics implementations that I can work on.&lt;p&gt;Current code and physics can be found at: &lt;a href="https://github.com/donutTheJedi/Rocket-Launch-Simulation" rel="nofollow"&gt;https://github.com/donutTheJedi/Rocket-Launch-Simulation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46557879"&gt;https://news.ycombinator.com/item?id=46557879&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 78&lt;/p&gt;
+&lt;p&gt;# Comments: 26&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 19:15:21 +0000</pubDate><link>https://www.donutthejedi.com/</link><dc:creator>donutthejedi</dc:creator><comments>https://news.ycombinator.com/item?id=46557879</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46557879</guid></item><item><title>Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)</title><description>
+&lt;p&gt;I built this as a personal open-source project to explore how EU AI Act
+requirements can be translated into concrete, inspectable technical checks.&lt;p&gt;The core idea is local-first compliance:
+– risk classification (Articles 5–15, incl. prohibited use cases)
+– bias evaluation using CrowS-Pairs
+– automatic Annex IV–oriented PDF reports
+– no cloud services or external APIs (browser-based + Ollama)&lt;p&gt;I’m especially interested in feedback on whether this kind of
+technical framing of AI regulation makes sense in real-world projects.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46557823"&gt;https://news.ycombinator.com/item?id=46557823&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 56&lt;/p&gt;
+&lt;p&gt;# Comments: 33&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 19:11:57 +0000</pubDate><link>https://github.com/Hiepler/EuConform</link><dc:creator>hiepler</dc:creator><comments>https://news.ycombinator.com/item?id=46557823</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46557823</guid></item><item><title>JavaScript Demos in 140 Characters</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://beta.dwitter.net"&gt;https://beta.dwitter.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46557489"&gt;https://news.ycombinator.com/item?id=46557489&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 156&lt;/p&gt;
+&lt;p&gt;# Comments: 34&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 18:48:30 +0000</pubDate><link>https://beta.dwitter.net</link><dc:creator>themanmaran</dc:creator><comments>https://news.ycombinator.com/item?id=46557489</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46557489</guid></item><item><title>Turn a single image into a navigable 3D Gaussian Splat with depth</title><description>
+&lt;p&gt;&lt;a href="https://x.com/revelium_studio/status/2009570090568577045" rel="nofollow"&gt;https://x.com/revelium_studio/status/2009570090568577045&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46557352"&gt;https://news.ycombinator.com/item?id=46557352&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 47&lt;/p&gt;
+&lt;p&gt;# Comments: 34&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 18:38:34 +0000</pubDate><link>https://lab.revelium.studio/ml-sharp</link><dc:creator>ytpete</dc:creator><comments>https://news.ycombinator.com/item?id=46557352</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46557352</guid></item><item><title>Exercise can be nearly as effective as therapy for depression</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.sciencedaily.com/releases/2026/01/260107225516.htm"&gt;https://www.sciencedaily.com/releases/2026/01/260107225516.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46557233"&gt;https://news.ycombinator.com/item?id=46557233&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 266&lt;/p&gt;
+&lt;p&gt;# Comments: 212&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 18:29:35 +0000</pubDate><link>https://www.sciencedaily.com/releases/2026/01/260107225516.htm</link><dc:creator>mustaphah</dc:creator><comments>https://news.ycombinator.com/item?id=46557233</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46557233</guid></item><item><title>Replit (YC W18) Is Hiring</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jobs.ashbyhq.com/replit"&gt;https://jobs.ashbyhq.com/replit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46556822"&gt;https://news.ycombinator.com/item?id=46556822&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 18:00:56 +0000</pubDate><link>https://jobs.ashbyhq.com/replit</link><dc:creator>amasad</dc:creator><comments>https://news.ycombinator.com/item?id=46556822</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46556822</guid></item><item><title>How Markdown took over the world</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/"&gt;https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46556695"&gt;https://news.ycombinator.com/item?id=46556695&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 107&lt;/p&gt;
+&lt;p&gt;# Comments: 69&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 17:52:20 +0000</pubDate><link>https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/</link><dc:creator>zdw</dc:creator><comments>https://news.ycombinator.com/item?id=46556695</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46556695</guid></item><item><title>Show HN: I made a memory game to teach you to play piano by ear</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lend-me-your-ears.specr.net"&gt;https://lend-me-your-ears.specr.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46556210"&gt;https://news.ycombinator.com/item?id=46556210&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 379&lt;/p&gt;
+&lt;p&gt;# Comments: 137&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 17:17:28 +0000</pubDate><link>https://lend-me-your-ears.specr.net</link><dc:creator>vunderba</dc:creator><comments>https://news.ycombinator.com/item?id=46556210</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46556210</guid></item><item><title>IcePanel (YC W23) is hiring full-stack engineers in Vancouver</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://forms.icepanel.io/careers/senior-product-engineer"&gt;https://forms.icepanel.io/careers/senior-product-engineer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46555977"&gt;https://news.ycombinator.com/item?id=46555977&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 17:01:02 +0000</pubDate><link>https://forms.icepanel.io/careers/senior-product-engineer</link><dc:creator>JacobShadbolt</dc:creator><comments>https://news.ycombinator.com/item?id=46555977</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46555977</guid></item><item><title>The Vietnam government has banned rooted phones from using any banking app</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118"&gt;https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46555963"&gt;https://news.ycombinator.com/item?id=46555963&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 395&lt;/p&gt;
+&lt;p&gt;# Comments: 492&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 17:00:11 +0000</pubDate><link>https://xdaforums.com/t/discussion-the-root-and-mod-hiding-fingerprint-spoofing-keybox-stealing-cat-and-mouse-game.4425939/page-118</link><dc:creator>Magnusmaster</dc:creator><comments>https://news.ycombinator.com/item?id=46555963</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46555963</guid></item><item><title>Flock Hardcoded the Password for America's Surveillance Infrastructure 53 Times</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure"&gt;https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46555807"&gt;https://news.ycombinator.com/item?id=46555807&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 128&lt;/p&gt;
+&lt;p&gt;# Comments: 43&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 16:49:59 +0000</pubDate><link>https://nexanet.ai/blog/53-times-flocksafety-hardcoded-the-password-for-americas-surveillance-infrastructure</link><dc:creator>fuck_flock</dc:creator><comments>https://news.ycombinator.com/item?id=46555807</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46555807</guid></item><item><title>Cloudflare CEO on the Italy fines</title><description>
+&lt;p&gt;&lt;a href="https://xcancel.com/eastdakota/status/2009654937303896492" rel="nofollow"&gt;https://xcancel.com/eastdakota/status/2009654937303896492&lt;/a&gt;&lt;p&gt;&lt;a href="https://torrentfreak.com/italy-fines-cloudflare-e14-million-for-refusing-to-filter-pirate-sites-on-public-1-1-1-1-dns/" rel="nofollow"&gt;https://torrentfreak.com/italy-fines-cloudflare-e14-million-...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46555760"&gt;https://news.ycombinator.com/item?id=46555760&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 378&lt;/p&gt;
+&lt;p&gt;# Comments: 553&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 16:46:48 +0000</pubDate><link>https://twitter.com/eastdakota/status/2009654937303896492</link><dc:creator>sidcool</dc:creator><comments>https://news.ycombinator.com/item?id=46555760</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46555760</guid></item><item><title>Amiga Pointer Archive</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://heckmeck.de/pointers/"&gt;https://heckmeck.de/pointers/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46554897"&gt;https://news.ycombinator.com/item?id=46554897&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 36&lt;/p&gt;
+&lt;p&gt;# Comments: 13&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 15:29:37 +0000</pubDate><link>https://heckmeck.de/pointers/</link><dc:creator>erickhill</dc:creator><comments>https://news.ycombinator.com/item?id=46554897</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46554897</guid></item><item><title>Mathematics for Computer Science (2018) [pdf]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://courses.csail.mit.edu/6.042/spring18/mcs.pdf"&gt;https://courses.csail.mit.edu/6.042/spring18/mcs.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46550895"&gt;https://news.ycombinator.com/item?id=46550895&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 366&lt;/p&gt;
+&lt;p&gt;# Comments: 62&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 07:06:41 +0000</pubDate><link>https://courses.csail.mit.edu/6.042/spring18/mcs.pdf</link><dc:creator>vismit2000</dc:creator><comments>https://news.ycombinator.com/item?id=46550895</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46550895</guid></item><item><title>Show HN: Various shape regularization algorithms</title><description>
+&lt;p&gt;I deal with a lot of geometry stuff at work with computer vision and photogrammetry, which usually comes from the real world. It's seldom clean and neat, and I'm often trying to find a way to "make it nice" or "make it pretty". I've always struggled with what that really means formally.&lt;p&gt;That led me to shape regularization (a technique used in computational geometry to clean up geometric data). CGAL had implemented a few methods for that, but there are more ways to do it, which I thought were nice. Also I typically work in Python, so it was nice to have a pure Python library could handle this.&lt;p&gt;I struggled to get the first version working as a QP. At a high level most of these boil down to minimizing a cost A + B where A is the cost associated the geometry and goes up the more you move it, and B is the cost associated "niceness" or rather the constraints you impose, and goes down the more you impose them. Then you try and minimize A + B or rather H&lt;i&gt;A + (1-H)&lt;/i&gt;B where H is a hyper-parameter that controls the relative importance of A and B.&lt;p&gt;I needed a Python implementation so started with the examples implemented in CGAL then added a couple more for snap and joint regularization and metric regularization.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46549333"&gt;https://news.ycombinator.com/item?id=46549333&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 39&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Fri, 09 Jan 2026 02:13:01 +0000</pubDate><link>https://github.com/nickponline/shreg</link><dc:creator>nickponline</dc:creator><comments>https://news.ycombinator.com/item?id=46549333</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46549333</guid></item></channel></rss>
