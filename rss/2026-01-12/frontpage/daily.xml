@@ -1,0 +1,109 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Mon, 12 Jan 2026 00:22:27 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>I'd tell you a UDP joke…</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get"&gt;https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46580946"&gt;https://news.ycombinator.com/item?id=46580946&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 65&lt;/p&gt;
+&lt;p&gt;# Comments: 22&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 22:20:17 +0000</pubDate><link>https://www.codepuns.com/post/805294580859879424/i-would-tell-you-a-udp-joke-but-you-might-not-get</link><dc:creator>redmattred</dc:creator><comments>https://news.ycombinator.com/item?id=46580946</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46580946</guid></item><item><title>This game is a single 13 KiB file that runs on Windows, Linux and in the Browser</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://iczelia.net/posts/snake-polyglot/"&gt;https://iczelia.net/posts/snake-polyglot/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46580864"&gt;https://news.ycombinator.com/item?id=46580864&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 57&lt;/p&gt;
+&lt;p&gt;# Comments: 18&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 22:14:35 +0000</pubDate><link>https://iczelia.net/posts/snake-polyglot/</link><dc:creator>snoofydude</dc:creator><comments>https://news.ycombinator.com/item?id=46580864</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46580864</guid></item><item><title>The Next Two Years of Software Engineering</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://addyosmani.com/blog/next-two-years/"&gt;https://addyosmani.com/blog/next-two-years/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46580703"&gt;https://news.ycombinator.com/item?id=46580703&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 36&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 22:00:24 +0000</pubDate><link>https://addyosmani.com/blog/next-two-years/</link><dc:creator>napolux</dc:creator><comments>https://news.ycombinator.com/item?id=46580703</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46580703</guid></item><item><title>iMessage-kit is an iMessage SDK for macOS</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/photon-hq/imessage-kit"&gt;https://github.com/photon-hq/imessage-kit&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46580694"&gt;https://news.ycombinator.com/item?id=46580694&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 17&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 21:59:26 +0000</pubDate><link>https://github.com/photon-hq/imessage-kit</link><dc:creator>rsync</dc:creator><comments>https://news.ycombinator.com/item?id=46580694</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46580694</guid></item><item><title>Show HN: Engineering Schizophrenia: Trusting Yourself Through Byzantine Faults</title><description>
+&lt;p&gt;Hi HN!&lt;p&gt;My name's Robert Escriva. I got my PhD from Cornell's Computer Science department back in 2017.  And three years ago I had a psychotic episode that irreversibly shook up my world.&lt;p&gt;Since then I've been applying a skill I learned in grad school---namely, debugging distributed and complex systems---to my own mind.&lt;p&gt;What I've found I've put into a [book (pdf)](&lt;a href="https://rescrv.net/engineering-schizophrenia.pdf" rel="nofollow"&gt;https://rescrv.net/engineering-schizophrenia.pdf&lt;/a&gt;) on engineering, my particular schizophrenic delusions, and how people who suffer as I once did can find a way through the fog to the other side.&lt;p&gt;This is not a healing memoir; it is a guide and a warning for all those who never stopped to ask,
+"What happens if my brain begins to fail me?"&lt;p&gt;I am writing because what I've found is not a destination, but a process. It is an ongoing process for me and for people like me. I also believe it is automate-able using the same techniques we apply to machine-based systems.&lt;p&gt;I am looking for others who recognize the stakes of the human mind to engage in discussion on the
+topic.&lt;p&gt;Happy hacking,
+Robert&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46580652"&gt;https://news.ycombinator.com/item?id=46580652&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 27&lt;/p&gt;
+&lt;p&gt;# Comments: 6&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 21:55:34 +0000</pubDate><link>https://news.ycombinator.com/item?id=46580652</link><dc:creator>rescrv</dc:creator><comments>https://news.ycombinator.com/item?id=46580652</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46580652</guid></item><item><title>2026 is the year of self-hosting</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://fulghum.io/self-hosting"&gt;https://fulghum.io/self-hosting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46580326"&gt;https://news.ycombinator.com/item?id=46580326&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 175&lt;/p&gt;
+&lt;p&gt;# Comments: 120&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 21:29:57 +0000</pubDate><link>https://fulghum.io/self-hosting</link><dc:creator>websku</dc:creator><comments>https://news.ycombinator.com/item?id=46580326</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46580326</guid></item><item><title>A 2026 look at three bio-ML opinions I had in 2024</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.owlposting.com/p/a-2026-look-at-three-bio-ml-opinions"&gt;https://www.owlposting.com/p/a-2026-look-at-three-bio-ml-opinions&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46580309"&gt;https://news.ycombinator.com/item?id=46580309&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 17&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 21:28:37 +0000</pubDate><link>https://www.owlposting.com/p/a-2026-look-at-three-bio-ml-opinions</link><dc:creator>abhishaike</dc:creator><comments>https://news.ycombinator.com/item?id=46580309</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46580309</guid></item><item><title>FUSE is All You Need – Giving agents access to anything via filesystems</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jakobemmerling.de/posts/fuse-is-all-you-need/"&gt;https://jakobemmerling.de/posts/fuse-is-all-you-need/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46580136"&gt;https://news.ycombinator.com/item?id=46580136&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 46&lt;/p&gt;
+&lt;p&gt;# Comments: 16&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 21:12:45 +0000</pubDate><link>https://jakobemmerling.de/posts/fuse-is-all-you-need/</link><dc:creator>jakobem</dc:creator><comments>https://news.ycombinator.com/item?id=46580136</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46580136</guid></item><item><title>BYD's cheapest electric cars to have Lidar self-driving tech</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/"&gt;https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46579927"&gt;https://news.ycombinator.com/item?id=46579927&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 92&lt;/p&gt;
+&lt;p&gt;# Comments: 104&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 20:52:44 +0000</pubDate><link>https://thedriven.io/2026/01/11/byds-cheapest-electric-cars-to-have-lidar-self-driving-tech/</link><dc:creator>senti_sentient</dc:creator><comments>https://news.ycombinator.com/item?id=46579927</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46579927</guid></item><item><title>The struggle of resizing windows on macOS Tahoe</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/"&gt;https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46579864"&gt;https://news.ycombinator.com/item?id=46579864&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 626&lt;/p&gt;
+&lt;p&gt;# Comments: 296&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 20:47:55 +0000</pubDate><link>https://noheger.at/blog/2026/01/11/the-struggle-of-resizing-windows-on-macos-tahoe/</link><dc:creator>happosai</dc:creator><comments>https://news.ycombinator.com/item?id=46579864</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46579864</guid></item><item><title>guys why does armenian completely break Claude</title><description>
+&lt;p&gt;&lt;a href="https://xcancel.com/dyushag/status/1993143599286886525" rel="nofollow"&gt;https://xcancel.com/dyushag/status/1993143599286886525&lt;/a&gt;&lt;p&gt;&lt;a href="https://claude.ai/share/e368b733-71a4-4211-99f5-6b6cc717b575" rel="nofollow"&gt;https://claude.ai/share/e368b733-71a4-4211-99f5-6b6cc717b575&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46579397"&gt;https://news.ycombinator.com/item?id=46579397&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 82&lt;/p&gt;
+&lt;p&gt;# Comments: 43&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 20:03:20 +0000</pubDate><link>https://twitter.com/dyushag/status/1993143599286886525</link><dc:creator>ag8</dc:creator><comments>https://news.ycombinator.com/item?id=46579397</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46579397</guid></item><item><title>Sampling at negative temperature</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://cavendishlabs.org/blog/negative-temperature/"&gt;https://cavendishlabs.org/blog/negative-temperature/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46579374"&gt;https://news.ycombinator.com/item?id=46579374&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 99&lt;/p&gt;
+&lt;p&gt;# Comments: 38&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 20:01:14 +0000</pubDate><link>https://cavendishlabs.org/blog/negative-temperature/</link><dc:creator>ag8</dc:creator><comments>https://news.ycombinator.com/item?id=46579374</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46579374</guid></item><item><title>"Scholars Will Call It Nonsense": The Structure of von Däniken's Argument (1987)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/"&gt;https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46578957"&gt;https://news.ycombinator.com/item?id=46578957&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 49&lt;/p&gt;
+&lt;p&gt;# Comments: 6&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 19:26:13 +0000</pubDate><link>https://www.penn.museum/sites/expedition/scholars-will-call-it-nonsense/</link><dc:creator>Kaibeezy</dc:creator><comments>https://news.ycombinator.com/item?id=46578957</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46578957</guid></item><item><title>iCloud Photos Downloader</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader"&gt;https://github.com/icloud-photos-downloader/icloud_photos_downloader&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46578921"&gt;https://news.ycombinator.com/item?id=46578921&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 268&lt;/p&gt;
+&lt;p&gt;# Comments: 137&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 19:23:58 +0000</pubDate><link>https://github.com/icloud-photos-downloader/icloud_photos_downloader</link><dc:creator>reconnecting</dc:creator><comments>https://news.ycombinator.com/item?id=46578921</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46578921</guid></item><item><title>Erich von Däniken has died</title><description>
+&lt;p&gt;&lt;a href="https://x.com/vonDaeniken/status/2010314306894828023" rel="nofollow"&gt;https://x.com/vonDaeniken/status/2010314306894828023&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46578867"&gt;https://news.ycombinator.com/item?id=46578867&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 33&lt;/p&gt;
+&lt;p&gt;# Comments: 54&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 19:18:47 +0000</pubDate><link>https://daniken.com/en/startseite-english/</link><dc:creator>Kaibeezy</dc:creator><comments>https://news.ycombinator.com/item?id=46578867</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46578867</guid></item><item><title>Anthropic: Developing a Claude Code competitor using Claude Code is banned</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://twitter.com/SIGKITTEN/status/2009697031422652461"&gt;https://twitter.com/SIGKITTEN/status/2009697031422652461&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46578701"&gt;https://news.ycombinator.com/item?id=46578701&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 207&lt;/p&gt;
+&lt;p&gt;# Comments: 135&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 19:07:08 +0000</pubDate><link>https://twitter.com/SIGKITTEN/status/2009697031422652461</link><dc:creator>behnamoh</dc:creator><comments>https://news.ycombinator.com/item?id=46578701</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46578701</guid></item><item><title>Meta announces nuclear energy projects</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/"&gt;https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46578497"&gt;https://news.ycombinator.com/item?id=46578497&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 233&lt;/p&gt;
+&lt;p&gt;# Comments: 243&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 18:49:32 +0000</pubDate><link>https://about.fb.com/news/2026/01/meta-nuclear-energy-projects-power-american-ai-leadership/</link><dc:creator>ChrisArchitect</dc:creator><comments>https://news.ycombinator.com/item?id=46578497</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46578497</guid></item><item><title>Poison Fountain</title><description>
+&lt;p&gt;&lt;a href="https://www.theregister.com/2026/01/11/industry_insiders_seek_to_poison/" rel="nofollow"&gt;https://www.theregister.com/2026/01/11/industry_insiders_see...&lt;/a&gt;&lt;p&gt;&lt;a href="https://www.anthropic.com/research/small-samples-poison" rel="nofollow"&gt;https://www.anthropic.com/research/small-samples-poison&lt;/a&gt;&lt;p&gt;&lt;i&gt;A small number of samples can poison LLMs of any size&lt;/i&gt; - &lt;a href="https://news.ycombinator.com/item?id=45529587"&gt;https://news.ycombinator.com/item?id=45529587&lt;/a&gt; - Oct 2025 (439 comments)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46577464"&gt;https://news.ycombinator.com/item?id=46577464&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 157&lt;/p&gt;
+&lt;p&gt;# Comments: 102&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 17:05:52 +0000</pubDate><link>https://rnsaffn.com/poison3/</link><dc:creator>atomic128</dc:creator><comments>https://news.ycombinator.com/item?id=46577464</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46577464</guid></item><item><title>Ask HN: What are you working on? (January 2026)</title><description>
+&lt;p&gt;What are you working on?  Any new ideas that you're thinking about?&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46577242"&gt;https://news.ycombinator.com/item?id=46577242&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 136&lt;/p&gt;
+&lt;p&gt;# Comments: 449&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 16:43:06 +0000</pubDate><link>https://news.ycombinator.com/item?id=46577242</link><dc:creator>david927</dc:creator><comments>https://news.ycombinator.com/item?id=46577242</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46577242</guid></item><item><title>Gentoo Linux 2025 Review</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.gentoo.org/news/2026/01/05/new-year.html"&gt;https://www.gentoo.org/news/2026/01/05/new-year.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46574769"&gt;https://news.ycombinator.com/item?id=46574769&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 288&lt;/p&gt;
+&lt;p&gt;# Comments: 141&lt;/p&gt;
+</description><pubDate>Sun, 11 Jan 2026 11:38:52 +0000</pubDate><link>https://www.gentoo.org/news/2026/01/05/new-year.html</link><dc:creator>akhuettel</dc:creator><comments>https://news.ycombinator.com/item?id=46574769</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46574769</guid></item></channel></rss>
