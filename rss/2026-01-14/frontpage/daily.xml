@@ -1,0 +1,112 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Wed, 14 Jan 2026 00:34:02 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>The $LANG Programming Language</title><description>
+&lt;p&gt;This afternoon I wrote some tips on how to present a new* programming language to HN: &lt;a href="https://news.ycombinator.com/item?id=46608577"&gt;https://news.ycombinator.com/item?id=46608577&lt;/a&gt;. It occurred to me that HN has a tradition of posts called "The {name} programming language" (continuing a long earlier tradition of papers and books with such titles) and it might be fun to track them down. I tried to keep only the ones with interesting comments.&lt;p&gt;Posts of the form "Show HN: [...] Programming Language" are listed at &lt;a href="https://news.ycombinator.com/showlang"&gt;https://news.ycombinator.com/showlang&lt;/a&gt;.&lt;p&gt;These are curated lists so they're frozen in time. Maybe we can figure out how to update them.&lt;p&gt;[editing - bear with me...]&lt;p&gt;* where 'new' might also mean old, of course, a la &lt;a href="https://news.ycombinator.com/item?id=23459210"&gt;https://news.ycombinator.com/item?id=23459210&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46610557"&gt;https://news.ycombinator.com/item?id=46610557&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 9&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 00:17:19 +0000</pubDate><link>https://news.ycombinator.com/thelang</link><dc:creator>dang</dc:creator><comments>https://news.ycombinator.com/item?id=46610557</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46610557</guid></item><item><title>ADHD. How do you manage the constant stream of thoughts and ideas?</title><description>
+&lt;p&gt;I have ADHD. I think. Pretty sure. I have thoughts, ideas, projects, concepts, links, things to read... fired at my brain all day every day. I can go deep on a topic for hours, but then be hit by a barrage of micro ideas. I really struggle to stay on track and focus. Oh and I run a business, manage people, try to make a profit. It's hard. And kids. And life?&lt;p&gt;I think there is a founder/ADHD thing. Paul Graham thinks so. Maybe even a tech person angle. What have other people experienced?&lt;p&gt;And how do others cope? I don't really know this world. I do know that my old boss once called me a "flagitating laser beam". I think he meant distracted. I use a bunch of systems to cope. For a long time lists, and then Asana. Asana ruled my life. I just built my own thing to capture tasks, projects, but also knowlegde. Not sure if it will help we will see.&lt;p&gt;So tell me:&lt;p&gt;- Who else feels this way?
+- How do you manage?
+- Oh and how do you switch off? That is hard&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46610156"&gt;https://news.ycombinator.com/item?id=46610156&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 22&lt;/p&gt;
+&lt;p&gt;# Comments: 31&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 23:42:59 +0000</pubDate><link>https://news.ycombinator.com/item?id=46610156</link><dc:creator>chriswright1664</dc:creator><comments>https://news.ycombinator.com/item?id=46610156</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46610156</guid></item><item><title>A 40-Line Fix Eliminated a 400x Performance Gap</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://questdb.com/blog/jvm-current-thread-user-time/"&gt;https://questdb.com/blog/jvm-current-thread-user-time/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46609630"&gt;https://news.ycombinator.com/item?id=46609630&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 62&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 23:00:36 +0000</pubDate><link>https://questdb.com/blog/jvm-current-thread-user-time/</link><dc:creator>bluestreak</dc:creator><comments>https://news.ycombinator.com/item?id=46609630</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46609630</guid></item><item><title>The insecure evangelism of LLM maximalists</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lewiscampbell.tech/blog/260114.html"&gt;https://lewiscampbell.tech/blog/260114.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46609591"&gt;https://news.ycombinator.com/item?id=46609591&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 125&lt;/p&gt;
+&lt;p&gt;# Comments: 125&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 22:57:23 +0000</pubDate><link>https://lewiscampbell.tech/blog/260114.html</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46609591</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46609591</guid></item><item><title>EOL hardware should mean open-source software</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.marcia.no/words/eol"&gt;https://www.marcia.no/words/eol&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46609492"&gt;https://news.ycombinator.com/item?id=46609492&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 56&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 22:49:51 +0000</pubDate><link>https://www.marcia.no/words/eol</link><dc:creator>Marciplan</dc:creator><comments>https://news.ycombinator.com/item?id=46609492</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46609492</guid></item><item><title>Show HN: AsciiSketch a free browser-based ASCII art and diagram editor</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://files.littlebird.com.au/ascii-sketch.html"&gt;https://files.littlebird.com.au/ascii-sketch.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46609389"&gt;https://news.ycombinator.com/item?id=46609389&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 8&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 22:39:34 +0000</pubDate><link>https://files.littlebird.com.au/ascii-sketch.html</link><dc:creator>schappim</dc:creator><comments>https://news.ycombinator.com/item?id=46609389</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46609389</guid></item><item><title>Why we don’t use AI</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://yarnspinner.dev/blog/why-we-dont-use-ai/"&gt;https://yarnspinner.dev/blog/why-we-dont-use-ai/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46609279"&gt;https://news.ycombinator.com/item?id=46609279&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 63&lt;/p&gt;
+&lt;p&gt;# Comments: 31&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 22:30:53 +0000</pubDate><link>https://yarnspinner.dev/blog/why-we-dont-use-ai/</link><dc:creator>parisidau</dc:creator><comments>https://news.ycombinator.com/item?id=46609279</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46609279</guid></item><item><title>Terra - A rolling-release Fedora repository</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://terra.fyralabs.com/"&gt;https://terra.fyralabs.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46608971"&gt;https://news.ycombinator.com/item?id=46608971&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 9&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 22:07:27 +0000</pubDate><link>https://terra.fyralabs.com/</link><dc:creator>doodlesdev</dc:creator><comments>https://news.ycombinator.com/item?id=46608971</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46608971</guid></item><item><title>We can't have nice things because of AI scrapers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/"&gt;https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46608840"&gt;https://news.ycombinator.com/item?id=46608840&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 221&lt;/p&gt;
+&lt;p&gt;# Comments: 133&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 21:57:32 +0000</pubDate><link>https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/</link><dc:creator>LorenDB</dc:creator><comments>https://news.ycombinator.com/item?id=46608840</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46608840</guid></item><item><title>Is it a joke?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://novalis.org/blog/2025-11-06-is-it-a-joke.html"&gt;https://novalis.org/blog/2025-11-06-is-it-a-joke.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46608811"&gt;https://news.ycombinator.com/item?id=46608811&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 10&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 21:55:54 +0000</pubDate><link>https://novalis.org/blog/2025-11-06-is-it-a-joke.html</link><dc:creator>luu</dc:creator><comments>https://news.ycombinator.com/item?id=46608811</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46608811</guid></item><item><title>Running Lean at Scale</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://harmonic.fun/news#blog-post-lean"&gt;https://harmonic.fun/news#blog-post-lean&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46608731"&gt;https://news.ycombinator.com/item?id=46608731&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 48&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 21:50:22 +0000</pubDate><link>https://harmonic.fun/news#blog-post-lean</link><dc:creator>eab-</dc:creator><comments>https://news.ycombinator.com/item?id=46608731</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46608731</guid></item><item><title>Open sourcing Dicer: Databricks's auto-sharder</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.databricks.com/blog/open-sourcing-dicer-databricks-auto-sharder"&gt;https://www.databricks.com/blog/open-sourcing-dicer-databricks-auto-sharder&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46606902"&gt;https://news.ycombinator.com/item?id=46606902&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 61&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 19:56:37 +0000</pubDate><link>https://www.databricks.com/blog/open-sourcing-dicer-databricks-auto-sharder</link><dc:creator>vivek-jain</dc:creator><comments>https://news.ycombinator.com/item?id=46606902</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46606902</guid></item><item><title>Choosing learning over autopilot</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://anniecherkaev.com/choosing-learning-over-autopilot"&gt;https://anniecherkaev.com/choosing-learning-over-autopilot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46605716"&gt;https://news.ycombinator.com/item?id=46605716&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 41&lt;/p&gt;
+&lt;p&gt;# Comments: 31&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 18:46:06 +0000</pubDate><link>https://anniecherkaev.com/choosing-learning-over-autopilot</link><dc:creator>evakhoury</dc:creator><comments>https://news.ycombinator.com/item?id=46605716</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46605716</guid></item><item><title>Show HN: Nogic – VS Code extension that visualizes your codebase as a graph</title><description>
+&lt;p&gt;I built Nogic, a VSCode extension currently, because AI tools make code grow faster than developers can build a mental model by jumping between files. Exploring structure visually has been helping me onboard to unfamiliar codebases faster.&lt;p&gt;It’s early and rough, but usable. Would love feedback on whether this is useful and what relationships are most valuable to visualize.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46605675"&gt;https://news.ycombinator.com/item?id=46605675&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 58&lt;/p&gt;
+&lt;p&gt;# Comments: 23&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 18:43:28 +0000</pubDate><link>https://marketplace.visualstudio.com/items?itemName=Nogic.nogic</link><dc:creator>davelradindra</dc:creator><comments>https://news.ycombinator.com/item?id=46605675</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46605675</guid></item><item><title>AI Generated Music Barred from Bandcamp</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/"&gt;https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46605490"&gt;https://news.ycombinator.com/item?id=46605490&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 529&lt;/p&gt;
+&lt;p&gt;# Comments: 415&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 18:31:50 +0000</pubDate><link>https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/</link><dc:creator>cdrnsf</dc:creator><comments>https://news.ycombinator.com/item?id=46605490</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46605490</guid></item><item><title>Show HN: Ayder – HTTP-native durable event log written in C (curl as client)</title><description>
+&lt;p&gt;Hi HN,&lt;p&gt;I built Ayder — a single-binary, HTTP-native durable event log written in C.
+The wedge is simple: curl is the client (no JVM, no ZooKeeper, no thick client libs).&lt;p&gt;There’s a 2-minute demo that starts with an unclean SIGKILL, then restarts and
+verifies offsets + data are still there.&lt;p&gt;Numbers (3-node Raft, real network, sync-majority writes, 64B payload):
+~50K msg/s sustained (wrk2 @ 50K req/s), client P99 ~3.46ms.
+Crash recovery after SIGKILL is ~40–50s with ~8M offsets.&lt;p&gt;Repo link has the video, benchmarks, and quick start.
+I’m looking for a few early design partners (any event ingestion/streaming workload).&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46604862"&gt;https://news.ycombinator.com/item?id=46604862&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 49&lt;/p&gt;
+&lt;p&gt;# Comments: 22&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 17:55:37 +0000</pubDate><link>https://github.com/A1darbek/ayder</link><dc:creator>Aydarbek</dc:creator><comments>https://news.ycombinator.com/item?id=46604862</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46604862</guid></item><item><title>How to make a damn website (2024)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lmnt.me/blog/how-to-make-a-damn-website.html"&gt;https://lmnt.me/blog/how-to-make-a-damn-website.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46604250"&gt;https://news.ycombinator.com/item?id=46604250&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 122&lt;/p&gt;
+&lt;p&gt;# Comments: 43&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 17:23:46 +0000</pubDate><link>https://lmnt.me/blog/how-to-make-a-damn-website.html</link><dc:creator>birdculture</dc:creator><comments>https://news.ycombinator.com/item?id=46604250</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46604250</guid></item><item><title>The Tulip Creative Computer</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/shorepine/tulipcc"&gt;https://github.com/shorepine/tulipcc&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46603995"&gt;https://news.ycombinator.com/item?id=46603995&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 177&lt;/p&gt;
+&lt;p&gt;# Comments: 37&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 17:10:42 +0000</pubDate><link>https://github.com/shorepine/tulipcc</link><dc:creator>apitman</dc:creator><comments>https://news.ycombinator.com/item?id=46603995</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46603995</guid></item><item><title>Legion Health (YC S21) Hiring Cracked Founding Eng for AI-Native Ops</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424"&gt;https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46603829"&gt;https://news.ycombinator.com/item?id=46603829&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 17:01:55 +0000</pubDate><link>https://jobs.ashbyhq.com/legionhealth/ffdd2b52-eb21-489e-b124-3c0804231424</link><dc:creator>ympatel</dc:creator><comments>https://news.ycombinator.com/item?id=46603829</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46603829</guid></item><item><title>Influencers and OnlyFans models are dominating U.S. O-1 visa requests</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa"&gt;https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46603535"&gt;https://news.ycombinator.com/item?id=46603535&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 331&lt;/p&gt;
+&lt;p&gt;# Comments: 240&lt;/p&gt;
+</description><pubDate>Tue, 13 Jan 2026 16:47:39 +0000</pubDate><link>https://www.theguardian.com/us-news/2026/jan/11/onlyfans-influencers-us-o-1-visa</link><dc:creator>bookofjoe</dc:creator><comments>https://news.ycombinator.com/item?id=46603535</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46603535</guid></item></channel></rss>
