@@ -1,0 +1,114 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Thu, 15 Jan 2026 00:24:19 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>EU-US relationship is 'disintegrating,' says Germany's vice chancellor</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.politico.eu/article/europe-us-germany-vice-chancellor-lars-klingbeil-donald-trump/"&gt;https://www.politico.eu/article/europe-us-germany-vice-chancellor-lars-klingbeil-donald-trump/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46625797"&gt;https://news.ycombinator.com/item?id=46625797&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 32&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 23:52:50 +0000</pubDate><link>https://www.politico.eu/article/europe-us-germany-vice-chancellor-lars-klingbeil-donald-trump/</link><dc:creator>doener</dc:creator><comments>https://news.ycombinator.com/item?id=46625797</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46625797</guid></item><item><title>ChromaDB Explorer</title><description>
+&lt;p&gt;&lt;a href="https://github.com/stepandel/chroma-explorer" rel="nofollow"&gt;https://github.com/stepandel/chroma-explorer&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46624731"&gt;https://news.ycombinator.com/item?id=46624731&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 13&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 22:30:16 +0000</pubDate><link>https://www.chroma-explorer.com/</link><dc:creator>arsentjev</dc:creator><comments>https://news.ycombinator.com/item?id=46624731</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46624731</guid></item><item><title>Scaling long-running autonomous coding</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://cursor.com/blog/scaling-agents"&gt;https://cursor.com/blog/scaling-agents&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46624541"&gt;https://news.ycombinator.com/item?id=46624541&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 75&lt;/p&gt;
+&lt;p&gt;# Comments: 42&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 22:18:04 +0000</pubDate><link>https://cursor.com/blog/scaling-agents</link><dc:creator>samwillis</dc:creator><comments>https://news.ycombinator.com/item?id=46624541</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46624541</guid></item><item><title>The State of OpenSSL for pyca/cryptography</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://cryptography.io/en/latest/statements/state-of-openssl/"&gt;https://cryptography.io/en/latest/statements/state-of-openssl/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46624352"&gt;https://news.ycombinator.com/item?id=46624352&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 51&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 22:04:10 +0000</pubDate><link>https://cryptography.io/en/latest/statements/state-of-openssl/</link><dc:creator>SGran</dc:creator><comments>https://news.ycombinator.com/item?id=46624352</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46624352</guid></item><item><title>Sun Position Calculator</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://drajmarsh.bitbucket.io/earthsun.html"&gt;https://drajmarsh.bitbucket.io/earthsun.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46623761"&gt;https://news.ycombinator.com/item?id=46623761&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 47&lt;/p&gt;
+&lt;p&gt;# Comments: 12&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 21:26:51 +0000</pubDate><link>https://drajmarsh.bitbucket.io/earthsun.html</link><dc:creator>sanbor</dc:creator><comments>https://news.ycombinator.com/item?id=46623761</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46623761</guid></item><item><title>Claude Cowork Exfiltrates Files</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files"&gt;https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46622328"&gt;https://news.ycombinator.com/item?id=46622328&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 363&lt;/p&gt;
+&lt;p&gt;# Comments: 159&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 20:12:25 +0000</pubDate><link>https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files</link><dc:creator>takira</dc:creator><comments>https://news.ycombinator.com/item?id=46622328</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46622328</guid></item><item><title>Show HN: Harmony – AI notetaker for Discord</title><description>
+&lt;p&gt;hi my name is sean dorje (yc x25).&lt;p&gt;i built harmony because our team's been running on discord for years and we've been dying for something like this so we can finally track our meeting notes/action items.&lt;p&gt;if your team runs on discord, please feel free to try it out!&lt;p&gt;it's free to use forever :)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46622139"&gt;https://news.ycombinator.com/item?id=46622139&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 23&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 20:02:36 +0000</pubDate><link>https://harmonynotetaker.ai/</link><dc:creator>SeanDorje</dc:creator><comments>https://news.ycombinator.com/item?id=46622139</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46622139</guid></item><item><title>Every country should set 16 as the minimum age for social media accounts</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.afterbabel.com/p/why-every-country-should-set-16"&gt;https://www.afterbabel.com/p/why-every-country-should-set-16&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46621945"&gt;https://news.ycombinator.com/item?id=46621945&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 116&lt;/p&gt;
+&lt;p&gt;# Comments: 163&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 19:53:15 +0000</pubDate><link>https://www.afterbabel.com/p/why-every-country-should-set-16</link><dc:creator>paulpauper</dc:creator><comments>https://news.ycombinator.com/item?id=46621945</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46621945</guid></item><item><title>Ask HN: How do you safely give LLMs SSH/DB access?</title><description>
+&lt;p&gt;I have been using Claude Code for DevOps style tasks like SSHing into servers, grepping logs, inspecting files, and querying databases&lt;p&gt;Overall it's been great. However, I find myself having to review every single command, a lot of which are repetitive. It still saves me a ton of time, but it's quickly becoming a bit tedious&lt;p&gt;I wish I could give the agent some more autonomy. Like giving it a list of pre-approved commands or actions that it is allowed to run over ssh&lt;p&gt;For example:&lt;p&gt;&lt;pre&gt;&lt;code&gt;    OK: ls, grep, cat, tail
+    Not OK: rm, mv, chmod, etc
+    OK: SELECT queries
+    Not OK: INSERT, DELETE, DROP, TRUNCATE
+&lt;/code&gt;&lt;/pre&gt;
+Has anyone successfully or satisfactorily solved this?&lt;p&gt;What setups have actually worked for you, and where do you draw the line between autonomy and risk?&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46620990"&gt;https://news.ycombinator.com/item?id=46620990&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 47&lt;/p&gt;
+&lt;p&gt;# Comments: 73&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 19:06:23 +0000</pubDate><link>https://news.ycombinator.com/item?id=46620990</link><dc:creator>nico</dc:creator><comments>https://news.ycombinator.com/item?id=46620990</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46620990</guid></item><item><title>Native ZFS VDEV for Object Storage (OpenZFS Summit)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.zettalane.com/blog/openzfs-summit-2025-mayanas-objbacker.html"&gt;https://www.zettalane.com/blog/openzfs-summit-2025-mayanas-objbacker.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46620673"&gt;https://news.ycombinator.com/item?id=46620673&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 73&lt;/p&gt;
+&lt;p&gt;# Comments: 16&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 18:49:37 +0000</pubDate><link>https://www.zettalane.com/blog/openzfs-summit-2025-mayanas-objbacker.html</link><dc:creator>suprasam</dc:creator><comments>https://news.ycombinator.com/item?id=46620673</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46620673</guid></item><item><title>So, you’ve hit an age gate. What now?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now"&gt;https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46619030"&gt;https://news.ycombinator.com/item?id=46619030&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 283&lt;/p&gt;
+&lt;p&gt;# Comments: 228&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 17:27:22 +0000</pubDate><link>https://www.eff.org/deeplinks/2026/01/so-youve-hit-age-gate-what-now</link><dc:creator>hn_acker</dc:creator><comments>https://news.ycombinator.com/item?id=46619030</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46619030</guid></item><item><title>Ford F-150 Lightning outsold the Cybertruck and was then canceled for poor sales</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/"&gt;https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46618901"&gt;https://news.ycombinator.com/item?id=46618901&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 392&lt;/p&gt;
+&lt;p&gt;# Comments: 535&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 17:20:09 +0000</pubDate><link>https://electrek.co/2026/01/13/ford-f150-lightning-outsold-tesla-cybertruck-canceled-not-selling-enough/</link><dc:creator>MBCook</dc:creator><comments>https://news.ycombinator.com/item?id=46618901</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46618901</guid></item><item><title>Ask HN: Share your personal website</title><description>
+&lt;p&gt;Hello HN!  I am putting together a community-maintained directory of personal websites at &lt;https://hnpwd.github.io/&gt;.  More details about the project can be found in the README at &lt;https://github.com/hnpwd/hnpwd.github.io#readme&gt;.&lt;p&gt;As you can see, the directory currently has only a handful of entries.  I need your help to grow it.  If you have a personal website, I would be glad if you shared it here.  If your website is hosted on a web space where you have full control over its design and content, and if it has been well received in past HN discussions, I might add it to the directory.  Just drop a link in the comments.  Please let me know if you do not want your website to be included in the directory.&lt;p&gt;Also, I intend this to be a community maintained resource, so if you would like to join the GitHub project as a maintainer, please let me know either here or via the IRC link in the README.&lt;p&gt;By the way, see also 'Ask HN: Could you share your personal blog here?' - https://news.ycombinator.com/item?id=36575081 - July 2023 - (1014 points, 1940 comments).  In this post, the scope is not restricted to blogs though.  Any personal website is welcome, whether it is a blog, digital garden, personal wiki or something else entirely.&lt;p&gt;UPDATE: It is going to take a while to go through all the submissions and add them.  If you'd like to help with the process, please send a PR directly to this project: https://github.com/hnpwd/hnpwd.github.io&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46618714"&gt;https://news.ycombinator.com/item?id=46618714&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 362&lt;/p&gt;
+&lt;p&gt;# Comments: 1188&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 17:07:42 +0000</pubDate><link>https://news.ycombinator.com/item?id=46618714</link><dc:creator>susam</dc:creator><comments>https://news.ycombinator.com/item?id=46618714</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46618714</guid></item><item><title>GitHub should charge everyone $1 more per month to fund open source</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.greg.technology/2025/11/27/github-should-charge-1-dollar-more-per-month.html"&gt;https://blog.greg.technology/2025/11/27/github-should-charge-1-dollar-more-per-month.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46618027"&gt;https://news.ycombinator.com/item?id=46618027&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 205&lt;/p&gt;
+&lt;p&gt;# Comments: 187&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 16:25:07 +0000</pubDate><link>https://blog.greg.technology/2025/11/27/github-should-charge-1-dollar-more-per-month.html</link><dc:creator>evakhoury</dc:creator><comments>https://news.ycombinator.com/item?id=46618027</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46618027</guid></item><item><title>How much of my observability data is waste?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://usetero.com/blog/the-question-your-observability-vendor-wont-answer"&gt;https://usetero.com/blog/the-question-your-observability-vendor-wont-answer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46617744"&gt;https://news.ycombinator.com/item?id=46617744&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 93&lt;/p&gt;
+&lt;p&gt;# Comments: 48&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 16:07:34 +0000</pubDate><link>https://usetero.com/blog/the-question-your-observability-vendor-wont-answer</link><dc:creator>binarylogic</dc:creator><comments>https://news.ycombinator.com/item?id=46617744</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46617744</guid></item><item><title>Roam 50GB is now Roam 100GB</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://starlink.com/support/article/58c9c8b7-474e-246f-7e3c-06db3221d34d"&gt;https://starlink.com/support/article/58c9c8b7-474e-246f-7e3c-06db3221d34d&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46617668"&gt;https://news.ycombinator.com/item?id=46617668&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 236&lt;/p&gt;
+&lt;p&gt;# Comments: 265&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 16:03:11 +0000</pubDate><link>https://starlink.com/support/article/58c9c8b7-474e-246f-7e3c-06db3221d34d</link><dc:creator>bahmboo</dc:creator><comments>https://news.ycombinator.com/item?id=46617668</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46617668</guid></item><item><title>Find a pub that needs you</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ismypubfucked.com/"&gt;https://www.ismypubfucked.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46617360"&gt;https://news.ycombinator.com/item?id=46617360&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 200&lt;/p&gt;
+&lt;p&gt;# Comments: 155&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 15:44:22 +0000</pubDate><link>https://www.ismypubfucked.com/</link><dc:creator>thinkingemote</dc:creator><comments>https://news.ycombinator.com/item?id=46617360</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46617360</guid></item><item><title>Show HN: Digital Carrot – Block social media with programmable rules and goals</title><description>
+&lt;p&gt;Hi Everyone,&lt;p&gt;Digital Carrot is a programmable and pluggable app blocker. It lets you block websites and apps on iOS, Mac and Windows until a set of conditions or goal is met. For example you can block Reddit, Instagram and Steam until your Apple Watch reports that you have walked 5000 steps.&lt;p&gt;The app works by collecting data via plugins that you can use to create goals for yourself. Goals are all represented by expressions that return true or false based on the data you provide. For example, if you want to create a goal to finish all of the tasks in your to-do list you could do something like `data.apple_reminders.due == 0`.&lt;p&gt;The blocking system is also pluggable. That means you can block items via DNS with services as Pi-hole[3]. It also means that the app is not just limited to website blocking! In fact you could write a plugin to control anything that is available via a REST, such as locking a smart lock on your snack cupboard or cranking up the AC in your office until you go outside.&lt;p&gt;Keeping security and user privacy is a top priority for this app (given that it's literally designed to collect information about you). Because of that:&lt;p&gt;- We do not collect or share any information that the app gathers.
+- Our sync feature is fully end to end encrypted using AES256 and the secure remote password protocol.
+- All plugins are sandboxed. They cannot access data provided by other plugins and have no external access unless granted by the user.
+- The app is transparent about the data it has. All of the data that is available to use for goals is browsable in app.&lt;p&gt;Like many of you, I've been dismayed by big tech's lack of concern for our privacy, so keeping these guarantees is personally very important to me. One of the fun things about this project has been that I can kind of flip the script by taking all of the information that has been gathered about me and use it to help cut down on the distractions in my life :)&lt;p&gt;Anyway, I had to walk 4km to unblock HN in order to post this, so I hope you find it helpful!&lt;p&gt;[1] Technical overview: &lt;a href="https://www.digitalcarrot.app/docs/overview/" rel="nofollow"&gt;https://www.digitalcarrot.app/docs/overview/&lt;/a&gt;&lt;p&gt;[2] Plugin repository: &lt;a href="https://github.com/digital-carrot-app/plugins" rel="nofollow"&gt;https://github.com/digital-carrot-app/plugins&lt;/a&gt;&lt;p&gt;[3] Pi-hole plugin: &lt;a href="https://github.com/digital-carrot-app/plugins/tree/main/pihole" rel="nofollow"&gt;https://github.com/digital-carrot-app/plugins/tree/main/piho...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46616919"&gt;https://news.ycombinator.com/item?id=46616919&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 30&lt;/p&gt;
+&lt;p&gt;# Comments: 11&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 15:11:35 +0000</pubDate><link>https://www.digitalcarrot.app/</link><dc:creator>newswangerd</dc:creator><comments>https://news.ycombinator.com/item?id=46616919</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46616919</guid></item><item><title>Edge of Emulation: Game Boy Sewing Machines (2020)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://shonumi.github.io/articles/art22.html"&gt;https://shonumi.github.io/articles/art22.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46616496"&gt;https://news.ycombinator.com/item?id=46616496&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 104&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 14:35:50 +0000</pubDate><link>https://shonumi.github.io/articles/art22.html</link><dc:creator>mosura</dc:creator><comments>https://news.ycombinator.com/item?id=46616496</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46616496</guid></item><item><title>SparkFun Officially Dropping AdaFruit due to CoC Violation</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.sparkfun.com/official-response"&gt;https://www.sparkfun.com/official-response&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46616488"&gt;https://news.ycombinator.com/item?id=46616488&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 361&lt;/p&gt;
+&lt;p&gt;# Comments: 364&lt;/p&gt;
+</description><pubDate>Wed, 14 Jan 2026 14:34:57 +0000</pubDate><link>https://www.sparkfun.com/official-response</link><dc:creator>yaleman</dc:creator><comments>https://news.ycombinator.com/item?id=46616488</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46616488</guid></item></channel></rss>
