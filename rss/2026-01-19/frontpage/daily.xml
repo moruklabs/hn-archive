@@ -1,0 +1,128 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Mon, 19 Jan 2026 00:30:08 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Simple GIS on Potato</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/blue-monads/potato-apps/tree/master/cimple-gis"&gt;https://github.com/blue-monads/potato-apps/tree/master/cimple-gis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46672701"&gt;https://news.ycombinator.com/item?id=46672701&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 12&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 22:15:01 +0000</pubDate><link>https://github.com/blue-monads/potato-apps/tree/master/cimple-gis</link><dc:creator>born-jre</dc:creator><comments>https://news.ycombinator.com/item?id=46672701</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46672701</guid></item><item><title>Show HN: Beats, a web-based drum machine</title><description>
+&lt;p&gt;Hello all!&lt;p&gt;I've been an avid fan of Pocket Operators by Teenage Engineering since I found out about them. I even own an EP-133 K.O. II today, which I love.&lt;p&gt;A couple of months ago, Reddit user andiam03 shared a Google Sheet with some drum patterns [1]. I thought it was a very cool way to share and understand beats.&lt;p&gt;During the weekend I coded a basic version of this app I am sharing today. I iterated over it in my free time, and yesterday I felt like I had a pretty good version to share with y'all.&lt;p&gt;It's not meant to be a sequencer but rather a way to experiment with beats and basic sounds, save them, and use them in your songs. It also has a sharing feature with a link.&lt;p&gt;It was built using Tone.js [2], Stimulus [3] and deployed in Render [4] as a static website. I used an LLM to read the Tone.js documentation and generate sounds, since I have no knowledge about sound production, and modified from there.&lt;p&gt;Anyway, hope you like it! I had a blast building it.&lt;p&gt;[0]: &lt;a href="https://teenage.engineering" rel="nofollow"&gt;https://teenage.engineering&lt;/a&gt;&lt;p&gt;[1]: &lt;a href="https://docs.google.com/spreadsheets/d/1GMRWxEqcZGdBzJg52soeVaY7iUSj1YncfIJZIPScBhM/edit" rel="nofollow"&gt;https://docs.google.com/spreadsheets/d/1GMRWxEqcZGdBzJg52soe...&lt;/a&gt;&lt;p&gt;[2]: &lt;a href="https://tonejs.github.io" rel="nofollow"&gt;https://tonejs.github.io&lt;/a&gt;&lt;p&gt;[3]: &lt;a href="https://stimulus.hotwired.dev" rel="nofollow"&gt;https://stimulus.hotwired.dev&lt;/a&gt;&lt;p&gt;[4]: &lt;a href="http://render.com" rel="nofollow"&gt;http://render.com&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46672181"&gt;https://news.ycombinator.com/item?id=46672181&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 27&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 21:10:08 +0000</pubDate><link>https://beats.lasagna.pizza</link><dc:creator>kinduff</dc:creator><comments>https://news.ycombinator.com/item?id=46672181</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46672181</guid></item><item><title>Police Invested Millions in Shadowy Phone-Tracking Software Won't Say How Used</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/"&gt;https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46672150"&gt;https://news.ycombinator.com/item?id=46672150&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 172&lt;/p&gt;
+&lt;p&gt;# Comments: 40&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 21:05:14 +0000</pubDate><link>https://www.texasobserver.org/texas-police-invest-tangles-sheriff-surveillance/</link><dc:creator>nobody9999</dc:creator><comments>https://news.ycombinator.com/item?id=46672150</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46672150</guid></item><item><title>Stirling Cycle Machine Analysis</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ohioopen.library.ohio.edu/opentextbooks/9/"&gt;https://ohioopen.library.ohio.edu/opentextbooks/9/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46671982"&gt;https://news.ycombinator.com/item?id=46671982&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 17&lt;/p&gt;
+&lt;p&gt;# Comments: 6&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 20:45:54 +0000</pubDate><link>https://ohioopen.library.ohio.edu/opentextbooks/9/</link><dc:creator>akshatjiwan</dc:creator><comments>https://news.ycombinator.com/item?id=46671982</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46671982</guid></item><item><title>Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://getdock.io/"&gt;https://getdock.io/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46671952"&gt;https://news.ycombinator.com/item?id=46671952&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 34&lt;/p&gt;
+&lt;p&gt;# Comments: 30&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 20:42:49 +0000</pubDate><link>https://getdock.io/</link><dc:creator>yadavrh</dc:creator><comments>https://news.ycombinator.com/item?id=46671952</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46671952</guid></item><item><title>Breaking the Zimmermann Telegram (2018)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614"&gt;https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46671174"&gt;https://news.ycombinator.com/item?id=46671174&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 56&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 19:19:48 +0000</pubDate><link>https://medium.com/lapsed-historian/breaking-the-zimmermann-telegram-b34ed1d73614</link><dc:creator>tony-allan</dc:creator><comments>https://news.ycombinator.com/item?id=46671174</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46671174</guid></item><item><title>Prediction markets are ushering in a world in which news becomes about gambling</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb"&gt;https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46670524"&gt;https://news.ycombinator.com/item?id=46670524&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 137&lt;/p&gt;
+&lt;p&gt;# Comments: 142&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 18:20:25 +0000</pubDate><link>https://www.msn.com/en-us/money/markets/america-is-slow-walking-into-a-polymarket-disaster/ar-AA1Upfdb</link><dc:creator>krustyburger</dc:creator><comments>https://news.ycombinator.com/item?id=46670524</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46670524</guid></item><item><title>Show HN: HTTP:COLON – A quick HTTP header/directive inspector and reference</title><description>
+&lt;p&gt;Hi HN -- I built HTTP:COLON, a small, open-source web tool for quickly checking a site’s HTTP response headers and learning what they mean as you go.&lt;p&gt;Link: &lt;a href="https://httpcolon.dev/" rel="nofollow"&gt;https://httpcolon.dev/&lt;/a&gt;&lt;p&gt;What it does&lt;p&gt;- Enter a URL and fetch its response headers&lt;p&gt;- Groups common headers into handy buckets (cache, content, security)&lt;p&gt;- Includes short docs/tooltips for headers and directives so you can look things up while debugging. I find hovering on highlighted headers quite useful!&lt;p&gt;Supports different HTTP methods (GET/POST/PUT/DELETE)&lt;p&gt;Deep links&lt;p&gt;- You can link directly to a host, e.g. &lt;a href="https://httpcolon.dev/www.google.com" rel="nofollow"&gt;https://httpcolon.dev/www.google.com&lt;/a&gt;&lt;p&gt;(or any domain) to jump straight into inspecting it.&lt;p&gt;Why I made it&lt;p&gt;- I kept bouncing between DevTools, MDN, and random blog posts while debugging caching + security headers. I wanted one place that’s quick for “what am I getting back?” and “what does this header/directive do?”&lt;p&gt;It’s in beta, and I’d love feedback on:&lt;p&gt;- Missing features you’d want for day-to-day debugging (export/share formats, comparisons, presets, etc.)&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46670290"&gt;https://news.ycombinator.com/item?id=46670290&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 19&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 18:03:03 +0000</pubDate><link>https://httpcolon.dev/</link><dc:creator>ultimoo</dc:creator><comments>https://news.ycombinator.com/item?id=46670290</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46670290</guid></item><item><title>Flux 2 Klein pure C inference</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/antirez/flux2.c"&gt;https://github.com/antirez/flux2.c&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46670279"&gt;https://news.ycombinator.com/item?id=46670279&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 199&lt;/p&gt;
+&lt;p&gt;# Comments: 87&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 18:01:58 +0000</pubDate><link>https://github.com/antirez/flux2.c</link><dc:creator>antirez</dc:creator><comments>https://news.ycombinator.com/item?id=46670279</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46670279</guid></item><item><title>Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup</title><description>
+&lt;p&gt;Hey HN, Lume is an open-source CLI for running macOS and Linux VMs on Apple Silicon. Since launch (&lt;a href="https://news.ycombinator.com/item?id=42908061"&gt;https://news.ycombinator.com/item?id=42908061&lt;/a&gt;), we've been using it to run AI agents in isolated macOS environments. We needed VMs that could set themselves up, so we built that.&lt;p&gt;Here's what's new in 0.2:&lt;p&gt;*Unattended Setup* – Go from IPSW to a fully configured VM without touching the keyboard. We built a VNC + OCR system that clicks through macOS Setup Assistant automatically. No more manual setup before pushing to a registry:&lt;p&gt;&lt;pre&gt;&lt;code&gt;  lume create my-vm --os macos --ipsw latest --unattended tahoe
+&lt;/code&gt;&lt;/pre&gt;
+You can write custom YAML configs to set up any macOS version your way.&lt;p&gt;*HTTP API + Daemon* – A REST API on port 7777 that runs as a background service. Your scripts and CI pipelines can manage VMs that persist even if your terminal closes:&lt;p&gt;&lt;pre&gt;&lt;code&gt;  curl -X POST localhost:7777/lume/vms/my-vm/run -d '{"noDisplay": true}'
+&lt;/code&gt;&lt;/pre&gt;
+*MCP Server* – Native integration with Claude Desktop and AI coding agents. Claude can create, run, and execute commands in VMs directly:&lt;p&gt;&lt;pre&gt;&lt;code&gt;  # Add to Claude Desktop config
+  "lume": { "command": "lume", "args": ["serve", "--mcp"] }
+    
+  # Then just ask: "Create a sandbox VM and run my tests"
+&lt;/code&gt;&lt;/pre&gt;
+*Multi-location Storage* – macOS disk space is always tight, so from user feedback we added support for external drives. Add an SSD, move VMs between locations:&lt;p&gt;&lt;pre&gt;&lt;code&gt;  lume config storage add external-ssd /Volumes/ExternalSSD/lume
+  lume clone my-vm backup --source-storage default --dest-storage external-ssd
+&lt;/code&gt;&lt;/pre&gt;
+*Registry Support* – Pull and push VM images from GHCR or GCS. Create a golden image once, share it across your team.&lt;p&gt;We're seeing people use Lume for:
+- Running Claude Code in an isolated VM (your host stays clean, reset mistakes by cloning)
+- CI/CD pipelines for Apple platform apps
+- Automated UI testing across macOS versions
+- Disposable sandboxes for security research&lt;p&gt;To get started:&lt;p&gt;&lt;pre&gt;&lt;code&gt;  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/trycua/cua/main/libs/lume/scripts/install.sh)"
+
+  lume create sandbox --os macos --ipsw latest --unattended tahoe
+  lume run sandbox --shared-dir ~/my-project
+&lt;/code&gt;&lt;/pre&gt;
+Lume is MIT licensed and Apple Silicon only (M1/M2/M3/M4) since it uses Apple's native Virtualization Framework directly—no emulation.&lt;p&gt;Lume runs on EC2 Mac instances and Scaleway if you need cloud infrastructure. We're also working on a managed cloud offering for teams that need macOS compute on demand—if you're interested, reach out.&lt;p&gt;We're actively developing this as part of Cua (&lt;a href="https://github.com/trycua/cua" rel="nofollow"&gt;https://github.com/trycua/cua&lt;/a&gt;), our Computer Use Agent SDK. We'd love your feedback, bug reports, or feature ideas.&lt;p&gt;GitHub: &lt;a href="https://github.com/trycua/cua" rel="nofollow"&gt;https://github.com/trycua/cua&lt;/a&gt;
+Docs: &lt;a href="https://cua.ai/docs/lume"&gt;https://cua.ai/docs/lume&lt;/a&gt;&lt;p&gt;We'll be here to answer questions!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46670181"&gt;https://news.ycombinator.com/item?id=46670181&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 81&lt;/p&gt;
+&lt;p&gt;# Comments: 19&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 17:53:21 +0000</pubDate><link>https://cua.ai/docs/lume/guide/getting-started/introduction</link><dc:creator>frabonacci</dc:creator><comments>https://news.ycombinator.com/item?id=46670181</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46670181</guid></item><item><title>Gaussian Splatting – A$AP Rocky "Helicopter" music video</title><description>
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=g1-46Nu3HxQ" rel="nofollow"&gt;https://www.youtube.com/watch?v=g1-46Nu3HxQ&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46670024"&gt;https://news.ycombinator.com/item?id=46670024&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 388&lt;/p&gt;
+&lt;p&gt;# Comments: 134&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 17:40:55 +0000</pubDate><link>https://radiancefields.com/a-ap-rocky-releases-helicopter-music-video-featuring-gaussian-splatting</link><dc:creator>ChrisArchitect</dc:creator><comments>https://news.ycombinator.com/item?id=46670024</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46670024</guid></item><item><title>Sins of the Children (Adrian Tchaikovsky)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://asteriskmag.com/issues/07/sins-of-the-children"&gt;https://asteriskmag.com/issues/07/sins-of-the-children&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46669663"&gt;https://news.ycombinator.com/item?id=46669663&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 98&lt;/p&gt;
+&lt;p&gt;# Comments: 49&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 17:08:58 +0000</pubDate><link>https://asteriskmag.com/issues/07/sins-of-the-children</link><dc:creator>maxall4</dc:creator><comments>https://news.ycombinator.com/item?id=46669663</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46669663</guid></item><item><title>Predicting OpenAI's ad strategy</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ossa-ma.github.io/blog/openads"&gt;https://ossa-ma.github.io/blog/openads&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46668021"&gt;https://news.ycombinator.com/item?id=46668021&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 466&lt;/p&gt;
+&lt;p&gt;# Comments: 398&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 14:25:49 +0000</pubDate><link>https://ossa-ma.github.io/blog/openads</link><dc:creator>calcifer</dc:creator><comments>https://news.ycombinator.com/item?id=46668021</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46668021</guid></item><item><title>Software engineers can no longer neglect their soft skills</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.qu8n.com/posts/most-important-software-engineering-skill-2026"&gt;https://www.qu8n.com/posts/most-important-software-engineering-skill-2026&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46667572"&gt;https://news.ycombinator.com/item?id=46667572&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 150&lt;/p&gt;
+&lt;p&gt;# Comments: 192&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 13:14:20 +0000</pubDate><link>https://www.qu8n.com/posts/most-important-software-engineering-skill-2026</link><dc:creator>quanwinn</dc:creator><comments>https://news.ycombinator.com/item?id=46667572</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46667572</guid></item><item><title>Keystone (YC S25) Is Hiring</title><description>
+
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46667101"&gt;https://news.ycombinator.com/item?id=46667101&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 12:00:10 +0000</pubDate><link>https://news.ycombinator.com/item?id=46667101</link><dc:creator>pablo24602</dc:creator><comments>https://news.ycombinator.com/item?id=46667101</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46667101</guid></item><item><title>Starting from scratch: Training a 30M Topological Transformer</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer"&gt;https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46666963"&gt;https://news.ycombinator.com/item?id=46666963&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 120&lt;/p&gt;
+&lt;p&gt;# Comments: 32&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 11:39:14 +0000</pubDate><link>https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer</link><dc:creator>tuned</dc:creator><comments>https://news.ycombinator.com/item?id=46666963</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46666963</guid></item><item><title>Show HN: Xenia – A monospaced font built with a custom Python engine</title><description>
+&lt;p&gt;I'm an engineer who spent the last year fixing everything I hated about monofonts (especially that double-story 'a').&lt;p&gt;I built a custom Python-based procedural engine to generate the weights because I wanted more logical control over the geometry. It currently has 700+ glyphs and deep math support.&lt;p&gt;Regular weight is free for the community. I'm releasing more weights based on interest.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46666661"&gt;https://news.ycombinator.com/item?id=46666661&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 53&lt;/p&gt;
+&lt;p&gt;# Comments: 16&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 10:39:52 +0000</pubDate><link>https://github.com/Loretta1982/xenia</link><dc:creator>xeniafont</dc:creator><comments>https://news.ycombinator.com/item?id=46666661</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46666661</guid></item><item><title>Overlapping Markup</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://en.wikipedia.org/wiki/Overlapping_markup"&gt;https://en.wikipedia.org/wiki/Overlapping_markup&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46666650"&gt;https://news.ycombinator.com/item?id=46666650&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 52&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 10:37:59 +0000</pubDate><link>https://en.wikipedia.org/wiki/Overlapping_markup</link><dc:creator>ripe</dc:creator><comments>https://news.ycombinator.com/item?id=46666650</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46666650</guid></item><item><title>A free and open-source rootkit for Linux</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://lwn.net/SubscriberLink/1053099/19c2e8180aeb0438/"&gt;https://lwn.net/SubscriberLink/1053099/19c2e8180aeb0438/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46666288"&gt;https://news.ycombinator.com/item?id=46666288&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 155&lt;/p&gt;
+&lt;p&gt;# Comments: 33&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 09:36:25 +0000</pubDate><link>https://lwn.net/SubscriberLink/1053099/19c2e8180aeb0438/</link><dc:creator>jwilk</dc:creator><comments>https://news.ycombinator.com/item?id=46666288</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46666288</guid></item><item><title>Command-line Tools can be 235x Faster than your Hadoop Cluster (2014)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html"&gt;https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46666085"&gt;https://news.ycombinator.com/item?id=46666085&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 286&lt;/p&gt;
+&lt;p&gt;# Comments: 202&lt;/p&gt;
+</description><pubDate>Sun, 18 Jan 2026 08:58:40 +0000</pubDate><link>https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html</link><dc:creator>tosh</dc:creator><comments>https://news.ycombinator.com/item?id=46666085</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46666085</guid></item></channel></rss>
