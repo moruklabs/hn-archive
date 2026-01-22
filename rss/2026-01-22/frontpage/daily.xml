@@ -1,0 +1,113 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Thu, 22 Jan 2026 00:30:07 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Take potentially dangerous PDFs, and convert them to safe PDFs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/freedomofpress/dangerzone"&gt;https://github.com/freedomofpress/dangerzone&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46712815"&gt;https://news.ycombinator.com/item?id=46712815&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 32&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 22:54:04 +0000</pubDate><link>https://github.com/freedomofpress/dangerzone</link><dc:creator>dp-hackernews</dc:creator><comments>https://news.ycombinator.com/item?id=46712815</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46712815</guid></item><item><title>Jerry (YC S17) Is Hiring</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace"&gt;https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46711792"&gt;https://news.ycombinator.com/item?id=46711792&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 21:26:18 +0000</pubDate><link>https://www.ycombinator.com/companies/jerry-inc/jobs/QaoK3rw-software-engineer-core-automation-marketplace</link><dc:creator>linaz</dc:creator><comments>https://news.ycombinator.com/item?id=46711792</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46711792</guid></item><item><title>Show HN: TerabyteDeals – Compare storage prices by $/TB</title><description>
+&lt;p&gt;I built a simple tool to compare hard drive and SSD prices by price-per-terabyte.&lt;p&gt;I kept having to calculate $/TB manually when shopping for NAS drives, so I made this to save myself the trouble.&lt;p&gt;It pulls prices from Amazon (US, CA, AU, and EU stores), calculates $/TB, and lets you filter by drive type, interface, form factor, and capacity.&lt;p&gt;Nothing fancy — just a sortable table updated daily.&lt;p&gt;Any feedback is more than welcome, I hope someone will find it useful!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46711649"&gt;https://news.ycombinator.com/item?id=46711649&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 57&lt;/p&gt;
+&lt;p&gt;# Comments: 50&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 21:13:59 +0000</pubDate><link>https://terabytedeals.com</link><dc:creator>vektor888</dc:creator><comments>https://news.ycombinator.com/item?id=46711649</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46711649</guid></item><item><title>Setting Up a Cluster of Tiny PCs for Parallel Computing</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.kenkoonwong.com/blog/parallel-computing/"&gt;https://www.kenkoonwong.com/blog/parallel-computing/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46710042"&gt;https://news.ycombinator.com/item?id=46710042&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 24&lt;/p&gt;
+&lt;p&gt;# Comments: 12&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 19:08:37 +0000</pubDate><link>https://www.kenkoonwong.com/blog/parallel-computing/</link><dc:creator>speckx</dc:creator><comments>https://news.ycombinator.com/item?id=46710042</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46710042</guid></item><item><title>Show HN: Rails UI</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://railsui.com/"&gt;https://railsui.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46709543"&gt;https://news.ycombinator.com/item?id=46709543&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 98&lt;/p&gt;
+&lt;p&gt;# Comments: 63&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 18:31:19 +0000</pubDate><link>https://railsui.com/</link><dc:creator>justalever</dc:creator><comments>https://news.ycombinator.com/item?id=46709543</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46709543</guid></item><item><title>Scientists find a way to regrow cartilage in mice and human tissue samples</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.sciencedaily.com/releases/2026/01/260120000333.htm"&gt;https://www.sciencedaily.com/releases/2026/01/260120000333.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46709179"&gt;https://news.ycombinator.com/item?id=46709179&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 242&lt;/p&gt;
+&lt;p&gt;# Comments: 65&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 18:05:36 +0000</pubDate><link>https://www.sciencedaily.com/releases/2026/01/260120000333.htm</link><dc:creator>saikatsg</dc:creator><comments>https://news.ycombinator.com/item?id=46709179</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46709179</guid></item><item><title>Slouching Towards Bethlehem – Joan Didion (1967)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.saturdayeveningpost.com/2017/06/didion/"&gt;https://www.saturdayeveningpost.com/2017/06/didion/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46708766"&gt;https://news.ycombinator.com/item?id=46708766&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 53&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 17:36:09 +0000</pubDate><link>https://www.saturdayeveningpost.com/2017/06/didion/</link><dc:creator>jxmorris12</dc:creator><comments>https://news.ycombinator.com/item?id=46708766</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46708766</guid></item><item><title>Waiting for dawn in search: Search index, Google rulings and impact on Kagi</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.kagi.com/waiting-dawn-search"&gt;https://blog.kagi.com/waiting-dawn-search&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46708678"&gt;https://news.ycombinator.com/item?id=46708678&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 210&lt;/p&gt;
+&lt;p&gt;# Comments: 133&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 17:28:03 +0000</pubDate><link>https://blog.kagi.com/waiting-dawn-search</link><dc:creator>josephwegner</dc:creator><comments>https://news.ycombinator.com/item?id=46708678</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46708678</guid></item><item><title>TrustTunnel: AdGuard VPN protocol goes open-source</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html"&gt;https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46708601"&gt;https://news.ycombinator.com/item?id=46708601&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 47&lt;/p&gt;
+&lt;p&gt;# Comments: 11&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 17:21:26 +0000</pubDate><link>https://adguard-vpn.com/en/blog/adguard-vpn-protocol-goes-open-source-meet-trusttunnel.html</link><dc:creator>kumrayu</dc:creator><comments>https://news.ycombinator.com/item?id=46708601</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46708601</guid></item><item><title>Open source server code for the BitCraft MMORPG</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/clockworklabs/BitCraftPublic"&gt;https://github.com/clockworklabs/BitCraftPublic&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46708592"&gt;https://news.ycombinator.com/item?id=46708592&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 28&lt;/p&gt;
+&lt;p&gt;# Comments: 9&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 17:20:39 +0000</pubDate><link>https://github.com/clockworklabs/BitCraftPublic</link><dc:creator>sfkgtbor</dc:creator><comments>https://news.ycombinator.com/item?id=46708592</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46708592</guid></item><item><title>Challenges in join optimization</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect"&gt;https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46708351"&gt;https://news.ycombinator.com/item?id=46708351&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 37&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 17:03:31 +0000</pubDate><link>https://www.starrocks.io/blog/inside-starrocks-why-joins-are-faster-than-youd-expect</link><dc:creator>HermitX</dc:creator><comments>https://news.ycombinator.com/item?id=46708351</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46708351</guid></item><item><title>Autonomous (YC F25) is hiring – AI-native financial advisor at 0% advisory fees</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://atg.science/"&gt;https://atg.science/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46708315"&gt;https://news.ycombinator.com/item?id=46708315&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 17:00:54 +0000</pubDate><link>https://atg.science/</link><dc:creator>dkobran</dc:creator><comments>https://news.ycombinator.com/item?id=46708315</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46708315</guid></item><item><title>JPEG XL Test Page</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://tildeweb.nl/~michiel/jxl/"&gt;https://tildeweb.nl/~michiel/jxl/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46708032"&gt;https://news.ycombinator.com/item?id=46708032&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 158&lt;/p&gt;
+&lt;p&gt;# Comments: 109&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 16:38:26 +0000</pubDate><link>https://tildeweb.nl/~michiel/jxl/</link><dc:creator>roywashere</dc:creator><comments>https://news.ycombinator.com/item?id=46708032</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46708032</guid></item><item><title>Three types of LLM workloads and how to serve them</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://modal.com/llm-almanac/workloads"&gt;https://modal.com/llm-almanac/workloads&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46707708"&gt;https://news.ycombinator.com/item?id=46707708&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 29&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 16:15:06 +0000</pubDate><link>https://modal.com/llm-almanac/workloads</link><dc:creator>charles_irl</dc:creator><comments>https://news.ycombinator.com/item?id=46707708</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46707708</guid></item><item><title>Claude's new constitution</title><description>
+&lt;p&gt;&lt;a href="https://www.anthropic.com/constitution" rel="nofollow"&gt;https://www.anthropic.com/constitution&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46707572"&gt;https://news.ycombinator.com/item?id=46707572&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 269&lt;/p&gt;
+&lt;p&gt;# Comments: 259&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 16:04:49 +0000</pubDate><link>https://www.anthropic.com/news/claude-new-constitution</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=46707572</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46707572</guid></item><item><title>Skip is now free and open source</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://skip.dev/blog/skip-is-free/"&gt;https://skip.dev/blog/skip-is-free/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46706906"&gt;https://news.ycombinator.com/item?id=46706906&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 254&lt;/p&gt;
+&lt;p&gt;# Comments: 100&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 15:20:53 +0000</pubDate><link>https://skip.dev/blog/skip-is-free/</link><dc:creator>dayanruben</dc:creator><comments>https://news.ycombinator.com/item?id=46706906</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46706906</guid></item><item><title>Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)</title><description>
+&lt;p&gt;Creator here. I built ChartGPU because I kept hitting the same wall: charting libraries that claim to be "fast" but choke past 100K data points.&lt;p&gt;The core insight: Canvas2D is fundamentally CPU-bound. Even WebGL chart libraries still do most computation on the CPU. So I moved everything to the GPU via WebGPU:&lt;p&gt;- LTTB downsampling runs as a compute shader
+- Hit-testing for tooltips/hover is GPU-accelerated
+- Rendering uses instanced draws (one draw call per series)&lt;p&gt;The result: 1M points at 60fps with smooth zoom/pan.&lt;p&gt;Live demo: &lt;a href="https://chartgpu.github.io/ChartGPU/examples/million-points/" rel="nofollow"&gt;https://chartgpu.github.io/ChartGPU/examples/million-points/&lt;/a&gt;&lt;p&gt;Currently supports line, area, bar, scatter, pie, and candlestick charts. MIT licensed, available on npm: `npm install chartgpu`&lt;p&gt;Happy to answer questions about WebGPU internals or architecture decisions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46706528"&gt;https://news.ycombinator.com/item?id=46706528&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 482&lt;/p&gt;
+&lt;p&gt;# Comments: 143&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 14:54:56 +0000</pubDate><link>https://github.com/ChartGPU/ChartGPU</link><dc:creator>huntergemmer</dc:creator><comments>https://news.ycombinator.com/item?id=46706528</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46706528</guid></item><item><title>Tell HN: 2 years building a kids audio app as a solo dev – lessons learned</title><description>
+&lt;p&gt;Hi,&lt;p&gt;I started Muky in April 2024. Classic side project that got out of hand. We have two kids - the younger one is happy with the Toniebox, but our older one outgrew it. She started asking for specific songs, audiobooks that aren't available as figurines, and "the music from that movie."&lt;p&gt;We had an old iPad Mini lying around and already pay for Apple Music. Felt dumb to keep buying €17/$20 figurines for 30-45 minutes of content when we have 100 million songs.&lt;p&gt;Now at version 4.0 after ~20 updates. Some lessons:&lt;p&gt;On the hardware vs app tradeoff:
+Toniebox and Yoto are brilliant for little ones – tactile, simple, no screen needed. But they hit a wall once kids want more. And handing a 5-year-old Apple Music means infinite scrolling and "Dad, what's this song about?" Muky sits in between – full library access, but parents control what's visible.&lt;p&gt;On sharing:
+Remember lending CDs or cassettes to friends? Or kids swapping Tonie figurines at a playdate? I wanted that for a digital app. So I built QR code sharing. Scan, import, done. And unlike a physical thing – both keep a copy.&lt;p&gt;On onboarding:
+First versions: empty app, figure it out yourself. Retention was awful. Now: 4-step onboarding that actually guides you. Should've done this from the start.&lt;p&gt;On content discovery:
+100 million songs sounds great until you have to find something. Parents don't want to search – they want suggestions. Spent a lot of time building a Browse tab with curated albums and audiobooks for kids. Finally feels like the app helps you instead of just waiting for input.&lt;p&gt;On going native:
+Went with Swift/SwiftUI instead of Flutter or React Native. No regrets - SwiftUI is a joy to work with and performance is great. Android users ask for a port regularly. No capacity for that now, but Swift for Android is progressing (&lt;a href="https://www.swift.org/documentation/articles/swift-sdk-for-android-getting-started.html" rel="nofollow"&gt;https://www.swift.org/documentation/articles/swift-sdk-for-a...&lt;/a&gt;). Maybe one day. CarPlay is another one parents keep asking for – going native should make that easier to add, if Apple grants me the entitlement.&lt;p&gt;On subscriptions vs one-time:
+Started with one-time purchase. Revenue spikes at launch, then nothing. Switched to subscription – existing one-time buyers kept full access. Harder to sell, but sustainable.&lt;p&gt;Ask me anything about indie iOS dev or building for kids. App is at &lt;a href="https://muky.app" rel="nofollow"&gt;https://muky.app&lt;/a&gt; if you're curious.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46705676"&gt;https://news.ycombinator.com/item?id=46705676&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 29&lt;/p&gt;
+&lt;p&gt;# Comments: 25&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 13:49:07 +0000</pubDate><link>https://news.ycombinator.com/item?id=46705676</link><dc:creator>oliverjanssen</dc:creator><comments>https://news.ycombinator.com/item?id=46705676</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46705676</guid></item><item><title>Nested code fences in Markdown</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://susam.net/nested-code-fences.html"&gt;https://susam.net/nested-code-fences.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46705201"&gt;https://news.ycombinator.com/item?id=46705201&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 184&lt;/p&gt;
+&lt;p&gt;# Comments: 61&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 13:08:35 +0000</pubDate><link>https://susam.net/nested-code-fences.html</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46705201</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46705201</guid></item><item><title>Hightouch (YC S19) Is Hiring</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://hightouch.com/careers"&gt;https://hightouch.com/careers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46704465"&gt;https://news.ycombinator.com/item?id=46704465&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Wed, 21 Jan 2026 12:02:09 +0000</pubDate><link>https://hightouch.com/careers</link><dc:creator>joshwget</dc:creator><comments>https://news.ycombinator.com/item?id=46704465</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46704465</guid></item></channel></rss>
