@@ -1,0 +1,104 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Mon, 26 Jan 2026 00:36:29 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Show HN: A small programming language where everything is a value</title><description>
+&lt;p&gt;This is a hobby project of mine that I started a few years ago to learn about programming language implementation. It was created 95% without AI, although a few recent commits include code from Gemini CLI.&lt;p&gt;I started out following Crafting Interpreters, but gradually branched off that until I had almost nothing left in common.&lt;p&gt;Tech stack: Rust, Cranelift (JIT compilation), LALRPOP (parser).&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46759520"&gt;https://news.ycombinator.com/item?id=46759520&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 22&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 23:01:06 +0000</pubDate><link>https://github.com/Jcparkyn/herd</link><dc:creator>jcparkyn</dc:creator><comments>https://news.ycombinator.com/item?id=46759520</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46759520</guid></item><item><title>Case study: Creative math – How AI fakes proofs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://tomaszmachnik.pl/case-study-math-en.html"&gt;https://tomaszmachnik.pl/case-study-math-en.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46759352"&gt;https://news.ycombinator.com/item?id=46759352&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 17&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 22:44:50 +0000</pubDate><link>https://tomaszmachnik.pl/case-study-math-en.html</link><dc:creator>musculus</dc:creator><comments>https://news.ycombinator.com/item?id=46759352</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46759352</guid></item><item><title>LED lighting undermines visual performance unless supplemented by wider spectra</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.nature.com/articles/s41598-026-35389-6"&gt;https://www.nature.com/articles/s41598-026-35389-6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46758644"&gt;https://news.ycombinator.com/item?id=46758644&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 53&lt;/p&gt;
+&lt;p&gt;# Comments: 23&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 21:44:10 +0000</pubDate><link>https://www.nature.com/articles/s41598-026-35389-6</link><dc:creator>bookofjoe</dc:creator><comments>https://news.ycombinator.com/item?id=46758644</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46758644</guid></item><item><title>The '3.5% rule': How a small minority can change the world (2019)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world"&gt;https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46758450"&gt;https://news.ycombinator.com/item?id=46758450&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 143&lt;/p&gt;
+&lt;p&gt;# Comments: 119&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 21:27:11 +0000</pubDate><link>https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world</link><dc:creator>choult</dc:creator><comments>https://news.ycombinator.com/item?id=46758450</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46758450</guid></item><item><title>Oneplus phone update introduces hardware anti-rollback</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback"&gt;https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46757944"&gt;https://news.ycombinator.com/item?id=46757944&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 318&lt;/p&gt;
+&lt;p&gt;# Comments: 140&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 20:39:25 +0000</pubDate><link>https://consumerrights.wiki/w/Oneplus_phone_update_introduces_hardware_anti-rollback</link><dc:creator>validatori</dc:creator><comments>https://news.ycombinator.com/item?id=46757944</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46757944</guid></item><item><title>Data Leak Exposes 149M Logins, Including Gmail, Facebook</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/"&gt;https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46757465"&gt;https://news.ycombinator.com/item?id=46757465&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 73&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 19:45:10 +0000</pubDate><link>https://www.techrepublic.com/article/news-149-million-passwords-exposed-infostealer-database/</link><dc:creator>saikatsg</dc:creator><comments>https://news.ycombinator.com/item?id=46757465</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46757465</guid></item><item><title>I was right about ATProto key management</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://notes.nora.codes/atproto-again/"&gt;https://notes.nora.codes/atproto-again/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46757357"&gt;https://news.ycombinator.com/item?id=46757357&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 101&lt;/p&gt;
+&lt;p&gt;# Comments: 57&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 19:31:23 +0000</pubDate><link>https://notes.nora.codes/atproto-again/</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46757357</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46757357</guid></item><item><title>The behavioral cost of personalized pricing</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://digitalseams.com/blog/the-behavioral-cost-of-personalized-pricing"&gt;https://digitalseams.com/blog/the-behavioral-cost-of-personalized-pricing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46757224"&gt;https://news.ycombinator.com/item?id=46757224&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 45&lt;/p&gt;
+&lt;p&gt;# Comments: 23&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 19:19:12 +0000</pubDate><link>https://digitalseams.com/blog/the-behavioral-cost-of-personalized-pricing</link><dc:creator>bobbiechen</dc:creator><comments>https://news.ycombinator.com/item?id=46757224</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46757224</guid></item><item><title>Spanish track was fractured before high-speed train disaster, report finds</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.bbc.com/news/articles/c1m77dmxlvlo"&gt;https://www.bbc.com/news/articles/c1m77dmxlvlo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46757162"&gt;https://news.ycombinator.com/item?id=46757162&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 120&lt;/p&gt;
+&lt;p&gt;# Comments: 106&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 19:12:50 +0000</pubDate><link>https://www.bbc.com/news/articles/c1m77dmxlvlo</link><dc:creator>Rygian</dc:creator><comments>https://news.ycombinator.com/item?id=46757162</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46757162</guid></item><item><title>First, make me care</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://gwern.net/blog/2026/make-me-care"&gt;https://gwern.net/blog/2026/make-me-care&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46757067"&gt;https://news.ycombinator.com/item?id=46757067&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 274&lt;/p&gt;
+&lt;p&gt;# Comments: 95&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 19:03:40 +0000</pubDate><link>https://gwern.net/blog/2026/make-me-care</link><dc:creator>andsoitis</dc:creator><comments>https://news.ycombinator.com/item?id=46757067</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46757067</guid></item><item><title>Show HN: An interactive map of US lighthouses and navigational aids</title><description>
+&lt;p&gt;This is an interactive map of US navigational aids and lighthouses, which indicates their location, color, characteristic and any remarks the Coast Guard has attached.&lt;p&gt;I was sick at home with the flu this weekend, and went on a bit of a Wikipedia deep dive about active American lighthouses. Searching around a bit, it was very hard to find a single source or interactive map of active beacons, and a description of what the "characteristic" meant. The Coast Guard maintains a list of active lights though, that they publish annually (&lt;a href="https://www.navcen.uscg.gov/light-list-annual-publication" rel="nofollow"&gt;https://www.navcen.uscg.gov/light-list-annual-publication&lt;/a&gt;). With some help from Claude Code, it wasn't hard to extract the lat/long and put together a small webapp that shows a map of these light stations and illustrates their characteristic with an animated visualization..&lt;p&gt;Of course, this shouldn't be used as a navigational aid, merely for informational purposes! Though having lived in Seattle and San Francisco I thought it was quite interesting.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46756427"&gt;https://news.ycombinator.com/item?id=46756427&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 18&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 18:06:26 +0000</pubDate><link>https://www.lighthouses.app/</link><dc:creator>idd2</dc:creator><comments>https://news.ycombinator.com/item?id=46756427</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46756427</guid></item><item><title>ICE using Palantir tool that feeds on Medicaid data</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data"&gt;https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46756117"&gt;https://news.ycombinator.com/item?id=46756117&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 823&lt;/p&gt;
+&lt;p&gt;# Comments: 475&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 17:36:19 +0000</pubDate><link>https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data</link><dc:creator>JKCalhoun</dc:creator><comments>https://news.ycombinator.com/item?id=46756117</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46756117</guid></item><item><title>Using PostgreSQL as a Dead Letter Queue for Event-Driven Systems</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.diljitpr.net/blog-post-postgresql-dlq"&gt;https://www.diljitpr.net/blog-post-postgresql-dlq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46755115"&gt;https://news.ycombinator.com/item?id=46755115&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 154&lt;/p&gt;
+&lt;p&gt;# Comments: 48&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 15:51:03 +0000</pubDate><link>https://www.diljitpr.net/blog-post-postgresql-dlq</link><dc:creator>tanelpoder</dc:creator><comments>https://news.ycombinator.com/item?id=46755115</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46755115</guid></item><item><title>A macOS app that blurs your screen when you slouch</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/tldev/posturr"&gt;https://github.com/tldev/posturr&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46754944"&gt;https://news.ycombinator.com/item?id=46754944&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 446&lt;/p&gt;
+&lt;p&gt;# Comments: 156&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 15:34:51 +0000</pubDate><link>https://github.com/tldev/posturr</link><dc:creator>dnw</dc:creator><comments>https://news.ycombinator.com/item?id=46754944</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46754944</guid></item><item><title>Show HN: Netfence – Like Envoy for eBPF Filters</title><description>
+&lt;p&gt;To power the firewalling for our agents so that they couldn't contact arbitrary services, I build netfence. It's like Envoy but for eBPF filters.&lt;p&gt;It allows you to define different DNS-based rules that are resolved in a local daemon to IPs, then pushed to the eBPF filter to allow traffic. By doing it this way, we can still allow DNS-defined rules, but prevent contacting random IPs.&lt;p&gt;There's also no network performance penalty, since it's just DNS lookups and eBPF filters referencing memory.&lt;p&gt;It also means you don't have to tamper with the base image, which the agent could potentially manipulate to remove rules (unless you prevent root maybe).&lt;p&gt;It automatically manages the lifecycle of eBPF filters on cgroups and interfaces, so it works well for both containers and micro VMs (like Firecracker).&lt;p&gt;You implement a control plane, just like Envoy xDS, which you can manage the rules of each cgroup/interface. You can even manage DNS through the control plane to dynamically resolve records (which is helpful as a normal DNS server doesn't know which interface/cgroup a request might be coming from).&lt;p&gt;We specifically use this to allow our agents to only contact S3, pip, apt, and npm.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46754724"&gt;https://news.ycombinator.com/item?id=46754724&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 38&lt;/p&gt;
+&lt;p&gt;# Comments: 6&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 15:13:46 +0000</pubDate><link>https://github.com/danthegoodman1/netfence</link><dc:creator>dangoodmanUT</dc:creator><comments>https://news.ycombinator.com/item?id=46754724</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46754724</guid></item><item><title>Bitwise conversion of doubles using only FP multiplication and addition (2020)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/"&gt;https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46754522"&gt;https://news.ycombinator.com/item?id=46754522&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 14&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 14:55:03 +0000</pubDate><link>https://dougallj.wordpress.com/2020/05/10/bitwise-conversion-of-doubles-using-only-floating-point-multiplication-and-addition/</link><dc:creator>vitaut</dc:creator><comments>https://news.ycombinator.com/item?id=46754522</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46754522</guid></item><item><title>Web-based image editor modeled after Deluxe Paint</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/steffest/DPaint-js"&gt;https://github.com/steffest/DPaint-js&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46753708"&gt;https://news.ycombinator.com/item?id=46753708&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 170&lt;/p&gt;
+&lt;p&gt;# Comments: 15&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 12:54:53 +0000</pubDate><link>https://github.com/steffest/DPaint-js</link><dc:creator>bananaboy</dc:creator><comments>https://news.ycombinator.com/item?id=46753708</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46753708</guid></item><item><title>Doom has been ported to an earbud</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://doombuds.com"&gt;https://doombuds.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46753484"&gt;https://news.ycombinator.com/item?id=46753484&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 322&lt;/p&gt;
+&lt;p&gt;# Comments: 104&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 12:22:12 +0000</pubDate><link>https://doombuds.com</link><dc:creator>arin-s</dc:creator><comments>https://news.ycombinator.com/item?id=46753484</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46753484</guid></item><item><title>Nango (YC W23, Dev Infrastructure) Is Hiring Remotely</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jobs.ashbyhq.com/Nango"&gt;https://jobs.ashbyhq.com/Nango&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46753336"&gt;https://news.ycombinator.com/item?id=46753336&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 12:02:01 +0000</pubDate><link>https://jobs.ashbyhq.com/Nango</link><dc:creator>bastienbeurier</dc:creator><comments>https://news.ycombinator.com/item?id=46753336</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46753336</guid></item><item><title>Show HN: Bonsplit – Tabs and splits for native macOS apps</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://bonsplit.alasdairmonk.com"&gt;https://bonsplit.alasdairmonk.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46753301"&gt;https://news.ycombinator.com/item?id=46753301&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 195&lt;/p&gt;
+&lt;p&gt;# Comments: 26&lt;/p&gt;
+</description><pubDate>Sun, 25 Jan 2026 11:56:42 +0000</pubDate><link>https://bonsplit.alasdairmonk.com</link><dc:creator>sgottit</dc:creator><comments>https://news.ycombinator.com/item?id=46753301</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46753301</guid></item></channel></rss>
