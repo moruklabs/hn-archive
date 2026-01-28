@@ -1,0 +1,104 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Wed, 28 Jan 2026 00:31:11 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Thief of $90M in seized U.S.-controlled crypto is gov't contractor's son</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.web3isgoinggreat.com/single/lick-theft"&gt;https://www.web3isgoinggreat.com/single/lick-theft&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46787521"&gt;https://news.ycombinator.com/item?id=46787521&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 116&lt;/p&gt;
+&lt;p&gt;# Comments: 19&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 21:54:29 +0000</pubDate><link>https://www.web3isgoinggreat.com/single/lick-theft</link><dc:creator>pavel_lishin</dc:creator><comments>https://news.ycombinator.com/item?id=46787521</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46787521</guid></item><item><title>Show HN: I wrapped the Zorks with an LLM</title><description>
+&lt;p&gt;I grew up on the Infocom games and when microsoft actually open-sourced Zork 1/2/3 I really wanted to figure out how to use LLMs to let you type whatever you want, I always found the amount language that the games "understood" to be so limiting - even if it was pretty state of the art at the time.&lt;p&gt;So I figured out how to wrap it with Tambo.. (and run the game engine in the browser) basically whatever you type gets "translated" into zork-speak and passed to the game - and then the LLM takes the game's output and optionally adds flavor. (the little "&gt;_" button at the top exposes the actual game input)&lt;p&gt;What was a big surprise to me is multi-turn instructions - you can ask it to "Explore all the rooms in the house until you can't find any more" and it will plug away at the game for 10+ "turns" at a time... like Claude Code for Zork or something&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46786618"&gt;https://news.ycombinator.com/item?id=46786618&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 57&lt;/p&gt;
+&lt;p&gt;# Comments: 33&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 20:59:49 +0000</pubDate><link>https://infocom.tambo.co/</link><dc:creator>alecf</dc:creator><comments>https://news.ycombinator.com/item?id=46786618</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46786618</guid></item><item><title>TikTok settles just before social media addiction trial to begin</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.bbc.com/news/articles/c24g8v6qr1mo"&gt;https://www.bbc.com/news/articles/c24g8v6qr1mo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46786237"&gt;https://news.ycombinator.com/item?id=46786237&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 103&lt;/p&gt;
+&lt;p&gt;# Comments: 110&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 20:38:22 +0000</pubDate><link>https://www.bbc.com/news/articles/c24g8v6qr1mo</link><dc:creator>ourmandave</dc:creator><comments>https://news.ycombinator.com/item?id=46786237</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46786237</guid></item><item><title>Time Station Emulator</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/kangtastic/timestation"&gt;https://github.com/kangtastic/timestation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46786183"&gt;https://news.ycombinator.com/item?id=46786183&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 73&lt;/p&gt;
+&lt;p&gt;# Comments: 16&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 20:35:34 +0000</pubDate><link>https://github.com/kangtastic/timestation</link><dc:creator>FriedPickles</dc:creator><comments>https://news.ycombinator.com/item?id=46786183</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46786183</guid></item><item><title>How many chess games are possible?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/"&gt;https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46785598"&gt;https://news.ycombinator.com/item?id=46785598&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 27&lt;/p&gt;
+&lt;p&gt;# Comments: 16&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 19:59:47 +0000</pubDate><link>https://win-vector.com/2026/01/27/how-many-chess-games-are-possible/</link><dc:creator>jmount</dc:creator><comments>https://news.ycombinator.com/item?id=46785598</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46785598</guid></item><item><title>Try text scaling support in Chrome Canary</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/"&gt;https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46784977"&gt;https://news.ycombinator.com/item?id=46784977&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 53&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 19:20:24 +0000</pubDate><link>https://www.joshtumath.uk/posts/2026-01-27-try-text-scaling-support-in-chrome-canary/</link><dc:creator>linolevan</dc:creator><comments>https://news.ycombinator.com/item?id=46784977</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46784977</guid></item><item><title>Arm's Cortex A725 Ft. Dell's Pro Max with GB10</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://chipsandcheese.com/p/arms-cortex-a725-ft-dells-pro-max"&gt;https://chipsandcheese.com/p/arms-cortex-a725-ft-dells-pro-max&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46784599"&gt;https://news.ycombinator.com/item?id=46784599&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 36&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 18:59:30 +0000</pubDate><link>https://chipsandcheese.com/p/arms-cortex-a725-ft-dells-pro-max</link><dc:creator>pixelpoet</dc:creator><comments>https://news.ycombinator.com/item?id=46784599</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46784599</guid></item><item><title>Lennart Poettering, Christian Brauner founded a new company</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://amutable.com/about"&gt;https://amutable.com/about&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46784572"&gt;https://news.ycombinator.com/item?id=46784572&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 211&lt;/p&gt;
+&lt;p&gt;# Comments: 260&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 18:57:15 +0000</pubDate><link>https://amutable.com/about</link><dc:creator>hornedhob</dc:creator><comments>https://news.ycombinator.com/item?id=46784572</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46784572</guid></item><item><title>Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/hypercubic/jobs"&gt;https://www.ycombinator.com/companies/hypercubic/jobs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46784491"&gt;https://news.ycombinator.com/item?id=46784491&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 18:50:50 +0000</pubDate><link>https://www.ycombinator.com/companies/hypercubic/jobs</link><dc:creator>sai18</dc:creator><comments>https://news.ycombinator.com/item?id=46784491</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46784491</guid></item><item><title>LLM-as-a-Courtroom</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://falconer.com/notes/llm-as-a-courtroom/"&gt;https://falconer.com/notes/llm-as-a-courtroom/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46784210"&gt;https://news.ycombinator.com/item?id=46784210&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 35&lt;/p&gt;
+&lt;p&gt;# Comments: 15&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 18:32:36 +0000</pubDate><link>https://falconer.com/notes/llm-as-a-courtroom/</link><dc:creator>jmtulloss</dc:creator><comments>https://news.ycombinator.com/item?id=46784210</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46784210</guid></item><item><title>Clawdbot Renames to Moltbot</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6"&gt;https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46783863"&gt;https://news.ycombinator.com/item?id=46783863&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 145&lt;/p&gt;
+&lt;p&gt;# Comments: 125&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 18:08:36 +0000</pubDate><link>https://github.com/moltbot/moltbot/commit/6d16a658e5ebe6ce15856565a47090d5b9d5dfb6</link><dc:creator>philip1209</dc:creator><comments>https://news.ycombinator.com/item?id=46783863</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46783863</guid></item><item><title>Prism</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://openai.com/index/introducing-prism"&gt;https://openai.com/index/introducing-prism&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46783752"&gt;https://news.ycombinator.com/item?id=46783752&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 368&lt;/p&gt;
+&lt;p&gt;# Comments: 222&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 18:03:10 +0000</pubDate><link>https://openai.com/index/introducing-prism</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=46783752</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46783752</guid></item><item><title>Show HN: LemonSlice – Upgrade your voice agents to real-time video</title><description>
+&lt;p&gt;Hey HN, we're the co-founders of LemonSlice (try our HN playground here: &lt;a href="https://lemonslice.com/hn"&gt;https://lemonslice.com/hn&lt;/a&gt;). We train interactive avatar video models. Our API lets you upload a photo and immediately jump into a FaceTime-style call with that character. Here's a demo: &lt;a href="https://www.loom.com/share/941577113141418e80d2834c83a5a0a9" rel="nofollow"&gt;https://www.loom.com/share/941577113141418e80d2834c83a5a0a9&lt;/a&gt;&lt;p&gt;Chatbots are everywhere and voice AI has taken off, but we believe video avatars will be the most common form factor for conversational AI. Most people would rather watch something than read it. The problem is that generating video in real-time is hard, and overcoming the uncanny valley is even harder.&lt;p&gt;We haven’t broken the uncanny valley yet. Nobody has. But we’re getting close and our photorealistic avatars are currently best-in-class (judge for yourself: &lt;a href="https://lemonslice.com/try/taylor"&gt;https://lemonslice.com/try/taylor&lt;/a&gt;). Plus, we're the only avatar model that can do animals and heavily stylized cartoons. Try it: &lt;a href="https://lemonslice.com/try/alien"&gt;https://lemonslice.com/try/alien&lt;/a&gt;. Warning! Talking to this little guy may improve your mood.&lt;p&gt;Today we're releasing our new model* - Lemon Slice 2, a 20B-parameter diffusion transformer that generates infinite-length video at 20fps on a single GPU - and opening up our API.&lt;p&gt;How did we get a video diffusion model to run in real-time? There was no single trick, just a lot of them stacked together. The first big change was making our model causal. Standard video diffusion models are bidirectional (they look at frames both before and after the current one), which means you can't stream.&lt;p&gt;From there it was about fitting everything on one GPU. We switched from full to sliding window attention, which killed our memory bottleneck. We distilled from 40 denoising steps down to just a few - quality degraded less than we feared, especially after using GAN-based distillation (though tuning that adversarial loss to avoid mode collapse was its own adventure).&lt;p&gt;And the rest was inference work: modifying RoPE from complex to real (this one was cool!), precision tuning, fusing kernels, a special rolling KV cache, lots of other caching, and more. We kept shaving off milliseconds wherever we could and eventually got to real-time.&lt;p&gt;We set up a guest playground for HN so you can create and talk to characters without logging in: &lt;a href="https://lemonslice.com/hn"&gt;https://lemonslice.com/hn&lt;/a&gt;. For those who want to build with our API (we have a new LiveKit integration that we’re pumped about!), grab a coupon code in the HN playground for your first Pro month free ($100 value). See the docs: &lt;a href="https://lemonslice.com/docs"&gt;https://lemonslice.com/docs&lt;/a&gt;. Pricing is usage-based at $0.12-0.20/min for video generation.&lt;p&gt;Looking forward to your feedback!&lt;p&gt;EDIT: Tell us what characters you want to see in the comments and we can make them for you to talk to (e.g. Max Headroom)&lt;p&gt;*We did a Show HN last year for our V1 model: &lt;a href="https://news.ycombinator.com/item?id=43785044"&gt;https://news.ycombinator.com/item?id=43785044&lt;/a&gt;. It was technically impressive but so bad compared to what we have today.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46783600"&gt;https://news.ycombinator.com/item?id=46783600&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 59&lt;/p&gt;
+&lt;p&gt;# Comments: 70&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 17:55:15 +0000</pubDate><link>https://news.ycombinator.com/item?id=46783600</link><dc:creator>lcolucci</dc:creator><comments>https://news.ycombinator.com/item?id=46783600</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46783600</guid></item><item><title>FBI is investigating Minnesota Signal chats tracking ICE</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041"&gt;https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46783254"&gt;https://news.ycombinator.com/item?id=46783254&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 474&lt;/p&gt;
+&lt;p&gt;# Comments: 557&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 17:32:05 +0000</pubDate><link>https://www.nbcnews.com/tech/internet/fbi-investigating-minnesota-signal-minneapolis-group-ice-patel-kash-rcna256041</link><dc:creator>duxup</dc:creator><comments>https://news.ycombinator.com/item?id=46783254</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46783254</guid></item><item><title>AI2: Open Coding Agents</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://allenai.org/blog/open-coding-agents"&gt;https://allenai.org/blog/open-coding-agents&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46783017"&gt;https://news.ycombinator.com/item?id=46783017&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 105&lt;/p&gt;
+&lt;p&gt;# Comments: 18&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 17:17:54 +0000</pubDate><link>https://allenai.org/blog/open-coding-agents</link><dc:creator>publicmatt</dc:creator><comments>https://news.ycombinator.com/item?id=46783017</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46783017</guid></item><item><title>SoundCloud Data Breach Now on HaveIBeenPwned</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://haveibeenpwned.com/Breach/SoundCloud"&gt;https://haveibeenpwned.com/Breach/SoundCloud&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46782930"&gt;https://news.ycombinator.com/item?id=46782930&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 133&lt;/p&gt;
+&lt;p&gt;# Comments: 69&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 17:11:39 +0000</pubDate><link>https://haveibeenpwned.com/Breach/SoundCloud</link><dc:creator>gnabgib</dc:creator><comments>https://news.ycombinator.com/item?id=46782930</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46782930</guid></item><item><title>Management as AI superpower: Thriving in a world of agentic AI</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.oneusefulthing.org/p/management-as-ai-superpower"&gt;https://www.oneusefulthing.org/p/management-as-ai-superpower&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46782811"&gt;https://news.ycombinator.com/item?id=46782811&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 69&lt;/p&gt;
+&lt;p&gt;# Comments: 77&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 17:04:22 +0000</pubDate><link>https://www.oneusefulthing.org/p/management-as-ai-superpower</link><dc:creator>swolpers</dc:creator><comments>https://news.ycombinator.com/item?id=46782811</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46782811</guid></item><item><title>Artie (YC S23) Is Hiring a Founding Recruiter</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter"&gt;https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46782763"&gt;https://news.ycombinator.com/item?id=46782763&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 17:01:37 +0000</pubDate><link>https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter</link><dc:creator>j-cheong</dc:creator><comments>https://news.ycombinator.com/item?id=46782763</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46782763</guid></item><item><title>OpenSSL: Stack buffer overflow in CMS AuthEnvelopedData parsing</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467"&gt;https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46782662"&gt;https://news.ycombinator.com/item?id=46782662&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 70&lt;/p&gt;
+&lt;p&gt;# Comments: 38&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 16:56:23 +0000</pubDate><link>https://openssl-library.org/news/vulnerabilities/#CVE-2025-15467</link><dc:creator>MagerValp</dc:creator><comments>https://news.ycombinator.com/item?id=46782662</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46782662</guid></item><item><title>430k-year-old well-preserved wooden tools are the oldest ever found</title><description>
+&lt;p&gt;&lt;a href="https://archive.ph/mHlUT" rel="nofollow"&gt;https://archive.ph/mHlUT&lt;/a&gt;&lt;p&gt;&lt;a href="https://apnews.com/article/oldest-wooden-tools-marathousa-1-6e07cfc79f6d8ba648138f805531b933" rel="nofollow"&gt;https://apnews.com/article/oldest-wooden-tools-marathousa-1-...&lt;/a&gt;&lt;p&gt;&lt;a href="https://archaeologymag.com/2026/01/430000-year-old-wooden-tools-marathousa/" rel="nofollow"&gt;https://archaeologymag.com/2026/01/430000-year-old-wooden-to...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46781530"&gt;https://news.ycombinator.com/item?id=46781530&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 329&lt;/p&gt;
+&lt;p&gt;# Comments: 187&lt;/p&gt;
+</description><pubDate>Tue, 27 Jan 2026 15:46:29 +0000</pubDate><link>https://www.nytimes.com/2026/01/26/science/archaeology-neanderthals-tools.html</link><dc:creator>bookofjoe</dc:creator><comments>https://news.ycombinator.com/item?id=46781530</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46781530</guid></item></channel></rss>
