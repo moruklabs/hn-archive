@@ -1,0 +1,162 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Thu, 29 Jan 2026 00:36:33 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Ross Stevens Donates $100M to Pay Every US Olympian and Paralympian $200k</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/"&gt;https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46803549"&gt;https://news.ycombinator.com/item?id=46803549&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 9&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 23:55:42 +0000</pubDate><link>https://www.townandcountrymag.com/leisure/sporting/a70171886/ross-stevens-american-olympians-donation/</link><dc:creator>bookofjoe</dc:creator><comments>https://news.ycombinator.com/item?id=46803549</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46803549</guid></item><item><title>I reverse-engineered Netflix's 4K restrictions</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/Pickle-Pixel/netflix-force-4k"&gt;https://github.com/Pickle-Pixel/netflix-force-4k&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46803451"&gt;https://news.ycombinator.com/item?id=46803451&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 36&lt;/p&gt;
+&lt;p&gt;# Comments: 16&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 23:45:40 +0000</pubDate><link>https://github.com/Pickle-Pixel/netflix-force-4k</link><dc:creator>picklepixel</dc:creator><comments>https://news.ycombinator.com/item?id=46803451</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46803451</guid></item><item><title>Please Don't Say Mean Things about the AI I Just Invested a Billion Dollars In</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in"&gt;https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46803356"&gt;https://news.ycombinator.com/item?id=46803356&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 144&lt;/p&gt;
+&lt;p&gt;# Comments: 30&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 23:36:23 +0000</pubDate><link>https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in</link><dc:creator>randycupertino</dc:creator><comments>https://news.ycombinator.com/item?id=46803356</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46803356</guid></item><item><title>The UK paid £4.1M for a bookmarks site</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://mahadk.com/posts/ai-skills-hub"&gt;https://mahadk.com/posts/ai-skills-hub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46803119"&gt;https://news.ycombinator.com/item?id=46803119&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 111&lt;/p&gt;
+&lt;p&gt;# Comments: 32&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 23:16:12 +0000</pubDate><link>https://mahadk.com/posts/ai-skills-hub</link><dc:creator>JustSkyfall</dc:creator><comments>https://news.ycombinator.com/item?id=46803119</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46803119</guid></item><item><title>Tesla ending Models S and X production</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html"&gt;https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46802867"&gt;https://news.ycombinator.com/item?id=46802867&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 74&lt;/p&gt;
+&lt;p&gt;# Comments: 58&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 22:53:54 +0000</pubDate><link>https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html</link><dc:creator>keyboardJones</dc:creator><comments>https://news.ycombinator.com/item?id=46802867</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46802867</guid></item><item><title>Bf-Tree: modern read-write-optimized concurrent larger-than-memory range index</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/microsoft/bf-tree"&gt;https://github.com/microsoft/bf-tree&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46802210"&gt;https://news.ycombinator.com/item?id=46802210&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 26&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 22:05:05 +0000</pubDate><link>https://github.com/microsoft/bf-tree</link><dc:creator>SchwKatze</dc:creator><comments>https://news.ycombinator.com/item?id=46802210</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46802210</guid></item><item><title>Somebody used spoofed ADSB signals to raster the meme of JD Vance</title><description>
+&lt;p&gt;&lt;a href="https://archive.ph/VrEtg" rel="nofollow"&gt;https://archive.ph/VrEtg&lt;/a&gt;&lt;p&gt;&lt;a href="https://globe.adsbexchange.com/?icao=adfdf9&amp;lat=26.678&amp;lon=-80.030&amp;zoom=14.4&amp;showTrace=2026-01-28" rel="nofollow"&gt;https://globe.adsbexchange.com/?icao=adfdf9&amp;lat=26.678&amp;lon=-...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46802067"&gt;https://news.ycombinator.com/item?id=46802067&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 276&lt;/p&gt;
+&lt;p&gt;# Comments: 76&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 21:50:47 +0000</pubDate><link>https://alecmuffett.com/article/143548</link><dc:creator>wubin</dc:creator><comments>https://news.ycombinator.com/item?id=46802067</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46802067</guid></item><item><title>Jellyfin LLM/"AI" Development Policy</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jellyfin.org/docs/general/contributing/llm-policies/"&gt;https://jellyfin.org/docs/general/contributing/llm-policies/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46801976"&gt;https://news.ycombinator.com/item?id=46801976&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 124&lt;/p&gt;
+&lt;p&gt;# Comments: 65&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 21:42:03 +0000</pubDate><link>https://jellyfin.org/docs/general/contributing/llm-policies/</link><dc:creator>mmoogle</dc:creator><comments>https://news.ycombinator.com/item?id=46801976</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46801976</guid></item><item><title>Show HN: Cursor for Userscripts</title><description>
+&lt;p&gt;I’ve been experimenting with embedding an Claude Code/Cursor-style coding agent directly into the browser.&lt;p&gt;At a high level, the agent generates and maintains userscripts and CSS that are re-applied on page load. Rather than just editing DOM via JS in console the agent is treating the page, and the DOM as a file.&lt;p&gt;The models are often trained in RL sandboxes with full access to the filesystem and bash, so they are really good at using it. So to make the agent behave well, I've simulated this environment.&lt;p&gt;The whole state of a page and scripts is implemented as a virtual filesystem hacked on top of browser.local storage. URL is mapped to directories, and the agent starts inside this directory. It has the tools to read/edit files, grep around and a fake bash command that is just used for running scripts and executing JS code.&lt;p&gt;I've tested only with Opus 4.5 so far, and it works pretty reliably.
+The state of the file system can be synced to the real filesystem, although because Firefox doesn't support Filesystem API, you need to manually import the fs contents first.&lt;p&gt;This agent is &lt;i&gt;really&lt;/i&gt; useful for extracting things to CSV, but it's also can be used for fun.&lt;p&gt;Demo: &lt;a href="https://x.com/ichebykin/status/2015686974439608607" rel="nofollow"&gt;https://x.com/ichebykin/status/2015686974439608607&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46800484"&gt;https://news.ycombinator.com/item?id=46800484&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 35&lt;/p&gt;
+&lt;p&gt;# Comments: 11&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 19:39:31 +0000</pubDate><link>https://github.com/chebykinn/browser-code</link><dc:creator>mifydev</dc:creator><comments>https://news.ycombinator.com/item?id=46800484</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46800484</guid></item><item><title>How to turn 'sfo-jfk' into a suitable photo</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.approachwithalacrity.com/how-to-turn-sfo-jfk-into-a-beautiful-photo/"&gt;https://www.approachwithalacrity.com/how-to-turn-sfo-jfk-into-a-beautiful-photo/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46800303"&gt;https://news.ycombinator.com/item?id=46800303&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 21&lt;/p&gt;
+&lt;p&gt;# Comments: 19&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 19:24:35 +0000</pubDate><link>https://www.approachwithalacrity.com/how-to-turn-sfo-jfk-into-a-beautiful-photo/</link><dc:creator>bblcla</dc:creator><comments>https://news.ycombinator.com/item?id=46800303</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46800303</guid></item><item><title>Show HN: A MitM proxy to see what your LLM tools are sending</title><description>
+&lt;p&gt;I built this out of curiosity about what Claude Code was actually sending to the API. Turns out, watching your tokens tick up in real-time is oddly satisfying.&lt;p&gt;Sherlock sits between your LLM tools and the API, showing you every request with a live dashboard, and auto-saved copies of every prompt as markdown and json.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46799898"&gt;https://news.ycombinator.com/item?id=46799898&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 67&lt;/p&gt;
+&lt;p&gt;# Comments: 29&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 18:52:24 +0000</pubDate><link>https://github.com/jmuncor/sherlock</link><dc:creator>jmuncor</dc:creator><comments>https://news.ycombinator.com/item?id=46799898</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46799898</guid></item><item><title>Computer History Museum Launches Digital Portal to Its Collection</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/"&gt;https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46798994"&gt;https://news.ycombinator.com/item?id=46798994&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 92&lt;/p&gt;
+&lt;p&gt;# Comments: 17&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 17:54:54 +0000</pubDate><link>https://computerhistory.org/press-releases/computer-history-museum-launches-digital-portal-to-its-vast-collection/</link><dc:creator>ChrisArchitect</dc:creator><comments>https://news.ycombinator.com/item?id=46798994</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46798994</guid></item><item><title>Mousefood – Build embedded terminal UIs for microcontrollers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/ratatui/mousefood"&gt;https://github.com/ratatui/mousefood&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46798402"&gt;https://news.ycombinator.com/item?id=46798402&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 147&lt;/p&gt;
+&lt;p&gt;# Comments: 38&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 17:20:31 +0000</pubDate><link>https://github.com/ratatui/mousefood</link><dc:creator>orhunp_</dc:creator><comments>https://news.ycombinator.com/item?id=46798402</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46798402</guid></item><item><title>Spinning around: Please don't – Common problems with spin locks</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.siliceum.com/en/blog/post/spinning-around/"&gt;https://www.siliceum.com/en/blog/post/spinning-around/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46797868"&gt;https://news.ycombinator.com/item?id=46797868&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 71&lt;/p&gt;
+&lt;p&gt;# Comments: 27&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 16:48:59 +0000</pubDate><link>https://www.siliceum.com/en/blog/post/spinning-around/</link><dc:creator>bdash</dc:creator><comments>https://news.ycombinator.com/item?id=46797868</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46797868</guid></item><item><title>Oban, the job processing framework from Elixir, has come to Python</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.dimamik.com/posts/oban_py/"&gt;https://www.dimamik.com/posts/oban_py/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46797594"&gt;https://news.ycombinator.com/item?id=46797594&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 171&lt;/p&gt;
+&lt;p&gt;# Comments: 74&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 16:32:00 +0000</pubDate><link>https://www.dimamik.com/posts/oban_py/</link><dc:creator>dimamik</dc:creator><comments>https://news.ycombinator.com/item?id=46797594</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46797594</guid></item><item><title>Amazon cuts 16k jobs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/"&gt;https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46796745"&gt;https://news.ycombinator.com/item?id=46796745&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 479&lt;/p&gt;
+&lt;p&gt;# Comments: 663&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 15:39:11 +0000</pubDate><link>https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/</link><dc:creator>DGAP</dc:creator><comments>https://news.ycombinator.com/item?id=46796745</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46796745</guid></item><item><title>Airfoil (2024)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ciechanow.ski/airfoil/"&gt;https://ciechanow.ski/airfoil/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46795908"&gt;https://news.ycombinator.com/item?id=46795908&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 349&lt;/p&gt;
+&lt;p&gt;# Comments: 48&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 14:32:30 +0000</pubDate><link>https://ciechanow.ski/airfoil/</link><dc:creator>brk</dc:creator><comments>https://news.ycombinator.com/item?id=46795908</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46795908</guid></item><item><title>Microsoft forced me to switch to Linux</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.himthe.dev/blog/microsoft-to-linux"&gt;https://www.himthe.dev/blog/microsoft-to-linux&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46795864"&gt;https://news.ycombinator.com/item?id=46795864&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 1541&lt;/p&gt;
+&lt;p&gt;# Comments: 1232&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 14:28:21 +0000</pubDate><link>https://www.himthe.dev/blog/microsoft-to-linux</link><dc:creator>bobsterlobster</dc:creator><comments>https://news.ycombinator.com/item?id=46795864</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46795864</guid></item><item><title>Show HN: SHDL – A minimal hardware description language built from logic gates</title><description>
+&lt;p&gt;Hi, everyone!&lt;p&gt;I built SHDL (Simple Hardware Description Language) as an experiment in stripping hardware description down to its absolute fundamentals.&lt;p&gt;In SHDL, there are no arithmetic operators, no implicit bit widths, and no high-level constructs. You build everything explicitly from logic gates and wires, and then compose larger components hierarchically. The goal is not synthesis or performance, but understanding: what digital systems actually look like when abstractions are removed.&lt;p&gt;SHDL is accompanied by PySHDL, a Python interface that lets you load circuits, poke inputs, step the simulation, and observe outputs. Under the hood, SHDL compiles circuits to C for fast execution, but the language itself remains intentionally small and transparent.&lt;p&gt;This is not meant to replace Verilog or VHDL. It’s aimed at: - learning digital logic from first principles - experimenting with HDL and language design - teaching or visualizing how complex hardware emerges from simple gates.&lt;p&gt;I would especially appreciate feedback on: - the language design choices - what feels unnecessarily restrictive vs. educationally valuable - whether this kind of “anti-abstraction” HDL is useful to you.&lt;p&gt;Repo: &lt;a href="https://github.com/rafa-rrayes/SHDL" rel="nofollow"&gt;https://github.com/rafa-rrayes/SHDL&lt;/a&gt;&lt;p&gt;Python package: PySHDL on PyPI&lt;p&gt;To make this concrete, here are a few small working examples written in SHDL:&lt;p&gt;1. Full Adder&lt;p&gt;component FullAdder(A, B, Cin) -&gt; (Sum, Cout) {&lt;p&gt;&lt;pre&gt;&lt;code&gt;    x1: XOR; a1: AND;
+    x2: XOR; a2: AND;
+    o1: OR;
+
+    connect {
+        A -&gt; x1.A; B -&gt; x1.B;
+        A -&gt; a1.A; B -&gt; a1.B;
+
+        x1.O -&gt; x2.A; Cin -&gt; x2.B;
+        x1.O -&gt; a2.A; Cin -&gt; a2.B;
+        a1.O -&gt; o1.A; a2.O -&gt; o1.B;
+
+        x2.O -&gt; Sum; o1.O -&gt; Cout;
+    }&lt;/code&gt;&lt;/pre&gt;
+}&lt;p&gt;2. 16 bit register&lt;p&gt;# clk must be high for two cycles to store a value&lt;p&gt;component Register16(In[16], clk) -&gt; (Out[16]) {&lt;p&gt;&lt;pre&gt;&lt;code&gt;    &gt;i[16]{
+        a1{i}: AND;
+        a2{i}: AND;
+        not1{i}: NOT;
+        nor1{i}: NOR;
+        nor2{i}: NOR;
+    }
+    
+    connect {
+        &gt;i[16]{
+            # Capture on clk
+            In[{i}] -&gt; a1{i}.A;
+            In[{i}] -&gt; not1{i}.A;
+            not1{i}.O -&gt; a2{i}.A;
+            
+            clk -&gt; a1{i}.B;
+            clk -&gt; a2{i}.B;
+            
+            a1{i}.O -&gt; nor1{i}.A;
+            a2{i}.O -&gt; nor2{i}.A;
+            nor1{i}.O -&gt; nor2{i}.B;
+            nor2{i}.O -&gt; nor1{i}.B;
+            nor2{i}.O -&gt; Out[{i}];
+        }
+    }&lt;/code&gt;&lt;/pre&gt;
+}&lt;p&gt;3. 16-bit Ripple-Carry Adder&lt;p&gt;use fullAdder::{FullAdder};&lt;p&gt;component Adder16(A[16], B[16], Cin) -&gt; (Sum[16], Cout) {&lt;p&gt;&lt;pre&gt;&lt;code&gt;    &gt;i[16]{ fa{i}: FullAdder; }
+
+    connect {
+        A[1] -&gt; fa1.A;
+        B[1] -&gt; fa1.B;
+        Cin -&gt; fa1.Cin;
+        fa1.Sum -&gt; Sum[1];
+
+        &gt;i[2,16]{
+            A[{i}] -&gt; fa{i}.A;
+            B[{i}] -&gt; fa{i}.B;
+            fa{i-1}.Cout -&gt; fa{i}.Cin;
+            fa{i}.Sum -&gt; Sum[{i}];
+        }
+
+        fa16.Cout -&gt; Cout;
+    }
+}&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46794281"&gt;https://news.ycombinator.com/item?id=46794281&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 27&lt;/p&gt;
+&lt;p&gt;# Comments: 11&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 12:06:18 +0000</pubDate><link>https://github.com/rafa-rrayes/SHDL</link><dc:creator>rafa_rrayes</dc:creator><comments>https://news.ycombinator.com/item?id=46794281</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46794281</guid></item><item><title>Kyber (YC W23) Is Hiring a Staff Engineer</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead"&gt;https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46794231"&gt;https://news.ycombinator.com/item?id=46794231&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Wed, 28 Jan 2026 12:00:08 +0000</pubDate><link>https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead</link><dc:creator>asontha</dc:creator><comments>https://news.ycombinator.com/item?id=46794231</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46794231</guid></item></channel></rss>
