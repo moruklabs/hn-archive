@@ -1,0 +1,137 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sat, 31 Jan 2026 00:31:09 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>175K+ publicly-exposed Ollama AI instances discovered</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now"&gt;https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46831784"&gt;https://news.ycombinator.com/item?id=46831784&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 4&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 00:12:22 +0000</pubDate><link>https://www.techradar.com/pro/security/over-175-000-publicly-exposed-ollama-ai-servers-discovered-worldwide-so-fix-now</link><dc:creator>heresie-dabord</dc:creator><comments>https://news.ycombinator.com/item?id=46831784</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46831784</guid></item><item><title>The $100B Megadeal Between OpenAI and Nvidia Is on Ice</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3"&gt;https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46831702"&gt;https://news.ycombinator.com/item?id=46831702&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 25&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 00:02:30 +0000</pubDate><link>https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3</link><dc:creator>pixelesque</dc:creator><comments>https://news.ycombinator.com/item?id=46831702</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46831702</guid></item><item><title>Show HN: I built an AI conversation partner to practice speaking languages</title><description>
+&lt;p&gt;Hi,&lt;p&gt;I built TalkBits because most language apps focus on vocabulary or exercises, but not actual conversation. The hard part of learning a language is speaking naturally under pressure.&lt;p&gt;TalkBits lets you have real-time spoken conversations with an AI that acts like a native speaker. You can choose different scenarios (travel, daily life, work, etc.), speak naturally, and the AI responds with natural speech back.&lt;p&gt;The goal is to make it feel like talking to a real person rather than doing lessons.&lt;p&gt;Techwise, it uses realtime speech input, transcription, LLM responses, and tts streaming to keep latency low so the conversation feels fluid.&lt;p&gt;I’m specially interested in feedback about:
+– Does it feel natural?
+– Where does the conversation break immersion?
+– What would make you use this regularly?&lt;p&gt;Happy to answer technical questions too.&lt;p&gt;Thanks&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46830698"&gt;https://news.ycombinator.com/item?id=46830698&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 33&lt;/p&gt;
+&lt;p&gt;# Comments: 21&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 22:16:19 +0000</pubDate><link>https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177</link><dc:creator>omarisbuilding</dc:creator><comments>https://news.ycombinator.com/item?id=46830698</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46830698</guid></item><item><title>I trapped an AI model inside an art installation (2025) [video]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.youtube.com/watch?v=7fNYj0EXxMs"&gt;https://www.youtube.com/watch?v=7fNYj0EXxMs&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46830523"&gt;https://news.ycombinator.com/item?id=46830523&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 23&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 21:58:46 +0000</pubDate><link>https://www.youtube.com/watch?v=7fNYj0EXxMs</link><dc:creator>handfuloflight</dc:creator><comments>https://news.ycombinator.com/item?id=46830523</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46830523</guid></item><item><title>P vs. NP and the Difficulty of Computation: A ruliological approach</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/"&gt;https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46830027"&gt;https://news.ycombinator.com/item?id=46830027&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 28&lt;/p&gt;
+&lt;p&gt;# Comments: 39&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 21:17:21 +0000</pubDate><link>https://writings.stephenwolfram.com/2026/01/p-vs-np-and-the-difficulty-of-computation-a-ruliological-approach/</link><dc:creator>tzury</dc:creator><comments>https://news.ycombinator.com/item?id=46830027</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46830027</guid></item><item><title>Peerweb: Decentralized website hosting via WebTorrent</title><description>
+&lt;p&gt;&lt;a href="https://github.com/omodaka9375/peerweb" rel="nofollow"&gt;https://github.com/omodaka9375/peerweb&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46829582"&gt;https://news.ycombinator.com/item?id=46829582&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 139&lt;/p&gt;
+&lt;p&gt;# Comments: 49&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 20:40:00 +0000</pubDate><link>https://peerweb.lol/</link><dc:creator>dtj1123</dc:creator><comments>https://news.ycombinator.com/item?id=46829582</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46829582</guid></item><item><title>Silver plunges 30% in worst day since 1980, gold tumbles</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html"&gt;https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46829548"&gt;https://news.ycombinator.com/item?id=46829548&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 167&lt;/p&gt;
+&lt;p&gt;# Comments: 149&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 20:37:48 +0000</pubDate><link>https://www.cnbc.com/2026/01/30/silver-gold-fall-price-usd-dollar-fed-warsh-chair-trump-metals.html</link><dc:creator>pera</dc:creator><comments>https://news.ycombinator.com/item?id=46829548</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46829548</guid></item><item><title>Antirender: remove the glossy shine on architectural renderings</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://antirender.com/"&gt;https://antirender.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46829147"&gt;https://news.ycombinator.com/item?id=46829147&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 660&lt;/p&gt;
+&lt;p&gt;# Comments: 159&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 20:05:24 +0000</pubDate><link>https://antirender.com/</link><dc:creator>iambateman</dc:creator><comments>https://news.ycombinator.com/item?id=46829147</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46829147</guid></item><item><title>Kimi K2.5 Technical Report [pdf]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf"&gt;https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46826597"&gt;https://news.ycombinator.com/item?id=46826597&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 191&lt;/p&gt;
+&lt;p&gt;# Comments: 82&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 16:43:50 +0000</pubDate><link>https://github.com/MoonshotAI/Kimi-K2.5/blob/master/tech_report.pdf</link><dc:creator>vinhnx</dc:creator><comments>https://news.ycombinator.com/item?id=46826597</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46826597</guid></item><item><title>Ask HN: Do you also "hoard" notes/links but struggle to turn them into actions?</title><description>
+&lt;p&gt;Hi HN — I’m exploring an idea and would love your feedback.&lt;p&gt;I’m a builder and user of Obsidian, validating a concept called Concerns. Today it’s only a landing page + short survey (no product yet) to test whether this pain is real.&lt;p&gt;The core idea (2–3 bullets):&lt;p&gt;- Many of us capture tons of useful info (notes/links/docs), but it rarely becomes shipped work.&lt;p&gt;- Instead of better “organization” (tags/folders), I’m exploring an “action engine” that:&lt;p&gt;&lt;pre&gt;&lt;code&gt;  1.detects what you’re actively targetting/working on (“active projects”)
+
+  2.surfaces relevant saved material at the right moment
+
+  3.proposes a concrete next action (ideally pushed into your existing task tool)
+&lt;/code&gt;&lt;/pre&gt;
+My own “second brain” became a graveyard of good intentions: the organizing tax was higher than the value I got back. I’m trying to validate whether the real bottleneck is execution, not capture.&lt;p&gt;Before writing code, I’m trying to pin down two things:&lt;p&gt;- Project context signals (repo/PRs? issues? tasks? calendar? a “project doc”?)&lt;p&gt;- How to close the loop: ingest knowledge → rank against active projects → emit a small set of next-actions into an existing todo tool → learn from outcomes (done/ignored/edited) and optionally write back the minimal state. The open question: what’s the cleanest feedback signal without creating noise or privacy risk? (explicit ratings vs completion events vs doc-based write-back)&lt;p&gt;What I’m asking from you:&lt;p&gt;1.Where does your “second brain” break down the most?&lt;p&gt;capture / organization / retrieval / execution
+(If you can, share a concrete recent example.)&lt;p&gt;2.What best represents “active project context” for you today?&lt;p&gt;&lt;pre&gt;&lt;code&gt;  task project (Todoist/Things/Reminders)
+
+  issues/boards (GitHub/Linear/Jira)
+
+  a doc/wiki page (Notion/Docs)
+
+  calendar
+
+  "in my head"
+&lt;/code&gt;&lt;/pre&gt;
+Which one would you actually allow a tool to read?&lt;p&gt;3.What’s your hard “no” for an AI that suggests actions from your notes/links? (pick 1–2)&lt;p&gt;&lt;pre&gt;&lt;code&gt;  privacy/data retention
+
+  noisy suggestions / interruption
+
+  hallucinations / wrong suggestions
+
+  workflow change / migration cost
+
+  pricing
+
+  others&lt;/code&gt;&lt;/pre&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46826277"&gt;https://news.ycombinator.com/item?id=46826277&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 64&lt;/p&gt;
+&lt;p&gt;# Comments: 28&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 16:22:05 +0000</pubDate><link>https://news.ycombinator.com/item?id=46826277</link><dc:creator>item007</dc:creator><comments>https://news.ycombinator.com/item?id=46826277</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46826277</guid></item><item><title>Self Driving Car Insurance</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.lemonade.com/car/explained/self-driving-car-insurance/"&gt;https://www.lemonade.com/car/explained/self-driving-car-insurance/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46825828"&gt;https://news.ycombinator.com/item?id=46825828&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 90&lt;/p&gt;
+&lt;p&gt;# Comments: 208&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 15:50:15 +0000</pubDate><link>https://www.lemonade.com/car/explained/self-driving-car-insurance/</link><dc:creator>KellyCriterion</dc:creator><comments>https://news.ycombinator.com/item?id=46825828</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46825828</guid></item><item><title>Buttered Crumpet, a custom typeface for Wallace and Gromit</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jamieclarketype.com/case-study/wallace-and-gromit-font/"&gt;https://jamieclarketype.com/case-study/wallace-and-gromit-font/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46825415"&gt;https://news.ycombinator.com/item?id=46825415&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 218&lt;/p&gt;
+&lt;p&gt;# Comments: 47&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 15:19:28 +0000</pubDate><link>https://jamieclarketype.com/case-study/wallace-and-gromit-font/</link><dc:creator>tobr</dc:creator><comments>https://news.ycombinator.com/item?id=46825415</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46825415</guid></item><item><title>Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents</title><description>
+&lt;p&gt;WASM sandbox for running LLM-generated code safely.&lt;p&gt;Agents get a bash-like shell and can only call tools you provide, with constraints you define.
+No Docker, no subprocess, no SaaS — just pip install amla-sandbox&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46824877"&gt;https://news.ycombinator.com/item?id=46824877&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 116&lt;/p&gt;
+&lt;p&gt;# Comments: 71&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 14:34:32 +0000</pubDate><link>https://github.com/amlalabs/amla-sandbox</link><dc:creator>souvik1997</dc:creator><comments>https://news.ycombinator.com/item?id=46824877</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46824877</guid></item><item><title>HTTP Cats</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://http.cat/"&gt;https://http.cat/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46824422"&gt;https://news.ycombinator.com/item?id=46824422&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 183&lt;/p&gt;
+&lt;p&gt;# Comments: 32&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 13:56:51 +0000</pubDate><link>https://http.cat/</link><dc:creator>surprisetalk</dc:creator><comments>https://news.ycombinator.com/item?id=46824422</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46824422</guid></item><item><title>Deterministic Governance: mechanical exclusion / bit-identical</title><description>
+&lt;p&gt;This repository implements a deterministic exclusion engine where governance decisions are treated as a mechanical process rather than a probabilistic one. Candidates exist as stateful objects that accumulate strain under a scheduled constraint pressure. Pressure is applied across explicit phases—nucleation, quenching, and crystallization—and exclusion occurs only when accumulated stress exceeds a fixed yield threshold. Once fractured, a candidate cannot re-enter; history matters.&lt;p&gt;There is no ranking, sampling, or temperature. Given identical inputs, configuration, and substrate, the system always produces bit-identical outputs, verified by repeated hash checks. The implementation explores different elastic modulus formulations that change how alignment and proximity contribute to stress, without changing the deterministic nature of the process. The intent is to examine what governance looks like when exclusion is causal, replayable, and mechanically explainable rather than statistical. Repository: &lt;a href="https://github.com/Rymley/Deterministic-Governance-Mechanism" rel="nofollow"&gt;https://github.com/Rymley/Deterministic-Governance-Mechanism&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46823849"&gt;https://news.ycombinator.com/item?id=46823849&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 4&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 12:50:34 +0000</pubDate><link>https://github.com/Rymley/Deterministic-Governance-Mechanism</link><dc:creator>verhash</dc:creator><comments>https://news.ycombinator.com/item?id=46823849</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46823849</guid></item><item><title>Pangolin (YC S25) is hiring software engineers (open-source, Go, networking)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://docs.pangolin.net/careers/join-us"&gt;https://docs.pangolin.net/careers/join-us&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46823544"&gt;https://news.ycombinator.com/item?id=46823544&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 12:11:49 +0000</pubDate><link>https://docs.pangolin.net/careers/join-us</link><dc:creator>miloschwartz</dc:creator><comments>https://news.ycombinator.com/item?id=46823544</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46823544</guid></item><item><title>Code is cheap. Show me the talk</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://nadh.in/blog/code-is-cheap/"&gt;https://nadh.in/blog/code-is-cheap/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46823485"&gt;https://news.ycombinator.com/item?id=46823485&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 152&lt;/p&gt;
+&lt;p&gt;# Comments: 131&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 12:05:50 +0000</pubDate><link>https://nadh.in/blog/code-is-cheap/</link><dc:creator>ghostfoxgod</dc:creator><comments>https://news.ycombinator.com/item?id=46823485</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46823485</guid></item><item><title>Email experiments: filtering out external images</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.terracrypt.net/posts/email-experiments-image-filtering.html"&gt;https://www.terracrypt.net/posts/email-experiments-image-filtering.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46823445"&gt;https://news.ycombinator.com/item?id=46823445&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 35&lt;/p&gt;
+&lt;p&gt;# Comments: 19&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 12:01:36 +0000</pubDate><link>https://www.terracrypt.net/posts/email-experiments-image-filtering.html</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46823445</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46823445</guid></item><item><title>BoldVoice (YC S21) Is Hiring Fullstack and Machine Learning Engineers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&amp;pm=s"&gt;https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&amp;pm=s&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46823430"&gt;https://news.ycombinator.com/item?id=46823430&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 12:00:12 +0000</pubDate><link>https://boldvoice.notion.site/careers-page?p=2e871a9bf729806c81f6e47f32e32622&amp;pm=s</link><dc:creator>ilyausorov</dc:creator><comments>https://news.ycombinator.com/item?id=46823430</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46823430</guid></item><item><title>Surely the crash of the US economy has to be soon</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/"&gt;https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46822630"&gt;https://news.ycombinator.com/item?id=46822630&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 123&lt;/p&gt;
+&lt;p&gt;# Comments: 220&lt;/p&gt;
+</description><pubDate>Fri, 30 Jan 2026 10:14:23 +0000</pubDate><link>https://wilsoniumite.com/2026/01/27/surely-it-has-to-be-soon/</link><dc:creator>Wilsoniumite</dc:creator><comments>https://news.ycombinator.com/item?id=46822630</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46822630</guid></item></channel></rss>
