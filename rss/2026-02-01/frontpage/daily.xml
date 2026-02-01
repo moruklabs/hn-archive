@@ -1,0 +1,103 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sun, 01 Feb 2026 02:53:29 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Apple-1 Computer Prototype Board #0 sold for $2.75M</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/"&gt;https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46843037"&gt;https://news.ycombinator.com/item?id=46843037&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 9&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 02:25:26 +0000</pubDate><link>https://www.rrauction.com/auctions/lot-detail/350902407346003-apple-1-computer-prototype-board-0-the-celebration-board-representing-the-earliest-known-fiberglass-apple-1-prototype/</link><dc:creator>qingcharles</dc:creator><comments>https://news.ycombinator.com/item?id=46843037</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46843037</guid></item><item><title>OpenClaw Security Assessment by ZeroLeaks [pdf]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://zeroleaks.ai/reports/openclaw-analysis.pdf"&gt;https://zeroleaks.ai/reports/openclaw-analysis.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46842884"&gt;https://news.ycombinator.com/item?id=46842884&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 15&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 01:54:14 +0000</pubDate><link>https://zeroleaks.ai/reports/openclaw-analysis.pdf</link><dc:creator>nreece</dc:creator><comments>https://news.ycombinator.com/item?id=46842884</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46842884</guid></item><item><title>U.S. life expectancy hits all-time high</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.scientificamerican.com/article/u-s-life-expectancy-hits-all-time-high/"&gt;https://www.scientificamerican.com/article/u-s-life-expectancy-hits-all-time-high/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46842869"&gt;https://news.ycombinator.com/item?id=46842869&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 15&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 01:51:09 +0000</pubDate><link>https://www.scientificamerican.com/article/u-s-life-expectancy-hits-all-time-high/</link><dc:creator>brandonb</dc:creator><comments>https://news.ycombinator.com/item?id=46842869</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46842869</guid></item><item><title>Working example of a Yocto setup without unnecessary complications</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/bootlin/simplest-yocto-setup"&gt;https://github.com/bootlin/simplest-yocto-setup&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46842227"&gt;https://news.ycombinator.com/item?id=46842227&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 5&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 00:08:15 +0000</pubDate><link>https://github.com/bootlin/simplest-yocto-setup</link><dc:creator>transpute</dc:creator><comments>https://news.ycombinator.com/item?id=46842227</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46842227</guid></item><item><title>Swift is a more convenient Rust</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust"&gt;https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46841374"&gt;https://news.ycombinator.com/item?id=46841374&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 208&lt;/p&gt;
+&lt;p&gt;# Comments: 195&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 22:05:03 +0000</pubDate><link>https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust</link><dc:creator>behnamoh</dc:creator><comments>https://news.ycombinator.com/item?id=46841374</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46841374</guid></item><item><title>Generative AI and Wikipedia editing: What we learned in 2025</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/"&gt;https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46840924"&gt;https://news.ycombinator.com/item?id=46840924&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 88&lt;/p&gt;
+&lt;p&gt;# Comments: 42&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 21:14:02 +0000</pubDate><link>https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/</link><dc:creator>ColinWright</dc:creator><comments>https://news.ycombinator.com/item?id=46840924</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46840924</guid></item><item><title>Outsourcing thinking</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html"&gt;https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46840865"&gt;https://news.ycombinator.com/item?id=46840865&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 80&lt;/p&gt;
+&lt;p&gt;# Comments: 60&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 21:06:57 +0000</pubDate><link>https://erikjohannes.no/posts/20260130-outsourcing-thinking/index.html</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46840865</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46840865</guid></item><item><title>CollectWise (YC F24) Is Hiring</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer"&gt;https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46840801"&gt;https://news.ycombinator.com/item?id=46840801&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 21:00:56 +0000</pubDate><link>https://www.ycombinator.com/companies/collectwise/jobs/ZunnO6k-ai-agent-engineer</link><dc:creator>OBrien_1107</dc:creator><comments>https://news.ycombinator.com/item?id=46840801</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46840801</guid></item><item><title>Data Processing Benchmark Featuring Rust, Go, Swift, Zig, Julia etc.</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/zupat/related_post_gen"&gt;https://github.com/zupat/related_post_gen&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46840698"&gt;https://news.ycombinator.com/item?id=46840698&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 58&lt;/p&gt;
+&lt;p&gt;# Comments: 21&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 20:50:56 +0000</pubDate><link>https://github.com/zupat/related_post_gen</link><dc:creator>behnamoh</dc:creator><comments>https://news.ycombinator.com/item?id=46840698</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46840698</guid></item><item><title>In Praise of –dry-run</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/"&gt;https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46840612"&gt;https://news.ycombinator.com/item?id=46840612&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 60&lt;/p&gt;
+&lt;p&gt;# Comments: 35&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 20:42:13 +0000</pubDate><link>https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/</link><dc:creator>ingve</dc:creator><comments>https://news.ycombinator.com/item?id=46840612</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46840612</guid></item><item><title>Demystifying ARM SME to Optimize General Matrix Multiplications</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arxiv.org/abs/2512.21473"&gt;https://arxiv.org/abs/2512.21473&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46840252"&gt;https://news.ycombinator.com/item?id=46840252&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 62&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 20:05:22 +0000</pubDate><link>https://arxiv.org/abs/2512.21473</link><dc:creator>matt_d</dc:creator><comments>https://news.ycombinator.com/item?id=46840252</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46840252</guid></item><item><title>The Saddest Moment (2013) [pdf]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.usenix.org/system/files/login-logout_1305_mickens.pdf"&gt;https://www.usenix.org/system/files/login-logout_1305_mickens.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46840219"&gt;https://news.ycombinator.com/item?id=46840219&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 89&lt;/p&gt;
+&lt;p&gt;# Comments: 18&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 20:02:36 +0000</pubDate><link>https://www.usenix.org/system/files/login-logout_1305_mickens.pdf</link><dc:creator>tosh</dc:creator><comments>https://news.ycombinator.com/item?id=46840219</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46840219</guid></item><item><title>Noctia: A sleek and minimal desktop shell thoughtfully crafted for Wayland</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/noctalia-dev/noctalia-shell"&gt;https://github.com/noctalia-dev/noctalia-shell&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46840179"&gt;https://news.ycombinator.com/item?id=46840179&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 40&lt;/p&gt;
+&lt;p&gt;# Comments: 16&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 19:58:14 +0000</pubDate><link>https://github.com/noctalia-dev/noctalia-shell</link><dc:creator>doener</dc:creator><comments>https://news.ycombinator.com/item?id=46840179</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46840179</guid></item><item><title>Show HN: Minimal – Open-Source Community driven Hardened Container Images</title><description>
+&lt;p&gt;I would like to share Minimal - Its a open source collection of hardened container images build using Apko, Melange and Wolfi packages. The images are build daily, checked for updates and resolved as soon as fix is available in upstream  source and Wolfi package. It utilizes the power of available open source solutions and contains commercially available images for free. Minimal demonstrates that it is possible to build and maintain hardened container images by ourselves.
+Minimal will add more images support, and goal is to be community driven to add images as required and fully customizable.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46840178"&gt;https://news.ycombinator.com/item?id=46840178&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 72&lt;/p&gt;
+&lt;p&gt;# Comments: 22&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 19:58:00 +0000</pubDate><link>https://github.com/rtvkiz/minimal</link><dc:creator>ritvikarya98</dc:creator><comments>https://news.ycombinator.com/item?id=46840178</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46840178</guid></item><item><title>Berlin: Record harvest sparks mass giveaway of free potatoes</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes"&gt;https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46839784"&gt;https://news.ycombinator.com/item?id=46839784&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 79&lt;/p&gt;
+&lt;p&gt;# Comments: 62&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 19:15:52 +0000</pubDate><link>https://www.theguardian.com/world/2026/jan/31/record-harvest-berlin-giveaway-potatoes</link><dc:creator>novaRom</dc:creator><comments>https://news.ycombinator.com/item?id=46839784</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46839784</guid></item><item><title>Nintendo DS code editor and scriptable game engine</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://crl.io/ds-game-engine/"&gt;https://crl.io/ds-game-engine/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46839215"&gt;https://news.ycombinator.com/item?id=46839215&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 98&lt;/p&gt;
+&lt;p&gt;# Comments: 25&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 18:27:36 +0000</pubDate><link>https://crl.io/ds-game-engine/</link><dc:creator>Antibabelic</dc:creator><comments>https://news.ycombinator.com/item?id=46839215</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46839215</guid></item><item><title>Genode OS is a tool kit for building highly secure special-purpose OS</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://genode.org/about/index"&gt;https://genode.org/about/index&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46838981"&gt;https://news.ycombinator.com/item?id=46838981&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 110&lt;/p&gt;
+&lt;p&gt;# Comments: 18&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 18:03:32 +0000</pubDate><link>https://genode.org/about/index</link><dc:creator>doener</dc:creator><comments>https://news.ycombinator.com/item?id=46838981</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46838981</guid></item><item><title>Mobile carriers can get your GPS location</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://an.dywa.ng/carrier-gnss.html"&gt;https://an.dywa.ng/carrier-gnss.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46838597"&gt;https://news.ycombinator.com/item?id=46838597&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 473&lt;/p&gt;
+&lt;p&gt;# Comments: 313&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 17:21:34 +0000</pubDate><link>https://an.dywa.ng/carrier-gnss.html</link><dc:creator>cbeuw</dc:creator><comments>https://news.ycombinator.com/item?id=46838597</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46838597</guid></item><item><title>Finland looks to introduce Australia-style ban on social media</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://yle.fi/a/74-20207494"&gt;https://yle.fi/a/74-20207494&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46838417"&gt;https://news.ycombinator.com/item?id=46838417&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 512&lt;/p&gt;
+&lt;p&gt;# Comments: 365&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 17:06:22 +0000</pubDate><link>https://yle.fi/a/74-20207494</link><dc:creator>Teever</dc:creator><comments>https://news.ycombinator.com/item?id=46838417</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46838417</guid></item><item><title>Apple Platform Security (Jan 2026) [pdf]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf"&gt;https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46837814"&gt;https://news.ycombinator.com/item?id=46837814&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 130&lt;/p&gt;
+&lt;p&gt;# Comments: 95&lt;/p&gt;
+</description><pubDate>Sat, 31 Jan 2026 16:04:03 +0000</pubDate><link>https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf</link><dc:creator>pieterr</dc:creator><comments>https://news.ycombinator.com/item?id=46837814</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46837814</guid></item></channel></rss>
