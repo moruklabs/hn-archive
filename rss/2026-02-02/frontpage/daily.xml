@@ -1,0 +1,103 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Mon, 02 Feb 2026 02:43:10 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Notepad++ hijacked by state-sponsored actors</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://notepad-plus-plus.org/news/hijacked-incident-info-update/"&gt;https://notepad-plus-plus.org/news/hijacked-incident-info-update/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46851548"&gt;https://news.ycombinator.com/item?id=46851548&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 130&lt;/p&gt;
+&lt;p&gt;# Comments: 34&lt;/p&gt;
+</description><pubDate>Mon, 02 Feb 2026 01:59:56 +0000</pubDate><link>https://notepad-plus-plus.org/news/hijacked-incident-info-update/</link><dc:creator>mysterydip</dc:creator><comments>https://news.ycombinator.com/item?id=46851548</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46851548</guid></item><item><title>Actors: A Model of Concurrent Computation [pdf]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf"&gt;https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46851192"&gt;https://news.ycombinator.com/item?id=46851192&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 15&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Mon, 02 Feb 2026 01:11:15 +0000</pubDate><link>https://apps.dtic.mil/sti/tr/pdf/ADA157917.pdf</link><dc:creator>kioku</dc:creator><comments>https://news.ycombinator.com/item?id=46851192</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46851192</guid></item><item><title>Show HN: Wikipedia as a doomscrollable social media feed</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://xikipedia.org"&gt;https://xikipedia.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46850803"&gt;https://news.ycombinator.com/item?id=46850803&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 25&lt;/p&gt;
+&lt;p&gt;# Comments: 11&lt;/p&gt;
+</description><pubDate>Mon, 02 Feb 2026 00:12:19 +0000</pubDate><link>https://xikipedia.org</link><dc:creator>rebane2001</dc:creator><comments>https://news.ycombinator.com/item?id=46850803</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46850803</guid></item><item><title>Time Machine-style Backups with rsync (2018)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync"&gt;https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46850709"&gt;https://news.ycombinator.com/item?id=46850709&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 29&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Mon, 02 Feb 2026 00:00:07 +0000</pubDate><link>https://samuelhewitt.com/blog/2018-06-05-time-machine-style-backups-with-rsync</link><dc:creator>accrual</dc:creator><comments>https://news.ycombinator.com/item?id=46850709</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46850709</guid></item><item><title>History and Timeline of the Proco Rat Pedal (2021)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal"&gt;https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46850653"&gt;https://news.ycombinator.com/item?id=46850653&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 5&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 23:53:48 +0000</pubDate><link>https://web.archive.org/web/20211030011207/https://thejhsshow.com/articles/history-and-timeline-of-the-proco-rat-pedal</link><dc:creator>brudgers</dc:creator><comments>https://news.ycombinator.com/item?id=46850653</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46850653</guid></item><item><title>Show HN: NanoClaw – “Clawdbot” in 500 lines of TS with Apple container isolation</title><description>
+&lt;p&gt;I’ve been running Clawdbot for the last couple weeks and have genuinely found it useful but running it scares the crap out of me.&lt;p&gt;OpenClaw has 52+ modules and runs agents with near-unlimited permissions in a single Node process. NanoClaw is ~500 lines of core code, agents run in actual Apple containers with filesystem isolation. Each chat gets its own sandboxed context.&lt;p&gt;This is not a swiss army knife. It’s built to match my exact needs. Fork it and make it yours.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46850205"&gt;https://news.ycombinator.com/item?id=46850205&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 189&lt;/p&gt;
+&lt;p&gt;# Comments: 55&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 22:49:22 +0000</pubDate><link>https://github.com/gavrielc/nanoclaw</link><dc:creator>jimminyx</dc:creator><comments>https://news.ycombinator.com/item?id=46850205</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46850205</guid></item><item><title>Treasures found on HS2 route stored in secret warehouse</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.bbc.com/news/articles/c93v21q5xdvo"&gt;https://www.bbc.com/news/articles/c93v21q5xdvo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46849926"&gt;https://news.ycombinator.com/item?id=46849926&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 31&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 22:14:39 +0000</pubDate><link>https://www.bbc.com/news/articles/c93v21q5xdvo</link><dc:creator>breve</dc:creator><comments>https://news.ycombinator.com/item?id=46849926</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46849926</guid></item><item><title>MRI scans show exercise can make the brain look younger</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.sciencedaily.com/releases/2026/01/260121034130.htm"&gt;https://www.sciencedaily.com/releases/2026/01/260121034130.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46849630"&gt;https://news.ycombinator.com/item?id=46849630&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 78&lt;/p&gt;
+&lt;p&gt;# Comments: 25&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 21:37:00 +0000</pubDate><link>https://www.sciencedaily.com/releases/2026/01/260121034130.htm</link><dc:creator>amichail</dc:creator><comments>https://news.ycombinator.com/item?id=46849630</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46849630</guid></item><item><title>Defeating a 40-year-old copy protection dongle</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle"&gt;https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46849567"&gt;https://news.ycombinator.com/item?id=46849567&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 257&lt;/p&gt;
+&lt;p&gt;# Comments: 77&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 21:30:51 +0000</pubDate><link>https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle</link><dc:creator>zdw</dc:creator><comments>https://news.ycombinator.com/item?id=46849567</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46849567</guid></item><item><title>My thousand dollar iPhone can't do math</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/"&gt;https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46849258"&gt;https://news.ycombinator.com/item?id=46849258&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 155&lt;/p&gt;
+&lt;p&gt;# Comments: 76&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 20:51:56 +0000</pubDate><link>https://journal.rafaelcosta.me/my-thousand-dollar-iphone-cant-do-math/</link><dc:creator>rafaelcosta</dc:creator><comments>https://news.ycombinator.com/item?id=46849258</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46849258</guid></item><item><title>Building Your Own Efficient uint128 in C++</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://solidean.com/blog/2026/building-your-own-u128/"&gt;https://solidean.com/blog/2026/building-your-own-u128/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46849154"&gt;https://news.ycombinator.com/item?id=46849154&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 31&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 20:40:45 +0000</pubDate><link>https://solidean.com/blog/2026/building-your-own-u128/</link><dc:creator>PaulHoule</dc:creator><comments>https://news.ycombinator.com/item?id=46849154</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46849154</guid></item><item><title>Teaching my neighbor to keep the volume down</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down"&gt;https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46848415"&gt;https://news.ycombinator.com/item?id=46848415&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 549&lt;/p&gt;
+&lt;p&gt;# Comments: 243&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 19:00:46 +0000</pubDate><link>https://idiallo.com/blog/teaching-my-neighbor-to-keep-the-volume-down</link><dc:creator>firefoxd</dc:creator><comments>https://news.ycombinator.com/item?id=46848415</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46848415</guid></item><item><title>Clearspace (YC W23) Is Hiring an Applied Researcher (ML)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace"&gt;https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46848260"&gt;https://news.ycombinator.com/item?id=46848260&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 18:41:54 +0000</pubDate><link>https://www.ycombinator.com/companies/clearspace/jobs/GOWiDwp-research-engineer-at-clearspace</link><dc:creator>anteloper</dc:creator><comments>https://news.ycombinator.com/item?id=46848260</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46848260</guid></item><item><title>Ian's Shoelace Site</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.fieggen.com/shoelace/"&gt;https://www.fieggen.com/shoelace/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46848231"&gt;https://news.ycombinator.com/item?id=46848231&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 26&lt;/p&gt;
+&lt;p&gt;# Comments: 1&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 18:38:04 +0000</pubDate><link>https://www.fieggen.com/shoelace/</link><dc:creator>righthand</dc:creator><comments>https://news.ycombinator.com/item?id=46848231</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46848231</guid></item><item><title>Towards a science of scaling agent systems: When and why agent systems work</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/"&gt;https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46847958"&gt;https://news.ycombinator.com/item?id=46847958&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 46&lt;/p&gt;
+&lt;p&gt;# Comments: 20&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 18:00:30 +0000</pubDate><link>https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/</link><dc:creator>gmays</dc:creator><comments>https://news.ycombinator.com/item?id=46847958</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46847958</guid></item><item><title>A Crisis comes to Wordle: Reusing old words</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://forkingmad.blog/wordle-crisis/"&gt;https://forkingmad.blog/wordle-crisis/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46847924"&gt;https://news.ycombinator.com/item?id=46847924&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 53&lt;/p&gt;
+&lt;p&gt;# Comments: 68&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 17:54:55 +0000</pubDate><link>https://forkingmad.blog/wordle-crisis/</link><dc:creator>cyanbane</dc:creator><comments>https://news.ycombinator.com/item?id=46847924</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46847924</guid></item><item><title>Apple I Advertisement (1976)</title><description>
+&lt;p&gt;&lt;a href="https://computerhistory.org/wp-content/uploads/2019/10/Apple-I-Advertisement_Oct1976.pdf" rel="nofollow"&gt;https://computerhistory.org/wp-content/uploads/2019/10/Apple...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46847780"&gt;https://news.ycombinator.com/item?id=46847780&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 180&lt;/p&gt;
+&lt;p&gt;# Comments: 119&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 17:36:57 +0000</pubDate><link>http://apple1.chez.com/Apple1project/Gallery/Gallery.htm</link><dc:creator>janandonly</dc:creator><comments>https://news.ycombinator.com/item?id=46847780</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46847780</guid></item><item><title>Adventure Game Studio: OSS software for creating adventure games</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.adventuregamestudio.co.uk/"&gt;https://www.adventuregamestudio.co.uk/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46846252"&gt;https://news.ycombinator.com/item?id=46846252&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 274&lt;/p&gt;
+&lt;p&gt;# Comments: 51&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 13:56:56 +0000</pubDate><link>https://www.adventuregamestudio.co.uk/</link><dc:creator>doener</dc:creator><comments>https://news.ycombinator.com/item?id=46846252</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46846252</guid></item><item><title>Amiga Unix (Amix)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.amigaunix.com/doku.php/home"&gt;https://www.amigaunix.com/doku.php/home&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46845244"&gt;https://news.ycombinator.com/item?id=46845244&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 113&lt;/p&gt;
+&lt;p&gt;# Comments: 41&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 10:57:20 +0000</pubDate><link>https://www.amigaunix.com/doku.php/home</link><dc:creator>donatj</dc:creator><comments>https://news.ycombinator.com/item?id=46845244</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46845244</guid></item><item><title>FOSDEM 2026 – Open-Source Conference in Brussels – Day#1 Recap</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/"&gt;https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46845103"&gt;https://news.ycombinator.com/item?id=46845103&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 188&lt;/p&gt;
+&lt;p&gt;# Comments: 107&lt;/p&gt;
+</description><pubDate>Sun, 01 Feb 2026 10:30:41 +0000</pubDate><link>https://gyptazy.com/blog/fosdem-2026-opensource-conference-brussels/</link><dc:creator>yannick2k</dc:creator><comments>https://news.ycombinator.com/item?id=46845103</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46845103</guid></item></channel></rss>
