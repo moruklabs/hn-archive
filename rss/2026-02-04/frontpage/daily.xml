@@ -1,0 +1,103 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Wed, 04 Feb 2026 02:25:39 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Why poor countries stopped catching up</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://davidoks.blog/p/why-poor-countries-stopped-catching-690"&gt;https://davidoks.blog/p/why-poor-countries-stopped-catching-690&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46880111"&gt;https://news.ycombinator.com/item?id=46880111&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 31&lt;/p&gt;
+&lt;p&gt;# Comments: 23&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 01:22:49 +0000</pubDate><link>https://davidoks.blog/p/why-poor-countries-stopped-catching-690</link><dc:creator>j-bos</dc:creator><comments>https://news.ycombinator.com/item?id=46880111</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46880111</guid></item><item><title>Notepad++ supply chain attack breakdown</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://securelist.com/notepad-supply-chain-attack/118708/"&gt;https://securelist.com/notepad-supply-chain-attack/118708/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46878338"&gt;https://news.ycombinator.com/item?id=46878338&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 179&lt;/p&gt;
+&lt;p&gt;# Comments: 83&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 22:35:27 +0000</pubDate><link>https://securelist.com/notepad-supply-chain-attack/118708/</link><dc:creator>natebc</dc:creator><comments>https://news.ycombinator.com/item?id=46878338</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46878338</guid></item><item><title>FlashAttention-T: Towards Tensorized Attention</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://dl.acm.org/doi/10.1145/3774934.3786425"&gt;https://dl.acm.org/doi/10.1145/3774934.3786425&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46877403"&gt;https://news.ycombinator.com/item?id=46877403&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 75&lt;/p&gt;
+&lt;p&gt;# Comments: 40&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 21:15:48 +0000</pubDate><link>https://dl.acm.org/doi/10.1145/3774934.3786425</link><dc:creator>matt_d</dc:creator><comments>https://news.ycombinator.com/item?id=46877403</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46877403</guid></item><item><title>Data centers in space makes no sense</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://civai.org/blog/space-data-centers"&gt;https://civai.org/blog/space-data-centers&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46876105"&gt;https://news.ycombinator.com/item?id=46876105&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 244&lt;/p&gt;
+&lt;p&gt;# Comments: 372&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 19:37:30 +0000</pubDate><link>https://civai.org/blog/space-data-centers</link><dc:creator>ajyoon</dc:creator><comments>https://news.ycombinator.com/item?id=46876105</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46876105</guid></item><item><title>China Moon Mission: Aiming for 2030 lunar landing</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis"&gt;https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46876047"&gt;https://news.ycombinator.com/item?id=46876047&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 103&lt;/p&gt;
+&lt;p&gt;# Comments: 120&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 19:32:11 +0000</pubDate><link>https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis</link><dc:creator>rbanffy</dc:creator><comments>https://news.ycombinator.com/item?id=46876047</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46876047</guid></item><item><title>AliSQL: Alibaba's open-source MySQL with vector and DuckDB engines</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/alibaba/AliSQL"&gt;https://github.com/alibaba/AliSQL&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46875228"&gt;https://news.ycombinator.com/item?id=46875228&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 146&lt;/p&gt;
+&lt;p&gt;# Comments: 21&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 18:40:18 +0000</pubDate><link>https://github.com/alibaba/AliSQL</link><dc:creator>baotiao</dc:creator><comments>https://news.ycombinator.com/item?id=46875228</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46875228</guid></item><item><title>Y Combinator will let founders receive funds in stablecoins</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/"&gt;https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46875033"&gt;https://news.ycombinator.com/item?id=46875033&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 80&lt;/p&gt;
+&lt;p&gt;# Comments: 100&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 18:28:48 +0000</pubDate><link>https://fortune.com/2026/02/03/famed-startup-incubator-y-combinator-to-let-founders-receive-funds-in-stablecoins/</link><dc:creator>shscs911</dc:creator><comments>https://news.ycombinator.com/item?id=46875033</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46875033</guid></item><item><title>Xcode 26.3 – Developers can leverage coding agents directly in Xcode</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/"&gt;https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46874619"&gt;https://news.ycombinator.com/item?id=46874619&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 238&lt;/p&gt;
+&lt;p&gt;# Comments: 199&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 18:04:08 +0000</pubDate><link>https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/</link><dc:creator>davidbarker</dc:creator><comments>https://news.ycombinator.com/item?id=46874619</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46874619</guid></item><item><title>Deno Sandbox</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://deno.com/blog/introducing-deno-sandbox"&gt;https://deno.com/blog/introducing-deno-sandbox&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46874097"&gt;https://news.ycombinator.com/item?id=46874097&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 335&lt;/p&gt;
+&lt;p&gt;# Comments: 113&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 17:33:20 +0000</pubDate><link>https://deno.com/blog/introducing-deno-sandbox</link><dc:creator>johnspurlock</dc:creator><comments>https://news.ycombinator.com/item?id=46874097</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46874097</guid></item><item><title>Show HN: Octosphere, a tool to decentralise scientific publishing</title><description>
+&lt;p&gt;Hey HN! I went to an ATProto meetup last week, and as a burnt-out semi-academic who hates academic publishing, I thought there might be a cool opportunity to build on Octopus (&lt;a href="https://www.octopus.ac/" rel="nofollow"&gt;https://www.octopus.ac/&lt;/a&gt;), so I got a bit excited over the weekend and built Octosphere.&lt;p&gt;Hopefully some of you find it interesting! Blog post here: &lt;a href="https://andreasthinks.me/posts/octosphere/octosphere.html" rel="nofollow"&gt;https://andreasthinks.me/posts/octosphere/octosphere.html&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46873782"&gt;https://news.ycombinator.com/item?id=46873782&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 48&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 17:11:42 +0000</pubDate><link>https://octosphere.social/</link><dc:creator>crimsoneer</dc:creator><comments>https://news.ycombinator.com/item?id=46873782</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46873782</guid></item><item><title>221 Cannon is Not For Sale</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/"&gt;https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46873574"&gt;https://news.ycombinator.com/item?id=46873574&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 182&lt;/p&gt;
+&lt;p&gt;# Comments: 138&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 16:56:06 +0000</pubDate><link>https://fredbenenson.com/blog/2026/02/03/221-cannon-is-not-for-sale/</link><dc:creator>mecredis</dc:creator><comments>https://news.ycombinator.com/item?id=46873574</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46873574</guid></item><item><title>1 kilobyte is precisely 1000 bytes?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://waspdev.com/articles/2026-01-11/kilobyte-is-1000-bytes"&gt;https://waspdev.com/articles/2026-01-11/kilobyte-is-1000-bytes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46873539"&gt;https://news.ycombinator.com/item?id=46873539&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 68&lt;/p&gt;
+&lt;p&gt;# Comments: 224&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 16:53:50 +0000</pubDate><link>https://waspdev.com/articles/2026-01-11/kilobyte-is-1000-bytes</link><dc:creator>surprisetalk</dc:creator><comments>https://news.ycombinator.com/item?id=46873539</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46873539</guid></item><item><title>France dumps Zoom and Teams as Europe seeks digital autonomy from the US</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060"&gt;https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46873294"&gt;https://news.ycombinator.com/item?id=46873294&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 796&lt;/p&gt;
+&lt;p&gt;# Comments: 438&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 16:39:18 +0000</pubDate><link>https://apnews.com/article/europe-digital-sovereignty-big-tech-9f5388b68a0648514cebc8d92f682060</link><dc:creator>AareyBaba</dc:creator><comments>https://news.ycombinator.com/item?id=46873294</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46873294</guid></item><item><title>Prek: A better, faster, drop-in pre-commit replacement, engineered in Rust</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/j178/prek"&gt;https://github.com/j178/prek&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46873138"&gt;https://news.ycombinator.com/item?id=46873138&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 195&lt;/p&gt;
+&lt;p&gt;# Comments: 98&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 16:29:34 +0000</pubDate><link>https://github.com/j178/prek</link><dc:creator>fortuitous-frog</dc:creator><comments>https://news.ycombinator.com/item?id=46873138</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46873138</guid></item><item><title>Launch HN: Modelence (YC S25) – App Builder with TypeScript / MongoDB Framework</title><description>
+&lt;p&gt;Hi all, Aram and Eduard here - co-founders of Modelence (&lt;a href="https://modelence.com"&gt;https://modelence.com&lt;/a&gt;). After spending years on scaling our previous startup’s platform, we built an open-source full-stack TypeScript + MongoDB framework to stop solving the same auth / database / API / cron job implementations every time we created an app, and we didn’t like the idea of using multiple managed platforms for each of these to run our apps either.&lt;p&gt;(Here’s our prior Show HN post for reference: &lt;a href="https://news.ycombinator.com/item?id=44902227"&gt;https://news.ycombinator.com/item?id=44902227&lt;/a&gt;)&lt;p&gt;At the same time, we were excited by the whole AI app builder boom and realized that the real challenge there is the platform rather than the tool itself. Now we’re making Modelence the first full-stack framework that’s built for coding agents and humans alike:&lt;p&gt;- TypeScript is already great for AI coding because it provides guardrails and catches many errors at build time, so agents can auto-correct&lt;p&gt;- MongoDB eliminates the schema management problem for agents, which is where they fail the most often otherwise (+ works great with TS/Node.js)&lt;p&gt;- Built-in auth, database, cron jobs and else that just works together out of the box means agents only focus on your product logic and don’t fail at trying to set these things up (+ less tokens spent on boilerplate).&lt;p&gt;You can now try the Modelence app builder (based on Claude Agent SDK) by just typing a prompt on our landing page ( &lt;a href="https://modelence.com"&gt;https://modelence.com&lt;/a&gt; ) - watch a demo video here: &lt;a href="https://youtu.be/BPsYvj_nGuE" rel="nofollow"&gt;https://youtu.be/BPsYvj_nGuE&lt;/a&gt;&lt;p&gt;Then you can check it out locally and continue working in your own IDE, while still using Modelence Cloud as your backend, with a dev cloud environment, and later deploy and run on Modelence Cloud with built-in observability around every operation running in your app.&lt;p&gt;We’re also going to add a built-in DevOps agent that lives in the same cloud, knows the framework end-to-end, and will use all this observability data to act on errors, alerts, and incidents - closing the loop, because running in production is much harder than just building.&lt;p&gt;We launched the app builder as a quick start for developers, to demonstrate the framework and Modelence Cloud without having to manually read docs and follow the steps to set up a new app. Our main focus is still the platform itself, since we believe the real challenge in AI coding is the framework and the platform rather than the builder tool itself.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46872733"&gt;https://news.ycombinator.com/item?id=46872733&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 65&lt;/p&gt;
+&lt;p&gt;# Comments: 36&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 16:03:21 +0000</pubDate><link>https://news.ycombinator.com/item?id=46872733</link><dc:creator>eduardpi</dc:creator><comments>https://news.ycombinator.com/item?id=46872733</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46872733</guid></item><item><title>Qwen3-Coder-Next</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://qwen.ai/blog?id=qwen3-coder-next"&gt;https://qwen.ai/blog?id=qwen3-coder-next&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46872706"&gt;https://news.ycombinator.com/item?id=46872706&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 579&lt;/p&gt;
+&lt;p&gt;# Comments: 362&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 16:01:50 +0000</pubDate><link>https://qwen.ai/blog?id=qwen3-coder-next</link><dc:creator>danielhanchen</dc:creator><comments>https://news.ycombinator.com/item?id=46872706</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46872706</guid></item><item><title>New York’s budget bill would require “blocking technology” on all 3D printers</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/"&gt;https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46872540"&gt;https://news.ycombinator.com/item?id=46872540&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 227&lt;/p&gt;
+&lt;p&gt;# Comments: 286&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 15:51:42 +0000</pubDate><link>https://blog.adafruit.com/2026/02/03/new-york-wants-to-ctrlaltdelete-your-3d-printer/</link><dc:creator>ptorrone</dc:creator><comments>https://news.ycombinator.com/item?id=46872540</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46872540</guid></item><item><title>Agent Skills</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://agentskills.io/home"&gt;https://agentskills.io/home&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46871173"&gt;https://news.ycombinator.com/item?id=46871173&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 379&lt;/p&gt;
+&lt;p&gt;# Comments: 213&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 14:09:54 +0000</pubDate><link>https://agentskills.io/home</link><dc:creator>mooreds</dc:creator><comments>https://news.ycombinator.com/item?id=46871173</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46871173</guid></item><item><title>Bunny Database</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/"&gt;https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46870015"&gt;https://news.ycombinator.com/item?id=46870015&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 249&lt;/p&gt;
+&lt;p&gt;# Comments: 105&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 12:13:44 +0000</pubDate><link>https://bunny.net/blog/meet-bunny-database-the-sql-service-that-just-works/</link><dc:creator>dabinat</dc:creator><comments>https://news.ycombinator.com/item?id=46870015</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46870015</guid></item><item><title>Emerge Career (YC S22) is hiring a product designer</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer"&gt;https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46869901"&gt;https://news.ycombinator.com/item?id=46869901&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Tue, 03 Feb 2026 12:00:23 +0000</pubDate><link>https://www.ycombinator.com/companies/emerge-career/jobs/omqT34S-founding-product-designer</link><dc:creator>gabesaruhashi</dc:creator><comments>https://news.ycombinator.com/item?id=46869901</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46869901</guid></item></channel></rss>
