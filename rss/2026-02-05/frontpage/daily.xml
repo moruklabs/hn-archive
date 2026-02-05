@@ -1,0 +1,104 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Thu, 05 Feb 2026 02:32:40 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>OpenClaw is what Apple intelligence should have been</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been"&gt;https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46893970"&gt;https://news.ycombinator.com/item?id=46893970&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 118&lt;/p&gt;
+&lt;p&gt;# Comments: 109&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 00:28:06 +0000</pubDate><link>https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been</link><dc:creator>jakequist</dc:creator><comments>https://news.ycombinator.com/item?id=46893970</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46893970</guid></item><item><title>Steam Hardware: Launch timing and other FAQs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://store.steampowered.com/news/group/45479024/view/625565405086220583"&gt;https://store.steampowered.com/news/group/45479024/view/625565405086220583&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46893910"&gt;https://news.ycombinator.com/item?id=46893910&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 20&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 00:21:06 +0000</pubDate><link>https://store.steampowered.com/news/group/45479024/view/625565405086220583</link><dc:creator>Philpax</dc:creator><comments>https://news.ycombinator.com/item?id=46893910</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46893910</guid></item><item><title>As Rocks May Think</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://evjang.com/2026/02/04/rocks.html"&gt;https://evjang.com/2026/02/04/rocks.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46893018"&gt;https://news.ycombinator.com/item?id=46893018&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 58&lt;/p&gt;
+&lt;p&gt;# Comments: 44&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 22:50:34 +0000</pubDate><link>https://evjang.com/2026/02/04/rocks.html</link><dc:creator>modeless</dc:creator><comments>https://news.ycombinator.com/item?id=46893018</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46893018</guid></item><item><title>Debian's Challenge When Its Developers Drift Away</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.phoronix.com/news/Debian-Developers-Quiet-Away"&gt;https://www.phoronix.com/news/Debian-Developers-Quiet-Away&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46892861"&gt;https://news.ycombinator.com/item?id=46892861&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 41&lt;/p&gt;
+&lt;p&gt;# Comments: 2&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 22:34:46 +0000</pubDate><link>https://www.phoronix.com/news/Debian-Developers-Quiet-Away</link><dc:creator>cuechan</dc:creator><comments>https://news.ycombinator.com/item?id=46892861</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46892861</guid></item><item><title>A real-world benchmark for AI code review</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/"&gt;https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46891860"&gt;https://news.ycombinator.com/item?id=46891860&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 38&lt;/p&gt;
+&lt;p&gt;# Comments: 15&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 21:13:17 +0000</pubDate><link>https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/</link><dc:creator>benocodes</dc:creator><comments>https://news.ycombinator.com/item?id=46891860</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46891860</guid></item><item><title>Show HN: Morph – Videos of AI testing your PR, embedded in GitHub</title><description>
+&lt;p&gt;I review PRs all day and I've basically stopped reading them. Someone opens a 2000-line PR, I scroll, see it's mostly AI-generated React components, leave a comment, merge. I felt bad about it until I realized everyone on my team does the same thing.&lt;p&gt;The problem is diffs are the wrong format. A PR might change how three buttons behave. Staring at green and red lines to understand that is crazy.&lt;p&gt;The core reason we built this is that we feel that products today are built with assumptions from the past. 100x code with the same review systems means 100x human attention. Human attention cannot scale to fit that need, so we built something different. Humans are provably more engaged with video content than text.&lt;p&gt;So we RL trained and built an agent that watches your preview deployment when you open a PR, clicks around the stuff that changed, and posts a video in the PR itself.&lt;p&gt;Hardest part was figuring out where changed code actually lives in the running app. A diff could say Button.tsx line 47 changed, but that doesn't tell you how to find that button. We walk React's Fiber tree where each node maps back to source files, so we can trace changes to bounding boxes for the DOM elements. We then reward the model for showing and interacting within it.&lt;p&gt;This obviously only works with React so we have to get more clever when generalizing to all languages.&lt;p&gt;We trained an RL agent to interact with those components. Simple reward: points for getting modified stuff into viewport, double for clicking/typing. About 30% of what it does is weird, partial form submits, hitting escape mid-modal, because real users do that stuff and polite AI models won't test it on their own.&lt;p&gt;This catches things unit tests miss completely: z-index bugs where something renders but you can't click it, scroll containers that trap you, handlers that fail silently.&lt;p&gt;What's janky right now: feature flags, storing different user states, and anything that requires context not provided.&lt;p&gt;Free to try: &lt;a href="https://morphllm.com/dashboard/integrations/github"&gt;https://morphllm.com/dashboard/integrations/github&lt;/a&gt;&lt;p&gt;Demo: &lt;a href="https://www.youtube.com/watch?v=Tc66RMA0nCY" rel="nofollow"&gt;https://www.youtube.com/watch?v=Tc66RMA0nCY&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46891827"&gt;https://news.ycombinator.com/item?id=46891827&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 21&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 21:10:55 +0000</pubDate><link>https://morphllm.com/products/glance</link><dc:creator>bhaktatejas922</dc:creator><comments>https://news.ycombinator.com/item?id=46891827</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46891827</guid></item><item><title>Spotlighting the World Factbook as We Bid a Fond Farewell</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/"&gt;https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46891794"&gt;https://news.ycombinator.com/item?id=46891794&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 90&lt;/p&gt;
+&lt;p&gt;# Comments: 79&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 21:08:35 +0000</pubDate><link>https://www.cia.gov/stories/story/spotlighting-the-world-factbook-as-we-bid-a-fond-farewell/</link><dc:creator>mxfh</dc:creator><comments>https://news.ycombinator.com/item?id=46891794</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46891794</guid></item><item><title>The Codex app illustrates the shift left of IDEs and coding GUIs</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.benshoemaker.us/writing/codex-app-launch/"&gt;https://www.benshoemaker.us/writing/codex-app-launch/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46891131"&gt;https://news.ycombinator.com/item?id=46891131&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 66&lt;/p&gt;
+&lt;p&gt;# Comments: 138&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 20:23:54 +0000</pubDate><link>https://www.benshoemaker.us/writing/codex-app-launch/</link><dc:creator>straydusk</dc:creator><comments>https://news.ycombinator.com/item?id=46891131</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46891131</guid></item><item><title>Tell HN: Another round of Zendesk email spam</title><description>
+&lt;p&gt;Looks like there's another round of Zendesk email spam happening. I've gotten hundreds over the last half-hour.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46890418"&gt;https://news.ycombinator.com/item?id=46890418&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 76&lt;/p&gt;
+&lt;p&gt;# Comments: 32&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 19:26:08 +0000</pubDate><link>https://news.ycombinator.com/item?id=46890418</link><dc:creator>Philpax</dc:creator><comments>https://news.ycombinator.com/item?id=46890418</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46890418</guid></item><item><title>Claude Code for Infrastructure</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.fluid.sh/"&gt;https://www.fluid.sh/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46889703"&gt;https://news.ycombinator.com/item?id=46889703&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 152&lt;/p&gt;
+&lt;p&gt;# Comments: 129&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 18:34:08 +0000</pubDate><link>https://www.fluid.sh/</link><dc:creator>aspectrr</dc:creator><comments>https://news.ycombinator.com/item?id=46889703</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46889703</guid></item><item><title>Building a 24-bit arcade CRT display adapter from scratch</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.scd31.com/posts/building-an-arcade-display-adapter"&gt;https://www.scd31.com/posts/building-an-arcade-display-adapter&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46888795"&gt;https://news.ycombinator.com/item?id=46888795&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 124&lt;/p&gt;
+&lt;p&gt;# Comments: 35&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 17:35:05 +0000</pubDate><link>https://www.scd31.com/posts/building-an-arcade-display-adapter</link><dc:creator>evakhoury</dc:creator><comments>https://news.ycombinator.com/item?id=46888795</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46888795</guid></item><item><title>AI is killing B2B SaaS</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://nmn.gl/blog/ai-killing-b2b-saas"&gt;https://nmn.gl/blog/ai-killing-b2b-saas&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46888441"&gt;https://news.ycombinator.com/item?id=46888441&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 235&lt;/p&gt;
+&lt;p&gt;# Comments: 388&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 17:09:28 +0000</pubDate><link>https://nmn.gl/blog/ai-killing-b2b-saas</link><dc:creator>namanyayg</dc:creator><comments>https://news.ycombinator.com/item?id=46888441</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46888441</guid></item><item><title>Converge (YC S23) Is Hiring Product Engineers (NYC, In-Person)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.runconverge.com/careers/product-engineer"&gt;https://www.runconverge.com/careers/product-engineer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46888331"&gt;https://news.ycombinator.com/item?id=46888331&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 17:01:14 +0000</pubDate><link>https://www.runconverge.com/careers/product-engineer</link><dc:creator>thomashlvt</dc:creator><comments>https://news.ycombinator.com/item?id=46888331</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46888331</guid></item><item><title>RS-SDK: Drive RuneScape with Claude Code</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/MaxBittker/rs-sdk"&gt;https://github.com/MaxBittker/rs-sdk&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46888142"&gt;https://news.ycombinator.com/item?id=46888142&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 99&lt;/p&gt;
+&lt;p&gt;# Comments: 39&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 16:47:26 +0000</pubDate><link>https://github.com/MaxBittker/rs-sdk</link><dc:creator>evakhoury</dc:creator><comments>https://news.ycombinator.com/item?id=46888142</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46888142</guid></item><item><title>Microsoft's Copilot chatbot is running into problems</title><description>
+&lt;p&gt;Gift link: &lt;a href="https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28?st=V8rLES&amp;reflink=desktopwebshare_permalink" rel="nofollow"&gt;https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46887564"&gt;https://news.ycombinator.com/item?id=46887564&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 135&lt;/p&gt;
+&lt;p&gt;# Comments: 158&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 16:08:55 +0000</pubDate><link>https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28</link><dc:creator>fortran77</dc:creator><comments>https://news.ycombinator.com/item?id=46887564</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46887564</guid></item><item><title>Arcan-A12: Weaving a Different Web</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.divergent-desktop.org/blog/2026/01/26/a12web/"&gt;https://www.divergent-desktop.org/blog/2026/01/26/a12web/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46887326"&gt;https://news.ycombinator.com/item?id=46887326&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 51&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 15:50:50 +0000</pubDate><link>https://www.divergent-desktop.org/blog/2026/01/26/a12web/</link><dc:creator>ingenieroariel</dc:creator><comments>https://news.ycombinator.com/item?id=46887326</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46887326</guid></item><item><title>Voxtral Transcribe 2</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://mistral.ai/news/voxtral-transcribe-2"&gt;https://mistral.ai/news/voxtral-transcribe-2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46886735"&gt;https://news.ycombinator.com/item?id=46886735&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 745&lt;/p&gt;
+&lt;p&gt;# Comments: 175&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 15:08:17 +0000</pubDate><link>https://mistral.ai/news/voxtral-transcribe-2</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=46886735</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46886735</guid></item><item><title>Attention at Constant Cost per Token via Symmetry-Aware Taylor Approximation</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arxiv.org/abs/2602.00294"&gt;https://arxiv.org/abs/2602.00294&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46886265"&gt;https://news.ycombinator.com/item?id=46886265&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 154&lt;/p&gt;
+&lt;p&gt;# Comments: 84&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 14:33:33 +0000</pubDate><link>https://arxiv.org/abs/2602.00294</link><dc:creator>fheinsen</dc:creator><comments>https://news.ycombinator.com/item?id=46886265</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46886265</guid></item><item><title>Guinea worm on track to be 2nd eradicated human disease; only 10 cases in 2025</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/"&gt;https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46886191"&gt;https://news.ycombinator.com/item?id=46886191&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 266&lt;/p&gt;
+&lt;p&gt;# Comments: 120&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 14:27:05 +0000</pubDate><link>https://arstechnica.com/health/2026/02/guinea-worm-on-track-to-be-2nd-eradicated-human-disease-only-10-cases-in-2025/</link><dc:creator>bookofjoe</dc:creator><comments>https://news.ycombinator.com/item?id=46886191</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46886191</guid></item><item><title>Claude is a space to think</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.anthropic.com/news/claude-is-a-space-to-think"&gt;https://www.anthropic.com/news/claude-is-a-space-to-think&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46884883"&gt;https://news.ycombinator.com/item?id=46884883&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 372&lt;/p&gt;
+&lt;p&gt;# Comments: 200&lt;/p&gt;
+</description><pubDate>Wed, 04 Feb 2026 12:08:49 +0000</pubDate><link>https://www.anthropic.com/news/claude-is-a-space-to-think</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=46884883</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46884883</guid></item></channel></rss>
