@@ -1,0 +1,113 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Fri, 06 Feb 2026 02:23:24 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>Bitcoin gets a zero price target in wake of Burry warning</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero"&gt;https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46907794"&gt;https://news.ycombinator.com/item?id=46907794&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 18&lt;/p&gt;
+&lt;p&gt;# Comments: 5&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 01:19:31 +0000</pubDate><link>https://seekingalpha.com/news/4547997-bitcoin-s-price-target-at-zero</link><dc:creator>hn_acker</dc:creator><comments>https://news.ycombinator.com/item?id=46907794</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46907794</guid></item><item><title>C isn't a programming language anymore (2022)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://faultlore.com/blah/c-isnt-a-language/"&gt;https://faultlore.com/blah/c-isnt-a-language/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46907350"&gt;https://news.ycombinator.com/item?id=46907350&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 20&lt;/p&gt;
+&lt;p&gt;# Comments: 21&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 00:15:55 +0000</pubDate><link>https://faultlore.com/blah/c-isnt-a-language/</link><dc:creator>stickynotememo</dc:creator><comments>https://news.ycombinator.com/item?id=46907350</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46907350</guid></item><item><title>Show HN: Local task classifier and dispatcher on RTX 3080</title><description>
+&lt;p&gt;Hi HN, I am shubham a 3d artist who learned coding in college as an I.T.  graduate know logics but not an expert as i just wanna try my hands on to ai&lt;p&gt;So i built Resilient Workflow Sentinel this is offline ai agent which classify urgency (Low,Medium and HIgh) and dispatches to the candidates based on availability 
+Well i want an offline system like a person can trust with its sensitive data to stay completely locally&lt;p&gt;Did use ai to code for speeding and cutting labor.&lt;p&gt;Its works on RTX 3080 system (this is an basic affordable setup not heavy ai machinery) which i want it to make it reliable without heavy upgrade
+This is full system doesn't require ollama(I am not against it)&lt;p&gt;I see in companies tickets are raised on jira and slack. Currently people or manager (self) have to sort those things either manually read one by one or send them to the cloud. But the issue is you can't send everything like there is a lot of sensitive data out there which they do not trust and makes it harder and manual sorting through thousands is likely a nightmare.&lt;p&gt;But then just imagine u get all the task classified like its urgency and distribution u can selectively see which task is urgent and needs immediate attention and last of all information doesn't leave your building totally secure
+Also Api sending is not the only issue u are paying per token cost for task for each may be monthly 100$ to 1000$ which can like save hassle for startup a lot or companies as well&lt;p&gt;There was several biases like positional bias also json out put bias also have issues in attention 
+At start i tried just prompting things like Chain of thoughts,RISE(evaluate negative first), given negative examples,Positive examples, somewhere it was struggling with commonsense issue so examples for that (Later changed the approach)&lt;p&gt;Well prompting did give the output and worked well but took too much time to process for single task like 70 to 90secs for a task&lt;p&gt;Then i tried batching and the biases got worst like it got stronger it always use to like favour alice also more prompts are like ignored and more&lt;p&gt;For json output i used constrain so model can only generate json and if fails there is a as well parser i used when i implemented prompting only&lt;p&gt;This reduce time from 90sec to nearly 15 to 30secs per task
+I used steering vector to correct the attention i seen issues happening&lt;p&gt;Stack:
+Language: Python 3.10
+Model: qwen2.5-7b-instruct
+Libraries: Pytorch, Hugging Face Transformers (No Langchain, No Ollama)
+API: Fast API
+UI: NiceGUI
+Hardware: Ryzen 5, 16Gb ram RTX 3080&lt;p&gt;Implementation:&lt;p&gt;Quantization: Load model in nf4 quantization so models like 7b can fit on vram of 10gb which is on rtx 3080 also my hardware&lt;p&gt;Steering Vectors: Standard prompting wasn't enough. I need to block or direct certain things on a certain layer of llm to make it reliable.&lt;p&gt;Json Constraints: Used constraint to make model strictly give json and also stop from over explanation this happens at logits level where token are blocked which are not required etc&lt;p&gt;github : &lt;a href="https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel" rel="nofollow"&gt;https://github.com/resilientworkflowsentinel/resilient-workf...&lt;/a&gt;&lt;p&gt;Youtube: &lt;a href="https://youtu.be/tky3eURLzWo" rel="nofollow"&gt;https://youtu.be/tky3eURLzWo&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46906967"&gt;https://news.ycombinator.com/item?id=46906967&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 5&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 23:31:01 +0000</pubDate><link>https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel</link><dc:creator>Shubham_Amb</dc:creator><comments>https://news.ycombinator.com/item?id=46906967</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46906967</guid></item><item><title>The RCE that AMD won't fix</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://mrbruh.com/amd/"&gt;https://mrbruh.com/amd/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46906947"&gt;https://news.ycombinator.com/item?id=46906947&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 44&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 23:29:18 +0000</pubDate><link>https://mrbruh.com/amd/</link><dc:creator>MrBruh</dc:creator><comments>https://news.ycombinator.com/item?id=46906947</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46906947</guid></item><item><title>What if writing tests was a joyful experience? (2023)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://blog.janestreet.com/the-joy-of-expect-tests/"&gt;https://blog.janestreet.com/the-joy-of-expect-tests/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46905896"&gt;https://news.ycombinator.com/item?id=46905896&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 29&lt;/p&gt;
+&lt;p&gt;# Comments: 11&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 21:51:51 +0000</pubDate><link>https://blog.janestreet.com/the-joy-of-expect-tests/</link><dc:creator>ryanhn</dc:creator><comments>https://news.ycombinator.com/item?id=46905896</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46905896</guid></item><item><title>Review of 1984 by Isaac Asimov (1980)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.newworker.org/ncptrory/1984.htm"&gt;https://www.newworker.org/ncptrory/1984.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46905761"&gt;https://news.ycombinator.com/item?id=46905761&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 86&lt;/p&gt;
+&lt;p&gt;# Comments: 36&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 21:39:57 +0000</pubDate><link>https://www.newworker.org/ncptrory/1984.htm</link><dc:creator>doruk101</dc:creator><comments>https://news.ycombinator.com/item?id=46905761</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46905761</guid></item><item><title>It's 2026, Just Use Postgres</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.tigerdata.com/blog/its-2026-just-use-postgres"&gt;https://www.tigerdata.com/blog/its-2026-just-use-postgres&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46905555"&gt;https://news.ycombinator.com/item?id=46905555&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 391&lt;/p&gt;
+&lt;p&gt;# Comments: 209&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 21:24:03 +0000</pubDate><link>https://www.tigerdata.com/blog/its-2026-just-use-postgres</link><dc:creator>turtles3</dc:creator><comments>https://news.ycombinator.com/item?id=46905555</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46905555</guid></item><item><title>Claude Opus 4.6 extra usage promo</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo"&gt;https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46904569"&gt;https://news.ycombinator.com/item?id=46904569&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 107&lt;/p&gt;
+&lt;p&gt;# Comments: 29&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 20:15:48 +0000</pubDate><link>https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo</link><dc:creator>rob</dc:creator><comments>https://news.ycombinator.com/item?id=46904569</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46904569</guid></item><item><title>LinkedIn checks for 2953 browser extensions</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/mdp/linkedin-extension-fingerprinting"&gt;https://github.com/mdp/linkedin-extension-fingerprinting&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46904361"&gt;https://news.ycombinator.com/item?id=46904361&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 293&lt;/p&gt;
+&lt;p&gt;# Comments: 142&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 20:00:39 +0000</pubDate><link>https://github.com/mdp/linkedin-extension-fingerprinting</link><dc:creator>mdp</dc:creator><comments>https://news.ycombinator.com/item?id=46904361</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46904361</guid></item><item><title>We tasked Opus 4.6 using agent teams to build a C Compiler</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.anthropic.com/engineering/building-c-compiler"&gt;https://www.anthropic.com/engineering/building-c-compiler&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46903616"&gt;https://news.ycombinator.com/item?id=46903616&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 382&lt;/p&gt;
+&lt;p&gt;# Comments: 358&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 19:07:51 +0000</pubDate><link>https://www.anthropic.com/engineering/building-c-compiler</link><dc:creator>modeless</dc:creator><comments>https://news.ycombinator.com/item?id=46903616</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46903616</guid></item><item><title>My AI Adoption Journey</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://mitchellh.com/writing/my-ai-adoption-journey"&gt;https://mitchellh.com/writing/my-ai-adoption-journey&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46903558"&gt;https://news.ycombinator.com/item?id=46903558&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 337&lt;/p&gt;
+&lt;p&gt;# Comments: 87&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 19:04:40 +0000</pubDate><link>https://mitchellh.com/writing/my-ai-adoption-journey</link><dc:creator>anurag</dc:creator><comments>https://news.ycombinator.com/item?id=46903558</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46903558</guid></item><item><title>Flock CEO calls Deflock a “terrorist organization” (2025) [video]</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.youtube.com/watch?v=l-kZGrDz7PU"&gt;https://www.youtube.com/watch?v=l-kZGrDz7PU&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46903556"&gt;https://news.ycombinator.com/item?id=46903556&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 477&lt;/p&gt;
+&lt;p&gt;# Comments: 321&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 19:04:37 +0000</pubDate><link>https://www.youtube.com/watch?v=l-kZGrDz7PU</link><dc:creator>cdrnsf</dc:creator><comments>https://news.ycombinator.com/item?id=46903556</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46903556</guid></item><item><title>Ardour 9.0</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://ardour.org/whatsnew.html"&gt;https://ardour.org/whatsnew.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46903001"&gt;https://news.ycombinator.com/item?id=46903001&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 241&lt;/p&gt;
+&lt;p&gt;# Comments: 51&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 18:30:16 +0000</pubDate><link>https://ardour.org/whatsnew.html</link><dc:creator>PaulDavisThe1st</dc:creator><comments>https://news.ycombinator.com/item?id=46903001</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46903001</guid></item><item><title>PsiACE/Skills – A small, shared skill library</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/PsiACE/skills"&gt;https://github.com/PsiACE/skills&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46902789"&gt;https://news.ycombinator.com/item?id=46902789&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 46&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 18:17:14 +0000</pubDate><link>https://github.com/PsiACE/skills</link><dc:creator>recrush</dc:creator><comments>https://news.ycombinator.com/item?id=46902789</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46902789</guid></item><item><title>GPT-5.3-Codex</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://openai.com/index/introducing-gpt-5-3-codex/"&gt;https://openai.com/index/introducing-gpt-5-3-codex/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46902638"&gt;https://news.ycombinator.com/item?id=46902638&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 1049&lt;/p&gt;
+&lt;p&gt;# Comments: 401&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 18:08:08 +0000</pubDate><link>https://openai.com/index/introducing-gpt-5-3-codex/</link><dc:creator>meetpateltech</dc:creator><comments>https://news.ycombinator.com/item?id=46902638</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46902638</guid></item><item><title>Orchestrate teams of Claude Code sessions</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://code.claude.com/docs/en/agent-teams"&gt;https://code.claude.com/docs/en/agent-teams&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46902368"&gt;https://news.ycombinator.com/item?id=46902368&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 310&lt;/p&gt;
+&lt;p&gt;# Comments: 171&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 17:49:54 +0000</pubDate><link>https://code.claude.com/docs/en/agent-teams</link><dc:creator>davidbarker</dc:creator><comments>https://news.ycombinator.com/item?id=46902368</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46902368</guid></item><item><title>Claude Opus 4.6</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.anthropic.com/news/claude-opus-4-6"&gt;https://www.anthropic.com/news/claude-opus-4-6&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46902223"&gt;https://news.ycombinator.com/item?id=46902223&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 1585&lt;/p&gt;
+&lt;p&gt;# Comments: 672&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 17:38:53 +0000</pubDate><link>https://www.anthropic.com/news/claude-opus-4-6</link><dc:creator>HellsMaddy</dc:creator><comments>https://news.ycombinator.com/item?id=46902223</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46902223</guid></item><item><title>Maihem (YC W24): hiring senior robotics perception engineer (London, on-site)</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758"&gt;https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46901768"&gt;https://news.ycombinator.com/item?id=46901768&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 17:00:07 +0000</pubDate><link>https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758</link><dc:creator>mxrns</dc:creator><comments>https://news.ycombinator.com/item?id=46901768</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46901768</guid></item><item><title>Freshpaint (YC S19) Is Hiring a Senior SWE, Data</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761"&gt;https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46898713"&gt;https://news.ycombinator.com/item?id=46898713&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 0&lt;/p&gt;
+&lt;p&gt;# Comments: 0&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 12:00:03 +0000</pubDate><link>https://www.freshpaint.io/about?ashby_jid=3a7926ba-cf51-4084-9196-4361a7e97761</link><dc:creator>malisper</dc:creator><comments>https://news.ycombinator.com/item?id=46898713</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46898713</guid></item><item><title>Nanobot: Ultra-Lightweight Alternative to OpenClaw</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/HKUDS/nanobot"&gt;https://github.com/HKUDS/nanobot&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46897737"&gt;https://news.ycombinator.com/item?id=46897737&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 217&lt;/p&gt;
+&lt;p&gt;# Comments: 111&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 09:39:11 +0000</pubDate><link>https://github.com/HKUDS/nanobot</link><dc:creator>ms7892</dc:creator><comments>https://news.ycombinator.com/item?id=46897737</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46897737</guid></item></channel></rss>
