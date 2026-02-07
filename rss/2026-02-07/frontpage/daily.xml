@@ -1,0 +1,111 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Hacker News: Front Page</title><link>https://news.ycombinator.com/</link><description>Hacker News RSS</description><docs>https://hnrss.org/</docs><generator>hnrss v2.1.1</generator><lastBuildDate>Sat, 07 Feb 2026 02:28:49 +0000</lastBuildDate><ns0:link href="https://hnrss.org/frontpage" rel="self" type="application/rss+xml" /><item><title>I'm going to cure my girlfriend's brain tumor</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain"&gt;https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46920248"&gt;https://news.ycombinator.com/item?id=46920248&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 23&lt;/p&gt;
+&lt;p&gt;# Comments: 4&lt;/p&gt;
+</description><pubDate>Sat, 07 Feb 2026 01:05:59 +0000</pubDate><link>https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain</link><dc:creator>ray__</dc:creator><comments>https://news.ycombinator.com/item?id=46920248</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46920248</guid></item><item><title>Show HN: R3forth, a ColorForth-inspired language with a tiny VM</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/phreda4/r3"&gt;https://github.com/phreda4/r3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46918824"&gt;https://news.ycombinator.com/item?id=46918824&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 42&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 22:10:13 +0000</pubDate><link>https://github.com/phreda4/r3</link><dc:creator>phreda4</dc:creator><comments>https://news.ycombinator.com/item?id=46918824</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46918824</guid></item><item><title>OpenCiv3: Open-source, cross-platform reimagining of Civilization III</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://openciv3.org/"&gt;https://openciv3.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46918612"&gt;https://news.ycombinator.com/item?id=46918612&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 371&lt;/p&gt;
+&lt;p&gt;# Comments: 77&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 21:51:23 +0000</pubDate><link>https://openciv3.org/</link><dc:creator>klaussilveira</dc:creator><comments>https://news.ycombinator.com/item?id=46918612</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46918612</guid></item><item><title>Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox</title><description>
+&lt;p&gt;Example repo: &lt;a href="https://github.com/valdanylchuk/breezydemo" rel="nofollow"&gt;https://github.com/valdanylchuk/breezydemo&lt;/a&gt;&lt;p&gt;The underlying ESP-IDF component: &lt;a href="https://github.com/valdanylchuk/breezybox" rel="nofollow"&gt;https://github.com/valdanylchuk/breezybox&lt;/a&gt;&lt;p&gt;It is something like Raspberry Pi, but without the overhead of a full server-grade OS.&lt;p&gt;It captures a lot of the old school DOS era coding experience. I created a custom fast text mode driver, plan to add VGA-like graphics next. ANSI text demos run smooth, as you can see in the demo video featured in the Readme.&lt;p&gt;App installs also work smoothly. The first time it installed 6 apps from my git repo with one command, felt like, "OMG, I got homebrew to run on a toaster!" And best of all, it can install from any repo, no approvals or waiting, you just publish a compatible ELF file in your release.&lt;p&gt;Coverage:&lt;p&gt;Hackaday: &lt;a href="https://hackaday.com/2026/02/06/breezybox-a-busybox-like-shell-and-virtual-terminal-for-esp32/" rel="nofollow"&gt;https://hackaday.com/2026/02/06/breezybox-a-busybox-like-she...&lt;/a&gt;&lt;p&gt;Hackster.io: &lt;a href="https://www.hackster.io/news/valentyn-danylchuk-s-breezybox-turns-an-espressif-esp32-s3-into-a-tiny-instant-on-pc-3d3135050df1" rel="nofollow"&gt;https://www.hackster.io/news/valentyn-danylchuk-s-breezybox-...&lt;/a&gt;&lt;p&gt;Reddit: &lt;a href="https://www.reddit.com/r/esp32/comments/1qq503c/i_made_an_instanton_tiny_pc_based_on_esp32s3_with/" rel="nofollow"&gt;https://www.reddit.com/r/esp32/comments/1qq503c/i_made_an_in...&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46918429"&gt;https://news.ycombinator.com/item?id=46918429&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 129&lt;/p&gt;
+&lt;p&gt;# Comments: 13&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 21:33:11 +0000</pubDate><link>https://github.com/valdanylchuk/breezydemo</link><dc:creator>isitcontent</dc:creator><comments>https://news.ycombinator.com/item?id=46918429</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46918429</guid></item><item><title>Monty: A minimal, secure Python interpreter written in Rust for use by AI</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/pydantic/monty"&gt;https://github.com/pydantic/monty&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46918254"&gt;https://news.ycombinator.com/item?id=46918254&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 104&lt;/p&gt;
+&lt;p&gt;# Comments: 49&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 21:16:36 +0000</pubDate><link>https://github.com/pydantic/monty</link><dc:creator>dmpetrov</dc:creator><comments>https://news.ycombinator.com/item?id=46918254</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46918254</guid></item><item><title>Masked namespace vulnerability in Temporal</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986"&gt;https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46917477"&gt;https://news.ycombinator.com/item?id=46917477&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 29&lt;/p&gt;
+&lt;p&gt;# Comments: 3&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 20:04:55 +0000</pubDate><link>https://depthfirst.com/post/the-masked-namespace-vulnerability-in-temporal-cve-2025-14986</link><dc:creator>bmit</dc:creator><comments>https://news.ycombinator.com/item?id=46917477</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46917477</guid></item><item><title>Show HN: I spent 4 years building a UI design tool with only the features I use</title><description>
+&lt;p&gt;Hello everyone!&lt;p&gt;I'm a solo developer who's been doing UI/UX work since 2007. Over the years, I watched design tools evolve from lightweight products into bloated feature-heavy platforms. I kept finding myself using a small amount of the features while the rest just mostly got in the way.&lt;p&gt;So a few years ago I set out to build a design tool just like I wanted. So I built Vecti with what I actually need: pixel-perfect grid snapping, a performant canvas renderer, shared asset libraries, and export/presentation features. No collaborative whiteboarding. No plugin ecosystem. No enterprise features. Just the design loop.&lt;p&gt;Four years later, I can proudly show it off. Built and hosted in the EU with European privacy regulations. Free tier available (no credit card, one editor forever).&lt;p&gt;On privacy: I use some basic analytics (page views, referrers) but zero tracking inside the app itself. No session recordings, no behavior analytics, no third-party scripts beyond the essentials.&lt;p&gt;If you're a solo designer or small team who wants a tool that stays out of your way, I'd genuinely appreciate your feedback:
+&lt;a href="https://vecti.com" rel="nofollow"&gt;https://vecti.com&lt;/a&gt;&lt;p&gt;Happy to answer questions about the tech stack, architecture decisions, why certain features didn't make the cut, or what's next.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46917033"&gt;https://news.ycombinator.com/item?id=46917033&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 232&lt;/p&gt;
+&lt;p&gt;# Comments: 108&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 19:27:37 +0000</pubDate><link>https://vecti.com</link><dc:creator>vecti</dc:creator><comments>https://news.ycombinator.com/item?id=46917033</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46917033</guid></item><item><title>Show HN: If you lose your memory, how to regain access to your computer?</title><description>
+&lt;p&gt;Due to bike-induced concussions, I've been worried for a while about losing my memory and not being able to log back in.&lt;p&gt;I combined shamir secret sharing (hashicorp vault's implementation) with age-encryption, and packaged it using WASM for a neat in-browser offline UX.&lt;p&gt;The idea is that if something happens to me, my friends and family would help me get back access to the data that matters most to me. 5 out of 7 friends need to agree for the vault to unlock.&lt;p&gt;Try out the demo in the website, it runs entirely in your browser!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46916609"&gt;https://news.ycombinator.com/item?id=46916609&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 151&lt;/p&gt;
+&lt;p&gt;# Comments: 117&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 18:51:58 +0000</pubDate><link>https://eljojo.github.io/rememory/</link><dc:creator>eljojo</dc:creator><comments>https://news.ycombinator.com/item?id=46916609</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46916609</guid></item><item><title>How to effectively write quality code with AI</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/"&gt;https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46916586"&gt;https://news.ycombinator.com/item?id=46916586&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 165&lt;/p&gt;
+&lt;p&gt;# Comments: 120&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 18:49:59 +0000</pubDate><link>https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/</link><dc:creator>i5heu</dc:creator><comments>https://news.ycombinator.com/item?id=46916586</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46916586</guid></item><item><title>I spent 5 years in DevOps – Solutions engineering gave me what I was missing</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://infisical.com/blog/devops-to-solutions-engineering"&gt;https://infisical.com/blog/devops-to-solutions-engineering&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46915102"&gt;https://news.ycombinator.com/item?id=46915102&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 98&lt;/p&gt;
+&lt;p&gt;# Comments: 32&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 16:45:47 +0000</pubDate><link>https://infisical.com/blog/devops-to-solutions-engineering</link><dc:creator>vmatsiiako</dc:creator><comments>https://news.ycombinator.com/item?id=46915102</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46915102</guid></item><item><title>The Waymo World Model</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation"&gt;https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46914785"&gt;https://news.ycombinator.com/item?id=46914785&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 737&lt;/p&gt;
+&lt;p&gt;# Comments: 452&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 16:20:42 +0000</pubDate><link>https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation</link><dc:creator>xnx</dc:creator><comments>https://news.ycombinator.com/item?id=46914785</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46914785</guid></item><item><title>Sheldon Brown's Bicycle Technical Info</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.sheldonbrown.com/"&gt;https://www.sheldonbrown.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46914159"&gt;https://news.ycombinator.com/item?id=46914159&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 301&lt;/p&gt;
+&lt;p&gt;# Comments: 80&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 15:40:42 +0000</pubDate><link>https://www.sheldonbrown.com/</link><dc:creator>ostacke</dc:creator><comments>https://news.ycombinator.com/item?id=46914159</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46914159</guid></item><item><title>An Update on Heroku</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.heroku.com/blog/an-update-on-heroku/"&gt;https://www.heroku.com/blog/an-update-on-heroku/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46913903"&gt;https://news.ycombinator.com/item?id=46913903&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 299&lt;/p&gt;
+&lt;p&gt;# Comments: 222&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 15:20:23 +0000</pubDate><link>https://www.heroku.com/blog/an-update-on-heroku/</link><dc:creator>lstoll</dc:creator><comments>https://news.ycombinator.com/item?id=46913903</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46913903</guid></item><item><title>Microsoft open-sources LiteBox, a security-focused library OS</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://github.com/microsoft/litebox"&gt;https://github.com/microsoft/litebox&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46913793"&gt;https://news.ycombinator.com/item?id=46913793&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 300&lt;/p&gt;
+&lt;p&gt;# Comments: 148&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 15:13:04 +0000</pubDate><link>https://github.com/microsoft/litebox</link><dc:creator>aktau</dc:creator><comments>https://news.ycombinator.com/item?id=46913793</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46913793</guid></item><item><title>How virtual textures work</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://www.shlom.dev/articles/how-virtual-textures-really-work/"&gt;https://www.shlom.dev/articles/how-virtual-textures-really-work/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46913285"&gt;https://news.ycombinator.com/item?id=46913285&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 22&lt;/p&gt;
+&lt;p&gt;# Comments: 22&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 14:32:05 +0000</pubDate><link>https://www.shlom.dev/articles/how-virtual-textures-really-work/</link><dc:creator>betamark</dc:creator><comments>https://news.ycombinator.com/item?id=46913285</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46913285</guid></item><item><title>FORTH? Really!?</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://rescrv.net/w/2026/02/06/associative"&gt;https://rescrv.net/w/2026/02/06/associative&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46912843"&gt;https://news.ycombinator.com/item?id=46912843&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 32&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 13:54:09 +0000</pubDate><link>https://rescrv.net/w/2026/02/06/associative</link><dc:creator>rescrv</dc:creator><comments>https://news.ycombinator.com/item?id=46912843</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46912843</guid></item><item><title>Hackers (1995) Animated Experience</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://hackers-1995.vercel.app/"&gt;https://hackers-1995.vercel.app/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46912800"&gt;https://news.ycombinator.com/item?id=46912800&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 370&lt;/p&gt;
+&lt;p&gt;# Comments: 214&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 13:49:55 +0000</pubDate><link>https://hackers-1995.vercel.app/</link><dc:creator>todsacerdoti</dc:creator><comments>https://news.ycombinator.com/item?id=46912800</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46912800</guid></item><item><title>I now assume that all ads on Apple news are scams</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/"&gt;https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46911901"&gt;https://news.ycombinator.com/item?id=46911901&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 949&lt;/p&gt;
+&lt;p&gt;# Comments: 409&lt;/p&gt;
+</description><pubDate>Fri, 06 Feb 2026 12:16:43 +0000</pubDate><link>https://kirkville.com/i-now-assume-that-all-ads-on-apple-news-are-scams/</link><dc:creator>cdrnsf</dc:creator><comments>https://news.ycombinator.com/item?id=46911901</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46911901</guid></item><item><title>Show HN: Slack CLI for Agents</title><description>
+&lt;p&gt;Our team lives in Slack, but we don’t have access to the Slack MCP and couldn’t find anything out there that worked for us, so we coded our own agent-slack CLI&lt;p&gt;&lt;pre&gt;&lt;code&gt;  * Can paste in Slack URLs
+  * Token efficient
+  * Zero-config (auto auth if you use Slack Desktop)
+&lt;/code&gt;&lt;/pre&gt;
+Auto downloads files/snippets.
+Also can read Slack canvases as markdown!&lt;p&gt;MIT License&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46905745"&gt;https://news.ycombinator.com/item?id=46905745&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 36&lt;/p&gt;
+&lt;p&gt;# Comments: 7&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 21:38:51 +0000</pubDate><link>https://github.com/stablyai/agent-slack</link><dc:creator>nwparker</dc:creator><comments>https://news.ycombinator.com/item?id=46905745</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46905745</guid></item><item><title>Evaluating and mitigating the growing risk of LLM-discovered 0-days</title><description>
+&lt;p&gt;Article URL: &lt;a href="https://red.anthropic.com/2026/zero-days/"&gt;https://red.anthropic.com/2026/zero-days/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=46902374"&gt;https://news.ycombinator.com/item?id=46902374&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 31&lt;/p&gt;
+&lt;p&gt;# Comments: 10&lt;/p&gt;
+</description><pubDate>Thu, 05 Feb 2026 17:50:37 +0000</pubDate><link>https://red.anthropic.com/2026/zero-days/</link><dc:creator>lebovic</dc:creator><comments>https://news.ycombinator.com/item?id=46902374</comments><guid isPermaLink="false">https://news.ycombinator.com/item?id=46902374</guid></item></channel></rss>
